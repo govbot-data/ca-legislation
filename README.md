@@ -1,4 +1,4 @@
-# 🏛️ ca legislation file tree
+# 🏛️ California legislation file tree
 
 Download a copy of your states legislation.
 
