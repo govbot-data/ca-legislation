@@ -1,22 +1,27 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB1493",
-  "title": "Charter schools: performance standards for renewal.",
+  "title": "School district and community college district governing boards: vacancy elections.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Charterschools",
-    "performancestandardsforrenewal"
+    "Schooldistrictandcommunitycollegedistrictgoverningboards",
+    "vacancyelections"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "The Charter Schools Act of 1992 authorizes the establishment and operation of charter schools. Existing law sets out performance standards and procedures for the renewal of the charter of an existing charter school based on the charter school's performance level as determined by data reported on the California School Dashboard, with specific requirements for renewal applicable to 3 specified tiers of performance for those charter schools.\n\nExisting law, until January 1, 2026, requires a chartering authority, in its renewal decision for the 2 lower performing tiers of charter schools, to also consider whether the charter school has shown measurable increases in academic achievement or strong postsecondary outcomes, as demonstrated by verified data, as defined. Existing law requires the State Board of Education, on or before January 1, 2021, to establish criteria to define verified data and identify an approved list of valid and reliable assessments to be used for this purpose. Existing law requires a chartering authority, after January 1, 2026, to use only the data reported on the dashboard in making a renewal decision.\n\nThis bill would require a chartering authority, in its renewal decision for the 2 lower performing tiers of charter schools, to instead consider increases in academic achievement or strong postsecondary outcomes until the student-level growth model for English language arts and mathematics, adopted by the state board, is fully implemented as to provide the 2 years of data necessary for purposes of charter school renewal. To the extent the bill would impose additional duties on local educational agencies acting as chartering authorities, the bill would impose a state-mandated local program.\n\nThis bill would make conforming changes relating to these provisions.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+      "abstract": "Under existing law, whenever a school district or community college district vacancy occurs, or if a resignation has been filed with the county superintendent of schools creating a deferred effective date, the school district or community college district governing board is required, within 60 days of the vacancy or the filing of the deferred resignation, either to order an election or to make a provisional appointment. Existing law requires a person appointed to a fill a vacancy to hold office only until the next regularly scheduled election for district governing board members that is scheduled 130 or more days after the effective date of the vacancy. If a provisional appointment is made, existing law authorizes the registered voters of the district, within 30 days of the appointment, to petition for a special election to fill the vacancy. Existing law requires that a special election be called if specified signature thresholds are met.\n\nExisting law requires the county superintendent of schools, upon finding that the petition is legally sufficient, to terminate the provisional appointment and order a special election to be conducted not less than 88, nor more than 125, days following the order of the election, except that the election is authorized to be conducted within 180 days after the issuance of the order so that the election may be consolidated with a regularly scheduled election, as provided.\n\nThis bill instead would require the county superintendent of schools, upon finding that the petition is legally sufficient, to order that a special election be consolidated with the next regularly scheduled election if that election is scheduled not fewer than 88 days following the order of the election. The bill would authorize the provisional appointee to remain in office until the special election result is certified. The bill would require the provisional appointee to hold office only until the next regularly scheduled election for district governing board members that is scheduled 130 or more days after the effective date of the vacancy. To the extent that the bill would impose additional duties on local agencies or officials, the bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Charter schools: performance standards for renewal."
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -113,6 +118,21 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:14Z"
       }
+    },
+    {
+      "description": "From committee chair, with author's amendments: Amend, and re-refer to Com. on ED. Read second time and amended.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -159,6 +179,17 @@
       ],
       "date": "2025-03-24",
       "classification": ""
+    },
+    {
+      "note": "01/05/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1493&version=20250AB149397AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-05",
+      "classification": ""
     }
   ],
   "documents": [
@@ -172,6 +203,17 @@
       ],
       "date": "2025-04-28",
       "classification": "analysis"
+    },
+    {
+      "note": "01/05/26- Assembly Education",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1493&analysisId=393747&analyzingOffice=Assembly+Education",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-05",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -182,7 +224,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend and repeal Section 47607.2 of the Education Code, relating to charter schools.",
+    "impact_clause": "An act to amend Section 5091 of the Education Code, relating to school district and community college district elections.",
     "tags": [
       "fiscal committee",
       "local program"
@@ -195,6 +237,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:14Z"
+    "logs_latest_update": "2026-01-06T12:58:57Z"
   }
 }

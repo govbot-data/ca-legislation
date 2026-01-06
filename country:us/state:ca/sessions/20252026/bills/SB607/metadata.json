@@ -1,28 +1,33 @@
 {
   "legislative_session": "20252026",
   "identifier": "SB607",
-  "title": "California Science and Health Research Bond Act.",
+  "title": "University of California: California Institutes for Science and Innovation.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "CaliforniaScienceandHealthResearchBondAct"
+    "CaliforniaInstitutesforScienceandInnovation",
+    "UniversityofCalifornia"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law establishes various grant and loan programs for research, including, among others, the California Institute for Regenerative Medicine, California Firefighter Cancer Prevention and Research Program, and the Public Interest Research, Development, and Demonstration Program.\n\nThis bill would establish the California Foundation for Science and Health Research within the Government Operations Agency. The bill would create the California Foundation for Science and Health Research Fund, upon appropriation by the Legislature, and require the moneys in the fund to be used by the foundation to award grants and make loans to public or private research companies, universities, institutes, and organizations for scientific research and development, in specific areas of research, including, but not limited to, biomedical, behavioral, and climate research.\n\nThis bill would create the California Foundation for Science and Health Research Council, as specified. The bill would require the council to, among other things, develop the strategic objectives and priorities of the foundation and determine the research projects that will be funded by the California Foundation for Science and Health Research Fund, as specified. The bill would require a majority vote by the appointed members for the council for the approval of funding for any research project or proposal presented for funding. The bill would authorize the council to establish one or more scientific peer review panels consisting of experts in specified fields of research for the purposes of reviewing and prioritizing proposals on the basis of the track record of the investigators, scientific merit of the proposal, and potential benefit to the health and well-being of the population, natural resources, and environment of the state.\n\nThis bill would require all research and development funded by the California Foundation for Science and Health Research Fund to be conducted under established standards of open scientific exchange, peer review, and public oversight. The bill would require the funds to be awarded on the basis of the research priorities established for the foundation by the council and the scientific merit of the proposed research, as determined by an open, competitive, scientific peer review process that ensures objectivity, consistency, and high quality.\n\nThis bill would enact the California Science and Health Research Bond Act, which, if approved by the voters, would authorize the issuance of bonds in the amount of $23,000,000,000, pursuant to the State General Obligation Bond Law, to finance grants and loans to fund research and construct, operate, and maintain facilities for research.\n\nThe bill would provide for the submission of the bond act to the voters at the next statewide general election.\n\nExisting constitutional provisions require that a statute that limits the right of access to the meetings of public bodies or the writings of public officials and agencies be adopted with findings demonstrating the interest protected by the limitation and the need for protecting that interest.\n\nThis bill would make legislative findings to that effect."
+      "abstract": "Existing law authorizes the Regents of the University of California to establish 4 California Institutes for Science and Innovation at separate campuses of the University of California for specified purposes. Existing law authorizes the concentration of each institute to include, among other concentrations, medicine, bioengineering, or space.\n\nThis bill would explicitly authorize the concentration of an institute to include artificial intelligence."
     }
   ],
   "other_titles": [
     {
       "note": "",
-      "title": "California Environmental Quality Act: categorical exemptions: infill projects."
+      "title": "California Science and Health Research Bond Act."
     },
     {
       "note": "",
       "title": "California Environmental Quality Act:Infrastructure Projects."
+    },
+    {
+      "note": "",
+      "title": "California Environmental Quality Act: categorical exemptions: infill projects."
     }
   ],
   "other_identifiers": [],
@@ -346,6 +351,46 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:07Z"
       }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on ED.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on ED.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -355,14 +400,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Wiener\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Solache",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Solache\"}",
       "organization_id": null
     }
   ],
@@ -444,6 +481,17 @@
       ],
       "date": "2025-09-12",
       "classification": ""
+    },
+    {
+      "note": "01/05/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB607&version=20250SB60793AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-05",
+      "classification": ""
     }
   ],
   "documents": [
@@ -511,10 +559,8 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to add Chapter 12 (commencing with Section 11899) to Part 1 of Division 3 of Title 2 of the Government Code,  relating to the California Science and Health Research Bond Act, by providing the funds necessary therefor through an election for the issuance and sale of bonds of the State of California and for the handling and disposition of those funds.",
-    "tags": [
-      "fiscal committee"
-    ]
+    "impact_clause": "An act to amend Section 92900 of the Education Code, relating to the University of California.",
+    "tags": []
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ca/government",
@@ -523,6 +569,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:07Z"
+    "logs_latest_update": "2026-01-06T12:58:57Z"
   }
 }

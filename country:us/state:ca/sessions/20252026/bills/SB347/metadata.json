@@ -13,17 +13,17 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law imposes an annual minimum franchise tax of $800, except as provided, on every corporation incorporated in this state, qualified to transact intrastate business in this state, or doing business in this state, and an annual tax in an amount equal to the minimum franchise tax on every limited partnership, limited liability partnership, and limited liability company doing business in this state, as specified.\n\nThis bill, for taxable years beginning on or after January 1, 2025, and before January 1, 2030, would reduce the annual tax on every limited partnership, limited liability partnership, and limited liability company to $80.\n\nExisting law requires any bill authorizing a new tax expenditure to contain, among other things, specific goals, purposes, and objectives that the tax expenditure will achieve, detailed performance indicators, and data collection requirements. \n\nThis bill also would include additional information required for any bill authorizing a new tax expenditure. \n\nThis bill would take effect immediately as a tax levy."
+      "abstract": "Existing law imposes an annual minimum franchise tax of $800, except as provided, on every corporation incorporated in this state, qualified to transact intrastate business in this state, or doing business in this state, and an annual tax in an amount equal to the minimum franchise tax on every limited partnership, limited liability partnership, and limited liability company doing business in this state, as specified.\n\nThis bill, for taxable years beginning on or after January 1, 2026, and before January 1, 2031, would reduce the annual tax on every limited partnership, limited liability partnership, and limited liability company to $200.\n\nExisting law requires any bill authorizing a new tax expenditure to contain, among other things, specific goals, purposes, and objectives that the tax expenditure will achieve, detailed performance indicators, and data collection requirements. \n\nThis bill also would include additional information required for any bill authorizing a new tax expenditure. \n\nThis bill would take effect immediately as a tax levy."
     }
   ],
   "other_titles": [
     {
       "note": "",
-      "title": "Corporate taxes."
+      "title": "Minimum franchise tax."
     },
     {
       "note": "",
-      "title": "Minimum franchise tax."
+      "title": "Corporate taxes."
     }
   ],
   "other_identifiers": [],
@@ -160,6 +160,28 @@
       "_processing": {
         "log_file_created": "2026-01-01T12:56:47Z"
       }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on REV. & TAX.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on REV. & TAX.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -217,6 +239,17 @@
       ],
       "date": "2025-05-07",
       "classification": ""
+    },
+    {
+      "note": "01/05/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB347&version=20250SB34796AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-05",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -242,6 +275,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-01T12:56:47Z"
+    "logs_latest_update": "2026-01-06T12:58:57Z"
   }
 }

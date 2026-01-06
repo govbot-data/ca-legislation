@@ -40,6 +40,34 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:14Z"
       }
+    },
+    {
+      "description": "Set for hearing January 6 in HOUSING pending receipt.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on HOUSING.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on HOUSING.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -245,7 +273,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "01/05/26- Senate Housing",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB417&analysisId=393743&analyzingOffice=Senate+Housing",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-05",
+      "classification": "analysis"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -267,6 +307,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:14Z"
+    "logs_latest_update": "2026-01-06T12:58:57Z"
   }
 }

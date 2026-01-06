@@ -1,23 +1,28 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB739",
-  "title": "Common interest developments: managing agents: real estate broker license.",
+  "title": "Common interest developments: managing agent fees: executive officer training.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
     "Commoninterestdevelopments",
-    "managingagents",
-    "realestatebrokerlicense"
+    "executiveofficertraining",
+    "managingagentfees"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, the Davis-Stirling Common Interest Development Act, governs the formation and operation of common interest developments, and requires a common interest development to be managed by an association, as specified. Existing law, unless otherwise provided by the governing documents, authorizes the board of directors of the association to hire a managing agent, defined as a person who, for compensation or in expectation of compensation, exercises control over the assets of a common interest development. Existing law requires a prospective managing agent to make certain disclosures to the board, including whether or not the prospective managing agent currently holds any relevant licenses, including a real estate license, or any relevant professional certifications or designations, as specified.\n\nExisting law, the Real Estate Law, establishes the Department of Real Estate and sets forth its powers and duties regarding, among other things, the licensure and regulation of real estate brokers. That law generally defines a real estate broker as a person who, for compensation, assists with buying, selling, or renting real property, as specified.\n\nThis bill would require a managing agent of a common interest development to hold a real estate broker license issued by the state."
+      "abstract": "(1) Existing law, the Davis-Stirling Common Interest Development Act, governs the formation and operation of common interest developments, and requires a common interest development to be managed by an association, as specified. Existing law, unless otherwise provided by the governing documents, authorizes the board of directors of the association to hire a managing agent, defined as a person who, for compensation or in expectation of compensation, exercises control over the assets of a common interest development. Existing law requires the association to distribute an annual policy statement, containing certain information, to the members within 30 to 90 days before the end of the fiscal year.\n\nThis bill would require the annual policy statement to include a statement of all fees charged by the managing agent.\n\n (2) Existing law requires the Department of Consumer Affairs and the Department of Real Estate, to the extent existing funds are available, to develop an online education course for the board of directors of an association regarding the role, duties, laws, and responsibilities of directors and prospective directors, and the nonjudicial foreclosure process.\n\nThis bill would require the Department of Real Estate to develop an education course for executive officers, as defined, of the association that is validated by the Secretary of State on specified review requirements, fiduciary duties, management duties, and the fine details of the Davis-Stirling Common Interest Development Act. Commencing on the date of the development of the education course, the bill would require an executive officer to complete 12 hours of the education course within a specified timeframe."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Common interest developments: managing agents: real estate broker license."
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -59,6 +64,57 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:15Z"
       }
+    },
+    {
+      "description": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on H. & C.D.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on H. & C.D.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
+    },
+    {
+      "description": "Re-referred to Coms. on B. & P. and H. & C.D. pursuant to Assembly Rule 96.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Coms. on B. & P. and H. & C.D. pursuant to Assembly Rule 96.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -94,6 +150,17 @@
       ],
       "date": "2025-02-18",
       "classification": ""
+    },
+    {
+      "note": "01/05/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB739&version=20250AB73998AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-05",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -105,7 +172,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to add Section 5378 to the Civil Code, relating to common interest developments.",
+    "impact_clause": "An act to amend Section 5310 of, and to add Section 5403 to, the Civil Code, relating to common interest developments.",
     "tags": [
       "fiscal committee"
     ]
@@ -117,6 +184,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:15Z"
+    "logs_latest_update": "2026-01-06T12:58:57Z"
   }
 }

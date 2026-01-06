@@ -1,23 +1,26 @@
 {
   "legislative_session": "20252026",
   "identifier": "SB300",
-  "title": "Conflicts of interest: nonprofit organizations: membership dues.",
+  "title": "Companion chatbots.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Conflictsofinterest",
-    "membershipdues",
-    "nonprofitorganizations"
+    "Companionchatbots"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "The Political Reform Act of 1974 prohibits a public official from using their official position to make, participate in making, or influence a governmental decision in which the official knows or has reason to know that the official has a financial interest, as specified. Under the act, a public official has a financial interest in a decision if it is reasonably foreseeable that the decision will have a material financial effect on, among other things, a source of income to the official aggregating $500 or more in value within the 12 months before the decision is made.\n\nThis bill would create a general exception to that rule by providing that it is not reasonably foreseeable that a public official has a material financial interest in a decision regarding certain nonprofit organizations, including labor organizations, agricultural organizations, business leagues, and chambers of commerce, where the nonprofit organization is a source of income to the public official, the decision solely involves a member or members of the nonprofit organization, and the sole financial effect of the decision is that it may result in an increase or decrease of dues or members of the nonprofit organization."
+      "abstract": "Existing law requires that if a reasonable person interacting with a companion chatbot, as defined, would be misled to believe that the person is interacting with a human, an operator of a companion chatbot platform must issue a clear and conspicuous notification indicating that the companion chatbot is artificially generated and not human. Existing law requires a chatbot operator to maintain a protocol for preventing the production of suicidal ideation, suicide, or self-harm content to the user, as specified, and would require an operator to publish details on that protocol on the operator's internet website. Existing law requires an operator to take certain actions with respect to a user the operator knows is a minor, including instituting reasonable measures to prevent the companion chatbot from producing sexually explicit visual material or proposing sexually explicit conduct.\n\nThis bill would instead require a companion chatbot operator to take the above actions when it has constructive knowledge that a user is a minor. This bill would instead require an operator to prevent its companion chatbot from producing or facilitating the exchange of any sexually explicit material or proposing sexually explicit conduct."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Conflicts of interest: nonprofit organizations: membership dues."
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -102,6 +105,74 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:10Z"
       }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on E. & C.A.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on E. & C.A.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
+    },
+    {
+      "description": "Withdrawn from committee.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on RLS.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on JUD.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on JUD.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -148,6 +219,17 @@
       ],
       "date": "2025-04-01",
       "classification": ""
+    },
+    {
+      "note": "01/05/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB300&version=20250SB30097AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-05",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -159,8 +241,10 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to add Section 87103.7 to the Government Code, relating to the Political Reform Act of 1974.",
-    "tags": []
+    "impact_clause": "An act to amend Section 22602 of the Business and Professions Code, relating to artificial intelligence.",
+    "tags": [
+      "fiscal committee"
+    ]
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ca/government",
@@ -169,6 +253,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:10Z"
+    "logs_latest_update": "2026-01-06T12:58:57Z"
   }
 }

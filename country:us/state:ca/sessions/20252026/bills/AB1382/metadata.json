@@ -1,23 +1,25 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB1382",
-  "title": "Animals: sale of pets: intentional genomic alterations.",
+  "title": "Ethics Over Aesthetics Act.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Animals",
-    "intentionalgenomicalterations",
-    "saleofpets"
+    "EthicsOverAestheticsAct"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law generally regulates the importation of wild animals into the state and the sale of dogs, cats, and birds. Existing law requires a person seeking to bring or import a dog into the state for purposes of resale or change of ownership to obtain a health certificate for that dog, as specified. Existing law requires a breeder of dogs to disclose to a purchaser of a dog certain information, including the breed, sex, color, and identifying marks at the time of sale, a record of inoculations and worming treatments administered, and whether the dog has any known disease, illness, or congenital or hereditary condition that adversely affects its health, as specified.\n\nThis bill would prohibit a person from importing for profit, selling, or offering for sale in this state a pet animal, as defined, that has been modified or developed by intentional genomic alterations, as defined, unless the intentional genomic alteration is to benefit the health of the animal or to enhance the animal's interaction with humans, as specified. The bill would provide that each pet animal imported for profit, sold, or offered for sale in this state in violation of that prohibition is a separate violation and is punishable by a civil penalty of not less than $5,000. The bill would authorize the district attorney of the county in which the violation occurred, and the city attorney of the city in which the violation occurred, to bring an action to enforce that prohibition, as specified."
+      "abstract": "Existing law generally regulates the importation of wild animals into the state and the sale of dogs, cats, and birds. Existing law requires a person seeking to bring or import a dog into the state for purposes of resale or change of ownership to obtain a health certificate for that dog, as specified. Existing law requires a breeder of dogs to disclose to a purchaser of a dog certain information, including the breed, sex, color, and identifying marks at the time of sale, a record of inoculations and worming treatments administered, and whether the dog has any known disease, illness, or congenital or hereditary condition that adversely affects its health, as specified.\n\nThis bill would prohibit, except as specified, a person from importing for profit, selling, or offering for sale in this state a transgenic pet animal that possesses a cosmetic transgenic trait, as specified. The bill would provide that each transgenic pet animal imported for profit, sold, or offered for sale in this state in violation of that prohibition is a separate violation and is punishable by a civil penalty of not less than $5,000. The bill would authorize the district attorney of the county in which the violation occurred, or the city attorney of the city in which the violation occurred, to bring an action to enforce that prohibition, as specified."
     }
   ],
   "other_titles": [
+    {
+      "note": "",
+      "title": "Animals: sale of pets: intentional genomic alterations."
+    },
     {
       "note": "",
       "title": "Adoptable animals."
@@ -152,6 +154,21 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:09Z"
       }
+    },
+    {
+      "description": "From committee chair, with author's amendments: Amend, and re-refer to Com. on B. & P. Read second time and amended.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -225,6 +242,17 @@
       ],
       "date": "2025-04-22",
       "classification": ""
+    },
+    {
+      "note": "01/05/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1382&version=20250AB138296AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-05",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -237,9 +265,7 @@
   ],
   "extras": {
     "impact_clause": "An act to add Chapter 6.5 (commencing with Section 122325) to Part 6 of Division 105 of the Health and Safety Code, relating to animals.",
-    "tags": [
-      "fiscal committee"
-    ]
+    "tags": []
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ca/government",
@@ -248,6 +274,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:09Z"
+    "logs_latest_update": "2026-01-06T12:58:57Z"
   }
 }

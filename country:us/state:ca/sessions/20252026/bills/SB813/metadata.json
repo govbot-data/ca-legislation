@@ -1,21 +1,26 @@
 {
   "legislative_session": "20252026",
   "identifier": "SB813",
-  "title": "Multistakeholder regulatory organizations.",
+  "title": "California AI Standards and Safety Commission: independent verification organizations.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Multistakeholderregulatoryorganizations"
+    "CaliforniaAIStandardsandSafetyCommission",
+    "independentverificationorganizations"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law requires, on or before September 1, 2024, the Department of Technology to conduct, in coordination with other interagency bodies as it deems appropriate, a comprehensive inventory of all high-risk automated decision systems that have been proposed for use, development, or procurement by, or are being used, developed, or procured by, any state agency. The California AI Transparency Act requires a covered provider, as defined, of a generative artificial intelligence (GenAI) system to offer the user the option to include a manifest disclosure in image, video, or audio content, or content that is any combination thereof, created or altered by the covered provider's GenAI system that, among other things, identifies content as AI-generated content.\n\nThis bill would establish a process by which the Attorney General designates, for a renewable period of 3 years, a private entity as a multistakeholder regulatory organization (MRO) if that entity meets certain requirements, including that the entity presents a plan that ensures acceptable mitigation of risk from any MRO-certified artificial intelligence models and artificial intelligence applications. The bill would require an applicant for designation by the Attorney General as an MRO to submit with its application a plan that contains certain elements, including the applicant's approach to mitigating specific high-impact risks, including cybersecurity, chemical, biological, radiological, and nuclear threats, malign persuasion, and artificial intelligence model autonomy and exfiltration. The bill would require the Attorney General to adopt regulations, with input from stakeholders, that establish minimum requirements for those plans and conflict of interest rules for MROs, as specified.\n\nThis bill would require an MRO to perform various responsibilities related to certifying the safety of artificial intelligence models and artificial intelligence applications, including decertifying an artificial intelligence model or artificial intelligence application that does not meet the requirements prescribed by the MRO and submitting an annual report to the Legislature and the Attorney General that addresses, among other things, the adequacy of existing evaluation resources and mitigation measures to mitigate observed and potential risks.\n\nThis bill would authorize the Attorney General to establish a fee structure for charging fees to applicants and designated MROs to offset the reasonable costs incurred by the Attorney General in carrying out its duties pursuant to the bill and adopt regulations necessary to administer the bill.\n\nThis bill would, in a civil action asserting claims for personal injury or property damage caused by an artificial intelligence model or artificial intelligence application against a developer of the artificial intelligence model or artificial intelligence application, create a rebuttable presumption that the developer exercised reasonable care if the artificial intelligence model or artificial intelligence application in question was certified by an MRO at the time of the plaintiff's injuries, as specified."
+      "abstract": "Existing law requires, on or before September 1, 2024, the Department of Technology, within the Government Operations Agency, to conduct, in coordination with other interagency bodies as it deems appropriate, a comprehensive inventory of all high-risk automated decision systems that have been proposed for use, development, or procurement by, or are being used, developed, or procured by, any state agency. Existing law requires the department to annually submit a report of that comprehensive inventory to the Assembly Committee on Privacy and Consumer Protection and the Senate Committee on Governmental Organization.\n\nExisting law, the Transparency in Frontier Artificial Intelligence Act, among other things related to ensuring the safety of certain artificial intelligence models, requires a large frontier developer to write, implement, and clearly and conspicuously publish on its internet website a frontier AI framework that applies to the large frontier developer's frontier models and describes how the large frontier developer approaches, among other things, incorporating national standards, international standards, and industry-consensus best practices into its frontier AI framework.\n\nThis bill would require the agency to establish the California AI Standards and Safety Commission and would provide for its membership, as specified.\n\nThis bill would require the commission to take certain actions related to the safety of artificial intelligence, including maintaining formal liaison relationships with state agencies deploying or procuring artificial intelligence, providing artificial intelligence technical expertise and artificial intelligence risk assessment, and designating one or more entities as independent verification organizations (IVOs) , as specified.\n\nThis bill would require an IVO to take certain actions, including to implement the plan for artificial intelligence risk mitigation that it submitted to the commission when it applied for designation as an IVO and submit to the Legislature and to the commission an annual report that addresses, among other things, the adequacy of existing evaluation resources and mitigation measures to mitigate observed and potential risks.\n\nThis bill would authorize the commission to establish a fee structure for charging fees to applicants and designated IVOs to offset the reasonable costs incurred by the commission in carrying out its duties pursuant to the bill and adopt regulations necessary to administer the bill."
     }
   ],
   "other_titles": [
+    {
+      "note": "",
+      "title": "Multistakeholder regulatory organizations."
+    },
     {
       "note": "",
       "title": "Occupational therapy."
@@ -247,6 +252,28 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:09Z"
       }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on APPR.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -304,6 +331,17 @@
       ],
       "date": "2025-05-01",
       "classification": ""
+    },
+    {
+      "note": "01/05/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB813&version=20250SB81396AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-05",
+      "classification": ""
     }
   ],
   "documents": [
@@ -350,6 +388,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:09Z"
+    "logs_latest_update": "2026-01-06T12:58:57Z"
   }
 }

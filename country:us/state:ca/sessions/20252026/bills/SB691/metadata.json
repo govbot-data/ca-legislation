@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law requires law enforcement agencies, departments, or entities to consider specified best practices regarding the downloading and storage of body-worn camera data, such as specifically stating the length of time that recorded data is to be stored, when establishing policies and procedures for the implementation and operation of a body-worn camera system, as specified.\n\nThis bill would require, on or before July 1, 2026, each law enforcement agency that has a body-worn camera policy to update that policy to provide guidance to personnel who wear body-worn cameras regarding the circumstances in which they are required to reasonably and temporarily limit the recording of medical or psychological evaluations, procedures, or treatment performed by emergency service personnel that may cause embarrassment or humiliation to the patient. The bill would also require that policy update to include a procedure for emergency service personnel to request the redaction of evidentiary recordings of a patient undergoing medical or psychological evaluation, procedure, or treatment by emergency service personnel.\n\nBy requiring local law enforcement agencies to adopt new policies, this bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+      "abstract": "Existing law requires law enforcement agencies, departments, or entities to consider specified best practices regarding the downloading and storage of body-worn camera data, such as specifically stating the length of time that recorded data is to be stored, when establishing policies and procedures for the implementation and operation of a body-worn camera system, as specified.\n\nThis bill would require, on or before July 1, 2027, each law enforcement agency that has a body-worn camera policy to update that policy to include a procedure for emergency service personnel to request the redaction of evidentiary and nonevidentiary recordings of a patient undergoing medical or psychological evaluation, procedure, or treatment by emergency service personnel.\n\nBy requiring local law enforcement agencies to adopt new policies, this bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
     }
   ],
   "other_titles": [],
@@ -182,6 +182,28 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:07Z"
       }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on APPR.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -227,6 +249,17 @@
         }
       ],
       "date": "2025-04-21",
+      "classification": ""
+    },
+    {
+      "note": "01/05/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB691&version=20250SB69197AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-05",
       "classification": ""
     }
   ],
@@ -275,6 +308,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:07Z"
+    "logs_latest_update": "2026-01-06T12:58:57Z"
   }
 }

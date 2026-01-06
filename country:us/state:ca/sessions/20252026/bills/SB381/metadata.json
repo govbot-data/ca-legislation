@@ -1,22 +1,27 @@
 {
   "legislative_session": "20252026",
   "identifier": "SB381",
-  "title": "Residential rental properties: fees.",
+  "title": "Vital records: adoptees' birth certificates.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Residentialrentalproperties",
-    "fees"
+    "Vitalrecords",
+    "adoptees'birthcertificates"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law regulates the hiring of real property and imposes various requirements on landlords relating to the application for, and leasing of, residential rental property. Existing law places limitations on the amount of rent and security that a landlord can charge a tenant, as specified.\n\nThis bill would enact the Fair Rental Act of 2025. The bill would prohibit a landlord or their agent from charging certain fees, including, any fee that is not specified in the rental agreement, a processing fee, including a convenience fee or a check cashing fee, for the payment of rent or any other fees or deposits, or a fee for a tenant to own a household pet. The bill would also prohibit a landlord or their agent from charging a late fee for the late payment of rent that is more than 2% of the monthly rental rate, and would prohibit the late fee from being charged unless the rent is overdue by 7 days or more. Under the bill, if a landlord or their agent charges and collects a fee from a tenant that is not authorized by law, the landlord or their agent would be liable to the tenant in a civil action for the cost of the fee, plus 5% interest compounded daily from the date the fee was collected \n\nExisting law requires the owner of qualifying residential property, as defined, that provides parking with the qualifying residential property to unbundle parking from the price of rent, as specified. Existing law defines \"unbundled parking\" as the practice of selling or leasing parking spaces separate from the lease of the residential use.\n\nThis bill would repeal those provisions, and instead, would prohibit a landlord or its agent from charging a fee for a parking space.\n\nExisting law authorizes a landlord or their agent to charge an applicant who requests to rent a residential housing unit an application screening fee to cover the costs of obtaining information about the applicant. Existing law prohibits the amount of the application screening free from being greater that the actual out-of-pocket costs of gathering information concerning the applicant, including, but not limited to, the cost of using a tenant screening service or a consumer credit reporting service, and the reasonable value of time spent by the landlord or their agent in obtaining information on the applicant, as provided.\n\nThis bill, instead, would authorize the application screening fee to cover the costs of the screening, and would prohibit the amount of the application screening fee from being greater that the actual out-of-pocket costs of conducting the screening, including, but not limited to, the cost of using a tenant screening service or a consumer credit reporting service, as provided. The bill would thereby eliminate the authority of the landlord or their agent to charge, as part of the application screening fee, the reasonable value of time spent by the landlord or their agent in obtaining information on the applicant."
+      "abstract": "Existing law prohibits an agency from disclosing personal information that would link the information to the individual unless, among other things, the information is provided to a governmental entity by law, or the disclosure is to the individual to whom the information pertains. Existing law makes vital records related to adoptions, other than a newly issued birth certificate, available only upon the order of the superior court of the county of residence of the adopted child or of the county granting the order of adoption.\n\nThis bill would authorize the disclosure of an original birth certificate, as defined, to an adopted person, or descendant, as defined, of a deceased adopted person, would require the State Registrar to provide a copy of the original birth certificate to those persons, and would establish a process to request an original birth certificate, as specified. The bill would also require the State Registrar to create and make available to a birth parent a contact preference form containing certain elections that would be available for release when a request for an original birth certificate is made.\n\nExisting law requires the clerk of the court to report the decree to the State Registrar within 5 days after a decree of adoption. Existing law requires the State Registrar to generate a new birth certificate when the State Registrar receives a report of adoption from a specified court or when the State Registrar receives a specified court order.\n\nExisting law requires the new birth certificate to bear certain information and be identical to the certificate issued to the natural parents, except, when requested by the adopting parents, the certificate is required to omit the facility of birth and the race and color of the parents.\n\nThis bill would remove the adopted parents exception described above that required the certificate to omit the facility of birth and the race and color of the parents.\n\nExisting law authorizes the adopting parents to request an amended certificate that omits, among other things, the city and county of birth, or the color and race of the parents.\n\nThis bill would repeal that authorization."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Residential rental properties: fees."
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -58,6 +63,74 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T15:18:15Z"
+      }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on JUD.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on JUD.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
+    },
+    {
+      "description": "Withdrawn from committee.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on RLS.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
+    },
+    {
+      "description": "Re-referred to Coms. on JUD. and HEALTH.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Coms. on JUD. and HEALTH.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
       }
     }
   ],
@@ -102,6 +175,17 @@
       ],
       "date": "2025-02-14",
       "classification": ""
+    },
+    {
+      "note": "01/05/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB381&version=20250SB38198AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-05",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -113,8 +197,10 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Section 1950.6 of, to add Section 1950.3 to, and to repeal Section 1947.1 of, the Civil Code, relating to housing.",
-    "tags": []
+    "impact_clause": "An act to amend Section 1798.24 of the Civil Code, and to amend Sections 102645, 102685, and 102705 of, to add Sections 102620 and 102706 to, and to repeal Section 102675 of, the Health and Safety Code, relating to vital records.",
+    "tags": [
+      "fiscal committee"
+    ]
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ca/government",
@@ -123,6 +209,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:15Z"
+    "logs_latest_update": "2026-01-06T12:58:57Z"
   }
 }

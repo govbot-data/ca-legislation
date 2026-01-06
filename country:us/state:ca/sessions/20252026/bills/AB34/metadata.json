@@ -1,24 +1,28 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB34",
-  "title": "Air pollution: regulations: consumer costs: review.",
+  "title": "California Renewables Portfolio Standard Program: local publicly owned electric utilities: large hydroelectric generation.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Airpollution",
-    "consumercosts",
-    "regulations",
-    "review"
+    "CaliforniaRenewablesPortfolioStandardProgram",
+    "largehydroelectricgeneration",
+    "localpubliclyownedelectricutilities"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "The California Global Warming Solutions Act of 2006 establishes the State Air Resources Board as the state agency responsible for monitoring and regulating sources of emissions of greenhouse gases. The act authorizes the state board to include in its regulation of those emissions the use of market-based compliance mechanisms. Pursuant to the act, the state board has adopted the California Greenhouse Gas Cap-and-Trade Program to reduce emissions of greenhouse gases by applying a greenhouse gas allowance budget to specified entities and providing a trading mechanism for achieving compliance, as provided. The act requires the state board to adopt rules and regulations to achieve the maximum technologically feasible and cost-effective greenhouse gas emissions reductions to ensure that the statewide greenhouse gas emissions are reduced to at least 40% below the statewide greenhouse gas emissions limit, as defined, no later than December 31, 2030. Pursuant to the act, the state board has adopted the Low Carbon Fuel Standard regulations to reduce the carbon intensity of transportation fuels used in California, as specified.\n\nThis bill would prohibit the state board from adopting any standard, regulation, or rule that affects the Low Carbon Fuel Standard or the California Greenhouse Gas Cap-and-Trade Program until the Legislative Analyst has analyzed the cost to the consumer of the proposed standard, regulation, or rule, as specified, and submitted its analysis to the Legislature."
+      "abstract": "Under existing law, the California Renewables Portfolio Standard Program requires retail sellers and local publicly owned electric utilities to procure a minimum quantity of electricity products from eligible renewable energy resources during certain compliance periods up to December 31, 2030. Existing law provides that a local publicly owned electric utility is not required to procure a certain amount of eligible renewable energy resources if, during a year within those compliance periods, the local publicly owned electric utility receives more than 40% of its retail sales from large hydroelectric generation under an ownership agreement or contract in effect as of January 1, 2018. Existing law authorizes the State Energy Resources Conservation and Development Commission (Energy Commission) to establish appropriate multiyear compliance periods for local publicly owned electric utilities beyond December 31, 2030.\n\nThis bill would provide that the provision related to the procurement of eligible renewable energy resources by local publicly owned electric utilities also applies to the compliance periods established by the Energy Commission."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Air pollution: regulations: consumer costs: review."
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -93,6 +97,57 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:16Z"
       }
+    },
+    {
+      "description": "From committee chair, with author's amendments: Amend, and re-refer to Com. on NAT. RES. Read second time and amended.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on NAT. RES.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on NAT. RES.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
+    },
+    {
+      "description": "Re-referred to Coms. on U. & E. and NAT. RES. pursuant to Assembly Rule 96.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Coms. on U. & E. and NAT. RES. pursuant to Assembly Rule 96.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -102,6 +157,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Patterson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Becker",
+      "classification": "principal coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Becker\"}",
       "organization_id": null
     }
   ],
@@ -139,6 +202,17 @@
       ],
       "date": "2025-03-13",
       "classification": ""
+    },
+    {
+      "note": "01/05/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB34&version=20250AB3497AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-05",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -150,7 +224,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Section 39602.5 of the Health and Safety Code, relating to air pollution.",
+    "impact_clause": "An act to amend Section 399.30 of the Public Utilities Code, relating to energy.",
     "tags": [
       "fiscal committee"
     ]
@@ -162,6 +236,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:16Z"
+    "logs_latest_update": "2026-01-06T12:58:57Z"
   }
 }

@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law provides for the administration of the constitutional oath of office and seating of Members of the Legislature at the beginning of any regular session of the Legislature. Existing law requires each Member of the Legislature and each designated employee of the Legislature to attend certain orientation courses conducted by the appropriate legislative ethics committees at least once in each biennial session.\n\nThis bill would require a Member of the Legislature and an employee of the Legislature to attend a course regarding the United States Constitution and the California Constitution within 6 months of the convening of a regular session of the Legislature, except as specified. The bill would require the Joint Rules Committee to develop and conduct the course, as specified."
+      "abstract": "Existing law provides for the administration of the constitutional oath of office and seating of Members of the Legislature at the beginning of any regular session of the Legislature. Existing law requires each Member of the Legislature and each designated employee of the Legislature to attend certain orientation courses conducted by the appropriate legislative ethics committees at least once in each biennial session.\n\nThis bill would require all Members and employees of the Legislature to attend a course regarding the United States Constitution and the California Constitution within 6 months of the convening of a regular session of the Legislature, except as specified. The bill would require the Legislative Counsel Bureau to develop and conduct the course, as specified."
     }
   ],
   "other_titles": [
@@ -145,6 +145,28 @@
       "_processing": {
         "log_file_created": "2026-01-01T12:56:47Z"
       }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on JUD.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on JUD.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -191,6 +213,17 @@
       ],
       "date": "2025-03-26",
       "classification": ""
+    },
+    {
+      "note": "01/05/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB699&version=20250SB69997AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-05",
+      "classification": ""
     }
   ],
   "documents": [
@@ -215,7 +248,9 @@
   ],
   "extras": {
     "impact_clause": "An act to add Section 9025.5 to the Government Code, relating to the Legislature.",
-    "tags": []
+    "tags": [
+      "fiscal committee"
+    ]
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ca/government",
@@ -224,6 +259,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-01T12:56:47Z"
+    "logs_latest_update": "2026-01-06T12:58:57Z"
   }
 }

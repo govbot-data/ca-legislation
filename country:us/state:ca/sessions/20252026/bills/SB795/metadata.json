@@ -1,23 +1,28 @@
 {
   "legislative_session": "20252026",
   "identifier": "SB795",
-  "title": "30x30 goal: state agencies: plans, policies, or regulations.",
+  "title": "Horse racing: out-of-state thoroughbred races: Delaware Handicap.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "30x30goal",
-    "plans,policies,orregulations",
-    "stateagencies"
+    "DelawareHandicap",
+    "Horseracing",
+    "out-of-statethoroughbredraces"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Executive Order No. N-82-20, Governor Gavin Newsom directed the Natural \u200bResources Agency to combat the biodiversity and climate crises by, among other things, \u200bestablishing the California Biodiversity Collaborative and conserving at least 30% of \u200bthe state's lands and coastal waters by 2030. Existing law requires the Secretary of the\u200b Natural Resources Agency to prepare and submit, on or before March 31, 2024, and \u200bannually thereafter, a report to the Legislature on the progress made in the prior calendar \u200byear toward achieving the goal to conserve 30% of California's lands and coastal waters \u200bby 2030. Existing law provides that it is the goal of the state to conserve at least 30% \u200bof California's lands and coastal waters by 2030, known as the 30x30 goal.\n\nThis bill would require all state agencies, including their departments, boards, offices, commissions, and conservancies, to consider the 30x30 goal when adopting, revising, or establishing plans, policies, or regulations, and shall ensure, to the extent feasible, that the plan, policy, or regulation is not inconsistent with the 30x30 goal."
+      "abstract": "The Horse Racing Law authorizes a thoroughbred racing association or fair to distribute the audiovisual signal and accept wagers on the results of out-of-state thoroughbred races conducted in the United States during the calendar period the association or fair is conducting a race meeting, including days on which there is no live racing being conducted by the association or fair, without the consent of the organization that represents horsemen and horsewomen participating in the race meeting and without regard to the amount of purses. Under that law, the total number of thoroughbred races imported by associations or fairs on a statewide basis under these provisions is prohibited from exceeding 75 races per day on days when live thoroughbred or fair racing is being conducted in the state, with the exception of prescribed races.\n\nThis bill would exempt from the 75 imported race per day limitation races that are part of the race card of the Delaware Handicap."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "30x30 goal: state agencies: plans, policies, or regulations."
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -71,6 +76,28 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:13Z"
       }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on G.O.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on G.O.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -106,6 +133,17 @@
       ],
       "date": "2025-02-21",
       "classification": ""
+    },
+    {
+      "note": "01/05/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB795&version=20250SB79598AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-05",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -117,10 +155,8 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Section 71450 of the Public Resources Code, relating to environmental protection.",
-    "tags": [
-      "fiscal committee"
-    ]
+    "impact_clause": "An act to amend Section 19596.2 of the Business and Professions Code, relating to horse racing.",
+    "tags": []
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ca/government",
@@ -129,6 +165,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:13Z"
+    "logs_latest_update": "2026-01-06T12:58:57Z"
   }
 }

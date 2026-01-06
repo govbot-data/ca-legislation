@@ -1,23 +1,25 @@
 {
   "legislative_session": "20252026",
   "identifier": "SB479",
-  "title": "Cannabis: licensing: payment of goods and services.",
+  "title": "Homeless adult and family multidisciplinary personnel teams.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Cannabis",
-    "licensing",
-    "paymentofgoodsandservices"
+    "Homelessadultandfamilymultidisciplinarypersonnelteams"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "The Control, Regulate and Tax Adult Use of Marijuana Act (AUMA) , an initiative measure approved as Proposition 64 at the November 8, 2016, statewide general election, authorizes a person who obtains a state license under AUMA to engage in commercial adult-use cannabis activity pursuant to that license and applicable local ordinances. Existing law, the Medicinal and Adult-Use Cannabis Regulation and Safety Act (MAUCRSA) , establishes the Department of Cannabis Control (department) within the Business, Consumer Services, and Housing Agency to administer the act.\n\nMAUCRSA, among other things, consolidates the licensure and regulation of commercial medicinal and adult-use cannabis activities. MAUCRSA requires licensees to keep accurate records of commercial cannabis activity, including recording the sale or transport of cannabis or cannabis products from one licensee to another licensee on a sales invoice or receipt. MAUCRSA authorizes the department to suspend, revoke, place on probation with terms and conditions, or otherwise discipline licenses issued by the department and fine a licensee, as specified. \n\nThis bill, the Cannabis Payment Protection Act, would require the department to suspend the license of a licensee subject to a court order or civil judgment for failure to pay for goods and services sold or transferred by another licensee, if specified conditions are met, until the licensee complies with the terms of the court order or civil judgment. The bill would authorize the department to charge a fee to cover the reasonable administrative costs of implementing these provisions, as specified.\n\nAUMA authorizes the Legislature to amend its provisions with a 23 vote of both houses to further its purposes and intent.\n\nThis bill would state that the bill furthers the purposes and intent of AUMA."
+      "abstract": "Existing law authorizes a county to establish a homeless adult and family multidisciplinary personnel team with the goal of facilitating the expedited identification, assessment, and linkage of homeless individuals to housing and supportive services within that county, and to allow provider agencies and members of the personnel team to share confidential information for the purpose of coordinating housing and supportive services to ensure continuity of care. Existing law requires the sharing of confidential information to be governed by protocols developed in each county describing how and what information may be shared by the homeless adult and family multidisciplinary personnel team, and requires each county to provide a copy of its protocols to the State Department of Social Services.\n\nThis bill would additionally authorize a city that is designated as a local health jurisdiction to similarly establish a homeless adult and family multidisciplinary personnel team."
     }
   ],
   "other_titles": [
+    {
+      "note": "",
+      "title": "Cannabis: licensing: payment of goods and services."
+    },
     {
       "note": "",
       "title": "Cannabis."
@@ -125,6 +127,74 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:15Z"
       }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on B. P. & E.D.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on B. P. & E.D.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
+    },
+    {
+      "description": "Withdrawn from committee.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on RLS.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
+    },
+    {
+      "description": "Re-referred to Coms. on HUMAN S. and JUD.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Coms. on HUMAN S. and JUD.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -171,6 +241,17 @@
       ],
       "date": "2025-03-24",
       "classification": ""
+    },
+    {
+      "note": "01/05/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB479&version=20250SB47997AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-05",
+      "classification": ""
     }
   ],
   "documents": [
@@ -194,7 +275,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to add Section 26031.02 to the Business and Professions Code, relating to cannabis.",
+    "impact_clause": "An act to amend Section 18999.8 of the Welfare and Institutions Code, relating to homelessness.",
     "tags": [
       "fiscal committee"
     ]
@@ -206,6 +287,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:15Z"
+    "logs_latest_update": "2026-01-06T12:58:57Z"
   }
 }

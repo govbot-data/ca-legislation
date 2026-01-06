@@ -1,22 +1,26 @@
 {
   "legislative_session": "20252026",
   "identifier": "SB546",
-  "title": "Common interest developments: accounting.",
+  "title": "California Financial Literacy Fund.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Commoninterestdevelopments",
-    "accounting"
+    "CaliforniaFinancialLiteracyFund"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law requires the board of directors of a nonprofit corporation or unincorporated association created for the purpose of managing a common interest development to, on a monthly basis, review specified documents, including account statements, reconciliations, and ledgers, unless the association's governing documents impose more stringent standards. Existing law authorizes those review requirements to be met when every individual member of the board, or a subcommittee of the board consisting of the treasurer and at least one other board member, reviews the documents and statements independent of a board meeting, so long as the review is ratified at the board meeting subsequent to the review and that ratification is reflected in the minutes of that meeting.\n\nThis bill would repeal those provisions authorizing the review requirements to be met when individual members or a subcommittee of the board review the documents and statements independent of a board meeting as described above."
+      "abstract": "Existing law establishes the California Financial Literacy Fund in the State Treasury for the purpose of enabling partnerships with the financial services community and governmental and nongovernmental stakeholders to improve financial literacy within the state. Existing law requires the fund to be administered by the Controller, who is authorized, among other things, to deposit private donations into the fund, as specified. Existing law requires those moneys to be made available upon appropriation in the annual Budget Act, and requires the Controller to report annually to the Legislature on the use of those moneys appropriated from the fund, as specified. \n\nThis bill would repeal those provisions."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Common interest developments: accounting."
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -61,13 +65,81 @@
       }
     },
     {
-      "description": "Set for hearing January 6 in B. & F.I. pending receipt.",
+      "description": "Set for hearing January 7 in B. & F.I. pending receipt.",
       "date": "2025-12-18",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-12-23T08:47:21Z"
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on HOUSING.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on HOUSING.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
+    },
+    {
+      "description": "Withdrawn from committee.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on RLS.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on B. & F.I.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on B. & F.I.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
       }
     }
   ],
@@ -104,9 +176,32 @@
       ],
       "date": "2025-02-20",
       "classification": ""
+    },
+    {
+      "note": "01/05/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB546&version=20250SB54698AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-05",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "01/05/26- Senate Banking and Financial Institutions",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB546&analysisId=393749&analyzingOffice=Senate+Banking+and+Financial+Institutions",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-05",
+      "classification": "analysis"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -115,8 +210,10 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to repeal Section 5501 of the Civil Code, relating to common interest developments.",
-    "tags": []
+    "impact_clause": "An act to repeal Division 22 (commencing with Section 70000) of the Financial Code, relating to financial literacy.",
+    "tags": [
+      "fiscal committee"
+    ]
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ca/government",
@@ -125,6 +222,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-23T08:47:21Z"
+    "logs_latest_update": "2026-01-06T12:58:57Z"
   }
 }

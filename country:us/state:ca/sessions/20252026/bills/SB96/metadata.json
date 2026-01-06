@@ -1,21 +1,27 @@
 {
   "legislative_session": "20252026",
   "identifier": "SB96",
-  "title": "Veterans' benefits.",
+  "title": "Streaming services: commercial advertisements.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Veterans'benefits"
+    "Streamingservices",
+    "commercialadvertisements"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law makes it a misdemeanor to use funds that were solicited for the benefit of a veteran or veterans' association for purposes other than those represented in the solicitation.\n\nThis bill would make technical, nonsubstantive changes to that provision."
+      "abstract": "Existing law prohibits a video streaming service, as defined, that serves consumers in the state from transmitting the audio of commercial advertisements louder than the video content the advertisements accompany, as specified.\n\nThis bill would additionally prohibit a social media video service, as defined, music streaming service, or podcast streaming service that serves consumers in the state from transmitting the audio of commercial advertisements louder than the content the advertisements accompany."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Veterans' benefits."
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -58,6 +64,46 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:08Z"
       }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on B. P. & E.D.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on B. P. & E.D.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -93,6 +139,17 @@
       ],
       "date": "2025-01-23",
       "classification": ""
+    },
+    {
+      "note": "01/05/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB96&version=20250SB9698AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-05",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -104,7 +161,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Section 1802 of the Military and Veterans Code, relating to veterans.",
+    "impact_clause": "An act to amend Sections 22775 and 22776 of, and to amend the heading of Chapter 27.3 (commencing with Section 22775) of Division 8 of, the Business and Professions Code, relating to streaming services.",
     "tags": []
   },
   "jurisdiction": {
@@ -114,6 +171,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:08Z"
+    "logs_latest_update": "2026-01-06T12:58:57Z"
   }
 }

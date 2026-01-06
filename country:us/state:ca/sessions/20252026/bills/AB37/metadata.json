@@ -1,23 +1,26 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB37",
-  "title": "Workforce development: mental health service providers: homelessness.",
+  "title": "Furnishing hypodermic needles and syringes.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Workforcedevelopment",
-    "homelessness",
-    "mentalhealthserviceproviders"
+    "Furnishinghypodermicneedlesandsyringes"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law establishes the California Workforce Development Board as the body responsible for assisting the Governor in the development, oversight, and continuous improvement of California's workforce investment system and the alignment of the education and workforce investment systems to the needs of the 21st century economy and workforce. Existing law requires the board to assist the Governor in certain activities, including the review and technical assistance of statewide policies, programs, and recommendations to support workforce development systems in the state, as specified.\n\nThis bill would require the board to study how to expand the workforce of mental health service providers who provide services to homeless persons."
+      "abstract": "Existing law, the Pharmacy Law, provides for the licensure and regulation of pharmacists and pharmacies by the California State Board of Pharmacy. Existing law authorizes a physician or pharmacist to, without a prescription or permit, furnish hypodermic needles and syringes for human use to a person 18 years of age or older, and authorizes a person 18 years of age or older to, without a prescription or license, obtain hypodermic needles and syringes solely for personal use from a physician or pharmacist, as a public health measure, as specified. Existing law, when no other penalty is provided, makes a knowing violation of the Pharmacy Law a misdemeanor and, in all other instances, makes a violation punishable as an infraction.\n\nThis bill would expand the above-described provisions to authorize a delegee of a physician or pharmacist to furnish hypodermic needles and syringes for human use to a person 18 years of age or older. By expanding the scope of an existing crime, this bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Workforce development: mental health service providers: homelessness."
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -92,6 +95,57 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:09Z"
       }
+    },
+    {
+      "description": "From committee chair, with author's amendments: Amend, and re-refer to Com. on L. & E. Read second time and amended.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on L. & E.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on L. & E.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on B. & P. pursuant to Assembly Rule 96.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on B. & P. pursuant to Assembly Rule 96.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -138,6 +192,17 @@
       ],
       "date": "2025-03-13",
       "classification": ""
+    },
+    {
+      "note": "01/05/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB37&version=20250AB3797AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-05",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -149,9 +214,10 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to add Section 14014.5 to the Unemployment Insurance Code, relating to workforce development.",
+    "impact_clause": "An act to amend Section 4145.5 of the Business and Professions Code, relating to healing arts.",
     "tags": [
-      "fiscal committee"
+      "fiscal committee",
+      "local program"
     ]
   },
   "jurisdiction": {
@@ -161,6 +227,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:09Z"
+    "logs_latest_update": "2026-01-06T12:58:57Z"
   }
 }

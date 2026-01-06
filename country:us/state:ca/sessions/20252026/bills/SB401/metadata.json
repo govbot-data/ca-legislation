@@ -1,26 +1,30 @@
 {
   "legislative_session": "20252026",
   "identifier": "SB401",
-  "title": "Political Reform Act of 1974: state employees: financial interests.",
+  "title": "Political Reform Act of 1974: filing deadlines: emergency situations.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
     "PoliticalReformActof1974",
-    "financialinterests",
-    "stateemployees"
+    "emergencysituations",
+    "filingdeadlines"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "The Political Reform Act of 1974 prohibits a public official, including an employee of a state agency, from using their official position to make, participate in making, or influence a governmental decision in which the official knows or has reason to know that the official has a financial interest, as specified. Any person who knowingly or willfully violates the act is guilty of a misdemeanor.\n\nThis bill would further prohibit an employee of a state agency from owning or controlling a financial interest in any business entity that is subject to the regulatory authority of the state agency, or that does business with the state agency. The bill would authorize the head of a state agency to grant an employee a waiver from this prohibition only upon a finding that ownership or control of the financial interest is otherwise consistent with the act and that the employee will not make, participate in making, or attempt to influence a governmental decision in which the employee has a financial interest. By expanding the scope of an existing crime, this bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason.\n\nThe Political Reform Act of 1974, an initiative measure, provides that the Legislature may amend the act to further the act's purposes upon a 23 vote of each house of the Legislature and compliance with specified procedural requirements.\n\nThis bill would declare that it furthers the purposes of the act."
+      "abstract": "Under the Political Reform Act of 1974, various individuals and entities, including candidates, committees that support candidates and ballot measures, lobbyists, slate mailer organizations, and public officials, are required to periodically file certain statements and reports that disclose their financial activities. When an original statement or report is filed after the deadline for its filing under the act, the person responsible for making the filing is subject to a late filing penalty of $10 per day, as specified, in addition to any other penalties or remedies under the act.\n\nThis bill would authorize the Fair Political Practices Commission to extend any filing deadline established by the act for individuals that live in an area impacted by an emergency situation. The bill would define emergency situation to mean an emergency proclaimed by the Governor or a local governing body pursuant to a specified law.\n\nThe Political Reform Act of 1974, an initiative measure, provides that the Legislature may amend the act to further the act's purposes upon a 23 vote of each house of the Legislature and compliance with specified procedural requirements.\n\nThis bill would declare that it furthers the purposes of the act."
     }
   ],
   "other_titles": [
     {
       "note": "",
       "title": "State employees and officers: conflicts of interest."
+    },
+    {
+      "note": "",
+      "title": "Political Reform Act of 1974: state employees: financial interests."
     }
   ],
   "other_identifiers": [],
@@ -125,6 +129,28 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:13Z"
       }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on E. & C.A.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on E. & C.A.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -171,6 +197,17 @@
       ],
       "date": "2025-03-25",
       "classification": ""
+    },
+    {
+      "note": "01/05/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB401&version=20250SB40197AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-05",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -182,10 +219,9 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to add Section 87106 to the Government Code, relating to the Political Reform Act of 1974.",
+    "impact_clause": "An act to add Section 91013.1 to the Government Code, relating to the Political Reform Act of 1974.",
     "tags": [
-      "fiscal committee",
-      "local program"
+      "fiscal committee"
     ]
   },
   "jurisdiction": {
@@ -195,6 +231,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:13Z"
+    "logs_latest_update": "2026-01-06T12:58:57Z"
   }
 }

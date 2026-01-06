@@ -1,22 +1,26 @@
 {
   "legislative_session": "20252026",
   "identifier": "SB99",
-  "title": "Family childcare homes: United States Armed Forces.",
+  "title": "Military protective orders.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Familychildcarehomes",
-    "UnitedStatesArmedForces"
+    "Militaryprotectiveorders"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, the California Child Day Care Facilities Act, generally requires the State Department of Social Services to license and regulate various types of child daycare facilities, including, among others, daycare centers and family daycare homes. Under existing law, a willful or repeated violation of those provisions is a crime. Existing law exempts from those provisions various entities, including, among others, community care facilities, certain program facilities administered by the Department of Corrections and Rehabilitation, and extended daycare programs operated by public or private schools.\n\nThis bill would also exempt, from the above-described licensing provisions, a family childcare home administered by a person certified as a family childcare provider by a branch of the United States Armed Forces and that exclusively provides care for children of eligible federal personnel, as defined, and surviving spouses.\n\nThe bill would impose certain requirements on a military installation certifying a family childcare home in order for the home to qualify for an exemption. The bill would require the military installation to annually file with the department a list of exempt but certified facilities; report to the department all incidents involving physical injury to, or death of, children attending the program; require providers to post a certain notice about the status of the facility; and certify that the facility meets the health and safety requirements set forth in related state regulations, except for obtaining or maintaining a license. The bill would also require each provider to meet certain criteria relating to, among other things, an emergency preparedness plan, inspections, and attendance records.\n\nThe bill would authorize the department to inspect those exempt family childcare homes to determine compliance with these provisions, and would require the department to develop and establish, by July 1, 2026, a policy for those family childcare homes. The bill would require that the policy address the above-described health and safety requirements and provider criteria, in addition to any procedures or requirements relating to enforcement, reporting, or corrective action, as specified. The bill would require the department to publish the policy on its internet website and to update the policy as necessary.\n\nThe bill would require prioritization for annual inspections in the case of a facility that is subject to the requirements of the California Child Day Care Facilities Act, whether licensed or exempt from licensure, including, but not limited to, a family childcare home, if the facility is participating in a county quality improvement program through a certain quality rating improvement system, as part of participating in a fee assistance program administered by the United States Department of Defense."
+      "abstract": "Existing law establishes the Domestic Violence Prevention Act for the purpose of preventing acts of domestic violence, abuse, and sexual abuse and providing for a separation of the persons involved in the domestic violence for a period sufficient to enable those persons to seek a resolution of the causes of the violence. Existing law authorizes a court to issue an ex parte protective order enjoining a party from, among other things, stalking, battering, or disturbing the peace of the other party. Existing law requires the court, before a hearing on the issuance of a domestic violence restraining order, to ensure that a search is or has been conducted to determine, among other things, if the subject of the proposed order has specified prior criminal convictions, an outstanding warrant, or a prior restraining order or violation of a restraining order.\n\nThis bill would additionally require the court to determine if the subject of the proposed order has a current or prior military protective order or prior violation of a military protective order, as specified. The bill would additionally make military protective orders constitute a prima facie case for granting a temporary restraining order.\n\nThe bill would additionally require a law enforcement officer who receives information at the scene of a domestic violence incident that a military protective order has been issued to verify the existence of that order. The bill would require a law enforcement officer who determines that a military protective order has been issued against a person who violates a provision of a domestic violence protective order who is a member of, or otherwise associated with, the Armed Forces of the United States, to notify the law enforcement agency that entered the military protective order that the officer has probable cause to believe the person has violated the military protective order. By increasing duties on local law enforcement, this bill would impose a state-mandated local program.\n\nThe bill would authorize each county law enforcement agency to develop and adopt memoranda of understanding with military law enforcement or other designated representatives of one or more military installations located in whole or in part within the borders of its jurisdiction that govern the investigation and actions related to domestic violence involving service members assigned to units on those installations, as specified.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Family childcare homes: United States Armed Forces."
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -216,6 +220,74 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:07Z"
       }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on APPR.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
+    },
+    {
+      "description": "Withdrawn from committee.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on RLS.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
+    },
+    {
+      "description": "Re-referred to Coms. on PUB. S. and JUD.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Coms. on PUB. S. and JUD.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -225,150 +297,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Blakespear\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Quirk-Silva",
-      "classification": "principal coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Quirk-Silva\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Alvarado-Gil",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Alvarado-Gil\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Ashby",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Ashby\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Dahle",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Dahle\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Lim\u00f3n",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Lim\\u00f3n\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Ochoa Bogh",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Ochoa Bogh\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Rubio",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Rubio\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Seyarto",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Seyarto\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Valladares",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Valladares\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Weber Pierson",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Weber Pierson\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Davies",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Davies\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Lackey",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Lackey\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Macedo",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Macedo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Muratsuchi",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Muratsuchi\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Blanca Rubio",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Blanca Rubio\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Stefani",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Stefani\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Tangipa",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Tangipa\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Wilson",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Wilson\"}",
       "organization_id": null
     }
   ],
@@ -417,6 +345,17 @@
       ],
       "date": "2025-04-23",
       "classification": ""
+    },
+    {
+      "note": "01/05/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB99&version=20250SB9996AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-05",
+      "classification": ""
     }
   ],
   "documents": [
@@ -462,9 +401,10 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Section 1596.792 of, and to add Section 1596.7921 to, the Health and Safety Code, relating to childcare.",
+    "impact_clause": "An act to amend Sections 6306 and 6383 of, and to add Section 6326.5 to, the Family Code, relating to protective orders.",
     "tags": [
-      "fiscal committee"
+      "fiscal committee",
+      "local program"
     ]
   },
   "jurisdiction": {
@@ -474,6 +414,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:07Z"
+    "logs_latest_update": "2026-01-06T12:58:57Z"
   }
 }

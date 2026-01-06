@@ -1,23 +1,28 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB1351",
-  "title": "Pupils: work permits: online database.",
+  "title": "Pupils: school attendance: residency requirements.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
     "Pupils",
-    "onlinedatabase",
-    "workpermits"
+    "residencyrequirements",
+    "schoolattendance"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law authorizes certain educational officers to issue a work permit to a pupil upon receipt of a written request from a parent, guardian, foster parent, or other specified person, as provided. Existing law prohibits a person, firm, or corporation from employing, suffering, or permitting a minor under 18 years of age to work in or in connection with any establishment or occupation without a permit to employ, issued by the proper educational officers, as specified. Existing law provides that a permit to work issued during the school year expires 5 days after the opening of the next succeeding school year.\n\nThis bill would require, commencing with the 2030\u201331 school year, all active work permits issued to a pupil pursuant to the above-described provisions, and any work permits issued to a pupil thereafter, to be uploaded to an online database, to be known as the Youth Employment System (YES) , which the bill would require the State Department of Education to create on or before December 31, 2029, as provided."
+      "abstract": "Under existing law, each person between 6 and 18 years of age, inclusive, who is not otherwise exempt is subject to compulsory full-time education. Existing law requires each person subject to compulsory full-time education to attend the public full-time day school and for the full time designated as the length of the schoolday by the governing board of the school district in which the residency of either the parent or legal guardian is located, except that a pupil is deemed to have complied with those residency requirements if the pupil meets specified criteria, including if the pupil is a foster child who remains in their school of origin, as provided.\n\nThis bill would expressly define the term \"foster youth\" for purposes of the latter provision."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Pupils: work permits: online database."
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -81,6 +86,31 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:17Z"
       }
+    },
+    {
+      "description": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
+    },
+    {
+      "description": "From committee chair, with author's amendments: Amend, and re-refer to Com. on ED. Read second time and amended.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -116,6 +146,17 @@
       ],
       "date": "2025-02-21",
       "classification": ""
+    },
+    {
+      "note": "01/05/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1351&version=20250AB135198AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-05",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -127,10 +168,8 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to add Section 49110.2 to the Education Code, relating to pupils.",
-    "tags": [
-      "fiscal committee"
-    ]
+    "impact_clause": "An act to amend Section 48204 of the Education Code, relating to pupils.",
+    "tags": []
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ca/government",
@@ -139,6 +178,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:17Z"
+    "logs_latest_update": "2026-01-06T12:58:57Z"
   }
 }

@@ -1,26 +1,30 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB1323",
-  "title": "County employees' retirement: administration: Orange County.",
+  "title": "County employees' retirement: administration: retirement board member compensation for meetings.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
     "Countyemployees'retirement",
-    "OrangeCounty",
-    "administration"
+    "administration",
+    "retirementboardmembercompensationformeetings"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, the County Employees Retirement Law of 1937, authorizes counties to establish retirement systems pursuant to its provisions in order to provide pension benefits to county, city, and district employees and their beneficiaries. Existing law sets forth the membership composition for boards of retirement and boards of investment, as specified. Existing law authorizes the board of supervisors for counties for which these provisions apply to provide that certain members of these boards shall receive compensation at a rate of not more than $100 for a meeting or for a meeting of a committee authorized by the entire board. \n\nThis bill would authorize the above-described compensation rate to be increased by the board of retirement, for members in Orange County only, to not more than $320 per meeting.\n\nThis bill would make legislative findings and declarations as to the necessity of a special statute for Orange County."
+      "abstract": "Existing law, the County Employees Retirement Law of 1937, authorizes counties to establish retirement systems pursuant to its provisions in order to provide pension benefits to county, city, and district employees and their beneficiaries. Existing law sets forth the membership composition for boards of retirement and boards of investment, as specified. Existing law authorizes the board of supervisors for counties for which these provisions apply to provide that certain members of these boards shall receive compensation at a rate of not more than $100 for a meeting or for a meeting of a committee authorized by the entire board. \n\nThis bill would authorize the board of supervisors to adopt a provision that would authorize the board of retirement to increase the above-described compensation limit by an amount not to exceed 5% of the rate for each calendar year following the operative date of the last adjustment."
     }
   ],
   "other_titles": [
     {
       "note": "",
       "title": "Public retirement."
+    },
+    {
+      "note": "",
+      "title": "County employees' retirement: administration: Orange County."
     }
   ],
   "other_identifiers": [],
@@ -119,6 +123,21 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:09Z"
       }
+    },
+    {
+      "description": "From committee chair, with author's amendments: Amend, and re-refer to Com. on P. E. & R. Read second time and amended.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -165,6 +184,17 @@
       ],
       "date": "2025-03-24",
       "classification": ""
+    },
+    {
+      "note": "01/05/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1323&version=20250AB132397AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-05",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -186,6 +216,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:09Z"
+    "logs_latest_update": "2026-01-06T12:58:57Z"
   }
 }

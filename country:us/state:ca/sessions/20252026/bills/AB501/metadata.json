@@ -1,29 +1,32 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB501",
-  "title": "Liens on aircraft: sale.",
+  "title": "Lawsuits, liens, and other encumbrances.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Liensonaircraft",
-    "sale"
+    "Lawsuits,liens,andotherencumbrances"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Under existing law a person has a lien, dependent upon possession, for the amount the person is owed for any services, materials, or storage provided for any aircraft, unless specified exceptions apply. If the lienholder is not paid the amount due within 10 days of its due date, the lienholder may sell the property at public auction. Prior to selling the property, the lienholder must publish a notice of sale in a newspaper published in the county or, if there is no such newspaper, in three of the most public places in the city or place where airplanes are sold, as specified.\n\nThis bill would increase the notice requirement to require the lienholder, where there is no newspaper in the county, to publish a notice of sale in five of the most public places in the city or place where airplanes are sold and, if known, at the airport at which the aircraft is located."
+      "abstract": "Existing law prohibits a person from filing or recording, or directing another to file or record, a lawsuit, lien, or other encumbrance against any person or entity, knowing that it is false, with the intent to harass the person or entity or to influence or hinder the person in discharging their official duties if the person is a public officer or employee. Existing law also provides that a person who files a lawsuit, lien, or other encumbrance against any person or entity in violation of this prohibition is liable for a civil penalty not to exceed $5,000.\n\nThis bill would instead provide that a person who files a lawsuit, lien, or other encumbrance against a person or entity in violation of the above-described prohibition is liable for a civil penalty not to exceed $15,000.\n\nThe Uniform Commercial Code-Secured Transactions governs security interests in collateral, including personal property and fixtures, as well as certain sales of accounts, contract rights, and chattel paper. That code, among other things, specifies requirements and procedures regarding perfecting a security interest, including the filing of a financing statement with the Secretary of State. Existing law specifies that a financing statement is sufficient if it provides, among other things, the name of the debtor. If it is established that a secured party is not proceeding in accordance with the code, existing law authorizes a court to restrain collection, enforcement, or disposition of collateral on appropriate terms and conditions.\n\nThis bill would require the Secretary of State to notify the debtor named in the financing statement within 21 days after the financing statement is filed. The bill would additionally require any court fees incurred by a debtor to be paid at the end of the judicial proceeding, as specified. The bill would also make any party deemed to have violated above-described provision regarding lawsuits, liens, or other encumbrances liable to the debtor for three times all of the court fees paid."
     }
   ],
   "other_titles": [
+    {
+      "note": "",
+      "title": "Nonprofit mutual benefit corporations: formation."
+    },
     {
       "note": "",
       "title": "Startup venture capital nonprofits: transfers."
     },
     {
       "note": "",
-      "title": "Nonprofit mutual benefit corporations: formation."
+      "title": "Liens on aircraft: sale."
     }
   ],
   "other_identifiers": [],
@@ -194,6 +197,57 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:12Z"
       }
+    },
+    {
+      "description": "From committee chair, with author's amendments: Amend, and re-refer to Com. on JUD. Read second time and amended.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on JUD.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on JUD.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
+    },
+    {
+      "description": "Re-referred to Coms. on B. & F. and JUD. pursuant to Assembly Rule 96.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Coms. on B. & F. and JUD. pursuant to Assembly Rule 96.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -262,6 +316,17 @@
       ],
       "date": "2025-05-12",
       "classification": ""
+    },
+    {
+      "note": "01/05/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB501&version=20250AB50195AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-05",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -273,8 +338,10 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Section 1208.66 of the Code of Civil Procedure, relating to civil proceedings.",
-    "tags": []
+    "impact_clause": "An act to amend Section 765.040 of the Code of Civil Procedure, and to amend Section 9625 of, and to add Section 9529 to, the Commercial Code, relating to civil proceedings.",
+    "tags": [
+      "fiscal committee"
+    ]
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ca/government",
@@ -283,6 +350,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:12Z"
+    "logs_latest_update": "2026-01-06T12:58:57Z"
   }
 }

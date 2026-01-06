@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, the Contractors State License Law, establishes the Contractors State License Board in the Department of Consumer Affairs to license and regulate contractors. Existing law prohibits a person engaging in the business or acting in the capacity of a contractor from recovering compensation for work performed that requires a contractor's license unless the person was a duly licensed contractor at all times during the performance of the act or contract, except as specified.\n\nThis bill, for construction work other than private construction work for residential real property of 25 units or less, would instead prohibit the collection of compensation for the period of time where the person was unlicensed. If the person's license was suspended only because of an administrative purpose, including failing to renew their license on time, the bill would limit the amount the person is ineligible to recover to actual damages or $10,000 per day, whichever is greater.\n\nExisting law makes a security interest taken to secure a payment for the performance of an act or contract that requires a contractor's license unenforceable if the person performing the act or contract was not a duly licensed contractor at all times during the performance of the act or contract.\n\nThis bill, for construction work other than private construction work for residential real property of 25 units or less, would limit the unenforceability of the security interest to any period of time when the person performing the act or contract is not licensed.\n\nExisting law authorizes a person who uses the services of an unlicensed contractor to bring an action to recover all compensation paid to the unlicensed contractor for performance of any act or contract.\n\nThis bill would limit the application of that authorization to private construction work for residential real property of 25 units or less."
+      "abstract": "Existing law, the Contractors State License Law, establishes the Contractors State License Board in the Department of Consumer Affairs to license and regulate contractors. Existing law prohibits a person engaging in the business or acting in the capacity of a contractor from recovering compensation for work performed that requires a contractor's license unless the person was a duly licensed contractor at all times during the performance of the act or contract, except as specified.\n\nThis bill would instead allow that person to recover compensation for that work if the person was a duly licensed contractor at the time the contract was executed and during the portion of the times of the performance of that act or contract for which they are seeking to recover compensation.\n\nExisting law authorizes a person who uses the services of an unlicensed contractor to bring an action to recover all compensation paid to the unlicensed contractor for performance of any act or contract.\n\nThis bill would instead authorize that person to recover the portion of compensation paid to the unlicensed contractor for work performed during the time in which the contractor was unlicensed."
     }
   ],
   "other_titles": [
@@ -104,6 +104,28 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:12Z"
       }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on B. P. & E.D.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on B. P. & E.D.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -150,6 +172,17 @@
       ],
       "date": "2025-03-17",
       "classification": ""
+    },
+    {
+      "note": "01/05/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB342&version=20250SB34297AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-05",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -173,6 +206,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:12Z"
+    "logs_latest_update": "2026-01-06T12:58:57Z"
   }
 }

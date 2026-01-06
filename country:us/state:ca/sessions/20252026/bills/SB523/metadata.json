@@ -1,25 +1,28 @@
 {
   "legislative_session": "20252026",
   "identifier": "SB523",
-  "title": "California Earthquake Authority: commission.",
+  "title": "Fire insurance.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "CaliforniaEarthquakeAuthority",
-    "commission"
+    "Fireinsurance"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law establishes the California Earthquake Authority (CEA) , administered under the authority of the Insurance Commissioner and governed by a 3-member governing board, to transact insurance in this state as necessary to sell policies of basic residential earthquake insurance. Under existing law, the CEA's governing board is advised by an appointed advisory panel. \n\nThis bill would require the CEA to establish a commission, to convene no later than April 1, 2026, to consider expanding the authority. The bill would require the commission to be composed of the board members or their designees. The bill would also require the commission to explore specified topics, including financial estimates for statewide earthquake threats. The bill would require the commission to conclude its work no later than April 1, 2027, and to submit a report to the Legislature no later than June 1, 2027, on the feasibility of creating a disaster insurance program in California. The bill would repeal these provisions on June 1, 2031."
+      "abstract": "Existing law generally regulates classes of insurance, including residential property insurance. Existing law prescribes the standard form for fire insurance policies covering property.\n\nThis bill would, under a homeowners' insurance policy, authorize an insurer to differentiate the risk of an internal fire from the risk of an external fire for the purposes of determining coverage. The bill would define terms for purposes of this provision."
     }
   ],
   "other_titles": [
     {
       "note": "",
       "title": "Individuals with disabilities or medical conditions."
+    },
+    {
+      "note": "",
+      "title": "California Earthquake Authority: commission."
     }
   ],
   "other_identifiers": [],
@@ -104,6 +107,28 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:11Z"
       }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on INS.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on INS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -150,6 +175,17 @@
       ],
       "date": "2025-03-24",
       "classification": ""
+    },
+    {
+      "note": "01/05/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB523&version=20250SB52397AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-05",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -161,10 +197,8 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to add and repeal Section 10089.56 of the Insurance Code, relating to insurance.",
-    "tags": [
-      "fiscal committee"
-    ]
+    "impact_clause": "An act to add Section 2059 to the Insurance Code, relating to insurance.",
+    "tags": []
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ca/government",
@@ -173,6 +207,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:11Z"
+    "logs_latest_update": "2026-01-06T12:58:57Z"
   }
 }

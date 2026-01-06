@@ -1,23 +1,28 @@
 {
   "legislative_session": "20252026",
   "identifier": "SB308",
-  "title": "Community colleges and the California State University: reports: elimination.",
+  "title": "Community colleges: audits: reports.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "CommunitycollegesandtheCaliforniaStateUniversity",
-    "elimination",
+    "Communitycolleges",
+    "audits",
     "reports"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law establishes the California Community Colleges and the California State University as 2 of the 3 segments of public postsecondary education in the state. Existing law requires the office of the Chancellor of California Community Colleges and the office of the Chancellor of the California State University to submit various reports to policy and fiscal committees of the Legislature, the Legislature, the Governor, and state agencies.\n\nThis bill, notwithstanding any other law, would no longer require the chancellors' offices of these 2 segments to provide reports that they deem obsolete, unnecessary, or outdated. The bill would list specific reports as no longer required under the bill's provisions, including certain reports related to (1) data and information, (2) year-round academic programs, (3) student transfer and performance measures, (4) property waivers, and (5) accounting, budget controls, and audits."
+      "abstract": "Existing law establishes the California Community Colleges, under the administration of the Board of Governors of the California Community Colleges, as one of the segments of public postsecondary education in the state. Existing law requires the board of governors to adopt criteria and standards for periodic assessment of the fiscal condition of community college districts. In so doing, existing law requires the board of governors to develop, by regulation, appropriate procedures and actions for community college districts that fail to achieve fiscal stability or that fail to comply with the board of governors' recommendations, and to report to the chairs of the educational policy and fiscal committees of both houses of the Legislature, the Director of Finance, and the Governor, related corrective actions taken by the community college district and related actions taken against the community college district.\n\nThis bill would additionally require the board of governors to submit the above-described report to the Joint Legislative Audit Committee. Beginning in the 2027\u201328 fiscal year, the bill would also require the report to be submitted with the below-described report related to community college district audits.\n\nExisting law requires the board of governors to annually submit a report to the Joint Legislative Audit Committee on the number and nature of audit exceptions and estimated amount of funds involved in the exceptions, a list of community college districts that failed to file their audits under existing law, and the actions taken by the State Department of Education to eliminate audit exceptions and comply with management improvement recommendations.\n\nThis bill would additionally require the board of governors to report that information to the educational policy and fiscal committees of both houses of the Legislature, the Director of Finance, and the Governor. Beginning in the 2027\u201328 fiscal year, the bill would also require the report to be submitted with the above-described report related to corrective actions taken by, and actions taken against, a community college district."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Community colleges and the California State University: reports: elimination."
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -80,6 +85,28 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:13Z"
       }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on ED.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on ED.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:58:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -115,6 +142,17 @@
       ],
       "date": "2025-02-10",
       "classification": ""
+    },
+    {
+      "note": "01/05/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB308&version=20250SB30898AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-05",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -126,7 +164,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to add Section 66017.5 to the Education Code, relating to public postsecondary education.",
+    "impact_clause": "An act to amend Sections 84040 and 84040.6 of the Education Code, relating to community colleges.",
     "tags": [
       "fiscal committee"
     ]
@@ -138,6 +176,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:13Z"
+    "logs_latest_update": "2026-01-06T12:58:57Z"
   }
 }
