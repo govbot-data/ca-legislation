@@ -143,6 +143,24 @@
       "_processing": {
         "log_file_created": "2026-01-06T12:58:57Z"
       }
+    },
+    {
+      "description": "Re-referred to Com. on REV. & TAX.",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on REV. & TAX.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-07T13:00:04Z"
+      }
     }
   ],
   "sponsorships": [
@@ -236,6 +254,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-06T12:58:57Z"
+    "logs_latest_update": "2026-01-07T13:00:04Z"
   }
 }

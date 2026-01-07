@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law requires the Department of Technology to annually submit to certain legislative committees a report regarding a specified required comprehensive inventory of all high-risk automated decision systems that have been, or are being, used, developed, or procured by a state agency. Existing law defines \"high-risk automated decision system\" to mean an automated decision system that is used to assist or replace human discretionary decisions that have a legal or similarly significant effect, including decisions that materially impact access to, or approval for, housing or accommodations, education, employment, credit, health care, and criminal justice.\n\nThis bill would except from the definition of \"high-risk automated decision system\" an automated decision system developed and used exclusively for purposes of verifying a person's eligibility for social services benefits and programs that meets certain criteria, including that the automated decision system output is used in a determinative manner only if the output affirms benefit eligibility, and outputs from the automated decision system that indicate that an applicant is not eligible are disregarded pending review by a human analyst."
+      "abstract": "Existing law, until January 1, 2029, requires the Department of Technology to annually submit to certain legislative committees a report regarding a specified required comprehensive inventory of all high-risk automated decision systems that have been, or are being, used, developed, or procured by a state agency.\n\nThis bill would extend that reporting requirement until January 1, 2032."
     }
   ],
   "other_titles": [
@@ -208,6 +208,38 @@
       "_processing": {
         "log_file_created": "2026-01-06T12:58:57Z"
       }
+    },
+    {
+      "description": "Set for hearing January 13.",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-07T13:00:04Z"
+      }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on G.O.",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on G.O.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-07T13:00:04Z"
+      }
     }
   ],
   "sponsorships": [
@@ -265,6 +297,17 @@
       ],
       "date": "2026-01-05",
       "classification": ""
+    },
+    {
+      "note": "01/06/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB719&version=20250SB71996AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-06",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -288,6 +331,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-06T12:58:57Z"
+    "logs_latest_update": "2026-01-07T13:00:04Z"
   }
 }
