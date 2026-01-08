@@ -68,6 +68,26 @@
       "_processing": {
         "log_file_created": "2026-01-06T12:58:57Z"
       }
+    },
+    {
+      "description": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 8. Noes 1.) (January 6). Re-referred to Com. on APPR.",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-08T13:00:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -307,6 +327,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-06T12:58:57Z"
+    "logs_latest_update": "2026-01-08T13:00:59Z"
   }
 }

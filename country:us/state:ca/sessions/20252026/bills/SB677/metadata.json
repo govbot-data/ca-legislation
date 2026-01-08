@@ -183,6 +183,30 @@
       "_processing": {
         "log_file_created": "2026-01-06T12:58:57Z"
       }
+    },
+    {
+      "description": "Set for hearing January 14 in L. GOV. pending receipt.",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T13:00:59Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass as amended and re-refer to Com. on L. GOV. (Ayes 10. Noes 1.) (January 6).",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T13:00:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -298,6 +322,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-06T12:58:57Z"
+    "logs_latest_update": "2026-01-08T13:00:59Z"
   }
 }

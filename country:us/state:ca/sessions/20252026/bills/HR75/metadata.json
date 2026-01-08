@@ -22,17 +22,21 @@
       "_processing": {
         "log_file_created": "2026-01-06T12:58:57Z"
       }
+    },
+    {
+      "description": "Introduced measure version corrected.",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T13:00:59Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Bonta",
-      "classification": "principal coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Bonta\"}",
-      "organization_id": null
-    },
     {
       "name": "Pellerin",
       "classification": "author",
@@ -42,11 +46,27 @@
       "organization_id": null
     },
     {
+      "name": "Bonta",
+      "classification": "principal coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bonta\"}",
+      "organization_id": null
+    },
+    {
       "name": "Aguiar-Curry",
       "classification": "coauthor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Aguiar-Curry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "\u00c1vila Far\u00edas",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"\\u00c1vila Far\\u00edas\"}",
       "organization_id": null
     },
     {
@@ -176,14 +196,6 @@
       "primary": false,
       "person_id": "~{\"name\": \"Zbur\"}",
       "organization_id": null
-    },
-    {
-      "name": "\u00c1vila Far\u00edas",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"\\u00c1vila Far\\u00edas\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -230,6 +242,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-06T12:58:57Z"
+    "logs_latest_update": "2026-01-08T13:00:59Z"
   }
 }
