@@ -231,6 +231,42 @@
       "_processing": {
         "log_file_created": "2026-01-08T13:00:59Z"
       }
+    },
+    {
+      "description": "Re-referred to Com. on RLS. pursuant to Senate Rule 29.10(c) .",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS. pursuant to Senate Rule 29.10(c) .",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:59:43Z"
+      }
+    },
+    {
+      "description": "Re-referred to Coms. on HUMAN S. and E.Q.",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Coms. on HUMAN S. and E.Q.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:59:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -353,6 +389,17 @@
       ],
       "date": "2025-05-08",
       "classification": "analysis"
+    },
+    {
+      "note": "01/08/26- Senate Human Services",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB299&analysisId=393758&analyzingOffice=Senate+Human+Services",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-08",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -376,6 +423,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-08T13:00:59Z"
+    "logs_latest_update": "2026-01-09T12:59:43Z"
   }
 }

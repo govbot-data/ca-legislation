@@ -172,6 +172,44 @@
       "_processing": {
         "log_file_created": "2026-01-07T13:00:04Z"
       }
+    },
+    {
+      "description": "Re-referred to Coms. on PUB. S. and HUM. S. pursuant to Assembly Rule 96.",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Coms. on PUB. S. and HUM. S. pursuant to Assembly Rule 96.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:59:43Z"
+      }
+    },
+    {
+      "description": "Assembly Rule 56 suspended.",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:59:43Z"
+      }
+    },
+    {
+      "description": "(Pending re-refer to Com. on HUM. S.)",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:59:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -264,6 +302,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-07T13:00:04Z"
+    "logs_latest_update": "2026-01-09T12:59:43Z"
   }
 }

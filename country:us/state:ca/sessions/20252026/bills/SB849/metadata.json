@@ -20,11 +20,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "University of California: programs and initiatives: report."
+      "title": "Unclaimed property: class action settlements."
     },
     {
       "note": "",
-      "title": "Unclaimed property: class action settlements."
+      "title": "University of California: programs and initiatives: report."
     }
   ],
   "other_identifiers": [],
@@ -188,6 +188,16 @@
       "_processing": {
         "log_file_created": "2026-01-06T12:58:57Z"
       }
+    },
+    {
+      "description": "Set for hearing January 12.",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:59:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -247,7 +257,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "01/08/26- Senate Business, Professions and Economic Development",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB849&analysisId=393763&analyzingOffice=Senate+Business,+Professions+and+Economic+Development",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-08",
+      "classification": "analysis"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -268,6 +290,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-06T12:58:57Z"
+    "logs_latest_update": "2026-01-09T12:59:43Z"
   }
 }

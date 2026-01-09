@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law requires that a housing development project, as defined, within a specified distance of a transit-oriented development (TOD) stop, as defined, be an allowed use as a transit-oriented housing development on any site zoned for residential, mixed, or commercial development, if the development complies with certain applicable requirements, as provided. Among these requirements, existing law establishes requirements concerning height limits, density, and residential floor area ratio in accordance with a development's proximity to specified tiers of TOD stops, as provided; prohibits a proposed development under these provisions from being located on sites where the development would require demolition of housing, or that was previously used for housing, that is subject to rent or price controls, as provided; and requires a development to meet specified labor standards that require that a specified affidavit be signed under penalty of perjury, under specified circumstances. Existing law specifies that a development proposed pursuant to these provisions is eligible for streamlined, ministerial approval, as provided. Existing law defines, among other terms, the term \"transit-oriented development stop\" for purposes of these provisions to mean a major transit stop, as defined by specified law, and to additionally include stops on a route for which a preferred alternative has been selected or are identified in a regional transportation improvement program, that is served by specified types of transit services, exclusive of certain new transit routes or extensions not identified in the applicable regional transportation plan on or before January 1, 2026, as specified. Existing law also defines the term \"Tier 2 transit-oriented development stop\" for these purposes to mean a TOD stop within an urban transit county, as defined, excluding a Tier 1 transit-oriented development stop, as defined, served by light rail transit, by high-frequency commuter rail, or by bus service meeting specified standards.\n\nThis bill would revise the definition of \"transit-oriented development stop\" to instead mean a major transit stop, as defined, that is served by the above-described types of transit services, exclusive of any newly planned transit route or extension that was not identified in the applicable regional transportation plan on or before January 1, 2026, as specified. The bill would also revise the definitions of \"transit-oriented development stop\" and \"Tier 2 transit-oriented development stop\" to include stops served by high-frequency ferry service, as defined. The bill would delete the definition of \"rail transit\" and, instead, define the term \"rail transit station\" for purposes of these provisions, as specified. The bill would additionally prohibit a transit-oriented housing development under these provisions from being located on an existing parcel of land or site governed under the Mobilehome Residency Law, the Recreational Vehicle Park Occupancy Law, the Mobilehome Parks Act, or the Special Occupancy Parks Act. By increasing the duties of local officials, and by expanding the crime of perjury, this bill would impose a state-mandated local program.\n\nExisting law authorizes a transit agency's board of directors to adopt agency TOD zoning standards for district-owned real property located in a TOD zone, as defined, which establishes minimum zoning requirements for an agency TOD project for, among other things, residential floor area ratio, as provided.\n\nThis bill would remove the specification that the TOD zoning standards for floor area ratio be for residential floor area ratio only, thereby requiring that the ordinance establish floor area ratio standards generally for district-owned real property within the TOD zone.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for specified reasons."
+      "abstract": "Existing law requires that a housing development project, as defined, within a specified distance of a transit-oriented development (TOD) stop, as defined, be an allowed use as a transit-oriented housing development on any site zoned for residential, mixed, or commercial development, if the development complies with certain applicable requirements, as provided. Among these requirements, existing law establishes requirements concerning height limits, density, and residential floor area ratio in accordance with a development's proximity to specified tiers of TOD stops, as provided, and requires a development to meet specified labor standards that require that a specified affidavit be signed under penalty of perjury, under specified circumstances. Existing law specifies that a development proposed pursuant to these provisions is eligible for streamlined, ministerial approval, as provided. Existing law defines, among other terms, the term \"high-frequency commuter rail\" for purposes of these provisions to mean a commuter rail service operating a total of at least 48 trains per day across both directions, not including temporary service changes of less than one month or unplanned disruptions, and not meeting the standard for very high frequency commuter rail, at any point in the past three years. Existing law also defines the term \"Tier 2 transit-oriented development stop\" for these purposes to mean a TOD stop within an urban transit county, as defined, excluding a Tier 1 transit-oriented development stop, as defined, served by light rail transit, by high-frequency commuter rail, or by bus service meeting specified standards.\n\nThis bill would revise the definition of \"high-frequency commuter rail\" to instead mean a public commuter or intercity rail station with a total of at least 48 passenger trains on average per weekday across all directions, not including temporary service changes of less than one month or unplanned disruptions, and not meeting the standard for very high frequency commuter rail, at any point in the past three years. By increasing the duties of local officials, and by expanding the crime of perjury, this bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for specified reasons."
     }
   ],
   "other_titles": [
@@ -207,6 +207,27 @@
       "_processing": {
         "log_file_created": "2026-01-08T13:00:59Z"
       }
+    },
+    {
+      "description": "Read second time and amended. Re-referred to Com. on L. GOV.",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on L. GOV.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:59:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -275,6 +296,17 @@
       ],
       "date": "2026-01-05",
       "classification": ""
+    },
+    {
+      "note": "01/08/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB677&version=20250SB67795AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-08",
+      "classification": ""
     }
   ],
   "documents": [
@@ -309,7 +341,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Sections 65912.156, 65912.157, and 65912.158 of the Government Code, relating to land use.",
+    "impact_clause": "An act to amend Section 65912.156 of the Government Code, relating to land use.",
     "tags": [
       "fiscal committee",
       "local program"
@@ -322,6 +354,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-08T13:00:59Z"
+    "logs_latest_update": "2026-01-09T12:59:43Z"
   }
 }

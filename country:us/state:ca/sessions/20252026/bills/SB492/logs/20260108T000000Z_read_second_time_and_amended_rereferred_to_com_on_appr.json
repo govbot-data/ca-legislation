@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read second time and amended. Re-referred to Com. on APPR.",
+    "date": "2026-01-08",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage",
+      "reading-1",
+      "reading-2",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Com. on APPR.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB492"
+}

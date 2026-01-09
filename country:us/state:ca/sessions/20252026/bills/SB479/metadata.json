@@ -18,11 +18,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Cannabis: licensing: payment of goods and services."
+      "title": "Cannabis."
     },
     {
       "note": "",
-      "title": "Cannabis."
+      "title": "Cannabis: licensing: payment of goods and services."
     }
   ],
   "other_identifiers": [],
@@ -205,6 +205,16 @@
       "_processing": {
         "log_file_created": "2026-01-08T13:00:59Z"
       }
+    },
+    {
+      "description": "Set for hearing January 13 in JUD. pending receipt.",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:59:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -275,6 +285,17 @@
       ],
       "date": "2025-04-25",
       "classification": "analysis"
+    },
+    {
+      "note": "01/08/26- Senate Human Services",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB479&analysisId=393757&analyzingOffice=Senate+Human+Services",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-08",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -297,6 +318,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-08T13:00:59Z"
+    "logs_latest_update": "2026-01-09T12:59:43Z"
   }
 }
