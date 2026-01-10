@@ -29,6 +29,16 @@
       "_processing": {
         "log_file_created": "2026-01-09T12:59:43Z"
       }
+    },
+    {
+      "description": "From printer.",
+      "date": "2026-01-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-10T12:53:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -90,7 +100,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "01/09/26- Assembly Rules",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260ACR118&analysisId=393765&analyzingOffice=Assembly+Rules",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-09",
+      "classification": "analysis"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -109,6 +131,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-09T12:59:43Z"
+    "logs_latest_update": "2026-01-10T12:53:46Z"
   }
 }
