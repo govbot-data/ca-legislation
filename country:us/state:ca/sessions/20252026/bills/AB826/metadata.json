@@ -206,6 +206,16 @@
       "_processing": {
         "log_file_created": "2026-01-07T13:00:04Z"
       }
+    },
+    {
+      "description": "In committee: Set, second hearing. Hearing canceled at the request of author.",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-13T13:01:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -303,6 +313,17 @@
       ],
       "date": "2025-04-04",
       "classification": "analysis"
+    },
+    {
+      "note": "01/09/26- Assembly Judiciary",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB826&analysisId=393770&analyzingOffice=Assembly+Judiciary",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-09",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -323,6 +344,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-07T13:00:04Z"
+    "logs_latest_update": "2026-01-13T13:01:57Z"
   }
 }

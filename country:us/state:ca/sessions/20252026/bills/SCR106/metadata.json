@@ -48,6 +48,30 @@
       "_processing": {
         "log_file_created": "2026-01-09T12:59:43Z"
       }
+    },
+    {
+      "description": "Read. Adopted. (Ayes 38. Noes 0.) Ordered to the Assembly.",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "passage",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-13T13:01:57Z"
+      }
+    },
+    {
+      "description": "In Assembly. Held at Desk.",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-13T13:01:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -116,6 +140,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-09T12:59:43Z"
+    "logs_latest_update": "2026-01-13T13:01:57Z"
   }
 }
