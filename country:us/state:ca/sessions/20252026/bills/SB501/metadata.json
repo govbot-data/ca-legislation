@@ -279,6 +279,20 @@
       "_processing": {
         "log_file_created": "2026-01-08T13:00:59Z"
       }
+    },
+    {
+      "description": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 5. Noes 2.) (January 13).",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-14T13:01:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -382,6 +396,17 @@
       ],
       "date": "2025-05-02",
       "classification": "analysis"
+    },
+    {
+      "note": "01/12/26- Senate Environmental Quality",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB501&analysisId=393856&analyzingOffice=Senate+Environmental+Quality",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-12",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -405,6 +430,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-08T13:00:59Z"
+    "logs_latest_update": "2026-01-14T13:01:29Z"
   }
 }

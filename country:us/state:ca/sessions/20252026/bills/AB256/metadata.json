@@ -108,6 +108,16 @@
       "_processing": {
         "log_file_created": "2026-01-07T13:00:04Z"
       }
+    },
+    {
+      "description": "In committee: Set, first hearing. Failed passage.",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-14T13:01:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -156,7 +166,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "01/12/26- Assembly Public Safety",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB256&analysisId=393839&analyzingOffice=Assembly+Public+Safety",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-12",
+      "classification": "analysis"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -178,6 +200,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-07T13:00:04Z"
+    "logs_latest_update": "2026-01-14T13:01:29Z"
   }
 }

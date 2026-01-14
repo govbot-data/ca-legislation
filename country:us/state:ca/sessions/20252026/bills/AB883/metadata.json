@@ -18,7 +18,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Data brokers: personal information of threatened elected officials, judges, and their immediate family members."
+      "title": "California Public Records Act."
     },
     {
       "note": "",
@@ -26,7 +26,7 @@
     },
     {
       "note": "",
-      "title": "California Public Records Act."
+      "title": "Data brokers: personal information of threatened elected officials, judges, and their immediate family members."
     }
   ],
   "other_identifiers": [],
@@ -197,6 +197,36 @@
       "_processing": {
         "log_file_created": "2026-01-09T12:59:43Z"
       }
+    },
+    {
+      "description": "Coauthors revised.",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-14T13:01:29Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 14. Noes 0.) (January 13). Re-referred to Com. on APPR.",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-14T13:01:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -206,6 +236,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Lowenthal\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryan",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bryan\"}",
       "organization_id": null
     }
   ],
@@ -267,7 +305,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "01/10/26- Assembly Privacy and Consumer Protection",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB883&analysisId=393825&analyzingOffice=Assembly+Privacy+and+Consumer+Protection",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-10",
+      "classification": "analysis"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -288,6 +338,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-09T12:59:43Z"
+    "logs_latest_update": "2026-01-14T13:01:29Z"
   }
 }

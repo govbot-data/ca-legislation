@@ -111,6 +111,28 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:09Z"
       }
+    },
+    {
+      "description": "In committee: Set, second hearing. Failed passage.",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-14T13:01:29Z"
+      }
+    },
+    {
+      "description": "From committee: Without further action pursuant to Joint Rule 62(a).",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-14T13:01:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -170,6 +192,17 @@
       ],
       "date": "2025-03-31",
       "classification": "analysis"
+    },
+    {
+      "note": "01/12/26- Assembly Public Safety",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1092&analysisId=393844&analyzingOffice=Assembly+Public+Safety",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-12",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -190,6 +223,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:09Z"
+    "logs_latest_update": "2026-01-14T13:01:29Z"
   }
 }

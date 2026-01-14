@@ -18,11 +18,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Student financial aid: online technology platforms: guidance: training: media campaign."
+      "title": "Postsecondary education: segments."
     },
     {
       "note": "",
-      "title": "Postsecondary education: segments."
+      "title": "Student financial aid: online technology platforms: guidance: training: media campaign."
     }
   ],
   "other_identifiers": [],
@@ -216,6 +216,26 @@
       "_processing": {
         "log_file_created": "2026-01-08T13:00:59Z"
       }
+    },
+    {
+      "description": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 5. Noes 0.) (January 12). Re-referred to Com. on APPR.",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-14T13:01:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -286,6 +306,17 @@
       ],
       "date": "2025-04-28",
       "classification": "analysis"
+    },
+    {
+      "note": "01/08/26- Senate Human Services",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB837&analysisId=393760&analyzingOffice=Senate+Human+Services",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-08",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -308,6 +339,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-08T13:00:59Z"
+    "logs_latest_update": "2026-01-14T13:01:29Z"
   }
 }

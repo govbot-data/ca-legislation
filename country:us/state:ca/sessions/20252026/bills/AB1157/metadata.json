@@ -167,9 +167,37 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:11Z"
       }
+    },
+    {
+      "description": "Coauthors revised.",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-14T13:01:29Z"
+      }
+    },
+    {
+      "description": "In committee: Set, second hearing. Failed passage.",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-14T13:01:29Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Kalra",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kalra\"}",
+      "organization_id": null
+    },
     {
       "name": "Bonta",
       "classification": "coauthor",
@@ -187,14 +215,6 @@
       "organization_id": null
     },
     {
-      "name": "Kalra",
-      "classification": "author",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Kalra\"}",
-      "organization_id": null
-    },
-    {
       "name": "Elhawary",
       "classification": "coauthor",
       "entity_type": "person",
@@ -208,6 +228,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Garcia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Haney",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Haney\"}",
       "organization_id": null
     },
     {
@@ -317,6 +345,17 @@
       ],
       "date": "2025-04-26",
       "classification": "analysis"
+    },
+    {
+      "note": "01/09/26- Assembly Judiciary",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1157&analysisId=393771&analyzingOffice=Assembly+Judiciary",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-09",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -340,6 +379,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:11Z"
+    "logs_latest_update": "2026-01-14T13:01:29Z"
   }
 }
