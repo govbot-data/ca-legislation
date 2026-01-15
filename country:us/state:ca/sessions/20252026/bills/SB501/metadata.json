@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, the Responsible Battery Recycling Act of 2022 (battery recycling act) , establishes a stewardship program, administered by the Department of Resources Recycling and Recovery, with the Department of Toxic Substances Control, as provided, for the collection, transportation, and recycling, and the safe and proper management, of covered batteries in the state in an economically efficient and practical manner. The battery recycling act defines a \"covered battery\" to mean a device consisting of one or more electrically connected electrochemical cells designed to receive, store, and deliver electric energy. Existing law defines a \"covered battery\" to include a loose battery that is designed to be easily removed from a product by the user of the product with no more than common household tools. Existing law excludes from the definition of a covered battery a primary battery weighing over 2 kilograms. Existing law defines a \"primary battery\" for this purpose to mean a nonrechargeable battery, including, but not limited to, alkaline, carbon-zinc, and lithium metal batteries. Existing law also excludes from the definition of a \"covered battery\" a rechargeable battery weighing over 5 kilograms and having a watthour rating of more than 300 watthours.\n\nThis bill would revise the description of a loose battery, for purposes of the definition of a covered battery, by providing that a key, application, or other locking device provided to the consumer by the producer of the product or battery that is warranted by the producer of the product or battery to serve solely to prevent theft of the battery or tampering by persons other than the consumer and not to inhibit the consumer's ability to remove, replace, or recycle the battery would not prevent a battery from being considered designed to be easily removed from a product by the user of the product with no more than common household tools. The bill would instead exclude from the definition of a covered battery a primary battery weighing over 25 pounds and any rechargeable battery weighing over 25 pounds, regardless of the watthour rating.\n\nThe battery recycling act requires all reports and records provided to the department to be provided under penalty of perjury.\n\nBy expanding the scope of the act, the bill would expand the scope of the crime of perjury, thereby imposing a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+      "abstract": "Existing law, the Responsible Battery Recycling Act of 2022 (battery recycling act) , establishes a stewardship program, administered by the Department of Resources Recycling and Recovery, with the Department of Toxic Substances Control, as provided, for the collection, transportation, and recycling, and the safe and proper management, of covered batteries in the state in an economically efficient and practical manner. The battery recycling act defines a \"covered battery\" to mean a device consisting of one or more electrically connected electrochemical cells designed to receive, store, and deliver electric energy. Existing law defines a \"covered battery\" to include a loose battery that is designed to be easily removed from a product by the user of the product with no more than common household tools. Existing law excludes from the definition of a covered battery a primary battery weighing over 2 kilograms. Existing law defines a \"primary battery\" for this purpose to mean a nonrechargeable battery, including, but not limited to, alkaline, carbon-zinc, and lithium metal batteries. Existing law also excludes from the definition of a covered battery a rechargeable battery weighing over 5 kilograms and having a watthour rating of more than 300 watthours.\n\nThis bill would revise the description of a loose battery, for purposes of the definition of a covered battery, by providing that a key, application, or other locking device provided to the consumer by the producer of the product or battery that is warranted by the producer of the product or battery to serve solely to prevent theft of the battery or tampering by persons other than the consumer and not to inhibit the consumer's ability to remove, replace, or recycle the battery would not prevent a battery from being considered designed to be easily removed from a product by the user of the product with no more than common household tools. The bill would remove the exclusions from the definition of a covered battery for a primary battery and a rechargeable battery, described above. The bill would categorize all covered batteries as either a small format battery or a medium format battery. The bill would define a \"small format battery\" to include a rechargeable battery weighing no more than 11 pounds with a rating of no more than 300 watthours and a nonrechargeable battery weighing no more than 4.4 pounds. The bill would define a \"medium format battery\" to include a rechargeable battery weighing more than 11 pounds but no more than 25 pounds, a rechargeable battery with a rating of more than 300 watthours but no more than 2,000 watthours, and a nonrechargeable battery weighing more than 4.4 pounds but fewer than 25 pounds.\n\nThe act requires a producer of covered batteries, individually or through a stewardship organization, to develop and implement a stewardship plan for the collection, transportation, and recycling, and the safe and proper management, of covered batteries in the state. The act requires the stewardship plan to describe how the producer or stewardship organization will provide a certain number of collection sites for covered batteries in each county, as provided.\n\nThis bill would instead require the stewardship plan to describe how the producer or stewardship organization will provide a certain number of collection sites for small format batteries and medium format batteries, as specified.\n\nThe battery recycling act requires all reports and records provided to the department to be provided under penalty of perjury.\n\nBy expanding the scope of the act, the bill would expand the scope of the crime of perjury, thereby imposing a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
     }
   ],
   "other_titles": [
@@ -293,6 +293,27 @@
       "_processing": {
         "log_file_created": "2026-01-14T13:01:29Z"
       }
+    },
+    {
+      "description": "Read second time and amended. Re-referred to Com. on APPR.",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-15T13:00:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -361,6 +382,17 @@
       ],
       "date": "2026-01-05",
       "classification": ""
+    },
+    {
+      "note": "01/14/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB501&version=20250SB50195AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
     }
   ],
   "documents": [
@@ -417,7 +449,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Section 42420.1 of the Public Resources Code, relating to solid waste.",
+    "impact_clause": "An act to amend Sections 42420.1, 42420.4, 42422.1, and 42424.1 of the Public Resources Code, relating to solid waste.",
     "tags": [
       "fiscal committee",
       "local program"
@@ -430,6 +462,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-14T13:01:29Z"
+    "logs_latest_update": "2026-01-15T13:00:32Z"
   }
 }

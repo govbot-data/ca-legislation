@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Native American Heritage Commission: powers and duties."
+      "title": "Native American resources."
     },
     {
       "note": "",
-      "title": "Native American resources."
+      "title": "Native American Heritage Commission: powers and duties."
     }
   ],
   "other_identifiers": [],
@@ -257,6 +257,26 @@
       "_processing": {
         "log_file_created": "2026-01-10T12:53:46Z"
       }
+    },
+    {
+      "description": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 7. Noes 0.) (January 14). Re-referred to Com. on APPR.",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-15T13:00:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -349,6 +369,17 @@
       ],
       "date": "2025-04-26",
       "classification": "analysis"
+    },
+    {
+      "note": "01/13/26- Assembly Agriculture",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB52&analysisId=393875&analyzingOffice=Assembly+Agriculture",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-13",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -371,6 +402,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-10T12:53:46Z"
+    "logs_latest_update": "2026-01-15T13:00:32Z"
   }
 }

@@ -79,6 +79,46 @@
       "_processing": {
         "log_file_created": "2026-01-10T12:53:46Z"
       }
+    },
+    {
+      "description": "From committee: Do pass and re-refer to Com. on M. & V.A. (Ayes 5. Noes 0.) (January 14). Re-referred to Com. on M. & V.A.",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on M. & V.A.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-15T13:00:32Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 3. Noes 0.) (January 14). Re-referred to Com. on APPR.",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-15T13:00:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -151,6 +191,17 @@
       ],
       "date": "2026-01-09",
       "classification": "analysis"
+    },
+    {
+      "note": "01/12/26- Senate Committee on Military and Veterans Affairs",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB623&analysisId=393866&analyzingOffice=Senate+Committee+on+Military+and+Veterans+Affairs",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-12",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -176,6 +227,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-10T12:53:46Z"
+    "logs_latest_update": "2026-01-15T13:00:32Z"
   }
 }

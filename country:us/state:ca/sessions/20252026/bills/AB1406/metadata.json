@@ -1,29 +1,33 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB1406",
-  "title": "Residential property contracts: liquidated damages.",
+  "title": "Attached residential condominium sales: liquidated damages.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Residentialpropertycontracts",
+    "Attachedresidentialcondominiumsales",
     "liquidateddamages"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law deems a provision in a contract to purchase and sell residential property that provides that all or any part of a payment made by the buyer constitutes liquidated damages to the seller upon the buyer's failure to complete the purchase of the property to be valid if certain conditions are satisfied, including, among others, whether the amount actually paid pursuant to the liquidated damages provision exceeds 3% of the purchase price.\n\nThis bill would delete the above-specified percent and, instead, apply 10%."
+      "abstract": "Existing law establishes that for the initial sale of a newly constructed condominium unit, as specified, the amount actually paid to the seller in the event of a buyer's default pursuant to a liquidated damages provision that exceeds 3% of the purchase price of the residential unit is subject to specified requirements, including an accounting of the seller's costs and revenues, as specified.\n\nThis bill would delete the above-specified percentage and, instead, increase that percentage to 10%."
     }
   ],
   "other_titles": [
     {
       "note": "",
-      "title": "Private investigators."
+      "title": "Residential property contracts: liquidated damages."
     },
     {
       "note": "",
       "title": "Subdivisions: disbursements of deposits."
+    },
+    {
+      "note": "",
+      "title": "Private investigators."
     }
   ],
   "other_identifiers": [],
@@ -179,6 +183,20 @@
       "_processing": {
         "log_file_created": "2026-01-14T13:01:29Z"
       }
+    },
+    {
+      "description": "Read second time and amended. Ordered returned to second reading.",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T13:00:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -252,6 +270,17 @@
       ],
       "date": "2026-01-05",
       "classification": ""
+    },
+    {
+      "note": "01/14/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1406&version=20250AB140696AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
     }
   ],
   "documents": [
@@ -285,6 +314,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-14T13:01:29Z"
+    "logs_latest_update": "2026-01-15T13:00:32Z"
   }
 }

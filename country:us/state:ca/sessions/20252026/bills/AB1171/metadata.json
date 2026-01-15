@@ -118,6 +118,21 @@
       "_processing": {
         "log_file_created": "2026-01-07T13:00:04Z"
       }
+    },
+    {
+      "description": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 7. Noes 1.) (January 13).",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T13:00:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -166,7 +181,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "01/12/26- Assembly Higher Education",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1171&analysisId=393852&analyzingOffice=Assembly+Higher+Education",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-12",
+      "classification": "analysis"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -188,6 +215,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-07T13:00:04Z"
+    "logs_latest_update": "2026-01-15T13:00:32Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "20252026",
   "identifier": "SB299",
-  "title": "California Environmental Quality Act: exemption: day care center: zoning.",
+  "title": "California Environmental Quality Act: exemption: day care center: family daycare home: zoning.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,18 +10,23 @@
     "CaliforniaEnvironmentalQualityAct",
     "daycarecenter",
     "exemption",
+    "familydaycarehome",
     "zoning"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment. \n\nExisting law exempts specified projects from CEQA, including a project that consists exclusively of a day care center, as defined, that is not located in a residential area.\n\nThis bill would instead provide that the above exemption from CEQA applies if the day care center is not located on a parcel of land zoned exclusively for residential use. The bill would additionally exempt from CEQA a project that consists exclusively of a family daycare home, as defined. By imposing additional duties on a lead agency to determine the applicability of these exemptions, the bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+      "abstract": "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment. \n\nExisting law exempts specified projects from CEQA, including a project that consists exclusively of a day care center, as defined, that is not located in a residential area.\n\nThis bill would exempt from CEQA a project that consists exclusively of a day care center or a family daycare home, as defined, that is located on a parcel of land zoned exclusively for residential use, except as provided. By imposing additional duties on a lead agency to determine the applicability of these exemptions, the bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
     }
   ],
   "other_titles": [
     {
       "note": "",
       "title": "Local government: ordinances."
+    },
+    {
+      "note": "",
+      "title": "California Environmental Quality Act: exemption: day care center: zoning."
     }
   ],
   "other_identifiers": [],
@@ -301,6 +306,27 @@
       "_processing": {
         "log_file_created": "2026-01-14T13:01:29Z"
       }
+    },
+    {
+      "description": "Read second time and amended. Re-referred to Com. on APPR.",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-15T13:00:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -365,6 +391,17 @@
         }
       ],
       "date": "2026-01-05",
+      "classification": ""
+    },
+    {
+      "note": "01/14/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB299&version=20250SB29996AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-14",
       "classification": ""
     }
   ],
@@ -455,7 +492,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Section 21080.69 of the Public Resources Code, relating to environmental quality.",
+    "impact_clause": "An act to add Section 21080.68 to the Public Resources Code, relating to environmental quality.",
     "tags": [
       "fiscal committee",
       "local program"
@@ -468,6 +505,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-14T13:01:29Z"
+    "logs_latest_update": "2026-01-15T13:00:32Z"
   }
 }

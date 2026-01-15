@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law establishes the Department of Financial Protection and Innovation, which is under the direction of the Commissioner of Financial Protection and Innovation, and makes the department responsible for administering various laws relating to financial institutions and products, including mortgages. Existing law defines and regulates mortgages. Existing law requires a financial institution that makes loans upon the security of real property containing only a one- to 4-family residence in this state or purchases obligations secured by the property and that holds hazard insurance proceeds in a loss draft account pending property rebuilding or repair to pay interest on those funds at a rate of at least 2% simple interest per annum, as specified. Existing law requires that interest to be credited to the above-described loss draft account annually or upon termination of the account, whichever is earlier.\n\nThis bill would, instead, require that interest to be credited to the above-described loss draft account, or otherwise paid directly to the borrower, annually or upon termination of the account, whichever is earlier."
+      "abstract": "Existing law establishes the Department of Financial Protection and Innovation, which is under the direction of the Commissioner of Financial Protection and Innovation, and makes the department responsible for administering various laws relating to financial institutions and products, including mortgages. Existing law defines and regulates mortgages. Existing law requires a financial institution that makes loans upon the security of real property containing only a one- to 4-family residence in this state or purchases obligations secured by the property and that holds hazard insurance proceeds in a loss draft account pending property rebuilding or repair to pay interest on those funds at a rate of at least 2% simple interest per annum, as specified. Existing law requires that interest to be credited to the above-described loss draft account annually or upon termination of the account, whichever is earlier.\n\nThis bill would, instead, require that interest to be credited to the above-described loss draft account, or paid with a check, as defined, drawn by a financial institution payable at or through a bank directly to the borrower, annually or upon termination of the account, whichever is earlier. The bill would make a check issued pursuant to the above-described provision that is uncashed 90 calendar days after delivery canceled, as specified."
     }
   ],
   "other_titles": [
@@ -124,6 +124,20 @@
       "_processing": {
         "log_file_created": "2026-01-14T13:01:29Z"
       }
+    },
+    {
+      "description": "Read second time and amended.",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T13:00:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -170,6 +184,17 @@
       ],
       "date": "2026-01-05",
       "classification": ""
+    },
+    {
+      "note": "01/14/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1278&version=20250AB127897AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
     }
   ],
   "documents": [
@@ -205,6 +230,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-14T13:01:29Z"
+    "logs_latest_update": "2026-01-15T13:00:32Z"
   }
 }

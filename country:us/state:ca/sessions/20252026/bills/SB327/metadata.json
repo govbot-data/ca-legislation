@@ -22,11 +22,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Fusion energy data centers."
+      "title": "Nuclear fusion: research data sharing."
     },
     {
       "note": "",
-      "title": "Nuclear fusion: research data sharing."
+      "title": "Fusion energy data centers."
     }
   ],
   "other_identifiers": [],
@@ -185,6 +185,20 @@
       "_processing": {
         "log_file_created": "2026-01-06T12:58:57Z"
       }
+    },
+    {
+      "description": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 10. Noes 3.) (January 12).",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T13:00:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -255,7 +269,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "01/09/26- Senate Energy, Utilities and Communications",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB327&analysisId=393774&analyzingOffice=Senate+Energy,+Utilities+and+Communications",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-09",
+      "classification": "analysis"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -277,6 +303,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-06T12:58:57Z"
+    "logs_latest_update": "2026-01-15T13:00:32Z"
   }
 }

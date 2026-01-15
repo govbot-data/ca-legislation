@@ -227,6 +227,39 @@
       "_processing": {
         "log_file_created": "2026-01-08T13:00:59Z"
       }
+    },
+    {
+      "description": "From committee: Do pass and re-refer to Com. on L. GOV. (Ayes 4. Noes 1.) (January 14). Re-referred to Com. on L. GOV.",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on L. GOV.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-15T13:00:32Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass. (Ayes 5. Noes 2.) (January 14).",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T13:00:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -286,7 +319,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "01/09/26- Senate Revenue and Taxation",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB762&analysisId=393805&analyzingOffice=Senate+Revenue+and+Taxation",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-09",
+      "classification": "analysis"
+    },
+    {
+      "note": "01/09/26- Senate Local Government",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB762&analysisId=393821&analyzingOffice=Senate+Local+Government",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-09",
+      "classification": "analysis"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -305,6 +361,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-08T13:00:59Z"
+    "logs_latest_update": "2026-01-15T13:00:32Z"
   }
 }

@@ -217,6 +217,20 @@
       "_processing": {
         "log_file_created": "2026-01-09T12:59:43Z"
       }
+    },
+    {
+      "description": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 4. Noes 1.) (January 14).",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T13:00:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -322,6 +336,17 @@
       ],
       "date": "2025-12-30",
       "classification": "analysis"
+    },
+    {
+      "note": "01/09/26- Senate Local Government",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB222&analysisId=393818&analyzingOffice=Senate+Local+Government",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-09",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -345,6 +370,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-09T12:59:43Z"
+    "logs_latest_update": "2026-01-15T13:00:32Z"
   }
 }

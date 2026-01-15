@@ -19,7 +19,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "California Environmental Quality Act:Infrastructure Projects."
+      "title": "California Environmental Quality Act: categorical exemptions: infill projects."
     },
     {
       "note": "",
@@ -27,7 +27,7 @@
     },
     {
       "note": "",
-      "title": "California Environmental Quality Act: categorical exemptions: infill projects."
+      "title": "California Environmental Quality Act:Infrastructure Projects."
     }
   ],
   "other_identifiers": [],
@@ -401,6 +401,19 @@
       "_processing": {
         "log_file_created": "2026-01-08T13:00:59Z"
       }
+    },
+    {
+      "description": "From committee: Do pass. Ordered to consent calendar. (Ayes 7. Noes 0.) (January 14).",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T13:00:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -559,6 +572,17 @@
       ],
       "date": "2025-05-28",
       "classification": "analysis"
+    },
+    {
+      "note": "01/12/26- Senate Education",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB607&analysisId=393860&analyzingOffice=Senate+Education",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-12",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -579,6 +603,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-08T13:00:59Z"
+    "logs_latest_update": "2026-01-15T13:00:32Z"
   }
 }

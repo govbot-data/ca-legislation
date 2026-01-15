@@ -172,6 +172,18 @@
       "_processing": {
         "log_file_created": "2026-01-06T12:58:57Z"
       }
+    },
+    {
+      "description": "January 13 set for first hearing. Failed passage in committee. (Ayes 7. Noes 2.)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T13:00:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -253,6 +265,17 @@
       ],
       "date": "2025-04-25",
       "classification": "analysis"
+    },
+    {
+      "note": "01/09/26- Senate Transportation",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB220&analysisId=393812&analyzingOffice=Senate+Transportation",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-09",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -276,6 +299,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-06T12:58:57Z"
+    "logs_latest_update": "2026-01-15T13:00:32Z"
   }
 }
