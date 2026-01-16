@@ -19,15 +19,15 @@
   "other_titles": [
     {
       "note": "",
+      "title": "Private investigators."
+    },
+    {
+      "note": "",
       "title": "Residential property contracts: liquidated damages."
     },
     {
       "note": "",
       "title": "Subdivisions: disbursements of deposits."
-    },
-    {
-      "note": "",
-      "title": "Private investigators."
     }
   ],
   "other_identifiers": [],
@@ -197,6 +197,19 @@
       "_processing": {
         "log_file_created": "2026-01-15T13:00:32Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-16T12:59:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -294,6 +307,17 @@
       ],
       "date": "2026-01-09",
       "classification": "analysis"
+    },
+    {
+      "note": "01/15/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1406&analysisId=393884&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-15",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -314,6 +338,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T13:00:32Z"
+    "logs_latest_update": "2026-01-16T12:59:38Z"
   }
 }

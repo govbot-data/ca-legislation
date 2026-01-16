@@ -1,7 +1,7 @@
 {
   "legislative_session": "20252026",
   "identifier": "SB742",
-  "title": "Electricity: electrical infrastructure: permanently abandoned facilities: emergency response: liaisons.",
+  "title": "Electricity: electrical infrastructure: permanently abandoned transmission facilities: emergency response: liaisons.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -11,18 +11,22 @@
     "electricalinfrastructure",
     "emergencyresponse",
     "liaisons",
-    "permanentlyabandonedfacilities"
+    "permanentlyabandonedtransmissionfacilities"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law vests the Public Utilities Commission with regulatory authority over public utilities, including electrical corporations. Existing law requires electrical corporations to construct, maintain, and operate their electrical lines and equipment in a manner that will minimize the risk of catastrophic wildfire, as specified. Existing law requires electrical corporations to annually prepare and submit wildfire mitigation plans to the Office of Energy Infrastructure Safety for review and approval.\n\nThis bill would require the commission, on or before January 1, 2027, to update a general order to require each electrical corporation to remove all permanently abandoned facilities, as specified.\n\nThis bill would require that an electrical corporation's wildfire mitigation plan also include an accounting of all transmission facilities, including permanently abandoned transmission facilities, and include a plan for how and when each permanently abandoned transmission facility will be removed and the wildfire mitigation measures that are being implemented to prevent hazards, as provided.\n\nUnder existing law, a violation of any order, decision, rule, direction, demand, or requirement of the commission is a crime.\n\nBecause a violation of a commission action implementing this bill's requirements would be a crime, the bill would impose a state-mandated local program.\n\nExisting law, the California Emergency Services Act, establishes, within the office of the Governor, the Office of Emergency Services (OES) under the supervision of the Director of Emergency Services. Existing law requires OES to establish a standardized emergency management system for use by all emergency response agencies.\n\nThis bill would require certain electrical corporations and local publicly owned electric utilities, in cooperation with OES and other emergency service agencies, to establish procedures for the coordination of efforts between electrical corporations and local publicly owned electric utilities and their representatives and those of emergency response agencies. The bill would require these electrical corporations and local publicly owned electric utilities to assign liaison representatives to work within each local operations center, as provided.\n\nBy imposing new duties on local publicly owned electric utilities, this bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for specified reasons."
+      "abstract": "Existing law vests the Public Utilities Commission with regulatory authority over public utilities, including electrical corporations. Existing law requires electrical corporations to construct, maintain, and operate their electrical lines and equipment in a manner that will minimize the risk of catastrophic wildfire, as specified. Existing law requires electrical corporations to annually prepare and submit wildfire mitigation plans to the Office of Energy Infrastructure Safety for review and approval.\n\nThis bill would require the commission, on or before January 1, 2028, to update a general order to require each electrical corporation to remove all permanently abandoned transmission facilities, as specified.\n\nThis bill would require that an electrical corporation's wildfire mitigation plan also include an accounting of all transmission facilities, including permanently abandoned transmission facilities, and include a plan for how and when each permanently abandoned transmission facility will be removed and the wildfire mitigation measures that are being implemented to prevent hazards, as provided.\n\nUnder existing law, a violation of any order, decision, rule, direction, demand, or requirement of the commission is a crime.\n\nBecause a violation of a commission action implementing this bill's requirements would be a crime, the bill would impose a state-mandated local program.\n\nExisting law, the California Emergency Services Act, establishes, within the office of the Governor, the Office of Emergency Services (OES) under the supervision of the Director of Emergency Services. Existing law requires OES to establish a standardized emergency management system for use by all emergency response agencies.\n\nThis bill would require certain electrical corporations and local publicly owned electric utilities, in cooperation with OES and other emergency service agencies, to establish procedures for the coordination of efforts between electrical corporations and local publicly owned electric utilities and their representatives and those of emergency response agencies. The bill would require these electrical corporations and local publicly owned electric utilities to assign liaison representatives to work with each local emergency operations center, as provided.\n\nBy imposing new duties on local publicly owned electric utilities, this bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for specified reasons."
     }
   ],
   "other_titles": [
     {
       "note": "",
       "title": "Water systems and water districts."
+    },
+    {
+      "note": "",
+      "title": "Electricity: electrical infrastructure: permanently abandoned facilities: emergency response: liaisons."
     }
   ],
   "other_identifiers": [],
@@ -142,6 +146,37 @@
       "_processing": {
         "log_file_created": "2026-01-15T13:00:32Z"
       }
+    },
+    {
+      "description": "Read second time and amended. Re-referred to Com. on APPR.",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-16T12:59:38Z"
+      }
+    },
+    {
+      "description": "Set for hearing January 20.",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-16T12:59:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -151,6 +186,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"P\\u00e9rez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rubio",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rubio\"}",
       "organization_id": null
     }
   ],
@@ -188,6 +231,17 @@
       ],
       "date": "2026-01-05",
       "classification": ""
+    },
+    {
+      "note": "01/15/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB742&version=20250SB74297AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-15",
+      "classification": ""
     }
   ],
   "documents": [
@@ -224,6 +278,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T13:00:32Z"
+    "logs_latest_update": "2026-01-16T12:59:38Z"
   }
 }

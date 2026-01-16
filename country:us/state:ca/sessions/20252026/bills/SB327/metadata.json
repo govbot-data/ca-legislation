@@ -16,17 +16,17 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law authorizes the Public Utilities Commission to fix the rates and charges for public utilities, including electrical corporations and gas corporations, and requires those rates and charges to be just and reasonable. Under existing law, a regulated public utility is prohibited from using ratepayer funds for advocacy-related activities that are political or do not otherwise benefit ratepayers.\n\nThis bill would prohibit, except as provided, each electrical corporation or gas corporation from recording to accounts that contain expenses that the electrical corporation or gas corporation recovers from ratepayers, or otherwise recovering from ratepayers, direct or indirect costs of opposing the municipalization of electrical or gas service, as specified. The bill would require the commission to monitor and investigate compliance and noncompliance with the prohibition.\n\nExisting law authorizes the commission, each commissioner, and each officer and person employed by the commission to inspect the accounts, books, papers, and documents of any public utility.\n\nThis bill would specify that the Public Advocate's Office of the Public Utilities Commission has the same authority to discover information and review the accounts of a public utility as the commission.\n\nUnder existing law, a violation of the Public Utilities Act or any order, decision, rule, direction, demand, or requirement of the commission is a crime.\n\nBecause the above-described provisions would be part of the act and a violation of a commission action implementing the bill's requirements would be a crime, this bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+      "abstract": "Existing law authorizes the Public Utilities Commission to fix the rates and charges for public utilities, including electrical corporations and gas corporations, and requires those rates and charges to be just and reasonable. Under existing law, a regulated public utility is prohibited from using ratepayer funds for advocacy-related activities that are political or do not otherwise benefit ratepayers. Existing law prohibits each electrical corporation or gas corporation from recording to an above-the-line account, or otherwise recovering from ratepayers, direct or indirect costs of specified activities.\n\nThis bill would additionally prohibit, except as provided, each electrical corporation or gas corporation from recording to an above-the-line account, or otherwise recovering from ratepayers, the direct or indirect costs of activities related to opposing the municipalization of electrical or gas utility service, as specified.\n\nExisting law authorizes the commission, each commissioner, and each officer and person employed by the commission to inspect the accounts, books, papers, and documents of any public utility.\n\nThis bill would specify that the Public Advocate's Office of the Public Utilities Commission has the same authority to discover information and review the accounts of a public utility as the commission.\n\nUnder existing law, a violation of the Public Utilities Act or any order, decision, rule, direction, demand, or requirement of the commission is a crime.\n\nBecause the above-described provisions would be part of the act and a violation of a commission action implementing the bill's requirements would be a crime, this bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
     }
   ],
   "other_titles": [
     {
       "note": "",
-      "title": "Nuclear fusion: research data sharing."
+      "title": "Fusion energy data centers."
     },
     {
       "note": "",
-      "title": "Fusion energy data centers."
+      "title": "Nuclear fusion: research data sharing."
     }
   ],
   "other_identifiers": [],
@@ -199,6 +199,37 @@
       "_processing": {
         "log_file_created": "2026-01-15T13:00:32Z"
       }
+    },
+    {
+      "description": "Read second time and amended. Re-referred to Com. on APPR.",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-16T12:59:38Z"
+      }
+    },
+    {
+      "description": "Set for hearing January 20.",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-16T12:59:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -267,6 +298,17 @@
       ],
       "date": "2026-01-05",
       "classification": ""
+    },
+    {
+      "note": "01/15/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB327&version=20250SB32795AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-15",
+      "classification": ""
     }
   ],
   "documents": [
@@ -290,7 +332,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Section 314 of, and to add Section 748.4 to, the Public Utilities Code, relating to public utilities.",
+    "impact_clause": "An act to amend Sections 314 and 748.3 of the Public Utilities Code, relating to public utilities.",
     "tags": [
       "fiscal committee",
       "local program"
@@ -303,6 +345,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T13:00:32Z"
+    "logs_latest_update": "2026-01-16T12:59:38Z"
   }
 }

@@ -21,11 +21,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Product safety: textile articles: perfluoroalkyl and polyfluoroalkyl substances (PFAS)."
+      "title": "Recycling: glass beverage containers: market development payments."
     },
     {
       "note": "",
-      "title": "Recycling: glass beverage containers: market development payments."
+      "title": "Product safety: textile articles: perfluoroalkyl and polyfluoroalkyl substances (PFAS)."
     }
   ],
   "other_identifiers": [],
@@ -131,6 +131,24 @@
       "_processing": {
         "log_file_created": "2026-01-15T13:00:32Z"
       }
+    },
+    {
+      "description": "Re-referred to Com. on APPR.",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-16T12:59:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -223,6 +241,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T13:00:32Z"
+    "logs_latest_update": "2026-01-16T12:59:38Z"
   }
 }

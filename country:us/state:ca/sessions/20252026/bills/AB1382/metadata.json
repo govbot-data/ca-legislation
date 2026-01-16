@@ -18,11 +18,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Adoptable animals."
+      "title": "Animals: sale of pets: intentional genomic alterations."
     },
     {
       "note": "",
-      "title": "Animals: sale of pets: intentional genomic alterations."
+      "title": "Adoptable animals."
     }
   ],
   "other_identifiers": [],
@@ -227,6 +227,29 @@
       "_processing": {
         "log_file_created": "2026-01-14T13:01:29Z"
       }
+    },
+    {
+      "description": "Coauthors revised.",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-16T12:59:38Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass. (Ayes 12. Noes 0.) (January 15).",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-16T12:59:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -236,6 +259,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Castillo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryan",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bryan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dixon",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dixon\"}",
       "organization_id": null
     },
     {
@@ -355,6 +394,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-14T13:01:29Z"
+    "logs_latest_update": "2026-01-16T12:59:38Z"
   }
 }

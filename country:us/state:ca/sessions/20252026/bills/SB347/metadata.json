@@ -13,17 +13,17 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law imposes an annual minimum franchise tax of $800, except as provided, on every corporation incorporated in this state, qualified to transact intrastate business in this state, or doing business in this state, and an annual tax in an amount equal to the minimum franchise tax on every limited partnership, limited liability partnership, and limited liability company doing business in this state, as specified.\n\nThis bill, for taxable years beginning on or after January 1, 2026, and before January 1, 2031, would reduce the annual tax on every limited partnership, limited liability partnership, and limited liability company to $200.\n\nExisting law requires any bill authorizing a new tax expenditure to contain, among other things, specific goals, purposes, and objectives that the tax expenditure will achieve, detailed performance indicators, and data collection requirements. \n\nThis bill also would include additional information required for any bill authorizing a new tax expenditure. \n\nThis bill would take effect immediately as a tax levy."
+      "abstract": "Existing law imposes an annual minimum franchise tax of $800, except as provided, on every corporation incorporated in this state, qualified to transact intrastate business in this state, or doing business in this state, and an annual tax in an amount equal to the minimum franchise tax on every limited partnership, limited liability partnership, and limited liability company doing business in this state, as specified.\n\nThis bill, for taxable years beginning on or after January 1, 2026, and before January 1, 2031, would reduce the annual tax on every limited partnership, limited liability partnership, and limited liability company to $600.\n\nExisting law requires any bill authorizing a new tax expenditure to contain, among other things, specific goals, purposes, and objectives that the tax expenditure will achieve, detailed performance indicators, and data collection requirements. \n\nThis bill also would include additional information required for any bill authorizing a new tax expenditure. \n\nThis bill would take effect immediately as a tax levy."
     }
   ],
   "other_titles": [
     {
       "note": "",
-      "title": "Minimum franchise tax."
+      "title": "Corporate taxes."
     },
     {
       "note": "",
-      "title": "Corporate taxes."
+      "title": "Minimum franchise tax."
     }
   ],
   "other_identifiers": [],
@@ -196,6 +196,37 @@
       "_processing": {
         "log_file_created": "2026-01-15T13:00:32Z"
       }
+    },
+    {
+      "description": "Read second time and amended. Re-referred to Com. on APPR.",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-16T12:59:38Z"
+      }
+    },
+    {
+      "description": "Set for hearing January 20.",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-16T12:59:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -264,6 +295,17 @@
       ],
       "date": "2026-01-05",
       "classification": ""
+    },
+    {
+      "note": "01/15/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB347&version=20250SB34795AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-15",
+      "classification": ""
     }
   ],
   "documents": [
@@ -312,6 +354,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T13:00:32Z"
+    "logs_latest_update": "2026-01-16T12:59:38Z"
   }
 }

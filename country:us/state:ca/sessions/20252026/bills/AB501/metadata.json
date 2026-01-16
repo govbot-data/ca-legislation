@@ -18,7 +18,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Liens on aircraft: sale."
+      "title": "Startup venture capital nonprofits: transfers."
     },
     {
       "note": "",
@@ -26,7 +26,7 @@
     },
     {
       "note": "",
-      "title": "Startup venture capital nonprofits: transfers."
+      "title": "Liens on aircraft: sale."
     }
   ],
   "other_identifiers": [],
@@ -288,6 +288,26 @@
       "_processing": {
         "log_file_created": "2026-01-14T13:01:29Z"
       }
+    },
+    {
+      "description": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 12. Noes 0.) (January 15). Re-referred to Com. on APPR.",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-16T12:59:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -413,6 +433,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-14T13:01:29Z"
+    "logs_latest_update": "2026-01-16T12:59:38Z"
   }
 }

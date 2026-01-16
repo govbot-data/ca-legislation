@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "California Environmental Quality Act: categorical exemptions: infill projects."
+      "title": "California Science and Health Research Bond Act."
     },
     {
       "note": "",
-      "title": "California Science and Health Research Bond Act."
+      "title": "California Environmental Quality Act: categorical exemptions: infill projects."
     },
     {
       "note": "",
@@ -414,6 +414,19 @@
       "_processing": {
         "log_file_created": "2026-01-15T13:00:32Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to consent calendar.",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-16T12:59:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -583,6 +596,17 @@
       ],
       "date": "2026-01-12",
       "classification": "analysis"
+    },
+    {
+      "note": "01/15/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB607&analysisId=393889&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-15",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -603,6 +627,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T13:00:32Z"
+    "logs_latest_update": "2026-01-16T12:59:38Z"
   }
 }

@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law allows an individual taxpayer to contribute amounts in excess of their personal income tax liability for the support of specified funds and accounts, including, among others, to the Native California Wildlife Rehabilitation Voluntary Tax Contribution Fund.\n\nThis bill would allow an individual to designate on their tax return that a specified amount in excess of their tax liability be transferred to the continuously appropriated California Sea Otter Voluntary Tax Contribution Fund, which would be created by this bill. The bill would require the Franchise Tax Board to revise the tax return form to include a space for the designation of contributions to the fund. By establishing a new continuously appropriated fund, this bill would make an appropriation. The bill would require that the above provisions remain operative only until January 1, 2035."
+      "abstract": "Existing law allows an individual taxpayer to contribute amounts in excess of their personal income tax liability for the support of specified funds and accounts, including, among others, to the Native California Wildlife Rehabilitation Voluntary Tax Contribution Fund.\n\nThis bill would, for taxable years beginning on or after January 1, 2026, and before January 1, 2033, allow an individual to designate on their tax return that a specified amount in excess of their tax liability be transferred to the continuously appropriated California Sea Otter Voluntary Tax Contribution Fund, which would be created by this bill. The bill would require the Franchise Tax Board to revise the tax return form to include a space for the designation of contributions to the fund. By establishing a new continuously appropriated fund, this bill would make an appropriation. The bill would require that the above provisions remain operative only until January 1, 2033, and be repealed as of December 1 that year. The bill would also require the fund continue to appear on the personal income tax return until the above provisions are repealed."
     }
   ],
   "other_titles": [
@@ -172,6 +172,37 @@
       "_processing": {
         "log_file_created": "2026-01-15T13:00:32Z"
       }
+    },
+    {
+      "description": "Read second time and amended. Re-referred to Com. on APPR.",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-16T12:59:38Z"
+      }
+    },
+    {
+      "description": "Set for hearing January 20.",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-16T12:59:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -229,6 +260,17 @@
       ],
       "date": "2026-01-05",
       "classification": ""
+    },
+    {
+      "note": "01/15/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB575&version=20250SB57596AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-15",
+      "classification": ""
     }
   ],
   "documents": [
@@ -264,6 +306,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T13:00:32Z"
+    "logs_latest_update": "2026-01-16T12:59:38Z"
   }
 }
