@@ -250,6 +250,19 @@
       "_processing": {
         "log_file_created": "2026-01-16T12:59:38Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-17T12:54:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -374,6 +387,17 @@
       ],
       "date": "2026-01-12",
       "classification": "analysis"
+    },
+    {
+      "note": "01/16/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1382&analysisId=393915&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-16",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -394,6 +418,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-16T12:59:38Z"
+    "logs_latest_update": "2026-01-17T12:54:02Z"
   }
 }
