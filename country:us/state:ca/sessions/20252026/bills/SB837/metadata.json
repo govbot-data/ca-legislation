@@ -18,11 +18,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Student financial aid: online technology platforms: guidance: training: media campaign."
+      "title": "Postsecondary education: segments."
     },
     {
       "note": "",
-      "title": "Postsecondary education: segments."
+      "title": "Student financial aid: online technology platforms: guidance: training: media campaign."
     }
   ],
   "other_identifiers": [],
@@ -246,6 +246,16 @@
       "_processing": {
         "log_file_created": "2026-01-15T13:00:32Z"
       }
+    },
+    {
+      "description": "January 20 hearing: Placed on APPR. suspense file.",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T13:04:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -327,6 +337,17 @@
       ],
       "date": "2026-01-08",
       "classification": "analysis"
+    },
+    {
+      "note": "01/16/26- Senate Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB837&analysisId=393912&analyzingOffice=Senate+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-16",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -349,6 +370,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T13:00:32Z"
+    "logs_latest_update": "2026-01-21T13:04:49Z"
   }
 }

@@ -203,6 +203,19 @@
       "_processing": {
         "log_file_created": "2026-01-16T12:59:38Z"
       }
+    },
+    {
+      "description": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8 and ordered to consent calendar.",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T13:04:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -306,6 +319,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-16T12:59:38Z"
+    "logs_latest_update": "2026-01-21T13:04:49Z"
   }
 }

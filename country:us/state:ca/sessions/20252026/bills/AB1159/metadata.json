@@ -217,6 +217,24 @@
       "_processing": {
         "log_file_created": "2026-01-17T12:54:02Z"
       }
+    },
+    {
+      "description": "Re-referred to Com. on APPR.",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-21T13:04:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -331,6 +349,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-17T12:54:02Z"
+    "logs_latest_update": "2026-01-21T13:04:49Z"
   }
 }

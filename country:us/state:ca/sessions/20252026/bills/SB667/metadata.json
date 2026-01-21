@@ -20,11 +20,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Railroads: safety: wayside detectors: train length: emergency vehicle crossing."
+      "title": "State highways: change of grade."
     },
     {
       "note": "",
-      "title": "State highways: change of grade."
+      "title": "Railroads: safety: wayside detectors: train length: emergency vehicle crossing."
     }
   ],
   "other_identifiers": [],
@@ -265,6 +265,16 @@
       "_processing": {
         "log_file_created": "2026-01-16T12:59:38Z"
       }
+    },
+    {
+      "description": "January 20 hearing: Placed on APPR. suspense file.",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T13:04:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -379,6 +389,17 @@
       ],
       "date": "2026-01-09",
       "classification": "analysis"
+    },
+    {
+      "note": "01/18/26- Senate Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB667&analysisId=393917&analyzingOffice=Senate+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-18",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -401,6 +422,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-16T12:59:38Z"
+    "logs_latest_update": "2026-01-21T13:04:49Z"
   }
 }

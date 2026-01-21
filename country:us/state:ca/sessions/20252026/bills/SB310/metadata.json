@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law makes every person who fails to pay the wages of each employee subject to a specified penalty. Existing law requires the penalty to either be recovered by an employee as a statutory penalty or by the Labor Commissioner as a civil penalty, as prescribed.\n\nThis bill also would permit the penalty to be recovered through an independent civil action, as specified."
+      "abstract": "Existing law makes every person who fails to pay the wages of each employee subject to a specified penalty. Existing law makes the initial violation subject to a $100 penalty and each subsequent violation, or any willful or intentional violation, subject to a $200 penalty plus 25% of the amount unlawfully withheld. Existing law requires the penalty to either be recovered by an employee as a statutory penalty or by the Labor Commissioner as a civil penalty, as prescribed.\n\nThis bill also would permit the $200 penalty for each subsequent violation, or any willful or intentional violation, to be recovered through an independent civil action, as specified."
     }
   ],
   "other_titles": [],
@@ -207,6 +207,40 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:13Z"
       }
+    },
+    {
+      "description": "From inactive file.",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T13:04:49Z"
+      }
+    },
+    {
+      "description": "Ordered to second reading.",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T13:04:49Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered to second reading.",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T13:04:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -268,6 +302,17 @@
         }
       ],
       "date": "2025-04-10",
+      "classification": ""
+    },
+    {
+      "note": "01/20/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB310&version=20250SB31097AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-20",
       "classification": ""
     }
   ],
@@ -337,6 +382,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:13Z"
+    "logs_latest_update": "2026-01-21T13:04:49Z"
   }
 }
