@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "(1) Existing law tolls the periods of limitation to bring specific civil actions for up to 2 years, if during that time that the claimant is imprisoned on a criminal charge, as specified. However, under existing law these tolling provisions do not apply to an action brought against a public entity or public employee, as specified.\n\nThis bill would, notwithstanding any other law, provide that the period for bringing an action for sexual assault against a public entity or public employee that is alleged to have occurred while the claimant was imprisoned on a criminal charge, or in execution under the sentence of a criminal court, is tolled during the entire period of the claimant's imprisonment and 4 years after the claimant's release from custody. Under the bill, any claim for sexual assault against a public entity or public employee subject to that provision is exempt from all state and local government claim presentation requirements.\n\n(2) Existing law establishes the Office of the Sexual Abuse in Detention Elimination Ombudsperson with the authority to inspect all of the Department of Corrections and Rehabilitation institutions and to interview all inmates and wards. Under existing law, if an investigation confirms that any employee of the department has sexually abused an inmate or ward, that employee is required to be terminated. Existing law prohibits retaliation against an inmate or ward for making an allegation of sexual abuse. Existing law requires the department to keep statistics on the sexual abuse of inmates and wards and make that data available to the Office of the Sexual Abuse in Detention Elimination Ombudsperson.\n\nThis bill would prohibit an employee who has been terminated after an investigation confirms that the employee has sexually abused an incarcerated person or ward from future employment with the department.\n\nThis bill would require the department to monitor for 90 days an incarcerated person who reports sexual assault, and the incarcerated person reported to have suffered the sexual assault, by a staff member for possible retaliation. The bill would require the department to make specific notifications and reporting after an incarcerated person is reported to have suffered a sexual assault. The bill would prohibit an incarcerated person who is reported to have suffered a sexual assault at a department facility from being transferred to another facility without their written consent, unless their safety would be at risk. The bill would define terms for its purposes and declare these provisions are severable."
+      "abstract": "(1) Existing law tolls the periods of limitation to bring specific civil actions for up to 2 years, if during that time that the claimant is imprisoned on a criminal charge, as specified. However, under existing law these tolling provisions do not apply to an action brought against a public entity or public employee, as specified.\n\nThis bill would, notwithstanding any other law, provide that the period for bringing an action for sexual assault against a public entity or public employee that is alleged to have occurred while the claimant was imprisoned on a criminal charge, or in execution under the sentence of a criminal court, is tolled during the entire period of the claimant's imprisonment or sentence. Under the bill, any claim for sexual assault against a public entity or public employee subject to that provision is exempt from all state and local government claim presentation requirements.\n\n(2) Existing law establishes the Office of the Sexual Abuse in Detention Elimination Ombudsperson with the authority to inspect all of the Department of Corrections and Rehabilitation institutions and to interview all inmates and wards. Under existing law, if an investigation confirms that any employee of the department has sexually abused an inmate or ward, that employee is required to be terminated. Existing law prohibits retaliation against an inmate or ward for making an allegation of sexual abuse. Existing law requires the department to keep statistics on the sexual abuse of inmates and wards and make that data available to the Office of the Sexual Abuse in Detention Elimination Ombudsperson.\n\nThis bill would prohibit an employee who has been terminated after an investigation confirms that the employee has sexually abused an incarcerated person or ward from future employment with the department.\n\nThis bill would require the department to monitor for 90 days an incarcerated person who reports sexual assault, and the incarcerated person reported to have suffered the sexual assault, by a staff member for possible retaliation. The bill would require the department to make specific notifications and reporting after an incarcerated person is reported to have suffered a sexual assault. The bill would prohibit an incarcerated person who is reported to have suffered a sexual assault at a department facility from being transferred to another facility without their written consent, unless their safety would be at risk. The bill would define terms for its purposes and declare these provisions are severable."
     }
   ],
   "other_titles": [],
@@ -179,6 +179,44 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:14Z"
       }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
+    },
+    {
+      "description": "From committee: Amend, and do pass as amended. (Ayes 11. Noes 0.) (January 22).",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered returned to second reading.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -292,6 +330,17 @@
       ],
       "date": "2025-03-27",
       "classification": ""
+    },
+    {
+      "note": "01/22/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB464&version=20250AB46496AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-22",
+      "classification": ""
     }
   ],
   "documents": [
@@ -349,6 +398,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:14Z"
+    "logs_latest_update": "2026-01-23T13:02:14Z"
   }
 }

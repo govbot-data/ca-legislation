@@ -235,6 +235,60 @@
       "_processing": {
         "log_file_created": "2026-01-21T13:04:49Z"
       }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
+    },
+    {
+      "description": "In committee: Set, first hearing. Referred to suspense file.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "suspense file.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass. (Ayes 14. Noes 1.) (January 22).",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -327,6 +381,17 @@
       ],
       "date": "2026-01-12",
       "classification": "analysis"
+    },
+    {
+      "note": "01/21/26- Assembly Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1159&analysisId=393959&analyzingOffice=Assembly+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-21",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -349,6 +414,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T13:04:49Z"
+    "logs_latest_update": "2026-01-23T13:02:14Z"
   }
 }

@@ -160,6 +160,34 @@
       "_processing": {
         "log_file_created": "2026-01-14T13:01:29Z"
       }
+    },
+    {
+      "description": "In committee: Set, first hearing. Referred to suspense file.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "suspense file.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
+    },
+    {
+      "description": "In committee: Held under submission.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -230,6 +258,17 @@
       ],
       "date": "2026-01-09",
       "classification": "analysis"
+    },
+    {
+      "note": "01/21/26- Assembly Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1366&analysisId=393967&analyzingOffice=Assembly+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-21",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -253,6 +292,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-14T13:01:29Z"
+    "logs_latest_update": "2026-01-23T13:02:14Z"
   }
 }

@@ -162,6 +162,52 @@
       "_processing": {
         "log_file_created": "2026-01-17T12:54:02Z"
       }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
+    },
+    {
+      "description": "Coauthors revised.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass. (Ayes 13. Noes 2.) (January 22).",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -171,6 +217,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Schultz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Solache",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Solache\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wicks",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wicks\"}",
       "organization_id": null
     }
   ],
@@ -232,6 +294,17 @@
       ],
       "date": "2026-01-12",
       "classification": "analysis"
+    },
+    {
+      "note": "01/21/26- Assembly Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB939&analysisId=393952&analyzingOffice=Assembly+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-21",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -255,6 +328,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-17T12:54:02Z"
+    "logs_latest_update": "2026-01-23T13:02:14Z"
   }
 }

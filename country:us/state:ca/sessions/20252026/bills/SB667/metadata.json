@@ -14,17 +14,17 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "The existing Federal Railroad Safety Act (FRSA) authorizes the United States Secretary of Transportation to prescribe regulations and issue orders for railroad safety and requires the United States Secretary of Homeland Security, when prescribing a security regulation or issuing a security order that affects the safety of railroad operations, to consult with the United States Secretary of Transportation. The FRSA provides for state participation in the enforcement of the safety regulations and orders issued by the United States Secretary of Transportation or the United States Secretary of Homeland Security, pursuant to an annual certification, and authorizes the respective secretaries to make an agreement with a state to provide investigative and surveillance activities. The FRSA provides that, to the extent practicable, laws, regulations, and orders related to railroad safety and security are required to be nationally uniform, but authorizes a state to adopt or continue in force a law, regulation, or order related to railroad safety or security until the United States Secretary of Transportation, with respect to railroad safety matters, or the United States Secretary of Homeland Security, with respect to railroad security matters, prescribes a regulation or issues an order covering the subject matter of the state requirement. A state is additionally authorized to adopt or continue in force an additional or more stringent law, regulation, or order related to railroad safety or security, when necessary to eliminate or reduce an essentially local safety or security hazard, that is not incompatible with a federal law, regulation, or order, and that does not unreasonably burden interstate commerce.\n\nThis bill would require a railroad corporation to install and operate a network of wayside detector systems on or adjacent to any track used by a freight train with maximum spacing specified for individual detection devices along a continuous track. The bill would define \"wayside detector system\" to mean an electronic device or series of connected devices that scans passing freight trains and their component equipment and parts for defects. The bill would require a railroad corporation to submit a wayside detector response plan to the Public Utilities Commission, as provided. The bill would require the commission to adopt rules necessary to implement these provisions including establishing a penalty of not less than $25,000, as provided. The bill would provide that these provisions do not apply to a class II or class III carrier that has a speed limit of 10 miles per hour or less."
+      "abstract": "The existing Federal Railroad Safety Act (FRSA) authorizes the United States Secretary of Transportation to prescribe regulations and issue orders for railroad safety and requires the United States Secretary of Homeland Security, when prescribing a security regulation or issuing a security order that affects the safety of railroad operations, to consult with the United States Secretary of Transportation. The FRSA provides for state participation in the enforcement of the safety regulations and orders issued by the United States Secretary of Transportation or the United States Secretary of Homeland Security, pursuant to an annual certification, and authorizes the respective secretaries to make an agreement with a state to provide investigative and surveillance activities. The FRSA provides that, to the extent practicable, laws, regulations, and orders related to railroad safety and security are required to be nationally uniform, but authorizes a state to adopt or continue in force a law, regulation, or order related to railroad safety or security until the United States Secretary of Transportation, with respect to railroad safety matters, or the United States Secretary of Homeland Security, with respect to railroad security matters, prescribes a regulation or issues an order covering the subject matter of the state requirement. A state is additionally authorized to adopt or continue in force an additional or more stringent law, regulation, or order related to railroad safety or security, when necessary to eliminate or reduce an essentially local safety or security hazard, that is not incompatible with a federal law, regulation, or order, and that does not unreasonably burden interstate commerce.\n\nThis bill would require a railroad corporation to install and operate a network of wayside detector systems on or adjacent to any track used by a freight train, require that each wayside detector system include a hot wheel bearing detector, and prescribe the maximum spacing for individual detection devices along a continuous track. The bill would define \"wayside detector system\" to mean an electronic device or series of connected devices that scans passing freight trains and their component equipment and parts for defects. The bill would require the Public Utilities Commission to adopt rules and processes to implement these provisions, including a penalty of not less than $25,000 for violating these provisions, as provided. The bill would not apply to a class II or class III carrier that has a speed limit of 10 miles per hour or less."
     }
   ],
   "other_titles": [
     {
       "note": "",
-      "title": "State highways: change of grade."
+      "title": "Railroads: safety: wayside detectors: train length: emergency vehicle crossing."
     },
     {
       "note": "",
-      "title": "Railroads: safety: wayside detectors: train length: emergency vehicle crossing."
+      "title": "State highways: change of grade."
     }
   ],
   "other_identifiers": [],
@@ -285,6 +285,34 @@
       "_processing": {
         "log_file_created": "2026-01-22T13:05:37Z"
       }
+    },
+    {
+      "description": "From committee: Do pass as amended. (Ayes 4. Noes 2.) (January 22).",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered to second reading.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -364,6 +392,17 @@
       ],
       "date": "2026-01-05",
       "classification": ""
+    },
+    {
+      "note": "01/22/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB667&version=20250SB66794AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-22",
+      "classification": ""
     }
   ],
   "documents": [
@@ -410,6 +449,17 @@
       ],
       "date": "2026-01-18",
       "classification": "analysis"
+    },
+    {
+      "note": "01/22/26- Senate Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB667&analysisId=394002&analyzingOffice=Senate+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-22",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -432,6 +482,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T13:05:37Z"
+    "logs_latest_update": "2026-01-23T13:02:14Z"
   }
 }

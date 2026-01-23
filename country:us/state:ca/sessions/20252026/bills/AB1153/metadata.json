@@ -1,23 +1,26 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB1153",
-  "title": "Solid waste disposal and codisposal site cleanup: illegal disposal site abatement.",
+  "title": "Illegal disposal site abatement.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
-    "bill",
-    "appropriation"
+    "bill"
   ],
   "subject": [
-    "Solidwastedisposalandcodisposalsitecleanup",
-    "illegaldisposalsiteabatement"
+    "Illegaldisposalsiteabatement"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "The California Integrated Waste Management Act of 1989, which is administered by the Department of Resources Recycling and Recovery, establishes an integrated waste management program. The act requires the department to initiate a program for the cleanup of solid waste disposal sites and for cleanup of solid waste at codisposal sites where no responsible party is available to pay for timely remediation, and where cleanup is needed to protect public health and safety or the environment. Existing law provides that all expenses incurred by the department in carrying out the program are to be paid from the Solid Waste Disposal Site Cleanup Trust Fund, which is continuously appropriated to the department for purposes of the program. Existing law authorizes the department, in administering the program, to expend funds for specified purposes, including providing grants to public entities for the abatement of illegal disposal sites.\n\nThis bill would additionally authorize the department to expend funds appropriated for the program for removing and disposing of recreational vehicles, as defined, for developing enforcement strategies, and for developing local enforcement teams and illegal dumping enforcement officers, as specified. By authorizing new uses of moneys in a continuously appropriated fund, this bill would make an appropriation."
+      "abstract": "The California Integrated Waste Management Act of 1989, which is administered by the Department of Resources Recycling and Recovery, establishes an integrated waste management program. The act requires the department to initiate a program for the cleanup of solid waste disposal sites and for cleanup of solid waste at codisposal sites where no responsible party is available to pay for timely remediation, and where cleanup is needed to protect public health and safety or the environment.\n\nThis bill would authorize the department, upon appropriation by the Legislature, to expend funds to remove and dispose of recreational vehicles, as defined, to develop enforcement strategies, and to develop local enforcement teams and illegal dumping enforcement officers, as specified."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Solid waste disposal and codisposal site cleanup: illegal disposal site abatement."
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -134,6 +137,44 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:13Z"
       }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
+    },
+    {
+      "description": "From committee: Amend, and do pass as amended. (Ayes 11. Noes 0.) (January 22).",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered returned to second reading.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -180,6 +221,17 @@
       ],
       "date": "2025-04-22",
       "classification": ""
+    },
+    {
+      "note": "01/22/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1153&version=20250AB115397AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-22",
+      "classification": ""
     }
   ],
   "documents": [
@@ -214,7 +266,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Section 48021 of the Public Resources Code, relating to solid waste, and making an appropriation therefor.",
+    "impact_clause": "An act to add Section 48503 to the Public Resources Code, relating to solid waste.",
     "tags": [
       "fiscal committee"
     ]
@@ -226,6 +278,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:13Z"
+    "logs_latest_update": "2026-01-23T13:02:14Z"
   }
 }

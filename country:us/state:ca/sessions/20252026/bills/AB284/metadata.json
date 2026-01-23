@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Department of Justice: fingerprinting."
+      "title": "Law enforcement: stop data and reporting."
     },
     {
       "note": "",
-      "title": "Law enforcement: stop data and reporting."
+      "title": "Department of Justice: fingerprinting."
     }
   ],
   "other_identifiers": [],
@@ -187,6 +187,16 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:15Z"
       }
+    },
+    {
+      "description": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -257,17 +267,6 @@
       ],
       "date": "2025-04-28",
       "classification": "analysis"
-    },
-    {
-      "note": "05/05/25- Assembly Appropriations",
-      "links": [
-        {
-          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB284&analysisId=386013&analyzingOffice=Assembly+Appropriations",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "2025-05-05",
-      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -290,6 +289,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:15Z"
+    "logs_latest_update": "2026-01-23T13:02:14Z"
   }
 }

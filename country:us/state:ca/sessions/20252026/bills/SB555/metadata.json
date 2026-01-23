@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law establishes a workers' compensation system, administered by the Administrative Director of the Division of Workers' Compensation, to compensate an employee for injuries sustained in the course of employment. Existing law provides for temporary disability, permanent total disability, or permanent partial disability benefits, among other benefits, for an injured employee and requires the computation of an injured employee's average annual earnings and average weekly earnings for purposes of determining those disability benefits. Existing law requires, for computing average annual earnings for purposes of permanent partial disability indemnity, that average weekly earnings be taken at various amounts, including between $240 and $435 for injuries occurring on or after January 1, 2014, except as specified.\n\nThis bill would additionally require that the above-described limits be adjusted by the amount equal to the cost of living adjustment for federal social security benefits for that year, as specified."
+      "abstract": "Existing law establishes a workers' compensation system, administered by the Administrative Director of the Division of Workers' Compensation, to compensate an employee for injuries sustained in the course of employment. Existing law provides for temporary disability, permanent total disability, or permanent partial disability benefits, among other benefits, for an injured employee and requires the computation of an injured employee's average annual earnings and average weekly earnings for purposes of determining those disability benefits. Existing law requires, for computing average annual earnings for purposes of permanent partial disability indemnity, that average weekly earnings be taken at various amounts, including between $240 and $435 for injuries occurring on or after January 1, 2014, except as specified.\n\nThis bill would require, for computing average annual earnings for purposes of permanent partial disability indemnity, that average weekly earnings be taken at between $____ and $____ for injuries occurring on or after January 1, 2027."
     }
   ],
   "other_titles": [],
@@ -201,6 +201,34 @@
       "_processing": {
         "log_file_created": "2026-01-21T13:04:49Z"
       }
+    },
+    {
+      "description": "From committee: Do pass as amended. (Ayes 5. Noes 2.) (January 22).",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered to second reading.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -255,6 +283,17 @@
       ],
       "date": "2025-04-01",
       "classification": ""
+    },
+    {
+      "note": "01/22/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB555&version=20250SB55597AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-22",
+      "classification": ""
     }
   ],
   "documents": [
@@ -279,6 +318,17 @@
       ],
       "date": "2025-05-02",
       "classification": "analysis"
+    },
+    {
+      "note": "01/22/26- Senate Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB555&analysisId=394001&analyzingOffice=Senate+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-22",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -301,6 +351,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T13:04:49Z"
+    "logs_latest_update": "2026-01-23T13:02:14Z"
   }
 }

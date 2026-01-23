@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law establishes requirements that apply when a public entity is required by statute or regulation to obtain an enforceable commitment that a bidder, contractor, or other entity will use a skilled and trained workforce to complete a contract or project. Existing law also authorizes a public entity to require that a bidder, contractor, or other entity use a skilled and trained workforce, regardless of whether they are required to do so by statute or regulation.\n\nExisting law, the California State University Contract Law, authorizes the Trustees of the California State University to enter into an agreement with a contractor to provide all or significant portions of the design services and construction of a project, chosen by a competitive bidding process that employs selection criteria in addition to cost. Existing law also requires a contractor, when selecting subcontractors under this provision, to competitively bid for those portions of work. \n\nThis bill would prohibit a contractor from being prequalified for, shortlisted for, or awarded a contract with the Trustees of the California State University, as described above, unless, among other things, the contractor provides an enforceable commitment to the trustees that the contractor and its subcontractors at every tier will use a skilled and trained workforce to perform all work on the project or contract that falls within an apprenticeable occupation in the building and construction trades, as specified."
+      "abstract": "Existing law establishes requirements that apply when a public entity is required by statute or regulation to obtain an enforceable commitment that a bidder, contractor, or other entity will use a skilled and trained workforce to complete a contract or project. Existing law also authorizes a public entity to require that a bidder, contractor, or other entity use a skilled and trained workforce, regardless of whether they are required to do so by statute or regulation.\n\nExisting law, the California State University Contract Law, authorizes the Trustees of the California State University to enter into an agreement with a contractor to provide all or significant portions of the design services and construction of a project, chosen by a competitive bidding process that employs selection criteria in addition to cost. Existing law also requires a contractor, when selecting subcontractors under this provision, to competitively bid for those portions of work. \n\nThis bill would prohibit a contractor from being prequalified for, shortlisted for, or awarded a contract with the Trustees of the California State University, as described above, unless, among other things, the contractor provides an enforceable commitment to the trustees that the contractor and its subcontractors at every tier will use a skilled and trained workforce to perform all work on the project or contract that falls within an apprenticeable occupation in the building and construction trades, as specified. The bill would exempt from its provisions, among things, a project or contract for the development of housing."
     }
   ],
   "other_titles": [
@@ -181,6 +181,44 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:12Z"
       }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
+    },
+    {
+      "description": "From committee: Amend, and do pass as amended. (Ayes 13. Noes 0.) (January 22).",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered returned to second reading.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -226,6 +264,17 @@
         }
       ],
       "date": "2025-03-24",
+      "classification": ""
+    },
+    {
+      "note": "01/22/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1235&version=20250AB123597AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-22",
       "classification": ""
     }
   ],
@@ -284,6 +333,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:12Z"
+    "logs_latest_update": "2026-01-23T13:02:14Z"
   }
 }

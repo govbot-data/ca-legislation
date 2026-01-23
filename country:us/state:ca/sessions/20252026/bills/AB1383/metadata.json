@@ -1,25 +1,30 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB1383",
-  "title": "Public employees' retirement benefits.",
+  "title": "Public employees' retirement benefits: safety members.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill",
     "appropriation"
   ],
   "subject": [
-    "Publicemployees'retirementbenefits"
+    "Publicemployees'retirementbenefits",
+    "safetymembers"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "The Public Employees' Retirement Law (PERL) establishes the Public Employees' Retirement System (PERS) to provide a defined benefit to members of the system based on final compensation, credited service, and age at retirement, subject to certain variations. Existing law creates the Public Employees' Retirement Fund, which is continuously appropriated for purposes of PERS, including depositing employer and employee contributions. Under the California Constitution, assets of a public pension or retirement system are trust funds.\n\nThe California Public Employees' Pension Reform Act of 2013 (PEPRA) establishes a variety of requirements and restrictions on public employers offering defined benefit pension plans. In this regard, PEPRA restricts the amount of compensation that may be applied for purposes of calculating a defined pension benefit for a new member, as defined, by restricting it to specified percentages of the contribution and benefit base under a specified federal law with respect to old age, survivors, and disability insurance benefits.\n\nThis bill, on and after January 1, 2026, would require a retirement system to adjust pensionable compensation limits to be consistent with a defined benefit limitation established and annually adjusted under federal law with respect to tax exempt qualified trusts.\n\nPEPRA requires each retirement system that offers a defined benefit plan for safety members of the system to use one of 3 formulas for safety members, 2% at age 57, 2.5% at age 57, or 2.7% at age 57.\n\nThis bill would establish new retirement formulas, for employees first hired on or after January 1, 2026, as 2.5% at age 55, 2.7% at age 55, or 3% at age 55. For new members hired on or after January 1, 2013, who are safety members, the bill would require employers to adjust the formulas for service performed on or after January 1, 2026, to offer one of the 3 formulas for safety members that is closest to the formula the employer provided pursuant to existing law. The bill would authorize a public employer and a recognized employee organization to negotiate a prospective increase to the retirement benefit formulas for members and new members, consistent with the formulas permitted under the act.\n\nThis bill would authorize an employer and its employees to agree in a memorandum of understanding to be subject to a higher safety plan or a lower safety plan, subject to certain requirements, including that the memorandum of understanding is collectively bargained in accordance with applicable laws.\n\nPEPRA requires all public employees to pay at least 50 percent of normal costs and prohibits public employers from paying any of the required employee contribution.\n\nThis bill would authorize an employer and employee, through the collective bargaining process, to agree to terms in a memorandum of understanding where the employer pays a portion of employee contribution.\n\n By increasing the contribution to continuously appropriated funds, this bill would make an appropriation."
+      "abstract": "The Public Employees' Retirement Law (PERL) establishes the Public Employees' Retirement System (PERS) to provide a defined benefit to members of the system based on final compensation, credited service, and age at retirement, subject to certain variations. Existing law creates the Public Employees' Retirement Fund, which is continuously appropriated for purposes of PERS, including depositing employer and employee contributions. Under the California Constitution, assets of a public pension or retirement system are trust funds.\n\nThe California Public Employees' Pension Reform Act of 2013 (PEPRA) establishes a variety of requirements and restrictions on public employers offering defined benefit pension plans. In this regard, PEPRA restricts the amount of compensation that may be applied for purposes of calculating a defined pension benefit for a new member, as defined, by restricting it to specified percentages of the contribution and benefit base under a specified federal law with respect to old age, survivors, and disability insurance benefits.\n\nExisting law, the Teachers' Retirement Law, establishes the State Teachers' Retirement System (STRS) and creates the Defined Benefit Program of the State Teachers' Retirement Plan, which provides a defined benefit to members of the program, based on final compensation, creditable service, and age at retirement, subject to certain variations.\n\nThis bill, on and after January 1, 2027, would require a retirement system subject to PEPRA to adjust pensionable compensation limits to be consistent with specified percentages of the contribution and benefit base under the specified federal law with respect to old age, survivors, and disability insurance benefits. The bill would require a new member of STRS to be subject to specified limits of the Teachers' Retirement Law.\n\nPEPRA requires each retirement system that offers a defined benefit plan for safety members of the system to use one of 3 formulas for safety members, 2% at age 57, 2.5% at age 57, or 2.7% at age 57.\n\nThis bill would establish new retirement formulas, for employees first hired on or after January 1, 2027, as 2.5% at age 55, 2.7% at age 55, or 3% at age 55. For new members hired on or after January 1, 2013, who are safety members, the bill would require employers to adjust the formulas for service performed on or after January 1, 2027, to offer one of the 3 formulas for safety members that is closest to the formula the employer provided pursuant to existing law. The bill would authorize a public employer and a recognized employee organization to negotiate a prospective increase to the retirement benefit formulas for safety members and new safety members, consistent with the formulas permitted under PEPRA, including the new formulas described above.\n\nThis bill would authorize an employer and its employees to agree in a memorandum of understanding to be subject to a higher safety plan or a lower safety plan, subject to certain requirements, including that the memorandum of understanding is collectively bargained in accordance with applicable laws.\n\n By increasing the contribution to continuously appropriated funds, and by increasing expenditures from those funds, this bill would make an appropriation."
     }
   ],
   "other_titles": [
     {
       "note": "",
       "title": "Car washing and polishing: reporting."
+    },
+    {
+      "note": "",
+      "title": "Public employees' retirement benefits."
     }
   ],
   "other_identifiers": [],
@@ -214,6 +219,44 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:05Z"
       }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
+    },
+    {
+      "description": "From committee: Amend, and do pass as amended. (Ayes 12. Noes 0.) (January 22).",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered returned to second reading.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -226,11 +269,27 @@
       "organization_id": null
     },
     {
-      "name": "\u00c1vila Far\u00edas",
+      "name": "Ahrens",
       "classification": "coauthor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"\\u00c1vila Far\\u00edas\"}",
+      "person_id": "~{\"name\": \"Ahrens\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alanis",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alanis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "\u00c1vila Farias",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"\\u00c1vila Farias\"}",
       "organization_id": null
     },
     {
@@ -242,6 +301,62 @@
       "organization_id": null
     },
     {
+      "name": "Calderon",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Calderon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Castillo",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Castillo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chen",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Connolly",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Connolly\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Flora",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Flora\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hoover",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hoover\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Krell",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Krell\"}",
+      "organization_id": null
+    },
+    {
       "name": "Nguyen",
       "classification": "coauthor",
       "entity_type": "person",
@@ -250,11 +365,59 @@
       "organization_id": null
     },
     {
+      "name": "Ortega",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ortega\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patterson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patterson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ramos",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ramos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ransom",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ransom\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Solache",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Solache\"}",
+      "organization_id": null
+    },
+    {
       "name": "Grayson",
       "classification": "coauthor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Grayson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Per\u00e9z",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Per\\u00e9z\"}",
       "organization_id": null
     }
   ],
@@ -303,6 +466,17 @@
       ],
       "date": "2025-04-11",
       "classification": ""
+    },
+    {
+      "note": "01/22/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1383&version=20250AB138396AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-22",
+      "classification": ""
     }
   ],
   "documents": [
@@ -337,7 +511,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Sections 7522.10, 7522.25, and 7522.30 of, and to add Sections 7522.19 and 7522.26 to, the Government Code, relating to public employees' retirement, and making an appropriation therefor.",
+    "impact_clause": "An act to amend Sections 7522.10 and 7522.25 of, and to add Sections 7522.19 and 7522.26 to, the Government Code, relating to public employees' retirement, and making an appropriation therefor.",
     "tags": [
       "fiscal committee"
     ]
@@ -349,6 +523,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:05Z"
+    "logs_latest_update": "2026-01-23T13:02:14Z"
   }
 }

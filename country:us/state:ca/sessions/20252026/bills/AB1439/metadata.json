@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "The California Constitution grants the retirement board of a public employee retirement system plenary authority and fiduciary responsibility for investment of moneys and administration of the retirement fund and system. These provisions qualify this grant of powers by reserving to the Legislature the authority to prohibit investments if it is in the public interest and the prohibition satisfies standards of fiduciary care and loyalty required of a retirement board.\n\nExisting law prohibits the boards of the Public Employees' Retirement System and the State Teachers' Retirement System from making certain new investments or renewing existing investments of public employee retirement funds, including in a thermal coal company, as defined. Existing law provides that a board is not required to take any action regarding those investments unless the board determines in good faith that the action is consistent with the board's fiduciary responsibilities established in the California Constitution.\n\nThis bill would prohibit the board of a public pension or retirement system from making any additional or new investments of public employee pension or retirement funds in development projects in California or providing financing for those projects with public employee pension or retirement funds unless those projects include labor standards protections, as defined. The bill would provide that a board is not required to take action pursuant to this provision unless it determines in good faith that the action is consistent with the board's fiduciary responsibilities established in the California Constitution."
+      "abstract": "The California Constitution grants the retirement board of a public employee retirement system plenary authority and fiduciary responsibility for investment of moneys and administration of the retirement fund and system. These provisions qualify this grant of powers by reserving to the Legislature the authority to prohibit investments if it is in the public interest and the prohibition satisfies standards of fiduciary care and loyalty required of a retirement board.\n\nExisting law prohibits the boards of the Public Employees' Retirement System (PERS) and the State Teachers' Retirement System (STRS) from making certain new investments or renewing existing investments of public employee retirement funds, including in a thermal coal company, as defined. Existing law provides that a board is not required to take any action regarding those investments unless the board determines in good faith that the action is consistent with the board's fiduciary responsibilities established in the California Constitution.\n\nThis bill would state that its purpose is to require the boards of PERS and STRS to contract with the University of California Labor Centers to conduct an independent study to determine the impacts on public employee retirement funds of prohibiting the board of a public pension or retirement system, as defined, from investing in development projects in California that do not provide labor standards protections for workers. The bill would require the study and a report of its findings to be completed and provided to the Legislature and the Department of Finance by January 1, 2028, as specified. The bill would provide that a board is not required to take action pursuant to this provision unless it determines in good faith that the action is consistent with the board's fiduciary responsibilities established in the California Constitution."
     }
   ],
   "other_titles": [
@@ -139,6 +139,62 @@
       "_processing": {
         "log_file_created": "2026-01-15T13:00:32Z"
       }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
+    },
+    {
+      "description": "In committee: Set, first hearing. Referred to suspense file.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "suspense file.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
+    },
+    {
+      "description": "From committee: Amend, and do pass as amended. (Ayes 10. Noes 4.) (January 22).",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered returned to second reading.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -185,6 +241,17 @@
       ],
       "date": "2025-03-24",
       "classification": ""
+    },
+    {
+      "note": "01/22/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1439&version=20250AB143997AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-22",
+      "classification": ""
     }
   ],
   "documents": [
@@ -197,6 +264,17 @@
         }
       ],
       "date": "2026-01-12",
+      "classification": "analysis"
+    },
+    {
+      "note": "01/21/26- Assembly Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1439&analysisId=393969&analyzingOffice=Assembly+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-21",
       "classification": "analysis"
     }
   ],
@@ -220,6 +298,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T13:00:32Z"
+    "logs_latest_update": "2026-01-23T13:02:14Z"
   }
 }

@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law establishes a workers' compensation system, administered by the Administrative Director of the Division of Workers' Compensation, to compensate an employee for injuries sustained in the course of employment. Existing law requires an employer to provide medical, surgical, chiropractic, acupuncture, and hospital treatment that is reasonably required to cure or relieve the injured worker from the effects of the injury. Upon payment, adjustment, or denial of a complete or incomplete itemization of medical services, existing law requires an employer to provide an explanation of review that includes, among other information, the amount paid and the basis for any adjustment, change, or denial of the item or procedure billed. \n\nThis bill would, when the basis for any adjustment, change, or denial of an item or procedure is a contract, require the explanation of review to include information on that underlying contract, including whom the medical provider may contact to seek a copy of the relevant, applicable contract. The bill would state that disclosure of a medical provider network does not satisfy this requirement and would state that if the contract is not received within 30 business days of the provider's request, the bill shall be reprocessed and paid, as specified."
+      "abstract": "Existing law establishes a workers' compensation system, administered by the Administrative Director of the Division of Workers' Compensation, to compensate an employee for injuries sustained in the course of employment. Existing law requires an employer to provide medical, surgical, chiropractic, acupuncture, and hospital treatment that is reasonably required to cure or relieve the injured worker from the effects of the injury. Upon payment, adjustment, or denial of a complete or incomplete itemization of medical services, existing law requires an employer to provide an explanation of review that includes, among other information, the amount paid and the basis for any adjustment, change, or denial of the item or procedure billed. \n\nThis bill would, when the basis for any adjustment, change, or denial of an item or procedure is a contract, require the explanation of review to include information on that underlying contract, including whom the rendering medical provider may contact to seek a copy of the underlying contract. The bill would state that disclosure of a medical provider network does not satisfy this requirement and would state that if the contract is not sent to the rendering provider or their agent within 30 business days of the provider's request, the bill shall be reprocessed and paid, as specified.\n\nExisting law requires each employer to establish a utilization review process to review and approve, modify, or deny treatment recommendations and establishes an independent medical review process to resolve disputes over a utilization review decision. Existing law requires various requirements to be met in determining whether to approve, modify, or deny requests by a physician for medical services.\n\nThis bill would require a request for authorization of medical services by a physician to be signed by that physician, and would authorize a request to be sent via mail, fax, or electronic methods, as specified. The bill would make other conforming changes."
     }
   ],
   "other_titles": [],
@@ -403,6 +403,28 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:11Z"
       }
+    },
+    {
+      "description": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on RLS.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -470,6 +492,17 @@
         }
       ],
       "date": "2025-09-05",
+      "classification": ""
+    },
+    {
+      "note": "01/22/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1048&version=20250AB104895AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-22",
       "classification": ""
     }
   ],
@@ -549,7 +582,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Section 4603.3 of the Labor Code, relating to workers' compensation.",
+    "impact_clause": "An act to amend Sections 4603.2, 4603.3, and 4610 of the Labor Code, relating to workers' compensation.",
     "tags": [
       "fiscal committee"
     ]
@@ -561,6 +594,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:11Z"
+    "logs_latest_update": "2026-01-23T13:02:14Z"
   }
 }

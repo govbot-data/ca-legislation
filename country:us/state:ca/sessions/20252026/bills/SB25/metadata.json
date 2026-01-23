@@ -383,6 +383,30 @@
       "_processing": {
         "log_file_created": "2026-01-15T13:00:32Z"
       }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Senate.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
+    },
+    {
+      "description": "In Senate. Concurrence in Assembly amendments pending.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -541,6 +565,17 @@
       ],
       "date": "2025-09-02",
       "classification": "analysis"
+    },
+    {
+      "note": "01/15/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB25&analysisId=393888&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-15",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -563,6 +598,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T13:00:32Z"
+    "logs_latest_update": "2026-01-23T13:02:14Z"
   }
 }

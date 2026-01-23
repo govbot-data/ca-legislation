@@ -163,6 +163,19 @@
       "_processing": {
         "log_file_created": "2026-01-14T13:01:29Z"
       }
+    },
+    {
+      "description": "From committee: Do pass. To Consent Calendar. (Ayes 15. Noes 0.) (January 22).",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T13:02:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -233,6 +246,17 @@
       ],
       "date": "2026-01-09",
       "classification": "analysis"
+    },
+    {
+      "note": "01/21/26- Assembly Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1126&analysisId=393958&analyzingOffice=Assembly+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-21",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -255,6 +279,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-14T13:01:29Z"
+    "logs_latest_update": "2026-01-23T13:02:14Z"
   }
 }
