@@ -18,11 +18,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Postsecondary education: segments."
+      "title": "Student financial aid: online technology platforms: guidance: training: media campaign."
     },
     {
       "note": "",
-      "title": "Student financial aid: online technology platforms: guidance: training: media campaign."
+      "title": "Postsecondary education: segments."
     }
   ],
   "other_identifiers": [],
@@ -292,6 +292,16 @@
       "_processing": {
         "log_file_created": "2026-01-23T13:02:14Z"
       }
+    },
+    {
+      "description": "Ordered to special consent calendar.",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T13:06:01Z"
+      }
     }
   ],
   "sponsorships": [
@@ -384,6 +394,17 @@
       ],
       "date": "2026-01-16",
       "classification": "analysis"
+    },
+    {
+      "note": "01/23/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB837&analysisId=394070&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-23",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -406,6 +427,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-23T13:02:14Z"
+    "logs_latest_update": "2026-01-27T13:06:01Z"
   }
 }

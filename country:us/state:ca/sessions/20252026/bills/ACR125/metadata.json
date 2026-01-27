@@ -39,6 +39,24 @@
       "_processing": {
         "log_file_created": "2026-01-22T13:05:38Z"
       }
+    },
+    {
+      "description": "Referred to Com. on RLS.",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-27T13:06:01Z"
+      }
     }
   ],
   "sponsorships": [
@@ -95,6 +113,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T13:05:38Z"
+    "logs_latest_update": "2026-01-27T13:06:01Z"
   }
 }

@@ -19,15 +19,15 @@
   "other_titles": [
     {
       "note": "",
+      "title": "Public health: 7-hydroxymitragynine and nitrous oxide."
+    },
+    {
+      "note": "",
       "title": "Juries: peremptory challenges."
     },
     {
       "note": "",
       "title": "Public health: kratom and nitrous oxide."
-    },
-    {
-      "note": "",
-      "title": "Public health: 7-hydroxymitragynine and nitrous oxide."
     }
   ],
   "other_identifiers": [],
@@ -274,6 +274,19 @@
       "_processing": {
         "log_file_created": "2026-01-23T13:02:14Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T13:06:01Z"
+      }
     }
   ],
   "sponsorships": [
@@ -388,6 +401,17 @@
       ],
       "date": "2026-01-22",
       "classification": "analysis"
+    },
+    {
+      "note": "01/26/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB758&analysisId=394080&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-26",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -411,6 +435,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-23T13:02:14Z"
+    "logs_latest_update": "2026-01-27T13:06:01Z"
   }
 }

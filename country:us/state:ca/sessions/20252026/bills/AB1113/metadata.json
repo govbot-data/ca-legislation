@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Federally qualified health centers."
+      "title": "Health emergencies."
     },
     {
       "note": "",
-      "title": "Health emergencies."
+      "title": "Federally qualified health centers."
     }
   ],
   "other_identifiers": [],
@@ -257,6 +257,24 @@
       "_processing": {
         "log_file_created": "2026-01-23T13:02:14Z"
       }
+    },
+    {
+      "description": "Re-referred to Com. on RLS.",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-27T13:06:01Z"
+      }
     }
   ],
   "sponsorships": [
@@ -371,6 +389,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-23T13:02:14Z"
+    "logs_latest_update": "2026-01-27T13:06:01Z"
   }
 }

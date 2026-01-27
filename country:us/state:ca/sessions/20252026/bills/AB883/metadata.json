@@ -22,11 +22,11 @@
     },
     {
       "note": "",
-      "title": "California Public Records Act."
+      "title": "California Public Records Act: personal information of elected and appointed officials."
     },
     {
       "note": "",
-      "title": "California Public Records Act: personal information of elected and appointed officials."
+      "title": "California Public Records Act."
     }
   ],
   "other_identifiers": [],
@@ -281,6 +281,20 @@
       "_processing": {
         "log_file_created": "2026-01-23T13:02:14Z"
       }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Senate. (Ayes 75. Noes 0.)",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T13:06:01Z"
+      }
     }
   ],
   "sponsorships": [
@@ -381,6 +395,17 @@
       ],
       "date": "2026-01-21",
       "classification": "analysis"
+    },
+    {
+      "note": "01/23/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB883&analysisId=394043&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-23",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -403,6 +428,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-23T13:02:14Z"
+    "logs_latest_update": "2026-01-27T13:06:01Z"
   }
 }
