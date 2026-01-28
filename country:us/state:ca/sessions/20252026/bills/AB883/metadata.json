@@ -18,11 +18,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Data brokers: personal information of threatened elected officials, judges, and their immediate family members."
+      "title": "California Public Records Act: personal information of elected and appointed officials."
     },
     {
       "note": "",
-      "title": "California Public Records Act: personal information of elected and appointed officials."
+      "title": "Data brokers: personal information of threatened elected officials, judges, and their immediate family members."
     },
     {
       "note": "",
@@ -295,6 +295,18 @@
       "_processing": {
         "log_file_created": "2026-01-27T13:06:01Z"
       }
+    },
+    {
+      "description": "In Senate. Read first time. To Com. on RLS. for assignment.",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T13:06:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -428,6 +440,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T13:06:01Z"
+    "logs_latest_update": "2026-01-28T13:06:03Z"
   }
 }

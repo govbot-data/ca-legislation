@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Multistakeholder regulatory organizations."
+      "title": "Occupational therapy."
     },
     {
       "note": "",
-      "title": "Occupational therapy."
+      "title": "Multistakeholder regulatory organizations."
     }
   ],
   "other_identifiers": [],
@@ -310,6 +310,32 @@
       "_processing": {
         "log_file_created": "2026-01-23T13:02:14Z"
       }
+    },
+    {
+      "description": "Read third time. Passed. (Ayes 31. Noes 7.) Ordered to the Assembly.",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T13:06:03Z"
+      }
+    },
+    {
+      "description": "In Assembly. Read first time. Held at Desk.",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T13:06:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -402,6 +428,17 @@
       ],
       "date": "2025-05-09",
       "classification": "analysis"
+    },
+    {
+      "note": "01/23/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB813&analysisId=394068&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-23",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -424,6 +461,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-23T13:02:14Z"
+    "logs_latest_update": "2026-01-28T13:06:03Z"
   }
 }

@@ -434,6 +434,32 @@
       "_processing": {
         "log_file_created": "2026-01-27T13:06:01Z"
       }
+    },
+    {
+      "description": "Read third time. Passed. (Ayes 40. Noes 0.) Ordered to the Assembly.",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T13:06:03Z"
+      }
+    },
+    {
+      "description": "In Assembly. Read first time. Held at Desk.",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T13:06:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -637,6 +663,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T13:06:01Z"
+    "logs_latest_update": "2026-01-28T13:06:03Z"
   }
 }
