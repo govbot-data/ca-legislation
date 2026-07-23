@@ -325,26 +325,46 @@
       }
     },
     {
-      "description": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on ED.",
+      "description": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 7. Noes 0.) (June 17). Re-referred to Com. on APPR.",
       "date": "2026-06-17",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "amendment-introduction",
-        "amendment-passage",
         "committee-passage",
-        "reading-1",
-        "reading-2",
+        "committee-passage-favorable",
         "referral-committee"
       ],
       "related_entities": [
         {
-          "name": "Com. on ED.",
+          "name": "Com. on APPR.",
           "entity_type": "organization",
           "organization_id": null
         }
       ],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:29Z"
+        "log_file_created": "2026-07-23T09:33:03Z"
+      }
+    },
+    {
+      "description": "In committee: Referred to APPR. suspense file.",
+      "date": "2026-06-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "APPR. suspense file.",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "APPR",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-23T09:33:03Z"
       }
     }
   ],
@@ -515,7 +535,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:29Z",
+    "logs_latest_update": "2026-07-23T09:33:03Z",
     "text_extraction_latest_update": "2026-07-21T20:13:38.430640Z"
   }
 }

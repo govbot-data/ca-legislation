@@ -265,6 +265,29 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:29Z"
       }
+    },
+    {
+      "description": "In committee: Referred to APPR. suspense file.",
+      "date": "2026-06-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "APPR. suspense file.",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "APPR",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-23T09:33:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -451,7 +474,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:29Z",
+    "logs_latest_update": "2026-07-23T09:33:03Z",
     "text_extraction_latest_update": "2026-07-22T00:25:28.477772Z"
   }
 }
