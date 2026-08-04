@@ -270,6 +270,20 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:26Z"
       }
+    },
+    {
+      "description": "From committee: Amend, and do pass as amended. (Ayes 13. Noes 0.) (June 30).",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T09:49:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -423,7 +437,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:26Z",
+    "logs_latest_update": "2026-08-04T09:49:54Z",
     "text_extraction_latest_update": "2026-07-21T23:53:09.356889Z"
   }
 }

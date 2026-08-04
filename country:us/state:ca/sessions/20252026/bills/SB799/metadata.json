@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "State government: local costs."
+      "title": "False claims: taxation."
     },
     {
       "note": "",
-      "title": "False claims: taxation."
+      "title": "State government: local costs."
     }
   ],
   "other_identifiers": [
@@ -438,6 +438,26 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:28Z"
       }
+    },
+    {
+      "description": "Ordered to the Assembly.",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T09:49:54Z"
+      }
+    },
+    {
+      "description": "In Assembly. Held at Desk.",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T09:49:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -607,6 +627,17 @@
       ],
       "date": "2026-06-22",
       "classification": "analysis"
+    },
+    {
+      "note": "07/30/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB799&analysisId=402245&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-30",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -627,7 +658,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:28Z",
+    "logs_latest_update": "2026-08-04T09:49:54Z",
     "text_extraction_latest_update": "2026-07-22T14:10:27.700473Z"
   }
 }

@@ -373,6 +373,33 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:24Z"
       }
+    },
+    {
+      "description": "Action rescinded whereby bill was read third time, passed, and ordered to the Senate.",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T09:49:54Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T09:49:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -548,7 +575,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:24Z",
+    "logs_latest_update": "2026-08-04T09:49:54Z",
     "text_extraction_latest_update": "2026-07-21T23:06:00.939723Z"
   }
 }

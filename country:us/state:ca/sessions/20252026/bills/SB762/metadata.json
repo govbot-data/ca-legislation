@@ -19,15 +19,15 @@
   "other_titles": [
     {
       "note": "",
-      "title": "San Francisco Bay Conservation and Development Commission: funds."
-    },
-    {
-      "note": "",
       "title": "Natural resources."
     },
     {
       "note": "",
       "title": "Transactions and use tax: City of Hercules."
+    },
+    {
+      "note": "",
+      "title": "San Francisco Bay Conservation and Development Commission: funds."
     }
   ],
   "other_identifiers": [
@@ -457,6 +457,45 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:25Z"
       }
+    },
+    {
+      "description": "Urgency clause adopted.",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T09:49:54Z"
+      }
+    },
+    {
+      "description": "Assembly amendments concurred in. (Ayes 27. Noes 8.) Ordered to engrossing and enrolling.",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T09:49:54Z"
+      }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 5:15 p.m.",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T09:49:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -544,6 +583,17 @@
       ],
       "date": "2026-06-10",
       "classification": ""
+    },
+    {
+      "note": "08/03/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB762&version=20250SB76294ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-03",
+      "classification": ""
     }
   ],
   "documents": [
@@ -612,6 +662,17 @@
       ],
       "date": "2026-06-24",
       "classification": "analysis"
+    },
+    {
+      "note": "07/30/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB762&analysisId=402249&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-30",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -634,7 +695,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:25Z",
+    "logs_latest_update": "2026-08-04T09:49:54Z",
     "text_extraction_latest_update": "2026-07-22T10:43:55.280661Z"
   }
 }

@@ -1,20 +1,22 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB2700",
-  "title": "Electrical corporations: wildfire victim restitution shortfalls: report.",
+  "title": "Public Utilities Commission: electrical corporations: wildfire victim restitution shortfalls: report: restitution mechanisms.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Electricalcorporations",
+    "PublicUtilitiesCommission",
+    "electricalcorporations",
     "report",
+    "restitutionmechanisms",
     "wildfirevictimrestitutionshortfalls"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law vests the Public Utilities Commission with regulatory authority over public utilities, including electrical corporations. Existing law requires the Wildfire Fund Administrator, in consultation with the commission and other entities, to prepare and submit to the Legislature and the Governor a report that evaluates and sets forth recommendations on new models or approaches that mitigate damage, accelerate recovery, and responsibly and equitable allocate burdens from natural catastrophes, including catastrophic wildfires, across stakeholders, as provided.\n\nThis bill would require the commission, on or before January 1, 2028, to generate a report assessing the verified restitution shortfalls for victims of wildfires caused by electrical corporations occurring before July 12, 2019. The bill would further require the commission to recommend mechanisms for electrical corporations to address those shortfalls, as provided."
+      "abstract": "Existing law vests the Public Utilities Commission with regulatory authority over public utilities, including electrical corporations. Existing law requires the Wildfire Fund Administrator, in consultation with the commission and other entities, to prepare and submit to the Legislature and the Governor a report that evaluates and sets forth recommendations on new models or approaches that mitigate damage, accelerate recovery, and responsibly and equitable allocate burdens from natural catastrophes, including catastrophic wildfires, across stakeholders, as provided.\n\nThis bill would require the commission, on or before January 1, 2028, to generate a report assessing the verified restitution shortfalls for victims of wildfires caused by electrical corporations occurring before July 12, 2019, and to recommend restitution mechanisms for electrical corporations to address restitution shortfalls, as provided. The bill would require the commission, in developing the restitution mechanisms, to ensure, among other things, that the verified restitution shortfalls are consistently and fairly paid to ensure full compensation is issued in a timely manner."
     }
   ],
   "other_titles": [
@@ -25,6 +27,10 @@
     {
       "note": "",
       "title": "Electricity: rate reduction: report."
+    },
+    {
+      "note": "",
+      "title": "Electrical corporations: wildfire victim restitution shortfalls: report."
     }
   ],
   "other_identifiers": [
@@ -345,6 +351,29 @@
       "_processing": {
         "log_file_created": "2026-07-30T09:40:49Z"
       }
+    },
+    {
+      "description": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on APPR.",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-04T09:49:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -357,11 +386,51 @@
       "organization_id": null
     },
     {
-      "name": "Hadwick",
+      "name": "Alanis",
       "classification": "coauthor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Hadwick\"}",
+      "person_id": "~{\"name\": \"Alanis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Boerner",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Boerner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lackey",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lackey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rogers",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rogers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sanchez",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sanchez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ochoa Bogh",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ochoa Bogh\"}",
       "organization_id": null
     }
   ],
@@ -432,6 +501,17 @@
       ],
       "date": "2026-06-24",
       "classification": ""
+    },
+    {
+      "note": "08/03/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2700&version=20250AB270094AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-03",
+      "classification": ""
     }
   ],
   "documents": [
@@ -500,7 +580,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-30T09:40:49Z",
+    "logs_latest_update": "2026-08-04T09:49:54Z",
     "text_extraction_latest_update": "2026-07-30T09:42:52.928472Z"
   }
 }

@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of, an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment. \n\nThis bill would authorize an essential local fire station project, as defined, to be eligible for judicial streamlining, if the lead agency, at its discretion, makes specified determinations based upon substantial evidence in the record regarding the project, including the determination that the project will employ best practices to avoid or mitigate significant environmental effects, as provided. The bill would require the lead agency, upon determination that a project, activity, or approval is eligible for judicial streamlining pursuant to these provisions, to file a notice of determination with specified content with the Office of Land Use and Climate Innovation, as provided. The bill would require the Judicial Council to, on or before July 1, 2027, adopt rules of court that apply to any action or proceeding brought to attack, review, set aside, void, or annul the certification of an environmental impact report, mitigated negative declaration, or negative declaration for an essential local fire station project, including any potential appeals to the court of appeal or the Supreme Court, to be resolved, to the extent feasible, within 365 calendar days of the filing of the certified record of proceedings with the court."
+      "abstract": "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of, an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment. \n\nThis bill would authorize an essential local fire station project, as defined, to be eligible for judicial streamlining, if the lead agency, at its discretion, makes specified determinations based upon substantial evidence in the record regarding the project, including the determination that the project will employ best practices to avoid or mitigate significant environmental effects, as provided. The bill would require the lead agency, upon determination that a project, activity, or approval is eligible for judicial streamlining pursuant to these provisions, to file a notice of determination with specified content with the Office of Land Use and Climate Innovation, as provided. The bill would require the Judicial Council to, on or before July 1, 2027, adopt rules of court that apply to any action or proceeding brought to attack, review, set aside, void, or annul the certification of an environmental impact report, mitigated negative declaration, or negative declaration for an essential local fire station project, including any potential appeals to the court of appeal or the Supreme Court, to be resolved, to the extent feasible, within 270 calendar days of the filing of the certified record of proceedings with the court. The bill would provide that an environmental impact report for an essential local fire station project that meets specified criteria is not required to include any discussion of alternatives to the local fire station project or the growth-inducing impacts of the local fire station project."
     }
   ],
   "other_titles": [
@@ -295,6 +295,29 @@
       "_processing": {
         "log_file_created": "2026-07-30T09:40:49Z"
       }
+    },
+    {
+      "description": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on APPR.",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-04T09:49:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -345,6 +368,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Wallis\"}",
       "organization_id": null
+    },
+    {
+      "name": "Menjivar",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Menjivar\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -391,6 +422,17 @@
         }
       ],
       "date": "2026-05-18",
+      "classification": ""
+    },
+    {
+      "note": "08/03/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2152&version=20250AB215296AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-03",
       "classification": ""
     }
   ],
@@ -482,7 +524,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-30T09:40:49Z",
+    "logs_latest_update": "2026-08-04T09:49:54Z",
     "text_extraction_latest_update": "2026-07-30T09:44:35.842276Z"
   }
 }

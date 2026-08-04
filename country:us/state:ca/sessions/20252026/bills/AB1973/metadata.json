@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, the Medical Practice Act, provides for the licensure and regulation of physicians and surgeons by the Medical Board of California. Existing law, the Nursing Practice Act, provides for the licensure and regulation of registered nurses, including nurse practitioners and certified nurse-midwives, by the Board of Registered Nursing. Existing law, the Physician Assistant Practice Act, provides for the licensure and regulation of physician assistants by the Physician Assistant Board.\n\nExisting law generally makes it a public offense, punishable by a fine not exceeding $10,000 or by imprisonment, or both, for a person to perform an abortion without a valid license to practice as a physician and surgeon. As an exception to that prohibition, existing law authorizes a person to perform an abortion by medication or aspiration techniques in the first trimester of pregnancy if they have a valid, unrevoked, and unsuspended license or certificate under the Medical Practice Act, the Osteopathic Act, the Nursing Practice Act, or the Physician Assistant Practice Act that authorizes the person to perform the functions necessary for abortion by medication or aspiration techniques.\n\nThis bill would instead authorize a person to perform an abortion if they are authorized under those acts to perform an abortion and would delete the restriction that the abortion be performed only in the first trimester of pregnancy. The bill would make conforming changes to specified training requirements imposed on nurse practitioners, qualified nurse practitioners, certified nurse-midwives, and physician assistants to perform those abortions. The bill would require a nurse practitioner or certified nurse-midwife performing a procedural abortion to establish and maintain procedures for consultation, collaboration, referral, and transfer of care to a physician and surgeon in complex cases and under other specified circumstances."
+      "abstract": "Existing law, the Medical Practice Act, provides for the licensure and regulation of physicians and surgeons by the Medical Board of California. Existing law, the Nursing Practice Act, provides for the licensure and regulation of registered nurses, including nurse practitioners and certified nurse-midwives, by the Board of Registered Nursing. Existing law, the Physician Assistant Practice Act, provides for the licensure and regulation of physician assistants by the Physician Assistant Board.\n\nExisting law generally makes it a public offense, punishable by a fine not exceeding $10,000 or by imprisonment, or both, for a person to perform an abortion without a valid license to practice as a physician and surgeon. As an exception to that prohibition, existing law authorizes a person to perform an abortion by medication or aspiration techniques in the first trimester of pregnancy if they have a valid, unrevoked, and unsuspended license or certificate under the Medical Practice Act, the Osteopathic Act, the Nursing Practice Act, or the Physician Assistant Practice Act that authorizes the person to perform the functions necessary for abortion by medication or aspiration techniques.\n\nThis bill would instead authorize a person to perform an abortion if they are authorized under those acts to perform an abortion and would delete the restriction that the abortion be performed only in the first trimester of pregnancy. The bill would make conforming changes to specified training requirements imposed on nurse practitioners, qualified nurse practitioners, certified nurse-midwives, and physician assistants to perform those abortions. The bill would require a nurse practitioner or certified nurse-midwife performing a procedural abortion beyond the first trimester to establish, maintain, and follow written procedures that delineate the parameters for consultation, collaboration, referral, and transfer of care to a physician and surgeon, as specified, in cases that require care that is beyond the scope of their education, training, and experience."
     }
   ],
   "other_titles": [
@@ -291,6 +291,29 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:26Z"
       }
+    },
+    {
+      "description": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on APPR.",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-04T09:49:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -311,11 +334,11 @@
       "organization_id": null
     },
     {
-      "name": ": Pellerin",
+      "name": "Pellerin",
       "classification": "coauthor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \": Pellerin\"}",
+      "person_id": "~{\"name\": \"Pellerin\"}",
       "organization_id": null
     },
     {
@@ -379,6 +402,17 @@
         }
       ],
       "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "08/03/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1973&version=20250AB197396AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-03",
       "classification": ""
     }
   ],
@@ -459,7 +493,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:26Z",
+    "logs_latest_update": "2026-08-04T09:49:54Z",
     "text_extraction_latest_update": "2026-07-21T20:26:01.123000Z"
   }
 }

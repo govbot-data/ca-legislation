@@ -21,15 +21,15 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Education-related positions: egregious misconduct: previous employment disclosures."
-    },
-    {
-      "note": "",
       "title": "Educational workforce housing."
     },
     {
       "note": "",
       "title": "California School Finance Authority: Educational Workforce Housing Revolving Loan Fund."
+    },
+    {
+      "note": "",
+      "title": "Education-related positions: egregious misconduct: previous employment disclosures."
     }
   ],
   "other_identifiers": [
@@ -443,6 +443,36 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:31Z"
       }
+    },
+    {
+      "description": "Withdrawn from committee.",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T09:49:54Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on APPR.",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-04T09:49:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -613,7 +643,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:31Z",
+    "logs_latest_update": "2026-08-04T09:49:54Z",
     "text_extraction_latest_update": "2026-07-22T12:30:55.270828Z"
   }
 }

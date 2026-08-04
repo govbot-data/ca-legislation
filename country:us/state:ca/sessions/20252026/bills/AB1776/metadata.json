@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, commonly known as the Cartwright Act, identifies certain acts as unlawful restraints of trade and unlawful trusts and prescribes provisions for its enforcement. Chapter 338 of the Statutes of 2025 provides that in a complaint for any violation of the Cartwright Act, it is sufficient to contain factual allegations demonstrating that the existence of a contract, combination in the form of a trust, or conspiracy to restrain trade or commerce is plausible. Chapter 338 of the Statutes of 2025 also provides that a complaint for any violation of the Cartwright Act is not required to allege facts tending to exclude the possibility of independent action. Existing case law, In re Cipro Cases I & II (2015) 61 Cal. 4th 116, establishes a rule of reason analysis for certain claims under the Cartwright Act, which, among other things, determines whether an act was made for the purpose of avoiding competition and whether the anticompetitive effects of the agreement outweigh any procompetitive justifications.\n\nThis bill would prohibit one or more persons from acting, causing, taking, or directing measures, actions, or events that are to unreasonably restrain trade or monopolize or monopsonize in any part of trade or commerce, as provided. The bill would prohibit anticompetitive effects in one market from being offset by purported benefits in a separate market. The bill would require courts to use the analytical framework and guidance provided in In re Cipro Cases I & II. The bill would require a plaintiff bringing an action under its provisions to allege, and prove at trial, market power through either direct or indirect evidence. The bill would exempt a small business, as defined, from these provisions. The bill would also make related findings and declarations. The bill would require courts to liberally interpret California's antitrust laws to best promote free and fair competition, as provided.\n\n Because the bill would expand the scope of activities prohibited by the Cartwright Act, the violation of which is punishable as a crime, the bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+      "abstract": "Existing law, commonly known as the Cartwright Act, identifies certain acts as unlawful restraints of trade and unlawful trusts and prescribes provisions for its enforcement. Chapter 338 of the Statutes of 2025 provides that in a complaint for any violation of the Cartwright Act, it is sufficient to contain factual allegations demonstrating that the existence of a contract, combination in the form of a trust, or conspiracy to restrain trade or commerce is plausible. Chapter 338 of the Statutes of 2025 also provides that a complaint for any violation of the Cartwright Act is not required to allege facts tending to exclude the possibility of independent action. Existing case law, In re Cipro Cases I & II (2015) 61 Cal. 4th 116, establishes a rule of reason analysis for certain claims under the Cartwright Act, which, among other things, determines whether an act was made for the purpose of avoiding competition and whether the anticompetitive effects of the agreement outweigh any procompetitive justifications.\n\nThis bill would prohibit any person from monopolizing or monopsonizing any part of trade or commerce, as provided, and would require procompetitive justifications of the challenged conduct to be evaluated within the same relevant market, as specified. The bill would require courts to use the analytical framework and guidance provided in In re Cipro Cases I & II. The bill would require a plaintiff bringing an action under its provisions to allege, and prove at trial, substantial market power through either direct or indirect evidence. The bill would exempt a small business, as defined, from these provisions. The bill would provide that its provisions do not prevent, limit, or prohibit certain conduct and legal instruments, including exclusive franchises granted and supervised by a local, state, or federal governmental agency. The bill would also make related findings and declarations. The bill would require courts to liberally interpret California's antitrust laws to best promote free and fair competition, as provided.\n\n Because the bill would expand the scope of activities prohibited by the Cartwright Act, the violation of which is punishable as a crime, the bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
     }
   ],
   "other_titles": [
@@ -334,6 +334,29 @@
       "_processing": {
         "log_file_created": "2026-07-23T09:33:03Z"
       }
+    },
+    {
+      "description": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on APPR.",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-04T09:49:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -520,6 +543,17 @@
       ],
       "date": "2026-06-22",
       "classification": ""
+    },
+    {
+      "note": "08/03/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1776&version=20250AB177693AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-03",
+      "classification": ""
     }
   ],
   "documents": [
@@ -593,7 +627,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-23T09:33:03Z",
+    "logs_latest_update": "2026-08-04T09:49:54Z",
     "text_extraction_latest_update": "2026-07-23T09:53:18.140391Z"
   }
 }

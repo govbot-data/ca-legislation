@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "The Civil Discovery Act authorizes a party to obtain discovery by taking the oral deposition of any person. Oral depositions must be conducted under the supervision of a deposition officer, as specified, and, unless otherwise agreed or ordered, the testimony must be taken stenographically and then transcribed. The act provides procedures for the deponent to read, correct, approve, and sign the original deposition transcript and requires the deposition officer to certify and promptly transmit the transcript to the attorney of the party who noticed the deposition in a securely sealed envelope or package.\n\nThis bill would permit the deposition officer to instead transmit a certified deposition transcript to the attorney of the party who noticed the deposition via electronic means, when requested by that attorney. The bill would require an electronically transmitted transcript to be in a format that ensures it is authentic and has not been altered. The bill would make an electronically stored transcript admissible as an original transcript where the attorney presenting it certifies that it is a true and correct copy of the transcript that they received electronically."
+      "abstract": "The Civil Discovery Act authorizes a party to obtain discovery by taking the oral deposition of any person. Oral depositions must be conducted under the supervision of a deposition officer, as specified, and, unless otherwise agreed or ordered, the testimony must be taken stenographically and then transcribed. The act provides procedures for the deponent to read, correct, approve, and sign the original deposition transcript and requires the deposition officer to certify and promptly transmit the transcript to the attorney of the party who noticed the deposition in a securely sealed envelope or package.\n\nThis bill would permit the deposition officer or entity retained to perform deposition reporting or transcription services to instead securely encrypt and transmit a certified deposition transcript to the attorney of the party who noticed the deposition via electronic means, when requested by that attorney. The bill would require an electronically transmitted transcript to be in a format that ensures it is authentic and has not been altered. The bill would require the court to accept a transcript that has been formatted, stored, and transmitted in compliance with these provisions as an original certified transcript where the attorney presenting it certifies that it is a true and correct copy of the transcript that they received electronically."
     }
   ],
   "other_titles": [],
@@ -216,6 +216,21 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:36Z"
       }
+    },
+    {
+      "description": "Read second time and amended. Ordered to third reading.",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T09:49:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -273,6 +288,17 @@
       ],
       "date": "2026-06-11",
       "classification": ""
+    },
+    {
+      "note": "08/03/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2290&version=20250AB229096AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-03",
+      "classification": ""
     }
   ],
   "documents": [
@@ -297,6 +323,17 @@
       ],
       "date": "2026-06-26",
       "classification": "analysis"
+    },
+    {
+      "note": "08/03/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2290&analysisId=402692&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-03",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -317,7 +354,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:36Z",
+    "logs_latest_update": "2026-08-04T09:49:54Z",
     "text_extraction_latest_update": "2026-07-21T21:08:58.092722Z"
   }
 }

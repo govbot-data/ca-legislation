@@ -1,21 +1,27 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB1923",
-  "title": "Distressed Hospital Loan Program.",
+  "title": "Local ballot measures: County of Fresno.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "DistressedHospitalLoanProgram"
+    "CountyofFresno",
+    "Localballotmeasures"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law requires the Department of Health Care Access and Information to administer the Distressed Hospital Loan Program, until January 1, 2032, which provides loans to not-for-profit hospitals and public hospitals in significant financial distress or to governmental entities representing a closed hospital to prevent the closure of, or facilitate the reopening of, those hospitals. Existing law requires the department to develop a methodology to evaluate an at-risk hospital's potential eligibility for state assistance from the program, and authorizes the methodology for determining financial distress to consider the hospital's prior and projected performance on financial metrics, including, among other things, the amount of cash on hand. Existing law requires a hospital or a closed hospital applying for aid under this program to provide, among other things, the California Health Facilities Financing Authority and the department with financial information demonstrating the hospital's need for financial assistance due to financial hardship.\n\nExisting law requires the department to provide loan forgiveness or modification of loan terms to an applicant based upon criteria determined by the department and subject to the approval of the department and the authority. Existing law requires the department to establish the terms and conditions associated with accepting loan forgiveness or modification of loan terms, subject to approval of the Department of Finance.\n\nThis bill would, if an appropriation is made for this purpose, require the evaluation for loan forgiveness incorporate projections of future financial performance in addition to a hospital's point-in-time financial condition. The bill would, if an appropriation is made for this purpose, in place of the current criteria, require the department to provide loan forgiveness to any participant of the program who received a loan award before the effective date of this act, as specified, if the department and authority determine the participant has demonstrated a good faith effort to comply with program requirements through January 1, 2026, and the financial projections demonstrate that the participant will become financially distressed as a result of loan repayments under the program or other outside factors, including, but not limited to, the impacts of the federal One Big Beautiful Bill Act.\n\nThis bill would extend the program through January 1, 2035.\n\nThis bill would declare that it is to take effect immediately as an urgency statute."
+      "abstract": "The electors of a county may propose an ordinance to the county board of supervisors by submitting an initiative petition containing signatures by registered voters in the county in an amount equal to 10% of the number of votes cast within the county for all candidates for Governor at the preceding gubernatorial election. If the county elections official certifies that an initiative petition has been signed by at least that number of voters, the county board of supervisors is required to either adopt the ordinance or submit it to the voters at the next statewide election occurring not less than 88 days later.\n\nThis bill would require any Fresno County initiative petition that has been certified as sufficient by the Fresno County Registrar of Voters on or before July 8, 2026, to be submitted, without alteration, to the voters at the November 3, 2026, statewide general election.\n\nThis bill would make legislative findings and declarations as to the necessity of a special statute for the County of Fresno.\n\nThis bill would declare that it is to take effect immediately as an urgency statute."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Distressed Hospital Loan Program."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-ca-20252026-ab1923"
@@ -322,6 +328,97 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:25Z"
       }
+    },
+    {
+      "description": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on APPR.",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-04T09:49:54Z"
+      }
+    },
+    {
+      "description": "Withdrawn from committee.",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T09:49:54Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on RLS.",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-04T09:49:54Z"
+      }
+    },
+    {
+      "description": "Joint Rule 62(a), file notice suspended.",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T09:49:54Z"
+      }
+    },
+    {
+      "description": "Joint Rule 62(a), file notice suspended. (Ayes 27. Noes 8.)",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T09:49:54Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on E. & C.A.",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on E. & C.A.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-04T09:49:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -334,67 +431,11 @@
       "organization_id": null
     },
     {
-      "name": "Gipson",
+      "name": "Caballero",
       "classification": "principal coauthor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Gipson\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Ransom",
-      "classification": "principal coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Ransom\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Carrillo",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Carrillo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Mark Gonz\u00e1lez",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Mark Gonz\\u00e1lez\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Haney",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Haney\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Harabedian",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Harabedian\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Michelle Rodriguez",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Michelle Rodriguez\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Rogers",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Rogers\"}",
+      "person_id": "~{\"name\": \"Caballero\"}",
       "organization_id": null
     }
   ],
@@ -465,6 +506,17 @@
       ],
       "date": "2026-07-02",
       "classification": ""
+    },
+    {
+      "note": "08/03/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1923&version=20250AB192394AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-03",
+      "classification": ""
     }
   ],
   "documents": [
@@ -511,6 +563,17 @@
       ],
       "date": "2026-06-30",
       "classification": "analysis"
+    },
+    {
+      "note": "07/31/26- Senate Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1923&analysisId=402419&analyzingOffice=Senate+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-31",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -521,9 +584,8 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Section 129387 of, and to amend, repeal, and add Section 129384 of, the Health and Safety Code, relating to hospitals, and declaring the urgency thereof, to take effect immediately.",
+    "impact_clause": "An act relating to elections, and declaring the urgency thereof, to take effect immediately.",
     "tags": [
-      "fiscal committee",
       "urgency"
     ]
   },
@@ -534,7 +596,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:25Z",
+    "logs_latest_update": "2026-08-04T09:49:54Z",
     "text_extraction_latest_update": "2026-07-21T20:00:16.188987Z"
   }
 }

@@ -1,22 +1,26 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB353",
-  "title": "Public Utilities Commission: Independent Office of Audits and Investigations.",
+  "title": "Public Utilities Commission: Inspector General.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "IndependentOfficeofAuditsandInvestigations",
+    "InspectorGeneral",
     "PublicUtilitiesCommission"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law requires the Public Utilities Commission to appoint a chief internal auditor who holds office at the pleasure of the commission. Existing law makes the chief internal auditor responsible for the oversight of the internal audit unit and requires the chief internal auditor to plan, initiate, and perform audits of key financial, management, operational, and information technology functions within the commission to improve accountability and transparency to executive and state management.\n\nThis bill would repeal the provision providing for the appointment of the chief internal auditor and, on or before January 1, 2028, would transfer the internal audit unit of the commission and its staff to the Independent Office of Audits and Investigations, which the bill would establish within the commission, as specified. The bill would provide for the appointment and removal of the director of the office, who would have the title of Inspector General. The bill would provide the office with access to, and authority to examine, all records, files, documents, accounts, reports, correspondence, or other property of the commission, public utilities, and other entities regulated by the commission, as specified. The bill would require the Inspector General to report to the Governor and the Legislature, as provided.\n\nUnder existing law, a violation of the Public Utilities Act or any order, decision, rule, direction, demand, or requirement of the commission is a crime.\n\nBecause the provisions of this bill would be a part of the act and because a violation of a commission action implementing the bill's requirements would be a crime, the bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+      "abstract": "Existing law requires the Public Utilities Commission to appoint a chief internal auditor who holds office at the pleasure of the commission. Existing law makes the chief internal auditor responsible for the oversight of the internal audit unit. Existing law requires the chief internal auditor to plan, initiate, and perform audits of key financial, management, operational, and information technology functions within the commission to improve accountability and transparency to executive and state management, and to report their findings and recommendations directly to an audit subcommittee of the commission.\n\nThis bill would instead require the Governor to appoint an Inspector General, subject to Senate confirmation, to be responsible for the oversight of the internal audit unit and would instead require the Inspector General to plan, initiate, and perform audits of key financial, management, operational, and information technology functions within the commission to improve accountability and transparency to executive and state management. The bill would also require the Inspector General to ensure, among other things, that the commission administers funds and programs in a prescribed manner, fulfills mandated requirements, develops an annual audit plan, administers an effective enterprise risk management program, and monitors reporting compliance. The bill would provide for the appointment and removal of the Inspector General, as specified. The bill would authorize the Inspector General to access and examine all records, files, documents, accounts, reports, correspondence, or other property of the commission, public utilities, and other entities regulated by the commission, as specified. The bill would require the Inspector General to report specified information to the Governor and the Legislature, as provided."
     }
   ],
   "other_titles": [
+    {
+      "note": "",
+      "title": "Public Utilities Commission: Independent Office of Audits and Investigations."
+    },
     {
       "note": "",
       "title": "Communications: broadband internet service providers: affordable home internet service."
@@ -403,6 +407,29 @@
       "_processing": {
         "log_file_created": "2026-07-23T09:33:03Z"
       }
+    },
+    {
+      "description": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on APPR.",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-04T09:49:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -504,6 +531,17 @@
       ],
       "date": "2026-06-23",
       "classification": ""
+    },
+    {
+      "note": "08/03/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB353&version=20250AB35392AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-03",
+      "classification": ""
     }
   ],
   "documents": [
@@ -571,10 +609,9 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend, repeal, and add Section 307.6 of the Public Utilities Code, relating to the Public Utilities Commission.",
+    "impact_clause": "An act to amend Section 307.6 of the Public Utilities Code, relating to the Public Utilities Commission.",
     "tags": [
-      "fiscal committee",
-      "local program"
+      "fiscal committee"
     ]
   },
   "jurisdiction": {
@@ -584,7 +621,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-23T09:33:03Z",
+    "logs_latest_update": "2026-08-04T09:49:54Z",
     "text_extraction_latest_update": "2026-07-23T09:44:08.695994Z"
   }
 }

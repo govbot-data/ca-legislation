@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law provides that a trustee's sale of property under a power of sale contained in a deed of trust or mortgage on real property containing one to 4 residential units is not final until the earliest of various time periods. Existing law provides specified eligible bidders, defined to include eligible tenant buyers, prospective owner-occupants, and eligible nonprofit corporations with certain attributes, various rights in connection with those sales, and sets forth procedures for eligible bidders to submit bids after those sales. Existing law authorizes the Attorney General, a county counsel, a city attorney, or a district attorney to bring an action to enforce these provisions as specified.\n\nThis bill would instead provide that a trustee's sale of eligible property, as defined, is not final until the earliest of various time periods. The bill would change the term \"eligible tenant buyer\" to \"eligible tenant bidder,\" and would redefine the term \"eligible bidder\" to remove prospective owner-occupants and to mean an eligible tenant bidder or an eligible community bidder, as defined. The bill would add an additional attribute to the eligible nonprofit corporations portion of \"eligible community bidder.\" The bill would apply the provisions described above only to trustee's sales of eligible property, as defined. The bill would require eligible tenant bidders who submit bids pursuant to the procedures described above to include in the bid an amount equal to 1.2% of the last and highest bid at the trustee's sale. The bill would authorize the persons described above to seek a civil penalty to enforce these provisions, as specified. The bill would make conforming changes."
+      "abstract": "Existing law provides that a trustee's sale of property under a power of sale contained in a deed of trust or mortgage on real property containing one to 4 residential units is not final until the earliest of various time periods. Existing law provides specified eligible bidders, defined to include eligible tenant buyers, prospective owner-occupants, and eligible nonprofit corporations with certain attributes, various rights in connection with those sales, and sets forth procedures for eligible bidders to submit bids after those sales. Existing law authorizes the Attorney General, a county counsel, a city attorney, or a district attorney to bring an action to enforce these provisions as specified.\n\nThis bill would instead provide that a trustee's sale of eligible property, as defined, is not final until the earliest of various time periods. The bill would change the term \"eligible tenant buyer\" to \"eligible tenant bidder,\" and would redefine the term \"eligible bidder\" to remove prospective owner-occupants and to mean an eligible tenant bidder or an eligible community bidder, as defined. The bill would add an additional attribute to the eligible nonprofit corporations portion of \"eligible community bidder.\" The bill would authorize the persons described above to seek a civil penalty to enforce these provisions, as specified. The bill would make conforming changes."
     }
   ],
   "other_titles": [],
@@ -259,6 +259,43 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:32Z"
       }
+    },
+    {
+      "description": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on APPR.",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-04T09:49:54Z"
+      }
+    },
+    {
+      "description": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T09:49:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -326,6 +363,17 @@
         }
       ],
       "date": "2026-07-07",
+      "classification": ""
+    },
+    {
+      "note": "08/03/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1957&version=20250AB195795AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-03",
       "classification": ""
     }
   ],
@@ -405,7 +453,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Sections 2924d, 2924h, and 2924m of the Civil Code, and to amend Sections 50612 and 50720.2 of the Health and Safety Code, relating to mortgages.",
+    "impact_clause": "An act to amend Sections 2924d, 2924f, 2924h, and 2924m of the Civil Code, and to amend Sections 50612 and 50720.2 of the Health and Safety Code, relating to mortgages.",
     "tags": [
       "fiscal committee"
     ]
@@ -417,7 +465,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:32Z",
+    "logs_latest_update": "2026-08-04T09:49:54Z",
     "text_extraction_latest_update": "2026-07-22T16:49:22.984059Z"
   }
 }

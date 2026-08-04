@@ -20,11 +20,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Wildfires: training: defensible space: inspections."
+      "title": "Wildfires: training programs: defensible space: inspections."
     },
     {
       "note": "",
-      "title": "Wildfires: training programs: defensible space: inspections."
+      "title": "Wildfires: training: defensible space: inspections."
     }
   ],
   "other_identifiers": [
@@ -373,13 +373,13 @@
       }
     },
     {
-      "description": "(Ayes 28. Noes 9.)",
+      "description": "(Ayes 29. Noes 9. Page 4584.)",
       "date": "2026-06-04",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:33Z"
+        "log_file_created": "2026-08-04T09:49:54Z"
       }
     },
     {
@@ -478,6 +478,20 @@
       ],
       "_processing": {
         "log_file_created": "2026-07-21T18:55:33Z"
+      }
+    },
+    {
+      "description": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T09:49:54Z"
       }
     }
   ],
@@ -638,7 +652,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:33Z",
+    "logs_latest_update": "2026-08-04T09:49:54Z",
     "text_extraction_latest_update": "2026-07-22T14:57:13.115524Z"
   }
 }

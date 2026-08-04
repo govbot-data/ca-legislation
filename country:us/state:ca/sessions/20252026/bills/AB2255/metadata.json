@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "The Political Reform Act of 1974 provides for the comprehensive regulation of campaign financing, including requiring elected officials, candidates for elective office, and committees to file periodic campaign statements. The act requires that these campaign statements contain prescribed information related to campaign contributions and expenditures of the filing entities.\n\nThis bill would require a candidate controlled committee established for an elective office for the controlling candidate, with specified exceptions, to report additional information on its campaign statement if (1) the candidate will not appear on the ballot at the next election and (2) the committee makes expenditures to a single person exceeding $20,000 in the aggregate during the reporting period. If the candidate controlled committee is required to report this information, its campaign statement must include the full name and street address of the person to whom the expenditures were made, the amount of each expenditure, and a description of any consideration for which each expenditure was made.\n\nExisting law makes a knowing or willful violation of the Political Reform Act of 1974 a misdemeanor and subjects offenders to criminal penalties. By requiring certain candidate controlled committees to report additional information on their campaign statements, the bill would expand the scope of a crime and impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThe Political Reform Act of 1974, an initiative measure, provides that the Legislature may amend the act to further the act's purposes upon a 23 vote of each house of the Legislature and compliance with specified procedural requirements.\n\nThis bill would declare that it furthers the purposes of the act.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+      "abstract": "The Political Reform Act of 1974 provides for the comprehensive regulation of campaign financing, including requiring elected officials, candidates for elective office, and committees to file periodic campaign statements. The act requires that these campaign statements contain prescribed information related to campaign contributions and expenditures of the filing entities.\n\nThis bill would require a candidate controlled committee established for an elective office for the controlling candidate, with specified exceptions, to report additional information on its campaign statement if (1) an expenditure is made to a single person and the committee makes expenditures to that person exceeding $20,000 in the aggregate during the reporting period, (2) the candidate will not appear on the ballot at the next election, and (3) the committee is not established for the purpose of reelection of the controlling candidate to the same office. If the candidate controlled committee is required to report this information, its campaign statement must describe the specific political, legislative, or governmental purpose that is satisfied by the expenditure and, if applicable, whether the person to whom the expenditure was made or a reportable subvendor is an immediate family member of the candidate, a paid member of the candidate's campaign or officeholder staff, or an immediate family member of a paid member of the candidate's campaign or officeholder staff.\n\nExisting law makes a knowing or willful violation of the Political Reform Act of 1974 a misdemeanor and subjects offenders to criminal penalties. By requiring certain candidate controlled committees to report additional information on their campaign statements, the bill would expand the scope of a crime and impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThe Political Reform Act of 1974, an initiative measure, provides that the Legislature may amend the act to further the act's purposes upon a 23 vote of each house of the Legislature and compliance with specified procedural requirements.\n\nThis bill would declare that it furthers the purposes of the act.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
     }
   ],
   "other_titles": [],
@@ -242,6 +242,29 @@
       "_processing": {
         "log_file_created": "2026-07-23T09:33:03Z"
       }
+    },
+    {
+      "description": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on APPR.",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-04T09:49:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -298,6 +321,17 @@
         }
       ],
       "date": "2026-06-23",
+      "classification": ""
+    },
+    {
+      "note": "08/03/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2255&version=20250AB225596AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-03",
       "classification": ""
     }
   ],
@@ -357,7 +391,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-23T09:33:03Z",
+    "logs_latest_update": "2026-08-04T09:49:54Z",
     "text_extraction_latest_update": "2026-07-23T09:48:56.244864Z"
   }
 }
