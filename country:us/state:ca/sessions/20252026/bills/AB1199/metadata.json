@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "State Department of State Hospitals."
+      "title": "Hospitals: employee identification."
     },
     {
       "note": "",
-      "title": "Hospitals: employee identification."
+      "title": "State Department of State Hospitals."
     }
   ],
   "other_identifiers": [
@@ -394,6 +394,19 @@
       "_processing": {
         "log_file_created": "2026-08-04T09:49:54Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to Consent Calendar.",
+      "date": "2026-08-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-05T09:46:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -542,7 +555,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-04T09:49:54Z",
+    "logs_latest_update": "2026-08-05T09:46:48Z",
     "text_extraction_latest_update": "2026-08-04T09:58:53.965095Z"
   }
 }

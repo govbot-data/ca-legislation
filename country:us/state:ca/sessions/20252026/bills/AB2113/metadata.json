@@ -1,23 +1,28 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB2113",
-  "title": "Aviation: unmanned aircraft systems: ticketed entertainment events.",
+  "title": "Aviation: unmanned aircraft systems: ticketed entertainment events and amusement parks.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
     "Aviation",
-    "ticketedentertainmentevents",
+    "ticketedentertainmenteventsandamusementparks",
     "unmannedaircraftsystems"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing federal law regulates aviation safety and airspace efficiency for manned and unmanned aircraft. Existing law makes it a misdemeanor to impede police officers, firefighters, emergency medical, or other emergency personnel or military personnel in the performance of their duties by operating an unmanned aerial vehicle at the scene of an emergency. Existing law makes it a misdemeanor to use an unmanned aircraft system to invade a person's privacy, as specified. Existing law prohibits operating an unmanned aircraft system on or above the grounds of a state prison, jail, or juvenile hall, as specified. \n\nThis bill would prohibit the operation of an unmanned aircraft within 400 feet of an outdoor ticketed entertainment event, except under specified circumstances. The bill would make a violation of this prohibition an infraction punishable by a fine of $500. By creating a new crime, the bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+      "abstract": "Existing federal law regulates aviation safety and airspace efficiency for manned and unmanned aircraft. Existing law makes it a misdemeanor to impede police officers, firefighters, emergency medical, or other emergency personnel or military personnel in the performance of their duties by operating an unmanned aerial vehicle at the scene of an emergency. Existing law makes it a misdemeanor to use an unmanned aircraft system to invade a person's privacy, as specified. Existing law prohibits operating an unmanned aircraft system on or above the grounds of a state prison, jail, or juvenile hall, as specified. \n\nThis bill would prohibit the operation of an unmanned aircraft within 400 feet of an outdoor ticketed entertainment event or an amusement park, except under specified circumstances. The bill would make a violation of this prohibition an infraction punishable by a fine of $500. By creating a new crime, the bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Aviation: unmanned aircraft systems: ticketed entertainment events."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-ca-20252026-ab2113"
@@ -323,6 +328,29 @@
       "_processing": {
         "log_file_created": "2026-07-30T09:40:49Z"
       }
+    },
+    {
+      "description": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on APPR.",
+      "date": "2026-08-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-05T09:46:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -390,6 +418,17 @@
         }
       ],
       "date": "2026-06-18",
+      "classification": ""
+    },
+    {
+      "note": "08/04/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2113&version=20250AB211395AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-04",
       "classification": ""
     }
   ],
@@ -482,7 +521,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-30T09:40:49Z",
+    "logs_latest_update": "2026-08-05T09:46:48Z",
     "text_extraction_latest_update": "2026-07-30T09:43:24.028795Z"
   }
 }

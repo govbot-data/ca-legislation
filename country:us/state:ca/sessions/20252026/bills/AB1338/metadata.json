@@ -20,11 +20,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Metal shredding facilities: regulations."
+      "title": "Hazardous waste: research programs."
     },
     {
       "note": "",
-      "title": "Hazardous waste: research programs."
+      "title": "Metal shredding facilities: regulations."
     }
   ],
   "other_identifiers": [
@@ -371,6 +371,20 @@
       "_processing": {
         "log_file_created": "2026-08-04T09:49:54Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-05T09:46:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -507,7 +521,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-04T09:49:54Z",
+    "logs_latest_update": "2026-08-05T09:46:48Z",
     "text_extraction_latest_update": "2026-08-04T10:04:22.334136Z"
   }
 }

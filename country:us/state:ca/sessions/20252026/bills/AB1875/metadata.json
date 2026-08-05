@@ -222,6 +222,21 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:24Z"
       }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-05T09:46:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -304,6 +319,38 @@
       "primary": false,
       "person_id": "~{\"name\": \"Stefani\"}",
       "organization_id": null
+    },
+    {
+      "name": "Alvarado-Gil",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alvarado-Gil\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rubio",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rubio\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wahab",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wahab\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Weber Pierson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Weber Pierson\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -350,6 +397,17 @@
         }
       ],
       "date": "2026-05-28",
+      "classification": ""
+    },
+    {
+      "note": "08/04/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1875&version=20250AB187596AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-04",
       "classification": ""
     }
   ],
@@ -406,7 +464,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:24Z",
+    "logs_latest_update": "2026-08-05T09:46:48Z",
     "text_extraction_latest_update": "2026-07-22T10:12:37.058691Z"
   }
 }

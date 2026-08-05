@@ -241,6 +241,20 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:30Z"
       }
+    },
+    {
+      "description": "From committee: Amend, and do pass as amended. (Ayes 7. Noes 0.) (August 3).",
+      "date": "2026-08-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-05T09:46:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -344,6 +358,17 @@
       ],
       "date": "2026-06-27",
       "classification": "analysis"
+    },
+    {
+      "note": "07/31/26- Senate Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2788&analysisId=402631&analyzingOffice=Senate+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-31",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -367,7 +392,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:30Z",
+    "logs_latest_update": "2026-08-05T09:46:48Z",
     "text_extraction_latest_update": "2026-07-22T11:25:59.634127Z"
   }
 }

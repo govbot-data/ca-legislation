@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law specifies the rights and requirements of a homeowner to bring an action for construction defects, including applicable standards for home construction, the statute of limitations, the burden of proof, the damages recoverable, and detailed prelitigation procedures.\n\nThis bill would establish an alternative process for certified buildings, as established by the bill, and would provide that the bill's provisions only apply to condominium projects and townhouse developments constructed on or after January 1, 2027. The bill would authorize a builder to obtain a certified building status for a building by undergoing private inspection, repairs, and reinspection during construction, as provided. The bill would prohibit future challenges to the status of the building as a certified building once certified. The bill would authorize the builder of a certified building to establish its own process for handling postconstruction claims. The bill would specify that a builder has a complete and unrestricted right to inspect and repair a certified building at times mutually agreed upon by the builder and claimant and within timeframes established by the builder. If a claimant refuses the offer of repair or prevents, restricts, delays, or frustrates access for more than 7 days from the mutually agreed upon day, the bill would deem the builder to have received a release. The bill would require an inspector to meet specified criteria, including, among others, that they are a private licensed architect, engineer, or general contractor, and to certify to the Department of Real Estate that they meet the criteria. On or before July 1, 2028, the bill would require the Department of Real Estate to post on its internet website a list of eligible inspectors.\n\nExisting law requires a person claiming that the construction of their residence violates standards of construction, as specified, to provide a written notice of the claim to the builder that, among other things, describes the claimed violation in reasonable detail sufficient to determine the nature and location of the claimed violation. Existing law, in the case of a group of homeowners or an association, authorizes the notice to identify the claimants solely by address or other description sufficient to apprise the builder of the locations of the subject residences. Existing law authorizes that written notice to be provided by the claimant's legal representative.\n\nThis bill would require evidence of the violation, including copies of any reasonably available photographs, estimates or reports relating to the damage, and the specific location of the evidence to be included in the notice. The bill would remove the above-described authorization for notices in the case of a group of homeowners or an association.\n\nExisting law prohibits a builder from obtaining a release or waiver in exchange for repair work mandated by law, as specified, and authorizes a claimant, at the conclusion of the repair, to file an action for violation of the applicable standard or for a claim of inadequate repair.\n\nThis bill would repeal that provision and would, instead, authorize a builder to obtain a release or waiver in exchange for the repair work one year after the repair.\n\nExisting law specifies that the prelitigation procedures are to be strictly construed, and that, if the claimant does not conform with the requirements, the builder may bring a motion to stay any subsequent court action or other proceeding until the requirements are met.\n\nThis bill would, instead, authorize the builder to bring a motion to dismiss without prejudice any court action or other proceeding if the claimant does not substantially conform with the requirements and would require the court to grant the motion.\n\nExisting law specifies that to make a claim for violation of construction standards applicable to construction defect claims, a homeowner need only demonstrate that the home does not meet the applicable standard, and that no further showing of causation or damages is required to meet the burden of proof, provided that the violation arises out of, pertains to, or is related to, the original construction.\n\nThis bill would, instead, require a claimant to affirmatively demonstrate that there is a violation of the applicable standard, that the violation caused appreciable, nonspeculative, present physical damage to another component part of the building, and that the violation is caused by the original construction. The bill would prohibit an insurer from asserting repairs as a voluntary payment or as a payment made without the insurer's consent, or deny counting the costs associated with those repairs.\n\nExisting law authorizes a homeowner to recover reasonable investigative costs for each established violation.\n\nThis bill would delete that provision, and would prohibit the recovery of investigative costs. The bill would prohibit an action from being filed unless the conditions for filing an action have been met for each claimed violation. The bill would prohibit a claim for damages based on extrapolation of claims, and would limit testing of the components of the structure, as specified."
+      "abstract": "Existing law specifies the rights and requirements of a claimant or homeowner to bring a civil action for construction defects of a dwelling, including applicable standards for home construction, detailed prelitigation procedures, statute of limitations, burden of proof, and the damages recoverable. Existing law specifies the rights and prohibitions for a builder to defend against a civil action for construction defects, including a prohibition against a builder obtaining a release or waiver in exchange for repair work mandated by law.\n\nThis bill would modify specific rights, requirements, and prohibitions for the parties to a civil action for construction defects of a dwelling by revising, among other things, the requirements for a prelitigation notice from the claimant to the builder and the evidence a claimant is required to affirmatively demonstrate to make a claim. The bill would prohibit the recovery of investigative costs, except as specified. The bill would repeal the prohibition on, and instead authorize, a builder to obtain a release or waiver in exchange for certain repair work, as specified. The bill would prohibit an insurer from asserting repairs as a voluntary payment or as a payment made without the insurer's consent, or denying counting the costs associated with those repairs, against a deductible or self-insured retention."
     }
   ],
   "other_titles": [],
@@ -311,6 +311,27 @@
       "_processing": {
         "log_file_created": "2026-08-04T09:49:54Z"
       }
+    },
+    {
+      "description": "Read second time and amended. Re-referred to Com. on HOUSING.",
+      "date": "2026-08-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on HOUSING.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-05T09:46:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -438,6 +459,17 @@
       ],
       "date": "2026-06-11",
       "classification": ""
+    },
+    {
+      "note": "08/04/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1903&version=20250AB190394AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-04",
+      "classification": ""
     }
   ],
   "documents": [
@@ -494,10 +526,8 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Sections 910, 930, 942, and 944 of, to add Sections 942.2, 945.1, and 945.2 to, to add Chapter 4.5 (commencing with Section 939) to Title 7 of Part 2 of Division 2 of, and to repeal and add Section 926 of, the Civil Code, relating to construction defects.",
-    "tags": [
-      "fiscal committee"
-    ]
+    "impact_clause": "An act to amend Sections 910, 930, and 942 of, to add Sections 942.2, 945.1, and 945.2 to, and to repeal and add Section 926 of, the Civil Code, relating to construction defects.",
+    "tags": []
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ca/government",
@@ -506,7 +536,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-04T09:49:54Z",
+    "logs_latest_update": "2026-08-05T09:46:48Z",
     "text_extraction_latest_update": "2026-08-04T10:12:25.893414Z"
   }
 }
