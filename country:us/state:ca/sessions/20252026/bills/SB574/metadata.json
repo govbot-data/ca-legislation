@@ -18,7 +18,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Public postsecondary education: University of California: contracting for services."
+      "title": "Generative artificial intelligence: attorneys and arbitrators."
     },
     {
       "note": "",
@@ -26,7 +26,7 @@
     },
     {
       "note": "",
-      "title": "Generative artificial intelligence: attorneys and arbitrators."
+      "title": "Public postsecondary education: University of California: contracting for services."
     }
   ],
   "other_identifiers": [
@@ -469,6 +469,16 @@
       "_processing": {
         "log_file_created": "2026-08-04T09:49:54Z"
       }
+    },
+    {
+      "description": "August 5 set for first hearing. Placed on suspense file.",
+      "date": "2026-08-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-06T09:57:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -613,6 +623,17 @@
       ],
       "date": "2026-06-29",
       "classification": "analysis"
+    },
+    {
+      "note": "08/04/26- Assembly Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB574&analysisId=403026&analyzingOffice=Assembly+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-04",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -635,7 +656,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-04T09:49:54Z",
+    "logs_latest_update": "2026-08-06T09:57:16Z",
     "text_extraction_latest_update": "2026-08-04T10:13:47.624514Z"
   }
 }

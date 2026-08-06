@@ -282,6 +282,20 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:38Z"
       }
+    },
+    {
+      "description": "From committee: Do pass as amended. (Ayes 15. Noes 0.) (August 5).",
+      "date": "2026-08-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-06T09:57:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -385,6 +399,17 @@
       ],
       "date": "2026-06-09",
       "classification": "analysis"
+    },
+    {
+      "note": "08/03/26- Assembly Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB952&analysisId=402800&analyzingOffice=Assembly+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-03",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -407,7 +432,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:38Z",
+    "logs_latest_update": "2026-08-06T09:57:17Z",
     "text_extraction_latest_update": "2026-07-22T16:06:47.363755Z"
   }
 }

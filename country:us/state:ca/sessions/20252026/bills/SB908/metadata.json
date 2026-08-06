@@ -21,11 +21,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Housing development: transit-oriented development."
+      "title": "Residential windows: retrofitting: California Energy Code compliance."
     },
     {
       "note": "",
-      "title": "Residential windows: retrofitting: California Energy Code compliance."
+      "title": "Housing development: transit-oriented development."
     }
   ],
   "other_identifiers": [
@@ -357,6 +357,19 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:33Z"
       }
+    },
+    {
+      "description": "From committee: Do pass. (Ayes 14. Noes 1.) (August 5).",
+      "date": "2026-08-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-06T09:57:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -501,6 +514,17 @@
       ],
       "date": "2026-06-30",
       "classification": "analysis"
+    },
+    {
+      "note": "08/03/26- Assembly Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB908&analysisId=402782&analyzingOffice=Assembly+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-03",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -524,7 +548,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:33Z",
+    "logs_latest_update": "2026-08-06T09:57:16Z",
     "text_extraction_latest_update": "2026-07-22T11:10:53.574137Z"
   }
 }

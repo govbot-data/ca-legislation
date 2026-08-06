@@ -20,11 +20,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Planning and zoning: housing development: regulation."
+      "title": "Planning and zoning: housing development: standardized application form."
     },
     {
       "note": "",
-      "title": "Planning and zoning: housing development: standardized application form."
+      "title": "Planning and zoning: housing development: regulation."
     }
   ],
   "other_identifiers": [
@@ -462,6 +462,26 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:25Z"
       }
+    },
+    {
+      "description": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 3. Noes 0.) (August 5). Re-referred to Com. on APPR.",
+      "date": "2026-08-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-06T09:57:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -636,6 +656,17 @@
       ],
       "date": "2025-06-26",
       "classification": "analysis"
+    },
+    {
+      "note": "08/03/26- Senate Revenue and Taxation",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1294&analysisId=402680&analyzingOffice=Senate+Revenue+and+Taxation",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-03",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -661,7 +692,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:25Z",
+    "logs_latest_update": "2026-08-06T09:57:17Z",
     "text_extraction_latest_update": "2026-07-21T20:26:55.367490Z"
   }
 }

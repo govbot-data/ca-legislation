@@ -255,6 +255,21 @@
       "_processing": {
         "log_file_created": "2026-08-05T09:46:48Z"
       }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-06T09:57:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -300,6 +315,17 @@
         }
       ],
       "date": "2026-06-10",
+      "classification": ""
+    },
+    {
+      "note": "08/05/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2025&version=20250AB202597AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-05",
       "classification": ""
     }
   ],
@@ -347,6 +373,17 @@
       ],
       "date": "2026-06-19",
       "classification": "analysis"
+    },
+    {
+      "note": "08/05/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2025&analysisId=403083&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-05",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -357,7 +394,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Section 10140.8 of, and to add Section 10175.4 to, the Business and Professions Code, and to add Section 1940.11 to the Civil Code, relating to tenancy.",
+    "impact_clause": "An act to amend Section 10140.8 of the Business and Professions Code, and to add Section 1940.11 to the Civil Code, relating to tenancy.",
     "tags": [
       "fiscal committee",
       "local program"
@@ -370,7 +407,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-05T09:46:48Z",
+    "logs_latest_update": "2026-08-06T09:57:17Z",
     "text_extraction_latest_update": "2026-08-05T10:10:42.045223Z"
   }
 }

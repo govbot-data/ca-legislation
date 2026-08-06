@@ -24,11 +24,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Noncertificated public school employees: private school employees: egregious misconduct: statewide data system: Commission on Teacher Credentialing: adverse actions."
+      "title": "Noncertificated employees: disciplinary hearings: egregious misconduct."
     },
     {
       "note": "",
-      "title": "Noncertificated employees: disciplinary hearings: egregious misconduct."
+      "title": "Noncertificated public school employees: private school employees: egregious misconduct: statewide data system: Commission on Teacher Credentialing: adverse actions."
     },
     {
       "note": "",
@@ -361,6 +361,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:31Z"
       }
+    },
+    {
+      "description": "August 5 set for first hearing. Placed on suspense file.",
+      "date": "2026-08-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-06T09:57:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -508,6 +518,17 @@
       ],
       "date": "2026-07-01",
       "classification": "analysis"
+    },
+    {
+      "note": "08/03/26- Assembly Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1083&analysisId=402859&analyzingOffice=Assembly+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-03",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -531,7 +552,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:31Z",
+    "logs_latest_update": "2026-08-06T09:57:17Z",
     "text_extraction_latest_update": "2026-07-22T10:32:30.850179Z"
   }
 }

@@ -332,6 +332,31 @@
       "_processing": {
         "log_file_created": "2026-08-05T09:46:48Z"
       }
+    },
+    {
+      "description": "Withdrawn from committee.",
+      "date": "2026-08-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-06T09:57:17Z"
+      }
+    },
+    {
+      "description": "Ordered to second reading.",
+      "date": "2026-08-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-06T09:57:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -536,7 +561,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-05T09:46:48Z",
+    "logs_latest_update": "2026-08-06T09:57:17Z",
     "text_extraction_latest_update": "2026-08-05T10:37:26.725235Z"
   }
 }

@@ -18,11 +18,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "California Emergency Services Act: disaster recovery: wildfires."
+      "title": "Recovery from wildfires."
     },
     {
       "note": "",
-      "title": "Recovery from wildfires."
+      "title": "California Emergency Services Act: disaster recovery: wildfires."
     }
   ],
   "other_identifiers": [
@@ -377,6 +377,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:29Z"
       }
+    },
+    {
+      "description": "August 5 set for first hearing. Placed on suspense file.",
+      "date": "2026-08-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-06T09:57:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -639,6 +649,17 @@
       ],
       "date": "2026-06-26",
       "classification": "analysis"
+    },
+    {
+      "note": "08/03/26- Assembly Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB904&analysisId=402779&analyzingOffice=Assembly+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-03",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -662,7 +683,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:29Z",
+    "logs_latest_update": "2026-08-06T09:57:16Z",
     "text_extraction_latest_update": "2026-07-21T22:57:39.411400Z"
   }
 }

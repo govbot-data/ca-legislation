@@ -20,11 +20,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Affordable housing."
+      "title": "California Environmental Quality Act: exemption: City of San Diego: Midway Rising Specific Plan."
     },
     {
       "note": "",
-      "title": "California Environmental Quality Act: exemption: City of San Diego: Midway Rising Specific Plan."
+      "title": "Affordable housing."
     }
   ],
   "other_identifiers": [
@@ -350,6 +350,20 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:24Z"
       }
+    },
+    {
+      "description": "From committee: Do pass as amended. (Ayes 15. Noes 0.) (August 5).",
+      "date": "2026-08-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-06T09:57:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -475,6 +489,17 @@
       ],
       "date": "2026-06-26",
       "classification": "analysis"
+    },
+    {
+      "note": "08/04/26- Assembly Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB958&analysisId=403027&analyzingOffice=Assembly+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-04",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -498,7 +523,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:24Z",
+    "logs_latest_update": "2026-08-06T09:57:16Z",
     "text_extraction_latest_update": "2026-07-21T19:24:47.637620Z"
   }
 }

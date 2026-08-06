@@ -21,11 +21,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Local government: ordinances."
+      "title": "California Environmental Quality Act: exemption: day care center: family daycare home: zoning."
     },
     {
       "note": "",
-      "title": "California Environmental Quality Act: exemption: day care center: family daycare home: zoning."
+      "title": "Local government: ordinances."
     }
   ],
   "other_identifiers": [
@@ -455,6 +455,29 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:33Z"
       }
+    },
+    {
+      "description": "Coauthors revised.",
+      "date": "2026-08-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-06T09:57:16Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass. (Ayes 15. Noes 0.) (August 5).",
+      "date": "2026-08-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-06T09:57:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -464,6 +487,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Cabaldon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wicks",
+      "classification": "principal coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wicks\"}",
       "organization_id": null
     },
     {
@@ -643,6 +674,17 @@
       ],
       "date": "2026-06-19",
       "classification": "analysis"
+    },
+    {
+      "note": "08/03/26- Assembly Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB299&analysisId=402711&analyzingOffice=Assembly+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-03",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -666,7 +708,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:33Z",
+    "logs_latest_update": "2026-08-06T09:57:16Z",
     "text_extraction_latest_update": "2026-07-21T23:56:16.648077Z"
   }
 }
