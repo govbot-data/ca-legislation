@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law establishes an Aging and Disability Resource Connection (ADRC) program, administered by the California Department of Aging, to provide information to consumers and their families on available long-term services and supports (LTSS) programs and to assist older adults, caregivers, and persons with disabilities in accessing LTSS programs at the local level. Existing law requires area agencies on aging and independent living centers to be the core local partners in developing and operating ADRC programs, and sets out their duties.\n\nThis bill would prohibit the California Department of Aging from revoking the designation of an ADRC program solely due to the revocation or voluntary termination of a designation, suspension, or temporary inability of either the area agency on aging or the independent living center partner to serve in its operator role, and would authorize the remaining partner to continue to operate the ADRC independently during a transition period, as specified."
+      "abstract": "Existing law establishes an Aging and Disability Resource Connection (ADRC) program, administered by the California Department of Aging, to provide information to consumers and their families on available long-term services and supports (LTSS) programs and to assist older adults, caregivers, and persons with disabilities in accessing LTSS programs at the local level. Existing law requires area agencies on aging and independent living centers to be the core local partners in developing and operating ADRC programs, and sets out their duties.\n\nThis bill would prohibit the California Department of Aging from revoking the designation of an ADRC program solely due to the revocation or voluntary termination of a designation, suspension, or temporary inability of either the area agency on aging or the independent living center partner to serve in its operator role, and would authorize the remaining partner to continue to operate the ADRC independently during a transition period, as specified.\n\nThis bill would declare that it is to take effect immediately as an urgency statute."
     }
   ],
   "other_titles": [],
@@ -269,6 +269,20 @@
       "_processing": {
         "log_file_created": "2026-08-06T09:57:17Z"
       }
+    },
+    {
+      "description": "Read second time and amended. Ordered to second reading.",
+      "date": "2026-08-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-07T08:23:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -314,6 +328,17 @@
         }
       ],
       "date": "2026-05-20",
+      "classification": ""
+    },
+    {
+      "note": "08/06/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1261&version=20250SB126197AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-06",
       "classification": ""
     }
   ],
@@ -393,9 +418,10 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Section 9120 of the Welfare and Institutions Code, relating to aging.",
+    "impact_clause": "An act to amend Section 9120 of the Welfare and Institutions Code, relating to aging, and declaring the urgency thereof, to take effect immediately.",
     "tags": [
-      "fiscal committee"
+      "fiscal committee",
+      "urgency"
     ]
   },
   "jurisdiction": {
@@ -405,7 +431,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-06T09:57:17Z",
+    "logs_latest_update": "2026-08-07T08:23:47Z",
     "text_extraction_latest_update": "2026-08-06T10:47:48.219501Z"
   }
 }

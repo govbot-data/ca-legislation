@@ -446,6 +446,91 @@
       "_processing": {
         "log_file_created": "2026-08-06T09:57:16Z"
       }
+    },
+    {
+      "description": "Read third time. Urgency clause adopted. Passed. Ordered to the Assembly. (Ayes 27. Noes 8.).",
+      "date": "2026-08-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-07T08:23:47Z"
+      }
+    },
+    {
+      "description": "In Assembly. Concurrence in Senate amendments pending.",
+      "date": "2026-08-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-07T08:23:47Z"
+      }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-08-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-07T08:23:47Z"
+      }
+    },
+    {
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 56. Noes 16.).",
+      "date": "2026-08-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-07T08:23:47Z"
+      }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 11:15 a.m.",
+      "date": "2026-08-06",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-07T08:23:47Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-08-06",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-07T08:23:47Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State - Chapter 108, Statutes of 2026.",
+      "date": "2026-08-06",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-07T08:23:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -544,6 +629,28 @@
       ],
       "date": "2026-08-03",
       "classification": ""
+    },
+    {
+      "note": "08/06/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1923&version=20250AB192393ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-06",
+      "classification": ""
+    },
+    {
+      "note": "08/06/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1923&version=20250AB192392CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-06",
+      "classification": ""
     }
   ],
   "documents": [
@@ -634,6 +741,17 @@
       ],
       "date": "2026-08-05",
       "classification": "analysis"
+    },
+    {
+      "note": "08/06/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1923&analysisId=403205&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-06",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -656,7 +774,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-06T09:57:16Z",
+    "logs_latest_update": "2026-08-07T08:23:47Z",
     "text_extraction_latest_update": "2026-08-06T10:16:46.604647Z"
   }
 }

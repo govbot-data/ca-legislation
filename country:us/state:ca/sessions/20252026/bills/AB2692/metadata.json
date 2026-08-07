@@ -283,6 +283,21 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:24Z"
       }
+    },
+    {
+      "description": "Urgency clause adopted. Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 75. Noes 0.).",
+      "date": "2026-08-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-07T08:23:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -408,6 +423,17 @@
       ],
       "date": "2026-06-26",
       "classification": "analysis"
+    },
+    {
+      "note": "07/29/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2692&analysisId=402176&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-29",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -430,7 +456,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:24Z",
+    "logs_latest_update": "2026-08-07T08:23:47Z",
     "text_extraction_latest_update": "2026-07-22T12:02:26.087655Z"
   }
 }

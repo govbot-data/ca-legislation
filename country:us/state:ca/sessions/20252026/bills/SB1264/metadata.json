@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law sets forth the rules of practice applicable to probate. For estates for which letters testamentary or letters of administration are issued on or after January 1, 2026, existing law requires the general personal representative or the estate attorney of a decedent's estate to provide notice of the decedent's death to the Director of the Department of Child Support Services within 90 days after the date letters are first issued, if the general personal representative or estate attorney knows or has reason to believe the decedent has a child support obligation under an order issued by a court of competent jurisdiction. Existing law authorizes a local child support agency to assert a claim on the estate no later than 4 months after receiving this notice.\n\nThis bill would instead require that notice to be provided for estates for which letters are issued on or after January 1, 2027, if the general personal representative or estate attorney has actual knowledge that the decedent has a child support obligation under an order issued by a court of competent jurisdiction or that a child of the decedent who is an heir or a beneficiary of the estate has a child support obligation under an order issued by a court of competent jurisdiction. The bill would specify that it does not impose a duty to investigate whether or not a decedent or a child of the decedent is subject to a child support order. The bill would authorize a local child support agency to pursue collection no later than 4 months after delivery of this notice."
+      "abstract": "Existing law sets forth the rules of practice applicable to probate. For estates for which letters testamentary or letters of administration are issued on or after January 1, 2026, existing law requires the general personal representative or the estate attorney of a decedent's estate to provide notice of the decedent's death to the Director of the Department of Child Support Services within 90 days after the date letters are first issued, if the general personal representative or estate attorney knows or has reason to believe the decedent has a child support obligation under an order issued by a court of competent jurisdiction. Existing law authorizes a local child support agency to assert a claim on the estate no later than 4 months after receiving this notice.\n\nThis bill would instead require that notice to be provided for estates for which letters are issued on or after January 1, 2027, if the general personal representative or estate attorney has actual knowledge that the decedent has a child support obligation under an order issued by a court of competent jurisdiction or that an heir or a beneficiary of the estate has a child support obligation under an order issued by a court of competent jurisdiction. The bill would specify that it does not impose a duty to investigate whether or not a decedent or an heir or beneficiary of the estate is subject to a child support order. For a notice that the decedent is a child support obligor, the bill would authorize a local child support agency to assert a claim no later than 4 months after delivery of this notice. The bill would make its provisions inapplicable to the manner or timeframe for a local child support agency to pursue collection of a child support obligation."
     }
   ],
   "other_titles": [
@@ -289,6 +289,33 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:37Z"
       }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-07T08:23:47Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-07T08:23:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -334,6 +361,17 @@
         }
       ],
       "date": "2026-03-23",
+      "classification": ""
+    },
+    {
+      "note": "08/06/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1264&version=20250SB126497AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-06",
       "classification": ""
     }
   ],
@@ -414,7 +452,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:37Z",
+    "logs_latest_update": "2026-08-07T08:23:47Z",
     "text_extraction_latest_update": "2026-07-22T10:13:57.602090Z"
   }
 }

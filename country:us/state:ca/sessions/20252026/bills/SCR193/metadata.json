@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "This measure would designate the Yerba Buena Tunnel on State Highway Route 80, located between postmile 7.719R and 7.821R in the City and County of San Francisco, as the Emperor Norton Tunnel. The measure would also request the Department of Transportation to determine the cost of appropriate signs showing this special designation, and upon receiving donations from nonstate sources covering that cost, to erect those signs."
+      "abstract": "This measure would designate the Yerba Buena Tunnel on Interstate 80, located between postmile 7.719R and 7.821R in the City and County of San Francisco, as the Emperor Norton Tunnel. The measure would also request the Department of Transportation to determine the cost of appropriate signs showing this special designation, and upon receiving donations from nonstate sources covering that cost, to erect those signs."
     }
   ],
   "other_titles": [],
@@ -58,6 +58,28 @@
       "_processing": {
         "log_file_created": "2026-08-06T09:57:17Z"
       }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on TRANS.",
+      "date": "2026-08-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on TRANS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-07T08:23:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -101,6 +123,17 @@
       ],
       "date": "2026-08-03",
       "classification": ""
+    },
+    {
+      "note": "08/06/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SCR193&version=20250SCR19398AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-06",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -124,7 +157,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-06T09:57:17Z",
+    "logs_latest_update": "2026-08-07T08:23:47Z",
     "text_extraction_latest_update": "2026-08-06T10:23:16.704866Z"
   }
 }

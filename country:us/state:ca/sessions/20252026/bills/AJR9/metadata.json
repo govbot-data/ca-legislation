@@ -213,6 +213,43 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:25Z"
       }
+    },
+    {
+      "description": "From inactive file.",
+      "date": "2026-08-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-07T08:23:47Z"
+      }
+    },
+    {
+      "description": "Ordered to second reading.",
+      "date": "2026-08-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-07T08:23:47Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered returned to second reading.",
+      "date": "2026-08-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-07T08:23:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -470,6 +507,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Jeff Gonzalez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Gonz\u00e1lez",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Gonz\\u00e1lez\"}",
       "organization_id": null
     },
     {
@@ -815,14 +860,6 @@
       "primary": false,
       "person_id": "~{\"name\": \"Zbur\"}",
       "organization_id": null
-    },
-    {
-      "name": "Mark Gonz\u00e1lez",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Mark Gonz\\u00e1lez\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -858,6 +895,17 @@
         }
       ],
       "date": "2025-06-12",
+      "classification": ""
+    },
+    {
+      "note": "08/06/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AJR9&version=20250AJR997AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-06",
       "classification": ""
     }
   ],
@@ -925,7 +973,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:25Z",
+    "logs_latest_update": "2026-08-07T08:23:47Z",
     "text_extraction_latest_update": "2026-07-22T12:45:06.173760Z"
   }
 }
