@@ -270,23 +270,35 @@
       "_processing": {
         "log_file_created": "2026-08-06T09:57:17Z"
       }
+    },
+    {
+      "description": "Measure version as amended on August 5 corrected.",
+      "date": "2026-08-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-08T08:00:03Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Calderon",
-      "classification": "author",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Calderon\"}",
-      "organization_id": null
-    },
     {
       "name": "Petrie-Norris",
       "classification": "author",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Petrie-Norris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Calderon",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Calderon\"}",
       "organization_id": null
     },
     {
@@ -609,7 +621,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-06T09:57:17Z",
+    "logs_latest_update": "2026-08-08T08:00:03Z",
     "text_extraction_latest_update": "2026-08-06T10:22:09.722019Z"
   }
 }

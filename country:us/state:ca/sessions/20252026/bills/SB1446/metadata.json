@@ -238,6 +238,27 @@
       }
     },
     {
+      "description": "Read second time and amended. Re-referred to Com. on APPR.",
+      "date": "2026-07-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-08T08:00:03Z"
+      }
+    },
+    {
       "description": "August 5 set for first hearing. Placed on suspense file.",
       "date": "2026-08-05",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -383,7 +404,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-06T09:57:17Z",
+    "logs_latest_update": "2026-08-08T08:00:03Z",
     "text_extraction_latest_update": "2026-08-06T10:05:06.361072Z"
   }
 }
