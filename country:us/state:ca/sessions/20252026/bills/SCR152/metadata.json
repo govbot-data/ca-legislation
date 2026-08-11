@@ -137,6 +137,18 @@
       "_processing": {
         "log_file_created": "2026-08-07T08:23:47Z"
       }
+    },
+    {
+      "description": "In Senate. Ordered to engrossing and enrolling.",
+      "date": "2026-08-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-11T08:18:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -883,7 +895,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-07T08:23:47Z",
+    "logs_latest_update": "2026-08-11T08:18:28Z",
     "text_extraction_latest_update": "2026-08-07T08:37:06.058486Z"
   }
 }

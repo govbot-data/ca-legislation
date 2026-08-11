@@ -248,6 +248,20 @@
       "_processing": {
         "log_file_created": "2026-08-07T08:23:47Z"
       }
+    },
+    {
+      "description": "Assembly amendments concurred in. (Ayes 38. Noes 0.) Ordered to engrossing and enrolling.",
+      "date": "2026-08-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-11T08:18:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -340,6 +354,17 @@
       ],
       "date": "2026-06-30",
       "classification": "analysis"
+    },
+    {
+      "note": "08/07/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB992&analysisId=403302&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-07",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -360,7 +385,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-07T08:23:47Z",
+    "logs_latest_update": "2026-08-11T08:18:28Z",
     "text_extraction_latest_update": "2026-08-07T08:27:29.372854Z"
   }
 }

@@ -78,6 +78,19 @@
       "_processing": {
         "log_file_created": "2026-08-07T08:23:47Z"
       }
+    },
+    {
+      "description": "Adopted and to Senate.",
+      "date": "2026-08-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-11T08:18:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -134,6 +147,17 @@
       ],
       "date": "2026-08-05",
       "classification": "analysis"
+    },
+    {
+      "note": "08/07/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260ACR234&analysisId=403274&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-07",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -154,7 +178,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-07T08:23:47Z",
+    "logs_latest_update": "2026-08-11T08:18:28Z",
     "text_extraction_latest_update": "2026-08-07T08:27:31.268048Z"
   }
 }

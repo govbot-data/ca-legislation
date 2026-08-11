@@ -25,11 +25,11 @@
     },
     {
       "note": "",
-      "title": "California School Finance Authority: Educational Workforce Housing Revolving Loan Fund."
+      "title": "Education-related positions: egregious misconduct: previous employment disclosures."
     },
     {
       "note": "",
-      "title": "Education-related positions: egregious misconduct: previous employment disclosures."
+      "title": "California School Finance Authority: Educational Workforce Housing Revolving Loan Fund."
     }
   ],
   "other_identifiers": [
@@ -473,6 +473,29 @@
       "_processing": {
         "log_file_created": "2026-08-04T09:49:54Z"
       }
+    },
+    {
+      "description": "In committee: Referred to APPR. suspense file.",
+      "date": "2026-08-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "APPR",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "APPR. suspense file.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-11T08:18:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -620,6 +643,17 @@
       ],
       "date": "2026-06-22",
       "classification": "analysis"
+    },
+    {
+      "note": "08/07/26- Senate Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1381&analysisId=403305&analyzingOffice=Senate+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-07",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -643,7 +677,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-04T09:49:54Z",
+    "logs_latest_update": "2026-08-11T08:18:28Z",
     "text_extraction_latest_update": "2026-08-04T10:05:23.987448Z"
   }
 }

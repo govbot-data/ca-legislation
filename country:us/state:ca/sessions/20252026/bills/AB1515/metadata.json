@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing federal law provides for certification of a professional employer organization (PEO) by the Secretary of the Treasury and, for purposes of specified taxes and other obligations, treats a PEO as the employer of any work site employee performing services for any customer of the PEO. Existing law establishes the Division of Labor Standards Enforcement, headed by the Labor Commissioner, within the Department of Industrial Relations, for the purpose of enforcing labor laws.\n\nThis bill would prohibit a person from providing, advertising, or otherwise holding oneself out as providing professional employer services, as defined, in the state unless the person is registered with the division. The bill would require a PEO, as defined, upon registration, to pay an initial registration fee established by the division not to exceed the reasonable cost of registration."
+      "abstract": "Existing federal law provides for certification of a professional employer organization (PEO) by the Secretary of the Treasury and, for purposes of specified taxes and other obligations, treats a PEO as the employer of any work site employee performing services for any customer of the PEO.\n\n Existing law authorizes the Director of Industrial Relations to adopt regulations reasonably necessary to carry out certain laws relating to workers' compensation insurance requirements, including regulations regulating the workers' compensation self-insurance obligations of professional employer organizations.\n\nThis bill would define the terms \"professional employer organization\" and \"professional employer services\" for purposes of the Labor Code."
     }
   ],
   "other_titles": [
@@ -255,6 +255,43 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:39Z"
       }
+    },
+    {
+      "description": "From inactive file.",
+      "date": "2026-08-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-11T08:18:28Z"
+      }
+    },
+    {
+      "description": "Ordered to second reading.",
+      "date": "2026-08-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-11T08:18:28Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered returned to second reading.",
+      "date": "2026-08-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-11T08:18:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -300,6 +337,17 @@
         }
       ],
       "date": "2025-06-23",
+      "classification": ""
+    },
+    {
+      "note": "08/10/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1515&version=20250AB151597AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-10",
       "classification": ""
     }
   ],
@@ -380,7 +428,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:39Z",
+    "logs_latest_update": "2026-08-11T08:18:28Z",
     "text_extraction_latest_update": "2026-07-21T19:37:01.011570Z"
   }
 }

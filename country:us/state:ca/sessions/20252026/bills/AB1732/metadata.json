@@ -21,11 +21,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "California Environmental Quality Act: exemption: housing development projects: public higher education land use plan."
+      "title": "California Environmental Quality Act: exemption: housing development project: public higher education land use plan."
     },
     {
       "note": "",
-      "title": "California Environmental Quality Act: exemption: housing development project: public higher education land use plan."
+      "title": "California Environmental Quality Act: exemption: housing development projects: public higher education land use plan."
     }
   ],
   "other_identifiers": [
@@ -351,6 +351,29 @@
       "_processing": {
         "log_file_created": "2026-08-04T09:49:54Z"
       }
+    },
+    {
+      "description": "In committee: Referred to APPR. suspense file.",
+      "date": "2026-08-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "APPR",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "APPR. suspense file.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-11T08:18:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -592,6 +615,17 @@
       ],
       "date": "2026-06-25",
       "classification": "analysis"
+    },
+    {
+      "note": "08/08/26- Senate Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1732&analysisId=403318&analyzingOffice=Senate+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-08",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -615,7 +649,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-04T09:49:54Z",
+    "logs_latest_update": "2026-08-11T08:18:28Z",
     "text_extraction_latest_update": "2026-08-04T09:59:34.165385Z"
   }
 }

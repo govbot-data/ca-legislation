@@ -78,6 +78,19 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:26Z"
       }
+    },
+    {
+      "description": "Adopted and to Senate.",
+      "date": "2026-08-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-11T08:18:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -165,7 +178,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:26Z",
+    "logs_latest_update": "2026-08-11T08:18:28Z",
     "text_extraction_latest_update": "2026-07-22T16:00:24.167862Z"
   }
 }

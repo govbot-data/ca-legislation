@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "This measure would recognize the month of October each year as Student Financial Aid Awareness Month on California high school, college, and university campuses. The measure would encourage secondary and postsecondary educational institutions to promote financial aid awareness, as specified. The measure would provide that the Student Aid Commission supports specified persons to work together to increase student participation in financial aid programs and to ensure students receive clear, timely, and accessible information about student financial aid programs and that special attention be given to reaching students who may face additional barriers to accessing financial aid, as specified."
+      "abstract": "This measure would recognize the month of October each year as Student Financial Aid Awareness Month, and that it is important to increase student participation in financial aid programs to ensure that students receive clear, timely, and accessible information about application requirements, deadlines, and available resources."
     }
   ],
   "other_titles": [],
@@ -39,6 +39,28 @@
       ],
       "_processing": {
         "log_file_created": "2026-08-06T09:57:17Z"
+      }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+      "date": "2026-08-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-11T08:18:28Z"
       }
     }
   ],
@@ -91,6 +113,17 @@
       ],
       "date": "2026-08-05",
       "classification": ""
+    },
+    {
+      "note": "08/10/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SCR195&version=20250SCR19598AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-10",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -103,9 +136,7 @@
   ],
   "extras": {
     "impact_clause": null,
-    "tags": [
-      "fiscal committee"
-    ]
+    "tags": []
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ca/government",
@@ -114,7 +145,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-06T09:57:17Z",
+    "logs_latest_update": "2026-08-11T08:18:28Z",
     "text_extraction_latest_update": "2026-08-06T10:21:12.805473Z"
   }
 }

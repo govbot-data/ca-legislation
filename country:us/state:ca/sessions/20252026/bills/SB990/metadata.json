@@ -266,6 +266,29 @@
       "_processing": {
         "log_file_created": "2026-08-07T08:23:47Z"
       }
+    },
+    {
+      "description": "From consent calendar on motion of Assembly Member Aguiar-Curry.",
+      "date": "2026-08-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-11T08:18:28Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-11T08:18:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -391,7 +414,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-07T08:23:47Z",
+    "logs_latest_update": "2026-08-11T08:18:28Z",
     "text_extraction_latest_update": "2026-08-07T08:41:18.107033Z"
   }
 }

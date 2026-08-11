@@ -121,7 +121,7 @@
       }
     },
     {
-      "description": "From committee: Be adopted and re-refer to Com. on APPR. (Ayes 5. Noes 0.) (June 9). Re-referred to Com. on APPR.",
+      "description": "From committee: Be adopted and re-refer to Com. on APPR. (Ayes 5. Noes 0. Page 4643.) (June 9). Re-referred to Com. on APPR.",
       "date": "2026-06-09",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -139,7 +139,7 @@
         }
       ],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:30Z"
+        "log_file_created": "2026-08-11T08:18:28Z"
       }
     },
     {
@@ -153,7 +153,7 @@
       }
     },
     {
-      "description": "From committee: Be adopted. (Ayes 4. Noes 0.) (June 15).",
+      "description": "From committee: Be adopted. (Ayes 4. Noes 0. Page 4761.) (June 15).",
       "date": "2026-06-15",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -164,7 +164,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:30Z"
+        "log_file_created": "2026-08-11T08:18:28Z"
       }
     },
     {
@@ -179,6 +179,20 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:55:30Z"
+      }
+    },
+    {
+      "description": "Read. Adopted. (Ayes 27. Noes 9.) Ordered to the Assembly.",
+      "date": "2026-08-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "passage",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-11T08:18:28Z"
       }
     }
   ],
@@ -294,7 +308,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:30Z",
+    "logs_latest_update": "2026-08-11T08:18:28Z",
     "text_extraction_latest_update": "2026-07-22T11:49:09.778478Z"
   }
 }
