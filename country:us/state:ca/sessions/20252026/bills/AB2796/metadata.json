@@ -239,6 +239,26 @@
       "_processing": {
         "log_file_created": "2026-08-06T09:57:16Z"
       }
+    },
+    {
+      "description": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 6. Noes 0.) (August 11). Re-referred to Com. on APPR.",
+      "date": "2026-08-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-12T08:27:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -331,6 +351,17 @@
       ],
       "date": "2026-06-22",
       "classification": "analysis"
+    },
+    {
+      "note": "08/09/26- Senate Public Safety",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2796&analysisId=403330&analyzingOffice=Senate+Public+Safety",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-09",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -355,7 +386,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-06T09:57:16Z",
+    "logs_latest_update": "2026-08-12T08:27:48Z",
     "text_extraction_latest_update": "2026-08-06T10:08:33.324485Z"
   }
 }

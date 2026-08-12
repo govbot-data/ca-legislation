@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Federal law establishes United States coins and currency as legal tender for all debts, public charges, taxes, and dues, and authorizes the Secretary of the Treasury to mint and issue a one-cent coin. Existing state law generally regulates the use of credit cards, debit cards, gift certificates, and other forms of payment for goods and services in this state.\n\n Existing law prohibits a person from overcharging for a commodity. A violation of this provision is a crime.\n\nThis bill would enact the California Common Cents Act to require a merchant, for the portion of the total transaction price paid with legal tender, to determine the total transaction price of goods or services by rounding to the nearest amount of cents divisible by 5, as specified. The bill would define \"legal tender\" as all metal coins and paper currencies of the United States. The bill would require any rounding adjustment to be disregarded for the purposes of the computation of any applicable tax, fee, or surcharge, or the measure thereof, and authorize the California Department of Tax and Fee Administration to promulgate regulations to implement this requirement. The bill would prohibit a person from collecting from a purchaser an amount greater than the amount permitted under these provisions and would subject a violation of this prohibition to the same remedies as the prohibition against overcharging for a commodity, as provided. The bill would make its provisions operative on July 1, 2027. The bill would make its provisions severable. By expanding a crime, this bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+      "abstract": "Federal law establishes United States coins and currency as legal tender for all debts, public charges, taxes, and dues, and authorizes the Secretary of the Treasury to mint and issue a one-cent coin. Existing state law generally regulates the use of credit cards, debit cards, gift certificates, and other forms of payment for goods and services in this state.\n\n Existing law prohibits a person from overcharging for a commodity. A violation of this provision is a crime.\n\nThis bill would enact the California Common Cents Act to require a merchant, for the portion of the total transaction price paid with legal tender, to determine the total transaction price of goods or services by rounding to the nearest amount of cents divisible by 5, as specified. The bill would define terms for its purposes, including defining \"legal tender\" as all metal coins and paper currencies of the United States. The bill would require any rounding adjustment to be disregarded for the purposes of the computation of any applicable tax, fee, or surcharge, tax, fee, or surcharge reimbursement, or the measure thereof, and authorize the California Department of Tax and Fee Administration to promulgate regulations to implement this requirement. The bill would prohibit a person from collecting from a purchaser an amount greater than the amount permitted under these provisions and would subject a violation of this prohibition to the same remedies as the prohibition against overcharging for a commodity, as provided. By expanding a crime, this bill would impose a state-mandated local program. The bill would make its provisions operative on July 1, 2027. The bill would make its provisions severable.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
     }
   ],
   "other_titles": [],
@@ -296,6 +296,21 @@
       "_processing": {
         "log_file_created": "2026-08-05T09:46:48Z"
       }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T08:27:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -313,6 +328,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Rogers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Caballero",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Caballero\"}",
       "organization_id": null
     }
   ],
@@ -360,6 +383,17 @@
         }
       ],
       "date": "2026-06-25",
+      "classification": ""
+    },
+    {
+      "note": "08/11/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1793&version=20250AB179396AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-11",
       "classification": ""
     }
   ],
@@ -418,6 +452,17 @@
       ],
       "date": "2026-06-22",
       "classification": "analysis"
+    },
+    {
+      "note": "08/05/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1793&analysisId=403075&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-05",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -441,7 +486,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-05T09:46:48Z",
+    "logs_latest_update": "2026-08-12T08:27:47Z",
     "text_extraction_latest_update": "2026-08-05T10:14:44.213711Z"
   }
 }

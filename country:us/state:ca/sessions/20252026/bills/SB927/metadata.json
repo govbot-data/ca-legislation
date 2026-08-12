@@ -335,7 +335,7 @@
       }
     },
     {
-      "description": "Read third time. Passed. Ordered to the Senate.",
+      "description": "Read third time. Passed. (Ayes 70. Noes 0. Page 5985.) Ordered to the Senate.",
       "date": "2026-07-02",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -345,7 +345,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:31Z"
+        "log_file_created": "2026-08-12T08:27:47Z"
       }
     },
     {
@@ -370,6 +370,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-08-04T09:49:54Z"
+      }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 3 p.m.",
+      "date": "2026-08-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T08:27:47Z"
       }
     }
   ],
@@ -551,6 +563,17 @@
       ],
       "date": "2026-06-03",
       "classification": ""
+    },
+    {
+      "note": "08/05/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB927&version=20250SB92795ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-05",
+      "classification": ""
     }
   ],
   "documents": [
@@ -641,7 +664,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-04T09:49:54Z",
+    "logs_latest_update": "2026-08-12T08:27:47Z",
     "text_extraction_latest_update": "2026-08-04T10:16:40.034960Z"
   }
 }

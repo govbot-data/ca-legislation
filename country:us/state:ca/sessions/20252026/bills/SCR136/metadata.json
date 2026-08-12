@@ -149,9 +149,97 @@
       "_processing": {
         "log_file_created": "2026-08-06T09:57:17Z"
       }
+    },
+    {
+      "description": "Enrolled and filed with the Secretary of State at 1 p.m.",
+      "date": "2026-08-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T08:27:47Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Res. Chapter 161, Statutes of 2026.",
+      "date": "2026-08-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T08:27:47Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Sharp-Collins",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sharp-Collins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Solache",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Solache\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Valencia",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Valencia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ward",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ward\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wicks",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wicks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wilson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wilson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zbur",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Zbur\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Schiavo",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Schiavo\"}",
+      "organization_id": null
+    },
     {
       "name": "Laird",
       "classification": "author",
@@ -791,70 +879,6 @@
       "primary": false,
       "person_id": "~{\"name\": \"Blanca Rubio\"}",
       "organization_id": null
-    },
-    {
-      "name": "Schiavo",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Schiavo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Sharp-Collins",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Sharp-Collins\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Solache",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Solache\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Valencia",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Valencia\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Ward",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Ward\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Wicks",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Wicks\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Wilson",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Wilson\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Zbur",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Zbur\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -890,6 +914,17 @@
         }
       ],
       "date": "2026-08-05",
+      "classification": ""
+    },
+    {
+      "note": "08/11/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SCR136&version=20250SCR13697CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-11",
       "classification": ""
     }
   ],
@@ -946,7 +981,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-06T09:57:17Z",
+    "logs_latest_update": "2026-08-12T08:27:47Z",
     "text_extraction_latest_update": "2026-08-06T10:36:37.423894Z"
   }
 }

@@ -19,7 +19,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "California Science and Health Research Bond Act."
+      "title": "California Environmental Quality Act:Infrastructure Projects."
     },
     {
       "note": "",
@@ -27,7 +27,7 @@
     },
     {
       "note": "",
-      "title": "California Environmental Quality Act:Infrastructure Projects."
+      "title": "California Science and Health Research Bond Act."
     },
     {
       "note": "",
@@ -640,6 +640,28 @@
       "_processing": {
         "log_file_created": "2026-08-11T08:18:28Z"
       }
+    },
+    {
+      "description": "Set for hearing August 11.",
+      "date": "2026-08-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T08:27:47Z"
+      }
+    },
+    {
+      "description": "From committee: That the Assembly amendments be concurred in. (Ayes 13. Noes 0.)",
+      "date": "2026-08-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T08:27:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -927,7 +949,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-11T08:18:28Z",
+    "logs_latest_update": "2026-08-12T08:27:47Z",
     "text_extraction_latest_update": "2026-08-11T08:29:02.114161Z"
   }
 }
