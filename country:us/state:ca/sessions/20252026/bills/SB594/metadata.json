@@ -18,11 +18,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Waste discharge permits: landfills."
+      "title": "Short-term rental facilitators: Indian tribes."
     },
     {
       "note": "",
-      "title": "Short-term rental facilitators: Indian tribes."
+      "title": "Waste discharge permits: landfills."
     }
   ],
   "other_identifiers": [
@@ -364,6 +364,33 @@
       "_processing": {
         "log_file_created": "2026-08-04T09:49:54Z"
       }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-13T08:25:02Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-13T08:25:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -373,6 +400,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Padilla\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wallis",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wallis\"}",
       "organization_id": null
     }
   ],
@@ -465,6 +500,17 @@
       ],
       "date": "2026-07-02",
       "classification": ""
+    },
+    {
+      "note": "08/12/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB594&version=20250SB59492AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-12",
+      "classification": ""
     }
   ],
   "documents": [
@@ -522,6 +568,17 @@
       ],
       "date": "2026-07-29",
       "classification": "analysis"
+    },
+    {
+      "note": "08/12/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB594&analysisId=403440&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-12",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -542,7 +599,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-04T09:49:54Z",
+    "logs_latest_update": "2026-08-13T08:25:02Z",
     "text_extraction_latest_update": "2026-08-04T10:17:45.717641Z"
   }
 }

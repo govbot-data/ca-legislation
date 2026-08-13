@@ -212,6 +212,33 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:35Z"
       }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-13T08:25:02Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-13T08:25:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -367,6 +394,17 @@
       ],
       "date": "2026-01-29",
       "classification": ""
+    },
+    {
+      "note": "08/12/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB941&version=20250SB94198AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-12",
+      "classification": ""
     }
   ],
   "documents": [
@@ -424,6 +462,17 @@
       ],
       "date": "2026-06-10",
       "classification": "analysis"
+    },
+    {
+      "note": "08/12/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB941&analysisId=403455&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-12",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -434,7 +483,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to add Chapter 24.6 (commencing with Section 22756) to Division 8 of the Business and Professions Code, relating to detention facilities.",
+    "impact_clause": "An act to add Chapter 2.4 (commencing with Section 18891) to Division 8 of the Business and Professions Code, relating to detention facilities.",
     "tags": []
   },
   "jurisdiction": {
@@ -444,7 +493,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:35Z",
+    "logs_latest_update": "2026-08-13T08:25:02Z",
     "text_extraction_latest_update": "2026-07-22T09:46:51.787968Z"
   }
 }

@@ -162,6 +162,30 @@
       "_processing": {
         "log_file_created": "2026-08-07T08:23:47Z"
       }
+    },
+    {
+      "description": "Enrolled and filed with the Secretary of State at 3 p.m.",
+      "date": "2026-08-12",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-13T08:25:02Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State - Res. Chapter 172, Statutes of 2026.",
+      "date": "2026-08-12",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-13T08:25:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -741,6 +765,28 @@
       ],
       "date": "2026-06-01",
       "classification": ""
+    },
+    {
+      "note": "08/10/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260ACR214&version=20250ACR21498ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-10",
+      "classification": ""
+    },
+    {
+      "note": "08/12/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260ACR214&version=20250ACR21497CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-12",
+      "classification": ""
     }
   ],
   "documents": [
@@ -796,7 +842,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-07T08:23:47Z",
+    "logs_latest_update": "2026-08-13T08:25:02Z",
     "text_extraction_latest_update": "2026-08-07T08:38:39.243152Z"
   }
 }

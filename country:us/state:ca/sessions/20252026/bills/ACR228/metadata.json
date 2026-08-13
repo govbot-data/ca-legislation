@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "This measure would designate an unspecified portion of State Highway Route 80 in the County of Solano as the Parole Agent Joshua L. Byrd Memorial Highway. The measure would request that the Department of Transportation determine the cost of appropriate signs showing this special designation and, upon receiving donations from nonstate sources sufficient to cover the cost, to erect those signs."
+      "abstract": "This measure would designate a specified portion of State Highway Route 80 in the County of Solano as the Parole Agent Joshua L. Byrd Memorial Highway. The measure would request that the Department of Transportation determine the cost of appropriate signs showing this special designation and, upon receiving donations from nonstate sources sufficient to cover the cost, to erect those signs."
     }
   ],
   "other_titles": [],
@@ -76,6 +76,18 @@
       "_processing": {
         "log_file_created": "2026-08-12T08:27:48Z"
       }
+    },
+    {
+      "description": "Amended. Ordered to Consent Calendar.",
+      "date": "2026-08-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-13T08:25:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -110,6 +122,17 @@
         }
       ],
       "date": "2026-06-23",
+      "classification": ""
+    },
+    {
+      "note": "08/12/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260ACR228&version=20250ACR22898AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-12",
       "classification": ""
     }
   ],
@@ -146,7 +169,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-12T08:27:48Z",
+    "logs_latest_update": "2026-08-13T08:25:02Z",
     "text_extraction_latest_update": "2026-08-12T08:36:45.840957Z"
   }
 }

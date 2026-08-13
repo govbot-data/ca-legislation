@@ -532,6 +532,39 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:37Z"
       }
+    },
+    {
+      "description": "Notice of intention to remove from inactive file given by Assembly Member Wilson.",
+      "date": "2026-08-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-13T08:25:02Z"
+      }
+    },
+    {
+      "description": "From inactive file.",
+      "date": "2026-08-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-13T08:25:02Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-13T08:25:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -844,7 +877,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:37Z",
+    "logs_latest_update": "2026-08-13T08:25:02Z",
     "text_extraction_latest_update": "2026-07-22T13:29:39.643480Z"
   }
 }

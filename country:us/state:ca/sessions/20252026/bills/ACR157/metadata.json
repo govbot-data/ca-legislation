@@ -194,9 +194,49 @@
       "_processing": {
         "log_file_created": "2026-08-07T08:23:47Z"
       }
+    },
+    {
+      "description": "Enrolled and filed with the Secretary of State at 3 p.m.",
+      "date": "2026-08-12",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-13T08:25:02Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State - Res. Chapter 170, Statutes of 2026.",
+      "date": "2026-08-12",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-13T08:25:02Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Wilson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wilson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zbur",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Zbur\"}",
+      "organization_id": null
+    },
     {
       "name": "Hoover",
       "classification": "author",
@@ -724,22 +764,6 @@
       "primary": false,
       "person_id": "~{\"name\": \"Wicks\"}",
       "organization_id": null
-    },
-    {
-      "name": "Wilson",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Wilson\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Zbur",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Zbur\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -764,6 +788,28 @@
         }
       ],
       "date": "2026-03-04",
+      "classification": ""
+    },
+    {
+      "note": "08/10/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260ACR157&version=20250ACR15798ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-10",
+      "classification": ""
+    },
+    {
+      "note": "08/12/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260ACR157&version=20250ACR15797CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-12",
       "classification": ""
     }
   ],
@@ -820,7 +866,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-07T08:23:47Z",
+    "logs_latest_update": "2026-08-13T08:25:02Z",
     "text_extraction_latest_update": "2026-08-07T08:28:18.123436Z"
   }
 }
