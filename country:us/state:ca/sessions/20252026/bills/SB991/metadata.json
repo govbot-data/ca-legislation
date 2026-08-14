@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, the California Residential Care Facilities for the Elderly Act (act) , requires the State Department of Social Services to license, inspect, and regulate residential care facilities for the elderly, as defined, and imposes criminal penalties on a person who violates the act or who willfully or repeatedly violates any rule or regulation adopted under the act. Existing law authorizes the department to also impose civil penalties for violations of the act. Existing law gives residents of those facilities specified rights, including, but not limited to, the right to be free from neglect, financial exploitation, involuntary seclusion, and verbal, mental, or physical abuse. \n\nExisting law, the Elder Abuse and Dependent Adult Civil Protection Act, establishes various procedures for the reporting, investigation, and prosecution of elder and dependent adult abuse and defines various forms of abuse, such as abandonment, isolation, and financial abuse.\n\nBeginning July 1, 2027, this bill would require the department, when it substantiates a violation of the act that constitutes abuse in violation of a resident's rights, to categorize the type of abuse using the definitions from the Elder Abuse and Dependent Adult Civil Protection Act. The bill would require that the category of abuse be listed on a public-facing database maintained by the department."
+      "abstract": "Existing law, the California Residential Care Facilities for the Elderly Act (act) , requires the State Department of Social Services to license, inspect, and regulate residential care facilities for the elderly, as defined, and imposes criminal penalties on a person who violates the act or who willfully or repeatedly violates any rule or regulation adopted under the act. Existing law authorizes the department to also impose civil penalties for violations of the act. Existing law gives residents of those facilities specified rights, including, but not limited to, the right to be free from neglect, financial exploitation, involuntary seclusion, and verbal, mental, or physical abuse. \n\nBeginning July 1, 2029, this bill would require the department, when a licensee is cited for a deficiency that constitutes abuse in violation of a resident's rights, to categorize the type of abuse. The bill would describe the categories of abuse, including physical abuse and abandonment, among others and would require that the category of abuse be listed on a public-facing database maintained by the department."
     }
   ],
   "other_titles": [],
@@ -282,6 +282,44 @@
       "_processing": {
         "log_file_created": "2026-08-06T09:57:17Z"
       }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass as amended. (Ayes 11. Noes 0.) (August 13).",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered to second reading.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -362,6 +400,17 @@
         }
       ],
       "date": "2026-05-14",
+      "classification": ""
+    },
+    {
+      "note": "08/13/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB991&version=20250SB99196AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
       "classification": ""
     }
   ],
@@ -464,7 +513,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-06T09:57:17Z",
+    "logs_latest_update": "2026-08-14T08:21:24Z",
     "text_extraction_latest_update": "2026-08-06T10:18:44.227868Z"
   }
 }

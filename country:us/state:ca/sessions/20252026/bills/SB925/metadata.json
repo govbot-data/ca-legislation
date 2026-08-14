@@ -15,7 +15,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law requires the State Energy Resources Conservation and Development Commission to undertake various actions in furtherance of meeting the state's clean energy and pollution reduction objectives. Existing law requires the commission, beginning November 1, 2003, and biennially thereafter, to adopt an integrated energy policy report that contains an overview of major energy trends and issues facing the state, presents policy recommendations based on an in-depth and integrated analysis of the most current and pressing energy issues facing the state, and includes an assessment and forecast of system reliability and the need for resource additions, efficiency, and conservation, as specified. Existing law requires the commission, as part of the 2027 edition of the integrated energy policy report, to include an assessment of the potential for fusion energy to contribute to California's power supply, as specified.\n\nThis bill would require the commission, in coordination with specified agencies, to develop a strategic plan for the development of fusion energy in California, as specified. The bill would require the commission to submit the strategic plan to the Legislature on or before December 31, 2028.\n\nThis bill would require the commission, in coordination with relevant agencies and the fusion energy industry, to (1) develop a strategy for the expansion and development of fusion research and development in California, (2) develop a strategy for supporting the commercialization of fusion energy in California, (3) develop a regulatory framework for fusion energy and a roadmap for licensing and permitting for new fusion energy research and fusion energy facilities, and (4) assess the level at which fusion energy at scale would best support California's long-term renewable energy and greenhouse gas emission reduction goals. The bill would require the information described in this paragraph to be included in the strategic plan, as specified.\n\nExisting law authorizes persons proposing specified electrical generation, electrical transmission, hydrogen production, energy storage, and geothermal projects to apply, on or before June 30, 2030, to the commission to certify sites and related facilities as environmental leadership development projects, as specified. Existing law makes a site and related facility certified by the commission subject to streamlining benefits related to the California Environmental Quality Act (CEQA) with no further action by the applicant or the Governor. Under existing law, the commission's certification is in lieu of any permit, certificate, or similar document required by any governmental agency and supersedes any applicable statute, ordinance, or regulation, except as specified.\n\nThis bill would expand the types of facilities eligible to be certified as environmental leadership development projects by the commission to include a discretionary project, as described, for the manufacture, production, or assembly of specialized products, components, or systems that are integral to fusion energy."
+      "abstract": "Existing law requires the State Energy Resources Conservation and Development Commission to undertake various actions in furtherance of meeting the state's clean energy and pollution reduction objectives. Existing law requires the commission, beginning November 1, 2003, and biennially thereafter, to adopt an integrated energy policy report that contains an overview of major energy trends and issues facing the state, presents policy recommendations based on an in-depth and integrated analysis of the most current and pressing energy issues facing the state, and includes an assessment and forecast of system reliability and the need for resource additions, efficiency, and conservation, as specified. Existing law requires the commission, as part of the 2027 edition of the integrated energy policy report, to include an assessment of the potential for fusion energy to contribute to California's power supply, as specified.\n\nThis bill would require the commission, in coordination with specified agencies, to develop a strategic plan for the development of fusion energy in California, as specified. The bill would require the commission to submit the strategic plan to the Legislature on or before December 31, 2029.\n\nThis bill would require the commission, in coordination with relevant agencies and the fusion energy industry, to (1) develop a strategy for the expansion and development of fusion research and development in California, (2) develop a strategy for supporting the commercialization of fusion energy in California, (3) develop a regulatory framework for fusion energy and a roadmap for licensing and permitting for new fusion energy research and fusion energy facilities, and (4) assess the level at which fusion energy at scale would best support California's long-term renewable energy and greenhouse gas emission reduction goals. The bill would require the information described in this paragraph to be included in the strategic plan, as specified.\n\nExisting law authorizes persons proposing specified electrical generation, electrical transmission, hydrogen production, energy storage, and geothermal projects to apply, on or before June 30, 2030, to the commission to certify sites and related facilities as environmental leadership development projects, as specified. Existing law makes a site and related facility certified by the commission subject to streamlining benefits related to the California Environmental Quality Act (CEQA) with no further action by the applicant or the Governor. Under existing law, the commission's certification is in lieu of any permit, certificate, or similar document required by any governmental agency and supersedes any applicable statute, ordinance, or regulation, except as specified.\n\nThis bill would expand the types of facilities eligible to be certified as environmental leadership development projects by the commission to include a discretionary project, as described, for the manufacture, production, or assembly of specialized products, components, or systems that are integral to fusion energy."
     }
   ],
   "other_titles": [
@@ -379,6 +379,44 @@
       "_processing": {
         "log_file_created": "2026-08-06T09:57:17Z"
       }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass as amended. (Ayes 11. Noes 0.) (August 13).",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered to second reading.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -530,6 +568,17 @@
       ],
       "date": "2026-06-15",
       "classification": ""
+    },
+    {
+      "note": "08/13/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB925&version=20250SB92594AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
+      "classification": ""
     }
   ],
   "documents": [
@@ -642,7 +691,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-06T09:57:17Z",
+    "logs_latest_update": "2026-08-14T08:21:24Z",
     "text_extraction_latest_update": "2026-08-06T10:32:21.588271Z"
   }
 }

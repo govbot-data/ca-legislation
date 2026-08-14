@@ -322,6 +322,29 @@
       "_processing": {
         "log_file_created": "2026-08-12T08:27:48Z"
       }
+    },
+    {
+      "description": "In committee: Referred to APPR. suspense file.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "APPR. suspense file.",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "APPR",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -660,6 +683,17 @@
       ],
       "date": "2026-08-10",
       "classification": "analysis"
+    },
+    {
+      "note": "08/12/26- Senate Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1830&analysisId=403389&analyzingOffice=Senate+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-12",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -683,7 +717,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-12T08:27:48Z",
+    "logs_latest_update": "2026-08-14T08:21:25Z",
     "text_extraction_latest_update": "2026-08-12T08:36:40.818011Z"
   }
 }

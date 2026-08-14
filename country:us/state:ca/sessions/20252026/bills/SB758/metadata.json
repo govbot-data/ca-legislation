@@ -19,15 +19,15 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Public health: 7-hydroxymitragynine and nitrous oxide."
-    },
-    {
-      "note": "",
       "title": "Juries: peremptory challenges."
     },
     {
       "note": "",
       "title": "Public health: kratom and nitrous oxide."
+    },
+    {
+      "note": "",
+      "title": "Public health: 7-hydroxymitragynine and nitrous oxide."
     }
   ],
   "other_identifiers": [
@@ -432,6 +432,44 @@
       "_processing": {
         "log_file_created": "2026-08-06T09:57:17Z"
       }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass as amended. (Ayes 11. Noes 0.) (August 13).",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered to second reading.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -441,6 +479,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Umberg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Menjivar",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Menjivar\"}",
       "organization_id": null
     },
     {
@@ -518,6 +564,17 @@
         }
       ],
       "date": "2026-06-24",
+      "classification": ""
+    },
+    {
+      "note": "08/13/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB758&version=20250SB75894AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
       "classification": ""
     }
   ],
@@ -632,7 +689,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-06T09:57:17Z",
+    "logs_latest_update": "2026-08-14T08:21:24Z",
     "text_extraction_latest_update": "2026-08-06T10:19:36.365585Z"
   }
 }

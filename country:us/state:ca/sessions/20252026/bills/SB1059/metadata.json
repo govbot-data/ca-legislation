@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law establishes the Employment Training Panel within the Employment Development Department and sets forth its powers and duties with respect to certain employment training programs. Existing law declares the intent of the Legislature that the purpose of provisions relating to the panel is to establish an employment training program to promote a healthy labor market in a growing, competitive economy and to fund only projects that meet specified criteria, including, among other things, fostering retention of high-wage, high-skilled jobs in manufacturing, and other industries, as provided.\n\n Existing law also establishes the Employment Training Fund in the State Treasury, and requires that moneys in the fund be expended only for the purposes of the Employment Training Panel, except as provided. Existing law authorizes the panel to allocate moneys in the fund for reimbursement of reasonable training costs, administrative costs incurred by contractors, costs of program administration, and related services.\n\nThis bill would require the panel to modernize project administration, application review, monitoring, and compliance processes by authorizing and encouraging the use of electronic systems for applicant tracking, reporting, and recordkeeping. The bill would authorize contractors and subcontractors under an agreement with the panel to satisfy recordkeeping and documentation requirements through electronic records, provided that those records are complete, accurate, and meet other specified criteria. The bill would make various other changes in connection with the panel, including requiring it to update regulations, guidance, and program materials to remove outdated nomenclature, paper-based procedures, and obsolete training delivery classifications."
+      "abstract": "Existing law establishes the Employment Training Panel within the Employment Development Department and sets forth its powers and duties with respect to certain employment training programs. Existing law declares the intent of the Legislature that the purpose of provisions relating to the panel is to establish an employment training program to promote a healthy labor market in a growing, competitive economy and to fund only projects that meet specified criteria, including, among other things, fostering retention of high-wage, high-skilled jobs in manufacturing, and other industries, as provided.\n\n Existing law also establishes the Employment Training Fund in the State Treasury, and requires that moneys in the fund be expended only for the purposes of the Employment Training Panel, except as provided. Existing law authorizes the panel to allocate moneys in the fund for reimbursement of reasonable training costs, administrative costs incurred by contractors, costs of program administration, and related services.\n\nThis bill would require the panel to authorize and encourage the use of electronic systems for recordkeeping. The bill would authorize contractors and subcontractors under an agreement with the panel to satisfy recordkeeping and documentation requirements through electronic records, provided that those records are complete, accurate, and meet other specified criteria. The bill would require the panel to adopt recordkeeping and training administration standards, as specified, and to update regulations, guidance, and program materials to implement the bill's provisions."
     }
   ],
   "other_titles": [],
@@ -312,6 +312,44 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:31Z"
       }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass as amended. (Ayes 11. Noes 0.) (August 13).",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered to second reading.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -380,6 +418,17 @@
       ],
       "date": "2026-04-16",
       "classification": ""
+    },
+    {
+      "note": "08/13/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1059&version=20250SB105995AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
+      "classification": ""
     }
   ],
   "documents": [
@@ -447,7 +496,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Sections 10200 and 10206 of, and to add Sections 10203.5 and 10206.5 to, the Unemployment Insurance Code, relating to employment.",
+    "impact_clause": "An act to add Sections 10203.5 and 10206.5 to the Unemployment Insurance Code, relating to employment.",
     "tags": [
       "fiscal committee"
     ]
@@ -459,7 +508,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:31Z",
+    "logs_latest_update": "2026-08-14T08:21:24Z",
     "text_extraction_latest_update": "2026-07-21T21:12:46.314491Z"
   }
 }

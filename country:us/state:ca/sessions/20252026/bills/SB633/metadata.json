@@ -1,22 +1,27 @@
 {
   "legislative_session": "20252026",
   "identifier": "SB633",
-  "title": "Beverage containers: recycling.",
+  "title": "Plastic beverage containers: recycling.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Beveragecontainers",
+    "Plasticbeveragecontainers",
     "recycling"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "The California Beverage Container Recycling and Litter Reduction Act requires plastic beverage containers sold by a beverage manufacturer, as specified, to contain a specified average percentage of postconsumer recycled plastic per year. The act requires the manufacturer of a beverage sold in a plastic beverage container subject to the California Redemption Value to report to the Department of Resources Recycling and Recovery certain information about the amounts of virgin plastic and postconsumer recycled plastic used for plastic beverage containers subject to the California Redemption Value for sale in the state in the previous calendar year. Existing law requires the department to post this reported information on its internet website, as provided. Existing law provides that a violation of the act or a regulation adopted pursuant to the act is a crime.\n\nThis bill, beginning on or before March 1, 2027, would require a manufacturer of a beverage sold in a plastic beverage container subject to the California Redemption Value to also report to the department by country of origin the amount in pounds of imported postconsumer recycled plastic used for plastic beverage containers subject to the California Redemption Value for sale in the state in the previous calendar year and to provide proof that the postconsumer recycled content used by the manufacturer for plastic beverage containers has been validated by a third party, as specified. By expanding the scope of a crime, the bill would impose a state-mandated local program. The bill would require the department to post on its internet website the reported amounts of imported postconsumer recycled plastic used for plastic beverage containers in an aggregated form and would exempt the unaggregated amounts reported to the department from disclosure under the California Public Records Act.\n\nExisting constitutional provisions require that a statute that limits the right of access to the meetings of public bodies or the writings of public officials and agencies be adopted with findings demonstrating the interest protected by the limitation and the need for protecting that interest.\n\nThis bill would make legislative findings to that effect.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+      "abstract": "The California Beverage Container Recycling and Litter Reduction Act requires plastic beverage containers sold by a beverage manufacturer, as specified, to contain a specified average percentage of postconsumer recycled plastic per year. The act requires the manufacturer of a beverage sold in a plastic beverage container subject to the California Redemption Value to report to the Department of Resources Recycling and Recovery certain information about the amounts of virgin plastic and postconsumer recycled plastic used for plastic beverage containers subject to the California Redemption Value for sale in the state in the previous calendar year. Existing law requires the department to post this reported information on its internet website, as provided. Existing law provides that a violation of the act or a regulation adopted pursuant to the act is a crime.\n\nThe act subjects a beverage manufacturer that does not meet the minimum postconsumer recycled plastic content requirements to an annual administrative penalty, as provided. Under the act, the penalty is set at $0.20 for each pound of virgin plastic used in lieu of the required amount of postconsumer recycled plastic, as provided.\n\nThis bill would instead set the administrative penalty at $0.30 for each pound of virgin plastic used in lieu of the required amount of postconsumer recycled plastic.\n\nThis bill, beginning on or before March 1, 2028, would require a manufacturer of a beverage sold in a plastic beverage container subject to the California Redemption Value to also provide to the department proof that the postconsumer recycled content used by the beverage manufacturer for plastic beverage containers is able to be validated and is validated by a third party, as specified. The bill would require a validation regarding the postconsumer recycled content of plastic provided by a manufacturer of postconsumer recycled plastic to be accurate. By creating new crimes, the bill would impose a state-mandated local program. The bill would require the department to publish on its internet website a list of beverage manufacturers and their associated brand names, indicate whether they have complied with applicable postconsumer recycled plastic requirements, and provide other information the department deems appropriate.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Beverage containers: recycling."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-ca-20252026-sb633"
@@ -292,6 +297,44 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:30Z"
       }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass as amended. (Ayes 11. Noes 4.) (August 13).",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered to second reading.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -359,6 +402,17 @@
         }
       ],
       "date": "2025-07-17",
+      "classification": ""
+    },
+    {
+      "note": "08/13/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB633&version=20250SB63395AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
       "classification": ""
     }
   ],
@@ -438,7 +492,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend, repeal, and add Section 14549.3 of the Public Resources Code, relating to beverage containers.",
+    "impact_clause": "An act to amend Section 14547 of, and to amend, repeal, and add Section 14549.3 of, the Public Resources Code, relating to beverage containers.",
     "tags": [
       "fiscal committee",
       "local program"
@@ -451,7 +505,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:30Z",
+    "logs_latest_update": "2026-08-14T08:21:24Z",
     "text_extraction_latest_update": "2026-07-21T23:20:18.866098Z"
   }
 }

@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law requires a lienholder to comply with specified procedures to conduct a vehicle lien sale and makes it a misdemeanor for a person claiming a vehicle lien to knowingly violate these procedures. With regards to those procedures, existing law requires that the proceeds of a vehicle lien sale be paid to the lienholder in the amount necessary to discharge the lien and to cover the cost of processing the vehicle, among other requirements. Existing law requires that the balance be forwarded to the Department of Motor Vehicles and requires the balance to be deposited in the Motor Vehicle Account in the State Transportation Fund, as provided. Existing law authorizes any person claiming an interest in the vehicle to file a claim with the Department of Motor Vehicles for any portion of the funds from the lien sale that was forwarded to the department, as provided.\n\nExisting law provides for the escheat of property to the state. Existing law requires all property that escheat to the state to be deposited into a prescribed account in the Unclaimed Property Fund, which is continuously appropriated for specified purposes. Existing law establishes procedures for submitting a claim for property that has escheated.\n\nThis bill would, instead, require the balance to be forwarded to the Controller and, instead, would require the balance to be treated as escheated property, as provided. The bill would delete the provision authorizing any person claiming an interest in the vehicle to file a claim with the Department of Motor Vehicles. By changing the definition of an existing crime, the bill would impose a state-mandated local program. Because this bill would require the balance to be treated as escheated property to the state, and thereby deposited in the Unclaimed Property Fund, which is a continuously appropriated fund, this bill would make an appropriation.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+      "abstract": "Existing law establishes the Motor Vehicle Account in the State Transportation Fund and requires moneys in the account, upon appropriation by the Legislature, be expended by the Department of Motor Vehicles and the Department of the California Highway Patrol for the purposes of enforcing laws related to vehicles or the use of highways. Existing law requires a lienholder to comply with specified procedures to conduct a vehicle lien sale. With regards to those procedures, existing law requires that the proceeds of a vehicle lien sale be paid to the lienholder in the amount necessary to discharge the lien and to cover the cost of processing the vehicle, among other requirements. Existing law requires that the balance be forwarded to the Department of Motor Vehicles and requires the balance to be deposited in the Motor Vehicle Account in the State Transportation Fund, as provided. Existing law authorizes any person claiming an interest in the vehicle to file a claim with the Department of Motor Vehicles for any portion of the funds from the lien sale that was forwarded to the department, as provided. Existing law prohibits the Department of Motor Vehicles from honoring any claim unless the claim has been filed within 3 years of the date the funds were deposited in the Motor Vehicle Account.\n\n This bill would delete the above-described prohibition against the Department of Motor Vehicles from honoring any claim. The bill would, instead, 3 years after the date the funds were deposited in the Motor Vehicle Account, require the Department of Motor Vehicles to transfer any funds deposited in the Motor Vehicle Account to the Controller and would require the funds to be treated as escheated property. The bill would make the bill's provisions operative on January 1, 2030. Because this bill would require the balance to be treated as escheated property to the state, and thereby deposited in the Unclaimed Property Fund, which is a continuously appropriated fund, this bill would make an appropriation."
     }
   ],
   "other_titles": [
@@ -263,6 +263,44 @@
       "_processing": {
         "log_file_created": "2026-08-06T09:57:17Z"
       }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass as amended. (Ayes 11. Noes 0.) (August 13).",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered to second reading.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -324,6 +362,17 @@
         }
       ],
       "date": "2026-06-23",
+      "classification": ""
+    },
+    {
+      "note": "08/13/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1029&version=20250SB102997AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
       "classification": ""
     }
   ],
@@ -392,10 +441,9 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Section 3073 of the Civil Code, relating to liens, and making an appropriation therefor.",
+    "impact_clause": "An act to amend, repeal, and add Section 3073 of the Civil Code, relating to liens, and making an appropriation therefor.",
     "tags": [
-      "fiscal committee",
-      "local program"
+      "fiscal committee"
     ]
   },
   "jurisdiction": {
@@ -405,7 +453,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-06T09:57:17Z",
+    "logs_latest_update": "2026-08-14T08:21:24Z",
     "text_extraction_latest_update": "2026-08-06T10:07:47.709453Z"
   }
 }

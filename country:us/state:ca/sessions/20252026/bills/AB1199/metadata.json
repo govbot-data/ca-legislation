@@ -431,6 +431,24 @@
       "_processing": {
         "log_file_created": "2026-08-12T08:27:47Z"
       }
+    },
+    {
+      "description": "Re-referred to Com. on HEALTH. pursuant to Assembly Rule 77.2.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on HEALTH. pursuant to Assembly Rule 77.2.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -567,6 +585,17 @@
       ],
       "date": "2026-08-05",
       "classification": "analysis"
+    },
+    {
+      "note": "08/12/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1199&analysisId=403427&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-12",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -590,7 +619,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-12T08:27:47Z",
+    "logs_latest_update": "2026-08-14T08:21:25Z",
     "text_extraction_latest_update": "2026-08-12T08:33:47.475312Z"
   }
 }

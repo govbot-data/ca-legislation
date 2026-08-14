@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Under existing law, various election materials, including ballots, voter rosters, and related documents, must be maintained for a certain amount of time following an election. If an election contest or criminal prosecution has been commenced before the date voted ballots will be destroyed, the ballots may not be destroyed until after final determination of the contest or prosecution.\n\nThis bill would expand that provision to prohibit the destruction of any document that must be preserved after an election and any certified voting technology used for the election until after final determination of any contest, criminal investigation, or criminal prosecution.\n\nExisting law makes it a crime to knowingly take a package containing ballots from the custody of an elections official. Existing law also authorizes the Secretary of State, Attorney General, and appropriate local elections officials to bring a civil action against a person, business, or entity that takes a package containing ballots from the custody of an elections official.\n\nThis bill would apply the crime and the authorization to bring a civil action to taking any document, record, or certified voting technology from the custody of the elections official. By expanding the scope of an existing crime, the bill would create a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+      "abstract": "Under existing law, various election materials, including ballots, voter rosters, and related documents, must be maintained for a certain amount of time following an election. If an election contest or criminal prosecution has been commenced before the date voted ballots will be destroyed, the ballots may not be destroyed until after final determination of the contest or prosecution.\n\nThis bill would expand that provision to prohibit the destruction of any document or record that must be preserved after an election and any certified voting technology or electronic data, as defined, used for the election until after final determination of any contest or criminal prosecution.\n\nExisting law requires, for an election for the office of the President, Vice president, United States Senator, and United States Representative, specified data to be kept by an elections official, on electronic media, stored and unaltered, for 22 months from the date of the election. For all state and local elections, existing law requires the electronic data to be kept on electronic media for 6 months from the date of the election.\n\nThis bill would clarify the types of electronic media holding the specified data to include, but not be limited to, a hard drive, solid-state drive, flash drive, memory card, or other digital storage device. The bill would require the electronic media holding the data to be stored in a sealed container.\n\nExisting law makes it a crime to knowingly take a package containing ballots from the custody of an elections official. Existing law also authorizes the Secretary of State, Attorney General, and appropriate local elections officials to bring a civil action against a person, business, or entity that takes a package containing ballots from the custody of an elections official.\n\nThis bill would apply the crime and the authorization to bring a civil action to taking any document, record, certified voting technology, or electronic data, as defined, or portions thereof including source code, or any other election-related material or equipment necessary to the conduct of an election, from the custody of the elections official. By expanding the scope of an existing crime, the bill would create a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason.\n\nThis bill would declare that it is to take effect immediately as an urgency statute."
     }
   ],
   "other_titles": [
@@ -313,6 +313,44 @@
       "_processing": {
         "log_file_created": "2026-08-06T09:57:17Z"
       }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass as amended. (Ayes 11. Noes 2.) (August 13).",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered to second reading.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -386,6 +424,17 @@
       ],
       "date": "2026-06-11",
       "classification": ""
+    },
+    {
+      "note": "08/13/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1418&version=20250SB141896AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
+      "classification": ""
     }
   ],
   "documents": [
@@ -453,10 +502,11 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Sections 15550, 15551, 18564.5, and 18568 of the Elections Code, relating to elections.",
+    "impact_clause": "An act to amend Sections 15550, 15551, 17601, 17602, 18564.5, and 18568 of the Elections Code, relating to elections, and declaring the urgency thereof, to take effect immediately.",
     "tags": [
       "fiscal committee",
-      "local program"
+      "local program",
+      "urgency"
     ]
   },
   "jurisdiction": {
@@ -466,7 +516,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-06T09:57:17Z",
+    "logs_latest_update": "2026-08-14T08:21:24Z",
     "text_extraction_latest_update": "2026-08-06T10:21:32.305712Z"
   }
 }

@@ -20,11 +20,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Swimming pool safety: building codes: condominium and hotel rooms."
-    },
-    {
-      "note": "",
-      "title": "County of Los Angeles: sporting events: ticket charge: public transit."
+      "title": "Counties of Los Angeles and Santa Clara: sporting events: ticket charge: public transit."
     },
     {
       "note": "",
@@ -32,7 +28,11 @@
     },
     {
       "note": "",
-      "title": "Counties of Los Angeles and Santa Clara: sporting events: ticket charge: public transit."
+      "title": "County of Los Angeles: sporting events: ticket charge: public transit."
+    },
+    {
+      "note": "",
+      "title": "Swimming pool safety: building codes: condominium and hotel rooms."
     }
   ],
   "other_identifiers": [
@@ -460,6 +460,16 @@
       "_processing": {
         "log_file_created": "2026-08-05T09:46:47Z"
       }
+    },
+    {
+      "description": "In committee: Held under submission.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -641,7 +651,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-05T09:46:47Z",
+    "logs_latest_update": "2026-08-14T08:21:25Z",
     "text_extraction_latest_update": "2026-08-05T10:17:11.682972Z"
   }
 }

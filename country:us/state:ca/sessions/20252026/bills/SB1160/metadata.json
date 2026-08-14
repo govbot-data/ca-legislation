@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "The California Constitution establishes the Judicial Council, and requires the Judicial Council to adopt rules for court administration, practice, and procedure, and to undertake certain responsibilities with regard to court facilities.\n\nExisting law regulates the terms and conditions of residential tenancies. Existing law, after a tenant has continuously and lawfully occupied a residential real property for 12 months, prohibits the owner of the residential real property from terminating the tenancy without just cause and requires that just cause to be stated in the written notice to terminate tenancy. Under existing law, a tenant is guilty of unlawful detainer if the tenant continues to possess the property without permission of the landlord after the tenant defaults on rent, among other reasons.\n\nThis bill would, by July 1, 2027, require the Judicial Council to assess the timeline by which each county court system has the ability to submit specified data points regarding unlawful detainer cases to the Judicial Council utilizing the Judicial Branch Statistical Information System (JBSIS) . The bill would, beginning January 1, 2028, require each county court system identified by the Judicial Council as able to report to the Judicial Council utilizing JBSIS to submit the specified data points to the Judicial Council on a quarterly basis, aggregated by ZIP Code. The bill would require, on or before January 1, 2029, all county court systems to report the identified data points to the Judicial Council utilizing JBSIS on a quarterly basis, aggregated by ZIP Code of the premises that is the subject of the action. The bill would require, beginning January 1, 2029, and annually thereafter, the Judicial Council to format the information received pursuant to the provisions above in an electronic spreadsheet, as specified, and to publicly post the spreadsheet on its internet website."
+      "abstract": "The California Constitution establishes the Judicial Council, and requires the Judicial Council to adopt rules for court administration, practice, and procedure, and to undertake certain responsibilities with regard to court facilities.\n\nExisting law regulates the terms and conditions of residential tenancies. Existing law, after a tenant has continuously and lawfully occupied a residential real property for 12 months, prohibits the owner of the residential real property from terminating the tenancy without just cause and requires that just cause to be stated in the written notice to terminate tenancy. Under existing law, a tenant is guilty of unlawful detainer if the tenant continues to possess the property without permission of the landlord after the tenant defaults on rent, among other reasons.\n\nThis bill would, by July 1, 2032, require the Judicial Council to assess the timeline by which each county court system has the ability to submit specified data points regarding unlawful detainer cases to the Judicial Council utilizing an automated data collection system. The bill would, beginning January 1, 2033, require each county court system identified by the Judicial Council as able to report to the Judicial Council utilizing the automated data collection system to submit the specified data points to the Judicial Council on a quarterly basis, aggregated by ZIP Code. The bill would require, on or before January 1, 2034, all county court systems to report the identified data points to the Judicial Council utilizing the automated data collection system on a quarterly basis, aggregated by ZIP Code of the premises that is the subject of the action. The bill would require, beginning January 1, 2034, and annually thereafter, the Judicial Council to format the information received pursuant to the provisions above in an electronic spreadsheet, as specified, and to publicly post the spreadsheet on its internet website. The bill would make implementation of its provisions contingent upon appropriation by the Legislature, as specified."
     }
   ],
   "other_titles": [],
@@ -269,6 +269,44 @@
       "_processing": {
         "log_file_created": "2026-08-06T09:57:17Z"
       }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:25Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass as amended. (Ayes 11. Noes 4.) (August 13).",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:25Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered to second reading.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -325,6 +363,17 @@
         }
       ],
       "date": "2026-06-18",
+      "classification": ""
+    },
+    {
+      "note": "08/13/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1160&version=20250SB116096AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
       "classification": ""
     }
   ],
@@ -405,7 +454,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-06T09:57:17Z",
+    "logs_latest_update": "2026-08-14T08:21:25Z",
     "text_extraction_latest_update": "2026-08-06T10:29:22.951514Z"
   }
 }

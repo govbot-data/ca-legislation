@@ -363,6 +363,44 @@
       "_processing": {
         "log_file_created": "2026-08-06T09:57:17Z"
       }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:25Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass as amended. (Ayes 11. Noes 0.) (August 13).",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:25Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered to second reading.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -490,6 +528,17 @@
       ],
       "date": "2026-06-23",
       "classification": ""
+    },
+    {
+      "note": "08/13/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB845&version=20250SB84594AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
+      "classification": ""
     }
   ],
   "documents": [
@@ -568,7 +617,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Sections 51760, 51760.1, 51760.2, 51760.3, 51762.5, 51763, 51764, 51766, 51767, and 51768 of, to add Sections 48800.8, 48930.5, 51759, 51769.1, 52372.3, 52455, 53026, 53071.2, 54698, 56474.5, 76004.5, 79149.8, and 88834 to, to add Article 6.5 (commencing with Section 51755) to Chapter 5 of Part 28 of Division 4 of Title 2 of, and to repeal and add Section 51769 of, the Education\n\t\t  Code, and to amend Section 3100 of, and to add Section 3100.5 to, the Labor Code, relating to pupil instruction.",
+    "impact_clause": "An act to amend Sections 51760, 51760.1, 51760.2, 51760.3, 51762.5, 51763, 51764, 51766, 51767, and 51768 of, to add Sections 48800.8, 48930.5, 51759, 51769.1, 52372.3, 52455, 53026, 53071.2, 54698, 56474.5, 76004.5, 79149.8, and 88834 to, to add Article 6.5 (commencing with Section 51755) to Chapter 5 of Part 28 of Division 4 of Title 2 of, and to repeal and add Section 51769 of, the Education Code, and to amend Section 3100 of, and to add Section 3100.5 to, the Labor Code, relating to pupil instruction.",
     "tags": [
       "fiscal committee",
       "local program"
@@ -581,7 +630,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-06T09:57:17Z",
+    "logs_latest_update": "2026-08-14T08:21:25Z",
     "text_extraction_latest_update": "2026-08-06T10:26:04.971462Z"
   }
 }

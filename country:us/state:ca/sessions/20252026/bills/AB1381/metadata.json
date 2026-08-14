@@ -21,11 +21,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Educational workforce housing."
+      "title": "Education-related positions: egregious misconduct: previous employment disclosures."
     },
     {
       "note": "",
-      "title": "Education-related positions: egregious misconduct: previous employment disclosures."
+      "title": "Educational workforce housing."
     },
     {
       "note": "",
@@ -496,6 +496,34 @@
       "_processing": {
         "log_file_created": "2026-08-11T08:18:28Z"
       }
+    },
+    {
+      "description": "From committee: Amend, and do pass as amended. (Ayes 5. Noes 0.) (August 13).",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:25Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered returned to second reading.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -654,6 +682,17 @@
       ],
       "date": "2026-08-07",
       "classification": "analysis"
+    },
+    {
+      "note": "08/13/26- Senate Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1381&analysisId=403492&analyzingOffice=Senate+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -677,7 +716,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-11T08:18:28Z",
+    "logs_latest_update": "2026-08-14T08:21:25Z",
     "text_extraction_latest_update": "2026-08-11T08:30:23.070380Z"
   }
 }

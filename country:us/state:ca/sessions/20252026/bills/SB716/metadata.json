@@ -434,6 +434,33 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:35Z"
       }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -602,14 +629,14 @@
       "classification": "analysis"
     },
     {
-      "note": "07/01/26- ASSEMBLY FLOOR ANALYSIS",
+      "note": "07/29/26- ASSEMBLY FLOOR ANALYSIS",
       "links": [
         {
-          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB716&analysisId=402064&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB716&analysisId=402221&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
           "media_type": "application/pdf"
         }
       ],
-      "date": "2026-07-01",
+      "date": "2026-07-29",
       "classification": "analysis"
     }
   ],
@@ -634,7 +661,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:35Z",
+    "logs_latest_update": "2026-08-14T08:21:24Z",
     "text_extraction_latest_update": "2026-07-22T13:11:34.621929Z"
   }
 }

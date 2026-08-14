@@ -12,17 +12,17 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law establishes an Aging and Disability Resource Connection (ADRC) program, administered by the California Department of Aging, to provide information to consumers and their families on available long-term services and supports (LTSS) programs and to assist older adults, caregivers, and persons with disabilities in accessing LTSS programs at the local level. Existing law requires ADRC programs to provide specified services, including, among other things, enhanced information and referral services and other assistance at hours that are convenient for the public.\n\nThis bill would further require ADRC programs to provide disaster and emergency preparedness training specifically designed to help older adults and people with disabilities prepare for emergencies and ensure their safety before, during, and after natural disasters and other emergency events, as specified."
+      "abstract": "Existing law establishes an Aging and Disability Resource Connection (ADRC) program, administered by the California Department of Aging, to provide information to consumers and their families on available long-term services and supports (LTSS) programs and to assist older adults, caregivers, and persons with disabilities in accessing LTSS programs at the local level. Existing law requires ADRC programs to provide specified services, including, among other things, enhanced information and referral services and other assistance at hours that are convenient for the public.\n\nThis bill would further require ADRC programs to provide disaster and emergency preparedness community education specifically designed with the goals of informing older adults and people with disabilities about emergency preparedness and promoting their safety before, during, and after natural disasters and other emergency events, as specified."
     }
   ],
   "other_titles": [
     {
       "note": "",
-      "title": "Postsecondary education: segments."
+      "title": "Student financial aid: online technology platforms: guidance: training: media campaign."
     },
     {
       "note": "",
-      "title": "Student financial aid: online technology platforms: guidance: training: media campaign."
+      "title": "Postsecondary education: segments."
     }
   ],
   "other_identifiers": [
@@ -404,6 +404,44 @@
       "_processing": {
         "log_file_created": "2026-08-06T09:57:17Z"
       }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass as amended. (Ayes 11. Noes 0.) (August 13).",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered to second reading.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -460,6 +498,17 @@
         }
       ],
       "date": "2026-01-05",
+      "classification": ""
+    },
+    {
+      "note": "08/13/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB837&version=20250SB83796AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
       "classification": ""
     }
   ],
@@ -562,7 +611,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-06T09:57:17Z",
+    "logs_latest_update": "2026-08-14T08:21:24Z",
     "text_extraction_latest_update": "2026-08-06T10:10:20.992893Z"
   }
 }

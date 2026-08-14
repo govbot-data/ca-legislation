@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law generally designates the State Air Resources Board as the state agency with the primary responsibility for the control of vehicular air pollution. Existing law requires the state board to develop and implement a Heavy-Duty Vehicle Inspection and Maintenance Program for nongasoline heavy-duty onroad motor vehicles with a gross vehicle weight rating of more than 14,000 pounds. Existing law requires that the program include, among other things, test procedures for different motor vehicle model years and emissions control technologies that measure the effectiveness of the control of emissions of oxides of nitrogen and particulate matter. Existing law requires, as part of the program, the state board to develop a Heavy-Duty Vehicle Inspection and Maintenance Compliance Certificate. Existing law requires the state board to issue the certificate to the legal owner, registered owner, or designee of a vehicle that, at the discretion of the state board, meets the requirements of the program so that vehicle owners and operators may easily demonstrate proof of compliance for specified purposes.\n\nThis bill would limit specified testing of all nongasoline heavy-duty onroad motor vehicles with a gross vehicle weight rating of more than 14,000 pounds that are considered low use, as defined to not more frequently than annually. The bill would require the state board to adopt rules and regulations to implement this provision."
+      "abstract": "Existing law generally designates the State Air Resources Board as the state agency with the primary responsibility for the control of vehicular air pollution. Existing law requires the state board to develop and implement a Heavy-Duty Vehicle Inspection and Maintenance Program for nongasoline heavy-duty onroad motor vehicles with a gross vehicle weight rating of more than 14,000 pounds. Existing law requires that the program include, among other things, test procedures for different motor vehicle model years and emissions control technologies that measure the effectiveness of the control of emissions of oxides of nitrogen and particulate matter. Existing law requires, as part of the program, the state board to develop a Heavy-Duty Vehicle Inspection and Maintenance Compliance Certificate. Existing law requires the state board to issue the certificate to the legal owner, registered owner, or designee of a vehicle that, at the discretion of the state board, meets the requirements of the program so that vehicle owners and operators may easily demonstrate proof of compliance for specified purposes.\n\nThis bill would limit specified testing of all nongasoline heavy-duty onroad motor vehicles with a gross vehicle weight rating of more than 14,000 pounds that are considered low use, as defined, that have an engine that is from the 2012 model year or older, and that are registered in this state, to not more frequently than annually. The bill would require the state board to adopt rules and regulations to implement this provision."
     }
   ],
   "other_titles": [
@@ -326,6 +326,44 @@
       "_processing": {
         "log_file_created": "2026-08-06T09:57:17Z"
       }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass as amended. (Ayes 15. Noes 0.) (August 13).",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered to second reading.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -403,6 +441,17 @@
         }
       ],
       "date": "2026-04-23",
+      "classification": ""
+    },
+    {
+      "note": "08/13/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1064&version=20250SB106497AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
       "classification": ""
     }
   ],
@@ -494,7 +543,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-06T09:57:17Z",
+    "logs_latest_update": "2026-08-14T08:21:24Z",
     "text_extraction_latest_update": "2026-08-06T10:47:52.441478Z"
   }
 }

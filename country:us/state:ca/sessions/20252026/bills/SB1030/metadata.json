@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing federal law provides for the allocation of federal funds through the federal Temporary Assistance for Needy Families (TANF) block grant program to eligible states. Existing law provides for the California Work Opportunity and Responsibility to Kids (CalWORKs) program under which, through a combination of state and county funds and federal funds received through the TANF program, each county provides cash assistance and other benefits to qualified low-income families. Existing law requires an unrelated adult male who resides with a family who is applying for or receiving aid from the CalWORKs program to make a financial contribution to the family, as specified.\n\nThis bill would repeal the above-described provisions requiring an unrelated adult male who resides with a family applying for or receiving aid from the CalWORKs program to make a financial contribution to the family. By expanding eligibility for the CalWORKs program, the bill would impose a state-mandated local program.\n\nExisting law continuously appropriates moneys from the General Fund to defray a portion of county costs under the CalWORKs program.\n\nThis bill would provide that the continuous appropriation would not be made for purposes of implementing the bill.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+      "abstract": "Existing federal law provides for the allocation of federal funds through the federal Temporary Assistance for Needy Families (TANF) block grant program to eligible states. Existing law provides for the California Work Opportunity and Responsibility to Kids (CalWORKs) program under which, through a combination of state and county funds and federal funds received through the TANF program, each county provides cash assistance and other benefits to qualified low-income families. Existing law requires an unrelated adult male who resides with a family who is applying for or receiving aid from the CalWORKs program to make a financial contribution to the family, as specified.\n\nThis bill would, beginning July 1, 2027, or a later date, as specified, repeal the above-described provisions requiring an unrelated adult male who resides with a family applying for or receiving aid from the CalWORKs program to make a financial contribution to the family. The bill would authorize the department to implement, interpret, or make specific, this change by means of all-county letters, or similar written instructions, until regulations are adopted. By expanding eligibility for the CalWORKs program, the bill would impose a state-mandated local program.\n\nExisting law continuously appropriates moneys from the General Fund to defray a portion of county costs under the CalWORKs program.\n\nThis bill would provide that the continuous appropriation would not be made for purposes of implementing the bill.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
     }
   ],
   "other_titles": [],
@@ -250,6 +250,44 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:26Z"
       }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass as amended. (Ayes 11. Noes 0.) (August 13).",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered to second reading.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -336,6 +374,17 @@
       ],
       "date": "2026-05-14",
       "classification": ""
+    },
+    {
+      "note": "08/13/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1030&version=20250SB103097AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
+      "classification": ""
     }
   ],
   "documents": [
@@ -414,7 +463,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to repeal Section 11351.5 of the Welfare and Institutions Code, relating to public social services.",
+    "impact_clause": "An act to amend and repeal Section 11351.5 of the Welfare and Institutions Code, relating to public social services.",
     "tags": [
       "fiscal committee",
       "local program"
@@ -427,7 +476,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:26Z",
+    "logs_latest_update": "2026-08-14T08:21:24Z",
     "text_extraction_latest_update": "2026-07-22T13:12:29.737177Z"
   }
 }

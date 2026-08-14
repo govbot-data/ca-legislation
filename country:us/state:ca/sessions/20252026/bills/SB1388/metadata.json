@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law establishes the Department of Housing and Community Development and requires it to administer various programs intended to promote the development of housing, including the Multifamily Housing Program, pursuant to which the department provides assistance in the form of deferred payment loans to pay for the eligible costs of development of specified types of housing projects, as provided.\n\nThis bill would establish the Affordable Housing Risk Reduction Program, administered by the department, to provide technical assistance and supportive resources to affordable housing providers to help them mitigate risk in their portfolio and secure more affordable insurance options. Upon appropriation, the bill would require the department to provide affordable housing providers technical assistance and support and resources through loans or grants, and authorize it to contract with third-party consultants in the development and performance of these functions, as specified.\n\nThis bill would require the department, in carrying out the functions of the program, to consult with the California Tax Credit Allocation Committee and the California Debt Limit Allocation Committee. The bill would require the department to adopt emergency regulations to implement the program, as specified, and, by January 30, 2029, adopt permanent regulations for the operation of the program."
+      "abstract": "Existing law establishes the Department of Housing and Community Development and requires it to administer various programs intended to promote the development of housing, including the Multifamily Housing Program, pursuant to which the department provides assistance in the form of deferred payment loans to pay for the eligible costs of development of specified types of housing projects, as provided.\n\nThis bill would establish the Affordable Housing Risk Reduction Program, administered by the department, to provide technical assistance and supportive resources to affordable housing providers to help them mitigate risk in their portfolio and secure more affordable insurance options. Upon appropriation, the bill would require the department to develop technical assistance\n\n to support affordable housing providers, and would authorize the department and third-party consultants to provide both individual technical assistance to affordable housing providers and develop technical assistance tools that can be made broadly accessible to those providers. The bill would require the department to adopt emergency regulations to implement the program, as specified, and, by January 30, 2029, adopt permanent regulations for the operation of the program."
     }
   ],
   "other_titles": [
@@ -285,6 +285,44 @@
       "_processing": {
         "log_file_created": "2026-08-06T09:57:16Z"
       }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:25Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass as amended. (Ayes 11. Noes 2.) (August 13).",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:25Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered to second reading.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -361,6 +399,17 @@
       ],
       "date": "2026-07-02",
       "classification": ""
+    },
+    {
+      "note": "08/13/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1388&version=20250SB138895AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
+      "classification": ""
     }
   ],
   "documents": [
@@ -429,7 +478,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-08T08:00:03Z",
+    "logs_latest_update": "2026-08-14T08:21:25Z",
     "text_extraction_latest_update": "2026-08-08T08:02:50.956286Z"
   }
 }

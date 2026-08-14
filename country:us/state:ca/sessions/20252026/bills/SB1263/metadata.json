@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, the Contractors State License Law, provides for the licensure and regulation of contractors by the Contractors State License Board. Existing law prohibits contractors from performing specified acts. Existing law requires the Department of Resources Recycling and Recovery or another state agency tasked to manage contracts for wildfire debris cleanup and removal by the Office of Emergency Services to prequalify contractors to enter into contracts to perform prescribed wildfire debris cleanup and removal work in communities impacted by wildfires.\n\nNotwithstanding the prequalification requirement, this bill would prohibit a contractor from engaging in debris removal on residential property that is damaged or destroyed by a natural disaster for which an emergency or major disaster is declared, unless the contractor has one of specified license or classifications, as provided. The bill would require any licensee authorized to perform debris removal under these provisions to have passed an approved hazardous substance certification examination and comply with hazardous waste operation and emergency response requirements, as specified."
+      "abstract": "Existing law, the Contractors State License Law, provides for the licensure and regulation of contractors by the Contractors State License Board. Existing law prohibits contractors from performing specified acts. Existing law requires the Department of Resources Recycling and Recovery or another state agency tasked to manage contracts for wildfire debris cleanup and removal by the Office of Emergency Services to prequalify contractors to enter into contracts to perform prescribed wildfire debris cleanup and removal work in communities impacted by wildfires.\n\nNotwithstanding the prequalification requirement, this bill would prohibit a contractor from engaging in debris removal that includes hazardous materials on residential or commercial property that is damaged or destroyed by a natural disaster for which an emergency or major disaster is declared, unless the contractor has one of the specified licenses or classifications, as provided. The bill would require any licensee authorized to perform debris removal that includes hazardous materials under these provisions to have passed an approved hazardous substance certification examination and comply with hazardous waste operation and emergency response requirements, as specified."
     }
   ],
   "other_titles": [],
@@ -320,6 +320,33 @@
       "_processing": {
         "log_file_created": "2026-08-07T08:23:47Z"
       }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -376,6 +403,17 @@
         }
       ],
       "date": "2026-06-24",
+      "classification": ""
+    },
+    {
+      "note": "08/13/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1263&version=20250SB126396AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
       "classification": ""
     }
   ],
@@ -445,6 +483,17 @@
       ],
       "date": "2026-08-03",
       "classification": "analysis"
+    },
+    {
+      "note": "08/07/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1263&analysisId=403229&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-07",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -467,7 +516,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-07T08:23:47Z",
+    "logs_latest_update": "2026-08-14T08:21:24Z",
     "text_extraction_latest_update": "2026-08-07T08:38:53.477713Z"
   }
 }

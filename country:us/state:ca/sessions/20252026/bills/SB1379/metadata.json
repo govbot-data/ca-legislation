@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law generally regulates the government of counties. Existing law authorizes the board of supervisors of a county to consolidate the duties of various county offices in various combinations, including combining the duties of the sheriff and the coroner. Existing law also authorizes the board of supervisors of a county to separate the duties of consolidated offices.\n\nThis bill would require the board of supervisors for the County of Riverside to separate the offices of sheriff and coroner by July 1, 2027, as specified. The bill would require the county's board of supervisors to take certain actions with respect to medicolegal death investigation services. The bill would prohibit a person other than the county's coroner or a medical examiner from signing specified documents. The bill would require the county to publish specified information regarding in-custody persons on its internet website.\n\nThis bill would make legislative findings and declarations as to the necessity of a special statute for County of Riverside.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement. By requiring the county to provide a higher level of service, this bill would impose a state-mandated local program.\n\nThis bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+      "abstract": "Existing law generally regulates the government of counties. Existing law authorizes the board of supervisors of a county to consolidate the duties of various county offices in various combinations, including combining the duties of the sheriff and the coroner. Existing law also authorizes the board of supervisors of a county to separate the duties of consolidated offices. Existing law authorizes the board of supervisors to abolish the office of coroner by ordinance and provide instead for the office of medical examiner, to be appointed by the board, as specified.\n\nThis bill would require the board of supervisors for the County of Riverside to separate the offices of sheriff and coroner, abolish the office of coroner, and provide for the office of medical examiner, pursuant to the provisions described above, by July 1, 2027, as specified. The bill would require the county's board of supervisors to move medicolegal death investigation services to the office of medical examiner. The bill would prohibit a person other than the county's medical examiner from signing specified documents. The bill would require the county to publish specified information regarding in-custody persons on its internet website.\n\nThis bill would make legislative findings and declarations as to the necessity of a special statute for County of Riverside.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement. By requiring the county to provide a higher level of service, this bill would impose a state-mandated local program.\n\nThis bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
     }
   ],
   "other_titles": [
@@ -432,6 +432,44 @@
       "_processing": {
         "log_file_created": "2026-08-06T09:57:17Z"
       }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass as amended. (Ayes 11. Noes 4.) (August 13).",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered to second reading.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -518,6 +556,17 @@
         }
       ],
       "date": "2026-06-23",
+      "classification": ""
+    },
+    {
+      "note": "08/13/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1379&version=20250SB137994AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
       "classification": ""
     }
   ],
@@ -621,7 +670,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-06T09:57:17Z",
+    "logs_latest_update": "2026-08-14T08:21:24Z",
     "text_extraction_latest_update": "2026-08-06T10:41:28.004454Z"
   }
 }

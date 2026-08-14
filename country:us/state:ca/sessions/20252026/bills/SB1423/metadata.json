@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law establishes the Office of Land Use and Climate Innovation in the Governor's office for the purpose of serving the Governor and the Governor's cabinet as staff for long-range planning and research and constituting the comprehensive state planning agency.\n\nThis bill would require the office, on or before July 1, 2027, to compile, standardize, maintain, and make publicly available through a consolidated online platform a core set of statewide standardized spatial planning datasets, as defined. The bill would require the datasets to include specified categories of information, including hazardous risk data, natural resource sensitivity data, and agricultural value data, as provided. The bill would also require the office, on or before January 1, 2028, to develop and provide guidance for agencies to inform how to use and integrate the datasets in regional planning processes and products. The bill would require the office to update those datasets at least every 3 years, as provided.\n\nThis bill would permit state, regional, and local governments to consider use of the standardized spatial planning datasets published by the office in the development and production of land use and infrastructure plans, as specified. The bill would require the office to provide technical assistance, upon request, for use of the data from these provisions. The bill would specify that it does not create new regulatory requirements, regulate land use or zoning, establish land use designations, or preempt the local land use authority of cities and counties."
+      "abstract": "Existing law establishes the Office of Land Use and Climate Innovation in the Governor's office for the purpose of serving the Governor and the Governor's cabinet as staff for long-range planning and research and constituting the comprehensive state planning agency.\n\nThis bill would require the office, on or before July 1, 2028, to compile, standardize, maintain, and make publicly available through a consolidated online platform a core set of statewide standardized spatial planning datasets, as defined. The bill would require the datasets to include specified categories of information, including hazardous data, natural resource sensitivity data, and agricultural value data, as provided. The bill would also require the office, on or before January 1, 2029, to develop and provide guidance for agencies to inform how to use and integrate the datasets in regional planning processes and products. The bill would require the office to update those datasets as new or revised data becomes available from the originating state or federal agencies.\n\nThis bill would permit state, regional, and local governments to consider use of the standardized spatial planning datasets published by the office in the development and production of land use and infrastructure plans, as specified. The bill would require the office to provide technical assistance, upon request, for use of the data from these provisions. The bill would specify that it does not create new regulatory requirements, regulate land use or zoning, establish land use designations, or preempt the local land use authority of cities and counties."
     }
   ],
   "other_titles": [
@@ -23,11 +23,11 @@
     },
     {
       "note": "",
-      "title": "Transportation funding: State Transportation Improvement Program: Active Transportation Program."
+      "title": "Wildfire prevention: California Wildfire Mitigation Financial Assistance Program."
     },
     {
       "note": "",
-      "title": "Wildfire prevention: California Wildfire Mitigation Financial Assistance Program."
+      "title": "Transportation funding: State Transportation Improvement Program: Active Transportation Program."
     }
   ],
   "other_identifiers": [
@@ -397,6 +397,44 @@
       "_processing": {
         "log_file_created": "2026-08-06T09:57:16Z"
       }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass as amended. (Ayes 11. Noes 3.) (August 13).",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered to second reading.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -475,6 +513,17 @@
         }
       ],
       "date": "2026-06-22",
+      "classification": ""
+    },
+    {
+      "note": "08/13/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1423&version=20250SB142394AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
       "classification": ""
     }
   ],
@@ -555,7 +604,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-06T09:57:16Z",
+    "logs_latest_update": "2026-08-14T08:21:24Z",
     "text_extraction_latest_update": "2026-08-06T10:14:35.350372Z"
   }
 }

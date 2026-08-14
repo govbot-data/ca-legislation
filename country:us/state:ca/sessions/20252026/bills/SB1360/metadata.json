@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "The federal Voting Rights Act of 1965 requires a state or political subdivision in which more than 5% of voting-age citizens, or more than 10,000 voting-age citizens, are members of a single language minority and limited-English proficient to provide certain election materials, including ballots, in the language of the applicable language minority group. Existing state law requires the Secretary of State to determine for each county and precinct whether it is appropriate to provide facsimile copies of the ballot and other election materials in languages other than English. If the Secretary of State determines the number of voting age residents in a county or precinct who are members of a single language minority, and who lack sufficient skills in English to vote without assistance, is 3% or more of the voting-age residents of the county or precinct, county elections officials must provide facsimile ballots and other election materials in the applicable language.\n\nThis bill would require the Secretary of State, on or before December 15, 2028, and on or before December 15 in every year ending in 1 or 6 thereafter, to identify the counties where at least 5,000 voting age citizens, or 5% of voting age citizens, are limited English proficient and either members of a single language minority group or speak a shared language. The bill would require the elections official in an identified political subdivision to provide translated election materials in any language that meets those criteria or, for an election occurring before December 15, 2028, in any language in which the political subdivision is required to provide language assistance under the Voting Rights Act of 1965. The elections official would be required to translate, among other things, all official and sample ballots, voter registration forms, and election notices and instructions. The elections official would also be required to have a sufficient number of bilingual election workers to provide language assistance to any voter who needs it.\n\nIf the Secretary of State or another state agency provides election-related forms, instructions, assistance, or other materials or services in an identified political subdivision, the bill would require the Secretary of State or other state agency to translate the materials or services into any language that meets the criteria within that political subdivision. The bill would also authorize the Secretary of State to require a political subdivision to provide translated election materials in any language that does not meet the above-described criteria, if interested citizens or entities provide the Secretary of State with a preponderance of evidence that a significant need exists for translation into that language.\n\nThe bill would also make various conforming changes. By increasing the duties of local elections officials, the bill would create a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+      "abstract": "The federal Voting Rights Act of 1965 requires a state or political subdivision in which more than 5% of voting-age citizens, or more than 10,000 voting-age citizens, are members of a single language minority and limited-English proficient to provide certain election materials, including ballots, in the language of the applicable language minority group. Existing state law requires the Secretary of State to determine for each county and precinct whether it is appropriate to provide facsimile copies of the ballot and other election materials in languages other than English. If the Secretary of State determines the number of voting age residents in a county or precinct who are members of a single language minority, and who lack sufficient skills in English to vote without assistance, is 3% or more of the voting-age residents of the county or precinct, county elections officials must provide facsimile ballots and other election materials in the applicable language.\n\nThis bill would require the Secretary of State, on or before December 15, 2027, and on or before December 15 in every year ending in 1 or 7 thereafter, to identify the counties where at least 10,000 voting age citizens, or 5% of voting age citizens, are limited English proficient and either members of a single language minority group or speak a shared language. The bill would require the elections official in an identified political subdivision to provide translated election materials in any language that meets those criteria or, for an election occurring before December 15, 2027, in any language in which the political subdivision is required to provide language assistance under the Voting Rights Act of 1965, within a specified period of time. The elections official would be required to translate, among other things, all official and sample ballots, voter registration forms, and election notices and instructions. The elections official would also be required to have a sufficient number of bilingual election workers to provide language assistance to any voter who needs it.\n\nIf the Secretary of State or another state agency provides election-related forms, instructions, assistance, or other materials or services in an identified political subdivision, the bill would require the Secretary of State or other state agency to translate the materials or services into any language that meets the criteria within that political subdivision. The bill would also authorize the Secretary of State to require a political subdivision to provide translated election materials in any language that does not meet the above-described criteria, if interested citizens or entities provide the Secretary of State with a preponderance of evidence that a language group that has not been determined by the Secretary of State to meet any of the above-described criteria in fact meets one or more of those criteria.\n\nThe bill would also make various conforming changes. By increasing the duties of local elections officials, the bill would create a state-mandated local program.\n\nThe bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
     }
   ],
   "other_titles": [
@@ -313,6 +313,44 @@
       "_processing": {
         "log_file_created": "2026-08-06T09:57:17Z"
       }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass as amended. (Ayes 11. Noes 0.) (August 13).",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered to second reading.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -322,6 +360,38 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Cervantes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rubio",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rubio\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Fong",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Fong\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Garcia",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Garcia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nguyen",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nguyen\"}",
       "organization_id": null
     }
   ],
@@ -369,6 +439,17 @@
         }
       ],
       "date": "2026-04-14",
+      "classification": ""
+    },
+    {
+      "note": "08/13/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1360&version=20250SB136096AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
       "classification": ""
     }
   ],
@@ -437,7 +518,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Sections 2103, 2158, 2201, 2265, 2406, 2408, 4005, 4008, 9054, 12303, 13107, 13209, 13211.7, 13307, 14026, 14105.3, 14111, 14200, 14201, 14219, 14282, and 19101 of, to add Section 14033 to, and to repeal and add Section 14032 of, the Elections Code, relating to elections.",
+    "impact_clause": "An act to amend Sections 2103, 2158, 2201, 2265, 2406, 2408, 4005, 4008, 9054, 12303, 13107, 13209, 13211.7, 13307, 14105.3, 14111, 14200, 14201, 14219, 14282, and 19101 of, to add Sections 14034 and 14035 to, and to repeal Section 14032 of, the Elections Code, relating to elections.",
     "tags": [
       "fiscal committee",
       "local program"
@@ -450,7 +531,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-06T09:57:17Z",
+    "logs_latest_update": "2026-08-14T08:21:24Z",
     "text_extraction_latest_update": "2026-08-06T10:11:13.106431Z"
   }
 }

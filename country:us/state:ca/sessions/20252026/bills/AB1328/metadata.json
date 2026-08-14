@@ -19,15 +19,15 @@
   "other_titles": [
     {
       "note": "",
+      "title": "Medi-Cal reimbursements: nonemergency interfacility transfers."
+    },
+    {
+      "note": "",
       "title": "Medi-Cal reimbursements: ambulance transports."
     },
     {
       "note": "",
       "title": "Medi-Cal reimbursements: nonemergency ambulance transportation."
-    },
-    {
-      "note": "",
-      "title": "Medi-Cal reimbursements: nonemergency interfacility transfers."
     }
   ],
   "other_identifiers": [
@@ -411,6 +411,33 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:36Z"
       }
+    },
+    {
+      "description": "From committee: Do pass. (Ayes 7. Noes 0.) (August 13).",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -591,7 +618,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:36Z",
+    "logs_latest_update": "2026-08-14T08:21:24Z",
     "text_extraction_latest_update": "2026-07-22T10:54:55.494001Z"
   }
 }

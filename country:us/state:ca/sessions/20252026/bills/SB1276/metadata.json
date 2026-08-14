@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Under existing law, a person is guilty of sexual exploitation of a child if the person knowingly develops, duplicates, prints, or exchanges any representation of information, data, or image, including, but not limited to, any film, filmstrip, photograph, negative, slide, photocopy, videotape, video laser disc, computer hardware, computer software, computer floppy disc, data storage media, CD-ROM, or computer-generated equipment or any other computer-generated image that contains or incorporates in any manner, any film or filmstrip that depicts a person under 18 years of age engaged in an act of sexual conduct, as defined. Existing law makes a violation of this section punishable as a misdemeanor or a felony, as specified.\n\nThis bill would additionally make a person guilty of a misdemeanor or a felony if the person downloads, streams, or accesses through electronic or digital media the above-described sexual conduct, except as specified. By expanding the scope of a crime, this bill would impose a state-mandated local program.\n\nExisting law, the Child Abuse and Neglect Reporting Act, requires a mandated reporter, as defined, to make a report to a specified agency whenever the mandated reporter, in their professional capacity or within the scope of their employment, has knowledge of or observes a child whom the mandated reporter knows or reasonably suspects has been the victim of child abuse or neglect. For the purposes of this act, existing law includes sexual exploitation, and defines sexual exploitation as, among other things, a person who depicts a child in, or who knowingly develops, duplicates, prints, downloads, streams, accesses through any electronic or digital media, or exchanges, a film, photograph, videotape, video recording, negative, or slide in which a child is engaged in an act of obscene sexual conduct, except as specified.\n\nThis bill would broaden the above-described definition to include any digitally altered or artificial-intelligence-generated matter that depicts a person under 18 years of age engaged in an act of sexual conduct, as specified.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+      "abstract": "Under existing law, a person is guilty of sexual exploitation of a child if the person knowingly develops, duplicates, prints, or exchanges any representation of information, data, or image, including, but not limited to, any film, filmstrip, photograph, negative, slide, photocopy, videotape, video laser disc, computer hardware, computer software, computer floppy disc, data storage media, CD-ROM, or computer-generated equipment or any other computer-generated image that contains or incorporates in any manner, any film or filmstrip that depicts a person under 18 years of age engaged in an act of sexual conduct, as defined. Existing law makes a violation of this section punishable as a misdemeanor or a felony, as specified.\n\nThis bill would, except as specified, make a person guilty of a misdemeanor or a felony if the person knowingly does any of the above-described actions, or downloads, streams, or accesses through electronic or digital media the above-described sexual conduct, knowing that the matter depicts a person under 18 years of age engaged in an act of sexual conduct. By expanding the scope of a crime, this bill would impose a state-mandated local program.\n\nExisting law, the Child Abuse and Neglect Reporting Act, requires a mandated reporter, as defined, to make a report to a specified agency whenever the mandated reporter, in their professional capacity or within the scope of their employment, has knowledge of or observes a child whom the mandated reporter knows or reasonably suspects has been the victim of child abuse or neglect. For the purposes of this act, existing law includes sexual exploitation, and defines sexual exploitation as, among other things, a person who depicts a child in, or who knowingly develops, duplicates, prints, downloads, streams, accesses through any electronic or digital media, or exchanges, a film, photograph, videotape, video recording, negative, or slide in which a child is engaged in an act of obscene sexual conduct, except as specified.\n\nThis bill would broaden the above-described definition to include any digitally altered or artificial-intelligence-generated matter that depicts a person under 18 years of age engaged in an act of sexual conduct, as specified.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
     }
   ],
   "other_titles": [],
@@ -276,6 +276,44 @@
       "_processing": {
         "log_file_created": "2026-08-06T09:57:17Z"
       }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:25Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass as amended. (Ayes 11. Noes 0.) (August 13).",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:25Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered to second reading.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -326,6 +364,17 @@
         }
       ],
       "date": "2026-02-20",
+      "classification": ""
+    },
+    {
+      "note": "08/13/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1276&version=20250SB127698AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
       "classification": ""
     }
   ],
@@ -418,7 +467,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-06T09:57:17Z",
+    "logs_latest_update": "2026-08-14T08:21:25Z",
     "text_extraction_latest_update": "2026-08-06T10:41:30.104931Z"
   }
 }

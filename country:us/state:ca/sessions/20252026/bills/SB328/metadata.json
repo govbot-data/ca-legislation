@@ -1,30 +1,26 @@
 {
   "legislative_session": "20252026",
   "identifier": "SB328",
-  "title": "Hazardous waste generation and handling fees: Department of Toxic Substances Control oversight responses: housing development projects.",
+  "title": "Hazardous waste generation and handling fees: study and report: affordable housing development projects.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "DepartmentofToxicSubstancesControloversightresponses",
     "Hazardouswastegenerationandhandlingfees",
-    "housingdevelopmentprojects"
+    "affordablehousingdevelopmentprojects",
+    "studyandreport"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "The hazardous waste control laws require the Department of Toxic Substances Control to regulate the handling and management of hazardous waste and hazardous materials. A violation of the hazardous waste control laws is a crime.\n\nExisting law, which is part of the Planning and Zoning Law, establishes time limits for a local agency, as defined, to complete reviews regarding whether to approve or deny an application, as specified, and makes any failure to meet these time limits a disapproval of the housing development project and a violation of specified law.\n\nUpon the department receiving a request for a housing development project seeking oversight of investigation, characterization, and remediation activities, this bill would require the department to provide written notice to the requestor within specified timelines regarding subsequent actions in the review process, as specified. The bill would require, for a housing development with 25 units or fewer, the department to provide the written notice within 60 business days of receiving the request. The bill would require, for a housing development with 26 units or more, the department to provide the written notice within 120 business days of receiving the request. The bill would make these provisions operative on July 1, 2028.\n\nExisting law requires a generator of hazardous waste to pay to the California Department of Tax and Fee Administration a generation and handling fee for each generator site based on the amount of waste generated, as specified.\n\nThis bill would impose a maximum fee in a total amount of $100,000 upon a generator of hazardous waste that is residential infill housing, as provided. The bill would impose a maximum fee in a total amount of $250,000 upon a generator of hazardous waste that is a master development project, without regard to the phase of the project. These provisions would only apply to generators that are not responsible for creating the hazardous waste. The bill would require generators to apply to the department and certify their eligibility for these fee limitations to the Department of Toxic Substances Control."
+      "abstract": "The hazardous waste control laws require a generator of hazardous waste to pay to the California Department of Tax and Fee Administration a generation and handling fee for each generator site that generates an amount equal to, or more than, 5 tons of hazardous waste for each calendar year, or portion of the calendar year, as provided. Existing law requires the Department of Toxic Substances Control, by March 1, 2023, and every 3 years thereafter, to prepare and post on its internet website a report that includes an analysis of available data related to hazardous waste, including specified components regarding hazardous waste streams, facilities, transportation, fees, and identification criteria, as provided.\n\nThis bill would require the Department of Toxic Substances Control to prepare and submit to the Legislature, no later than December 31, 2029, a report regarding the generation and handling fee imposed on affordable housing development projects. The bill would require the report to include specified information on hazardous waste generation, project locations and types, and fees assessed. The bill would authorize the department to consider specified criteria, including trends, barriers, and other relevant data in preparing the report. The bill would require the report, to the extent feasible, to cover data for at least 5 years. The bill would authorize inclusion of information from the report in the department's existing periodic hazardous waste report."
     }
   ],
   "other_titles": [
     {
       "note": "",
-      "title": "Hazardous waste control: investigations."
-    },
-    {
-      "note": "",
-      "title": "Hazardous waste generator permits: housing development projects."
+      "title": "Hazardous waste generation and handling fees: Department of Toxic Substances Control oversight responses: housing development projects."
     },
     {
       "note": "",
@@ -33,6 +29,14 @@
     {
       "note": "",
       "title": "Hazardous waste generation and handling fees: Department of Toxic Substances Control oversight and postentitlement phase permit responses: housing development projects."
+    },
+    {
+      "note": "",
+      "title": "Hazardous waste generator permits: housing development projects."
+    },
+    {
+      "note": "",
+      "title": "Hazardous waste control: investigations."
     }
   ],
   "other_identifiers": [
@@ -444,6 +448,44 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:35Z"
       }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:25Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass as amended. (Ayes 11. Noes 0.) (August 13).",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:25Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered to second reading.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -453,6 +495,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Grayson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wicks",
+      "classification": "principal coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wicks\"}",
       "organization_id": null
     },
     {
@@ -561,6 +611,17 @@
       ],
       "date": "2025-06-25",
       "classification": ""
+    },
+    {
+      "note": "08/13/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB328&version=20250SB32892AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
+      "classification": ""
     }
   ],
   "documents": [
@@ -661,7 +722,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to add Section 65913.3.3 to the Government Code, and to add Section 25205.5.5 to the Health and Safety Code, relating to hazardous waste.",
+    "impact_clause": "An act to add and repeal Article 9.1.1 (commencing with Section 25205.26) of Chapter 6.5 of Division 20 of the Health and Safety Code, relating to hazardous waste.",
     "tags": [
       "fiscal committee"
     ]
@@ -673,7 +734,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:35Z",
+    "logs_latest_update": "2026-08-14T08:21:25Z",
     "text_extraction_latest_update": "2026-07-21T21:35:44.452816Z"
   }
 }

@@ -406,6 +406,43 @@
       "_processing": {
         "log_file_created": "2026-08-06T09:57:16Z"
       }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass. (Ayes 11. Noes 1.) (August 13).",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -597,17 +634,6 @@
       "classification": "analysis"
     },
     {
-      "note": "06/29/26- Assembly Privacy and Consumer Protection",
-      "links": [
-        {
-          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1119&analysisId=401862&analyzingOffice=Assembly+Privacy+and+Consumer+Protection",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "2026-06-29",
-      "classification": "analysis"
-    },
-    {
       "note": "08/03/26- Assembly Appropriations",
       "links": [
         {
@@ -616,6 +642,17 @@
         }
       ],
       "date": "2026-08-03",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/13/26- Assembly Privacy and Consumer Protection",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1119&analysisId=403468&analyzingOffice=Assembly+Privacy+and+Consumer+Protection",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
       "classification": "analysis"
     }
   ],
@@ -639,7 +676,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-06T09:57:16Z",
+    "logs_latest_update": "2026-08-14T08:21:24Z",
     "text_extraction_latest_update": "2026-08-06T10:18:20.035635Z"
   }
 }

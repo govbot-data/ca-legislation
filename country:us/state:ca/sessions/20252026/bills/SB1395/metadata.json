@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law allows the court to issue a protective order restraining a defendant from any contact with the victim if the defendant has been convicted of a crime of domestic violence, human trafficking, a crime in furtherance of a criminal street gang, or a registerable sex offense. Under existing law, the protective order may be valid for up to 10 years, as determined by the court.\n\nBeginning July 1, 2027, this bill would additionally allow the court to issue a protective order, valid for up to 20 years, restraining a defendant from any contact with a victim if the defendant has been convicted of a registerable sex offense involving a minor victim, as specified. The bill would require the Judicial Council, no later than July 1, 2027, to develop forms, instructions, and rules relating to these orders.\n\nThe bill would make other conforming changes.\n\nBy authorizing the issuance of protective orders in certain circumstances and the extension of certain protective orders, a violation of which is punishable as a crime, this bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+      "abstract": "Existing law allows the court to issue a protective order restraining a defendant from any contact with the victim if the defendant has been convicted of a crime of domestic violence, human trafficking, a crime in furtherance of a criminal street gang, or a registerable sex offense. Under existing law, the protective order may be valid for up to 10 years, as determined by the court.\n\nBeginning July 1, 2027, this bill would additionally allow the court to issue a protective order, valid for up to the later of 10 years or until the minor victim reaches 18 years of age, restraining a defendant from any contact with a victim if the defendant has been convicted of a registerable sex offense involving a minor victim, as specified. The bill would require the Judicial Council, no later than July 1, 2027, to develop forms, instructions, and rules relating to these orders.\n\nThe bill would make other conforming changes.\n\nBy authorizing the issuance of protective orders in certain circumstances and the extension of certain protective orders, a violation of which is punishable as a crime, this bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
     }
   ],
   "other_titles": [],
@@ -299,6 +299,44 @@
       "_processing": {
         "log_file_created": "2026-08-06T09:57:17Z"
       }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass as amended. (Ayes 11. Noes 0.) (August 13).",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered to second reading.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -366,6 +404,17 @@
         }
       ],
       "date": "2026-06-15",
+      "classification": ""
+    },
+    {
+      "note": "08/13/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1395&version=20250SB139595AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
       "classification": ""
     }
   ],
@@ -458,7 +507,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-06T09:57:17Z",
+    "logs_latest_update": "2026-08-14T08:21:24Z",
     "text_extraction_latest_update": "2026-08-06T10:05:14.221557Z"
   }
 }

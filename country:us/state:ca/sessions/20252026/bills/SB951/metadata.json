@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law establishes the Labor and Workforce Development Agency, which is composed of various departments responsible for protecting and promoting the rights and interests of workers in California, including the Division of Labor Standards Enforcement, led by the Labor Commissioner (commissioner) , within the Department of Industrial Relations. Existing law establishes the Employment Development Department (EDD) , which is administered by the Director of Employment Development. Under existing law, the Director of Employment Development is vested with specified duties, purposes, responsibilities, and jurisdiction related to job creation activity functions, among other things.\n\nExisting law, the California Worker Adjustment and Retraining Act (Cal/WARN Act) , prohibits an employer from ordering a mass layoff, relocation, or termination at a covered establishment unless, 60 days before the order takes effect, the employer gives written notice of the order to the employees affected by the order and to the EDD and certain local officials. Existing law makes an employer who fails to give specified notice regarding a mass layoff, relocation, or termination subject to a civil penalty of not more than $500 for each day of the employer's violation.\n\nThis bill would revise the Cal/WARN Act to also require an employer giving notice of a mass layoff, relocation, or termination caused in whole or in substantial part by an artificial intelligence (AI) system or other automated technology replacing or automating employment positions to include certain information in the notice, including the job functions performed by workers that will be automated by AI.\n\nThe bill would additionally require an employer to provide the EDD with a written technology hiring disruption notice that contains all of specified information about the employer's use of AI or other automation when that employer executes a technological cessation in hiring, as defined. The bill would require the EDD to post summaries of notices received pursuant to these provisions on its internet website as part of the existing notice requirements of the Cal/WARN Act, compile quarterly summaries regarding worker displacement due to AI and automation with the report including a link to the Cal/WARN Act notice report internet website, and submit the report to specified legislative committees. The bill would make an employer who fails to give a written technology hiring disruption notice when it executes a technological cessation in hiring liable for a civil penalty of not more than $500 for each day of the employer's violation. The bill would authorize the Labor Commissioner to enforce these notice requirements and would make various related, conforming changes to the Cal/WARN Act.\n\nThe bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities and counties, including charter cities and charter counties."
+      "abstract": "Existing law establishes the Labor and Workforce Development Agency, which is composed of various departments responsible for protecting and promoting the rights and interests of workers in California, including the Division of Labor Standards Enforcement, led by the Labor Commissioner (commissioner) , within the Department of Industrial Relations. Existing law establishes the Employment Development Department (EDD) , which is administered by the Director of Employment Development. Under existing law, the Director of Employment Development is vested with specified duties, purposes, responsibilities, and jurisdiction related to job creation activity functions, among other things.\n\nExisting law, the California Worker Adjustment and Retraining Act (Cal/WARN Act) , prohibits an employer from ordering a mass layoff, relocation, or termination at a covered establishment unless, 60 days before the order takes effect, the employer gives written notice of the order to the employees affected by the order and to the EDD and certain local officials. Existing law makes an employer who fails to give specified notice regarding a mass layoff, relocation, or termination subject to a civil penalty of not more than $500 for each day of the employer's violation.\n\nThis bill would revise the Cal/WARN Act to also require an employer giving notice of a mass layoff, relocation, or termination caused in whole or in substantial part by an artificial intelligence (AI) system or other automated technology replacing or automating employment positions to include certain information in the notice, including the job functions performed by workers that will be automated by AI.\n\nThe bill would additionally require an employer to provide the EDD with a written technology hiring disruption notice that contains specified information about the employer's use of AI or other automation when that employer executes a technological cessation in hiring, as specified. The bill would require the EDD to post summaries of notices received pursuant to these provisions on its internet website as part of the existing notice requirements of the Cal/WARN Act, compile quarterly summaries regarding worker displacement due to AI and automation with the report including a link to the Cal/WARN Act notice report internet website, and submit the report to specified legislative committees. The bill would make an employer who fails to give a written technology hiring disruption notice when it executes a technological cessation in hiring liable for a civil penalty of not more than $500 for each day of the employer's violation. The bill would authorize the Labor Commissioner to enforce these notice requirements and would make various related, conforming changes to the Cal/WARN Act.\n\nThe bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities and counties, including charter cities and charter counties."
     }
   ],
   "other_titles": [],
@@ -383,6 +383,44 @@
       "_processing": {
         "log_file_created": "2026-08-06T09:57:16Z"
       }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:25Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass as amended. (Ayes 10. Noes 3.) (August 13).",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:25Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered to second reading.",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:21:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -500,6 +538,17 @@
       ],
       "date": "2026-07-02",
       "classification": ""
+    },
+    {
+      "note": "08/13/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB951&version=20250SB95192AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
+      "classification": ""
     }
   ],
   "documents": [
@@ -612,7 +661,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-06T09:57:16Z",
+    "logs_latest_update": "2026-08-14T08:21:25Z",
     "text_extraction_latest_update": "2026-08-06T10:40:15.361190Z"
   }
 }
