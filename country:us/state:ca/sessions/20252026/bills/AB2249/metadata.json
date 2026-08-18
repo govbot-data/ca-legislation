@@ -1,25 +1,29 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB2249",
-  "title": "Cannabis: labels, packaging, and manufacturing.",
+  "title": "Cannabis: labels, packaging, and advertising.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
     "Cannabis",
-    "labels,packaging,andmanufacturing"
+    "labels,packaging,andadvertising"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "The Control, Regulate and Tax Adult Use of Marijuana Act (AUMA) , an initiative measure approved as Proposition 64 at the November 8, 2016, statewide general election, authorizes a person who obtains a state license under AUMA to engage in commercial adult-use cannabis activity pursuant to that license and applicable local ordinances. AUMA authorizes the Legislature to amend by majority vote certain provisions of the act to implement specified substantive provisions, provided that the amendments are consistent with and further the purposes and intent of AUMA.\n\nThe Medicinal and Adult-Use Cannabis Regulation and Safety Act (MAUCRSA) , among other things, consolidates the licensure and regulation of commercial medicinal and adult-use cannabis activities under the jurisdiction of the Department of Cannabis Control, including retail commercial cannabis activity. MAUCRSA prohibits a person engaged in commercial cannabis activity, whether licensed or unlicensed, from engaging in specified advertising or marketing activities, including publishing or disseminating advertising or marketing that is attractive to children. MAUCRSA also places specified requirements on the packaging and labeling of cannabis and cannabis products, including prohibiting packages and labels from being made to be attractive to children.\n\nThis bill would prohibit the sale, distribution, or manufacture of cannabis, cannabis products, packaging, or labeling that are attractive to children, as defined. The bill would authorize a licensee, until January 1, 2028, to continue to distribute or sell cannabis or cannabis products, and any associated packaging or labeling, that were manufactured, packaged, or labeled in compliance with applicable law as it existed prior to January 1, 2027. The bill would define the term \"attractive to children\" to include, among other things, the use of images that are designed or likely to appeal to children, as specified. The bill would authorize a licensee to publish or disseminate advertising or marketing that contains images of real humans under specified circumstances. The bill would require the department, on or before July 1, 2027, to develop, adopt, and implement by regulation a standardized rubric for determining whether cannabis goods, including their packaging and labeling, are attractive to children, subject to certain requirements, including that the rubric identifies and describes prohibition design elements, as specified.\n\n The bill would require the department, on or before July 1, 2027, to also develop, adopt, and implement by regulation a process by which a licensee may voluntarily request a written determination from the department to inform the licensee of whether a proposed packaging or labeling of a cannabis product is attractive to children, subject to certain requirements, including that the department use the standardized rubric described above in making a determination. The bill would authorize the department to establish by regulation a reasonable fee to cover the costs of making a written determination. The bill would prohibit requiring the requesting of a written determination as a condition of licensure under MAUCRSA or for the sale of a cannabis product."
+      "abstract": "The Control, Regulate and Tax Adult Use of Marijuana Act (AUMA) , an initiative measure approved as Proposition 64 at the November 8, 2016, statewide general election, authorizes a person who obtains a state license under AUMA to engage in commercial adult-use cannabis activity pursuant to that license and applicable local ordinances. AUMA authorizes the Legislature to amend by majority vote certain provisions of the act to implement specified substantive provisions, provided that the amendments are consistent with and further the purposes and intent of AUMA.\n\nThe Medicinal and Adult-Use Cannabis Regulation and Safety Act (MAUCRSA) , among other things, consolidates the licensure and regulation of commercial medicinal and adult-use cannabis activities under the jurisdiction of the Department of Cannabis Control, including retail commercial cannabis activity. MAUCRSA prohibits a person engaged in commercial cannabis activity, whether licensed or unlicensed, from engaging in specified advertising or marketing activities, including publishing or disseminating advertising or marketing that is attractive to children. MAUCRSA also places specified requirements on the packaging and labeling of cannabis and cannabis products, including prohibiting packages and labels from being made to be attractive to children.\n\nThis bill, commencing January 1, 2028, would define \"attractive to children\" to mean designed or likely to appeal to individuals under 21 years of age, as specified. The bill would authorize the department to adopt regulations to address additional packaging and labeling design elements or product characteristics that pose heightened risk to children. The bill would require the department to develop compliance assessment resources to assist licensees in self-evaluating whether packaging or labeling is attractive to children."
     }
   ],
   "other_titles": [
     {
       "note": "",
       "title": "Cannabis: youth advertising and marketing."
+    },
+    {
+      "note": "",
+      "title": "Cannabis: labels, packaging, and manufacturing."
     }
   ],
   "other_identifiers": [
@@ -329,6 +333,20 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:24Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T07:45:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -396,6 +414,17 @@
         }
       ],
       "date": "2026-05-22",
+      "classification": ""
+    },
+    {
+      "note": "08/13/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2249&version=20250AB224995AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
       "classification": ""
     }
   ],
@@ -476,6 +505,17 @@
       ],
       "date": "2026-08-13",
       "classification": "analysis"
+    },
+    {
+      "note": "08/17/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2249&analysisId=404073&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-17",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -486,7 +526,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Sections 26001, 26120, and 26152 of, and to add Sections 26123 and 26124 to, the Business and Professions Code, relating to cannabis.",
+    "impact_clause": "An act to add Sections 26141 and 26142 to the Business and Professions Code, relating to cannabis.",
     "tags": [
       "fiscal committee"
     ]
@@ -498,7 +538,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:24Z",
+    "logs_latest_update": "2026-08-18T07:45:24Z",
     "text_extraction_latest_update": "2026-08-14T08:43:54.591363Z"
   }
 }

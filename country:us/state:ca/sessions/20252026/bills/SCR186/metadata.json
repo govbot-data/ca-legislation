@@ -96,6 +96,21 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:24Z"
       }
+    },
+    {
+      "description": "From committee: Be adopted. Ordered to consent calendar. (Ayes 8. Noes 0.) (August 17).",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T07:45:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -144,6 +159,17 @@
       ],
       "date": "2026-06-22",
       "classification": "analysis"
+    },
+    {
+      "note": "08/14/26- Assembly Rules",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SCR186&analysisId=403893&analyzingOffice=Assembly+Rules",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-14",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -164,7 +190,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:24Z",
+    "logs_latest_update": "2026-08-18T07:45:25Z",
     "text_extraction_latest_update": "2026-08-14T09:48:28.279120Z"
   }
 }

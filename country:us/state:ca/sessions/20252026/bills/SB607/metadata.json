@@ -19,7 +19,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "California Environmental Quality Act:Infrastructure Projects."
+      "title": "California Environmental Quality Act: categorical exemptions: infill projects."
     },
     {
       "note": "",
@@ -27,11 +27,11 @@
     },
     {
       "note": "",
-      "title": "California Science and Health Research Bond Act."
+      "title": "California Environmental Quality Act:Infrastructure Projects."
     },
     {
       "note": "",
-      "title": "California Environmental Quality Act: categorical exemptions: infill projects."
+      "title": "California Science and Health Research Bond Act."
     }
   ],
   "other_identifiers": [
@@ -567,17 +567,16 @@
       }
     },
     {
-      "description": "Read second time. Ordered to third reading.",
+      "description": "Read second time. Ordered to consent calendar.",
       "date": "2026-08-03",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-1",
-        "reading-2",
-        "reading-3"
+        "reading-2"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-04T09:49:54Z"
+        "log_file_created": "2026-08-18T07:45:25Z"
       }
     },
     {
@@ -661,6 +660,20 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-08-12T08:27:47Z"
+      }
+    },
+    {
+      "description": "Assembly amendments concurred in. (Ayes 40. Noes 0.) Ordered to engrossing and enrolling.",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T07:45:25Z"
       }
     }
   ],
@@ -929,6 +942,17 @@
       ],
       "date": "2026-08-10",
       "classification": "analysis"
+    },
+    {
+      "note": "08/12/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB607&analysisId=403413&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-12",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -949,7 +973,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-12T08:27:47Z",
+    "logs_latest_update": "2026-08-18T07:45:25Z",
     "text_extraction_latest_update": "2026-08-12T08:35:50.050261Z"
   }
 }

@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, the California Emergency Services Act, requires the Office of Emergency Services, in coordination with all interested state agencies with designated response roles in the state emergency plan and interested local emergency management agencies, to jointly establish by regulation a standardized emergency management system for use by all emergency response agencies. The act requires the Office of Emergency Services to complete an after-action report within 180 days of a declared disaster, as provided.\n\nThis bill would instead require the Office of Emergency Services to complete 2 after-action reports, the first within the first 180 days of a declaration of a state of emergency and the second no later than 180 days after a declared state of emergency ends, as provided. The bill would also require the office to draft annual written updates related to recovery activities, as provided. The bill would require the office to send both reports and any annual recovery updates to the Assembly and Senate Committees on Emergency Management, as provided.\n\nThis bill would additionally require a city, county, or city and county to complete an after-action report no later than 120 days after a declaration of a local emergency for which the Governor has also proclaimed a state of emergency and to make the report available to the Office of Emergency Services, among others, as provided. The bill would specify that the after-action report constitutes the after-action report required by a certain regulation. The bill would require the after-action report to include, among other things, information about the application of the standardized emergency management system. By imposing a new reporting requirement upon local agencies, this bill would impose a state-mandated local program.\n\nThe bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+      "abstract": "Existing law, the California Emergency Services Act, requires the Office of Emergency Services, in coordination with all interested state agencies with designated response roles in the state emergency plan and interested local emergency management agencies, to jointly establish by regulation a standardized emergency management system for use by all emergency response agencies. The act requires the Office of Emergency Services to complete an after-action report within 180 days of a declared disaster, as provided.\n\nThis bill would instead require the Office of Emergency Services to complete 2 after-action reports, the first within the first 180 days of a declaration of a state of emergency and the second no later than 180 days after a declared state of emergency ends, as provided. The bill would also require the office to draft annual written updates related to recovery activities, as provided. The bill would require the office to send both reports and any annual recovery updates to the Assembly and Senate Committees on Emergency Management, as provided."
     }
   ],
   "other_titles": [],
@@ -297,6 +297,20 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:25Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T07:45:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -353,6 +367,17 @@
         }
       ],
       "date": "2026-05-18",
+      "classification": ""
+    },
+    {
+      "note": "08/13/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2475&version=20250AB247596AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
       "classification": ""
     }
   ],
@@ -422,6 +447,17 @@
       ],
       "date": "2026-08-13",
       "classification": "analysis"
+    },
+    {
+      "note": "08/17/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2475&analysisId=404053&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-17",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -434,8 +470,7 @@
   "extras": {
     "impact_clause": "An act to amend Section 8607 of the Government Code, relating to emergency services.",
     "tags": [
-      "fiscal committee",
-      "local program"
+      "fiscal committee"
     ]
   },
   "jurisdiction": {
@@ -445,7 +480,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:25Z",
+    "logs_latest_update": "2026-08-18T07:45:25Z",
     "text_extraction_latest_update": "2026-08-14T09:53:19.029017Z"
   }
 }

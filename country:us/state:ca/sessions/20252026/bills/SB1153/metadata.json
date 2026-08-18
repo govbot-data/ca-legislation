@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, the California Emergency Services Act, requires all public water systems, as defined, with 10,000 or more service connections to review and revise their disaster preparedness plans in conjunction with related agencies, including, but not limited to, local fire departments and the Office of Emergency Services, to ensure that the plans are sufficient to address possible disaster scenarios. A person, as defined, who violates the provisions of this act is guilty of a misdemeanor.\n\nThis bill, beginning January 1, 2028, would require all urban retail water suppliers, as defined, serving a high or very high fire hazard severity zone to include incident-specific response procedures for wildfires as part of their disaster preparedness plans, including any applicable emergency response plan as required by federal law. The bill would require these plans to include, among other things, mitigation actions, including actions, procedures, and equipment, that can obviate or significantly lessen the impact of a wildfire on the water system and the supply of drinking water provided by the water supplier. Because violation of these requirements by certain urban retail water suppliers would constitute a misdemeanor, the bill would expand the scope of a crime, thereby imposing a state-mandated local program.\n\nThis bill would prohibit anything, including any other law, from imposing a duty on public water systems, including wholesale water systems, to design, construct, or maintain a water system for wildfire defense or suppression. The bill would further prohibit the failure of an urban retail water supplier to implement or comply with any of the incident-specific response procedures developed pursuant to the above requirements or the inability of any public water system to maintain water supply or water pressure during a wildfire from being considered a substantial cause of the damages resulting from a wildfire.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason.\n\nExisting constitutional provisions require that a statute that limits the right of access to the meetings of public bodies or the writings of public officials and agencies be adopted with findings demonstrating the interest protected by the limitation and the need for protecting that interest.\n\nThis bill would make legislative findings to that effect."
+      "abstract": "Existing law, the California Emergency Services Act, requires all public water systems, as defined, with 10,000 or more service connections to review and revise their disaster preparedness plans in conjunction with related agencies, including, but not limited to, local fire departments and the Office of Emergency Services, to ensure that the plans are sufficient to address possible disaster scenarios. A person, as defined, who violates the provisions of this act is guilty of a misdemeanor.\n\nThis bill, beginning January 1, 2028, would require all urban retail water suppliers, as defined, serving 3,300 or more persons and serving a high or very high fire hazard severity zone to include incident-specific response procedures for wildfires as part of their disaster preparedness plans, including any applicable emergency response plan as required by federal law. The bill would require these plans to include, among other things, mitigation actions, including actions, procedures, and equipment, that can obviate or significantly lessen the impact of a wildfire on the water system and the supply of drinking water provided by the water supplier. Because violation of these requirements by certain urban retail water suppliers would constitute a misdemeanor, the bill would expand the scope of a crime, thereby imposing a state-mandated local program.\n\nThis bill would prohibit anything, including any other law, from imposing a duty on public water systems, including wholesale water systems, to design, construct, or maintain a water system for wildfire defense or suppression. The bill would further prohibit the failure of an urban retail water supplier to implement or comply with any of the incident-specific response procedures developed pursuant to the above requirements or the inability of any public water system to maintain water supply or water pressure during a wildfire from being considered a substantial cause of the damages resulting from a wildfire.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason.\n\nExisting constitutional provisions require that a statute that limits the right of access to the meetings of public bodies or the writings of public officials and agencies be adopted with findings demonstrating the interest protected by the limitation and the need for protecting that interest.\n\nThis bill would make legislative findings to that effect."
     }
   ],
   "other_titles": [],
@@ -405,6 +405,33 @@
       "_processing": {
         "log_file_created": "2026-08-07T08:23:47Z"
       }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T07:45:25Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T07:45:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -511,6 +538,17 @@
       ],
       "date": "2026-06-22",
       "classification": ""
+    },
+    {
+      "note": "08/17/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1153&version=20250SB115393AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-17",
+      "classification": ""
     }
   ],
   "documents": [
@@ -590,6 +628,28 @@
       ],
       "date": "2026-08-03",
       "classification": "analysis"
+    },
+    {
+      "note": "08/07/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1153&analysisId=403239&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-07",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/17/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1153&analysisId=404349&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-17",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -613,7 +673,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-07T08:23:47Z",
+    "logs_latest_update": "2026-08-18T07:45:25Z",
     "text_extraction_latest_update": "2026-08-07T08:33:49.060420Z"
   }
 }

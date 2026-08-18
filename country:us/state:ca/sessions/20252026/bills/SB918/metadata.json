@@ -277,7 +277,7 @@
       }
     },
     {
-      "description": "Read third time. Passed. Ordered to the Senate.",
+      "description": "Read third time. Passed. (Ayes 70. Noes 0. Page 5985.) Ordered to the Senate.",
       "date": "2026-07-02",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -287,7 +287,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:33Z"
+        "log_file_created": "2026-08-18T07:45:25Z"
       }
     },
     {
@@ -298,6 +298,20 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:55:33Z"
+      }
+    },
+    {
+      "description": "Assembly amendments concurred in. (Ayes 40. Noes 0.) Ordered to engrossing and enrolling.",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T07:45:25Z"
       }
     }
   ],
@@ -445,6 +459,17 @@
       ],
       "date": "2026-06-22",
       "classification": "analysis"
+    },
+    {
+      "note": "07/30/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB918&analysisId=402246&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-30",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -468,7 +493,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:33Z",
+    "logs_latest_update": "2026-08-18T07:45:25Z",
     "text_extraction_latest_update": "2026-07-22T10:11:56.959504Z"
   }
 }

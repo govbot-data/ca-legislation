@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law generally regulates artificial intelligence, including companion chatbots, as defined. Existing law requires an operator, as defined, to prevent a companion chatbot on its companion chatbot platform from engaging with users unless the operator maintains a protocol for preventing the production of suicidal ideation, suicide, or self-harm content to the user. Existing law requires an operator, for a user the operator knows is a minor, to, among other things, notify the user that the user is interacting with artificial intelligence and to disclose that companion chatbots may not be suitable for some minors, as specified.\n\nThe Digital Age Assurance Act requires a person who owns, maintains, or controls a software application, as defined, to request age bracket data sent by a real-time secure application programming interface or operating system with respect to a particular user from an operating system provider or a covered application store when the application is downloaded and launched.\n\nThis bill would require an operator, as defined, of a companion chatbot to, on or before July 1, 2027, do various things with respect to child safety and companion chatbots, including annually perform and document a comprehensive risk assessment to identify any child safety risk, as defined, posed by the design, configuration, and operation of the companion chatbot that assesses, among other things, the likelihood of a covered harm, as defined, occurring to child users. The bill would require an operator to submit to an independent audit of its compliance with those provisions, as specified, and would require, within 90 days of completing an independent audit, the auditor to submit an AI child safety audit report to the Attorney General for any audited companion chatbot. The bill would, except as specified, require those audit reports to be kept confidential.\n\nThis bill would, beginning January 1, 2028, require the Attorney General to issue an annual public report on the audits submitted pursuant to the above-described provision, as specified. The bill would authorize a public prosecutor to bring a certain civil action to enforce the bill's provisions and would authorize a child who suffers actual harm as a result of a violation of this chapter, or a parent or guardian acting on behalf of that child, to bring a civil action against the operator to obtain, among other relief, punitive damages.\n\nExisting constitutional provisions require that a statute that limits the right of access to the meetings of public bodies or the writings of public officials and agencies be adopted with findings demonstrating the interest protected by the limitation and the need for protecting that interest.\n\nThis bill would make legislative findings to that effect."
+      "abstract": "Existing law generally regulates artificial intelligence, including companion chatbots, as defined. Existing law requires an operator, as defined, to prevent a companion chatbot on its companion chatbot platform from engaging with users unless the operator maintains a protocol for preventing the production of suicidal ideation, suicide, or self-harm content to the user. Existing law requires an operator, for a user the operator knows is a minor, to take certain prescribed action, including disclosing to the user that the user is interacting with artificial intelligence.\n\nThis bill would delete those provisions imposing requirements on an operator if the operator knows the user is a minor.\n\nThe Digital Age Assurance Act requires a person who owns, maintains, or controls a software application, as defined, to request age bracket data sent by a real-time secure application programming interface or operating system with respect to a particular user from an operating system provider or a covered application store when the application is downloaded and launched.\n\nThis bill would impose a duty on an operator to ensure that a companion chatbot does not pose an unreasonable risk of a covered harm to a minor and require an operator, as defined, of a companion chatbot to, on or before July 1, 2027, and subsequently thereafter before making a new or substantially modified companion chatbot available to users in the state, do various things with respect to child safety, including perform and document a comprehensive risk assessment related to the design, configuration, and operation of the companion chatbot that contains among other things, a summary of the results of any evaluation of each covered harm, as defined, pertaining to the companion chatbot. The bill would require an operator to submit to independent child safety audits of its compliance with the bill, as specified, and would require, within 90 days of completing a child safety audit, the auditor to produce and submit an AI child safety audit report to the Attorney General for any audited companion chatbot that includes, among other things, the signature of the lead auditor certifying the results of the audit under penalty of perjury. By expanding the scope of the crime of perjury, this bill would impose a state-mandated local program. The bill would, except as specified, require the unredacted version of those audit reports submitted to the Attorney General to be kept confidential.\n\nThis bill would authorize a public prosecutor to bring a certain civil action to enforce the bill's provisions and would authorize a child who suffers a covered harm as a result of a violation of this chapter, or a parent or guardian acting on behalf of that child, to bring a civil action against the operator to obtain, among other relief, punitive damages.\n\nExisting constitutional provisions require that a statute that limits the right of access to the meetings of public bodies or the writings of public officials and agencies be adopted with findings demonstrating the interest protected by the limitation and the need for protecting that interest.\n\nThis bill would make legislative findings to that effect.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
     }
   ],
   "other_titles": [
@@ -443,6 +443,33 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:24Z"
       }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T07:45:25Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T07:45:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -455,19 +482,19 @@
       "organization_id": null
     },
     {
-      "name": "Bauer-Kahan",
-      "classification": "principal coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Bauer-Kahan\"}",
-      "organization_id": null
-    },
-    {
       "name": "Wicks",
-      "classification": "principal coauthor",
+      "classification": "author",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Wicks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bauer-Kahan",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bauer-Kahan\"}",
       "organization_id": null
     },
     {
@@ -575,6 +602,17 @@
       ],
       "date": "2026-06-25",
       "classification": ""
+    },
+    {
+      "note": "08/17/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1119&version=20250SB111995AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-17",
+      "classification": ""
     }
   ],
   "documents": [
@@ -654,6 +692,17 @@
       ],
       "date": "2026-08-13",
       "classification": "analysis"
+    },
+    {
+      "note": "08/14/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1119&analysisId=403719&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-14",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -664,9 +713,10 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to add Chapter 22.6.1 (commencing with Section 22610) to Division 8 of the Business and Professions Code, relating to artificial intelligence.",
+    "impact_clause": "An act to amend Section 22602 of, and to add Chapter 22.6.1 (commencing with Section 22610) to Division 8 of, the Business and Professions Code, relating to artificial intelligence.",
     "tags": [
-      "fiscal committee"
+      "fiscal committee",
+      "local program"
     ]
   },
   "jurisdiction": {
@@ -676,7 +726,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:24Z",
+    "logs_latest_update": "2026-08-18T07:45:25Z",
     "text_extraction_latest_update": "2026-08-14T09:09:48.617604Z"
   }
 }

@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law authorizes a borrower to request forbearance on their residential mortgage loan for a period of 12 months if, among other things, the borrower affirms that they are experiencing financial hardship that prevents them from making timely payments on the loan due directly to the wildfire disaster described in the proclamation of a state of emergency issued by Governor Gavin Newsom on January 7, 2025, or the federally declared disaster, declared on January 8, 2025, related to the Eaton Wildfire, the Palisades Fire, and the Straight-line Winds. Existing law requires an applicant requesting forbearance on their residential mortgage loan to affirm that they are experiencing a financial hardship due to the wildfire disaster. Existing law requires that request to be made before the earlier of either 6 months after the date upon which the state of emergency is terminated or January 7, 2027.\n\nThis bill would extend the period of mortgage forbearance to 24 months and extend the latest possible deadline for a borrower's request for forbearance to January 7, 2029. The bill would require an applicant requesting forbearance on their residential mortgage loan to further affirm that the property securing the loan is uninhabitable due to the wildfire disaster. Because the bill would expand the crime of perjury, the bill would impose a state-mandated local program.\n\nExisting law requires a mortgage servicer to disclose to a borrower to whom a forbearance has been granted that the forborne mortgage payments are required to be repaid. Existing law prohibits requiring a borrower who was current on the residential mortgage loan when they entered forbearance to make a lump sum payment.\n\nThis bill would require a mortgage servicer to offer the borrower the option to defer repayment of forborne amounts to the end of the loan term, as specified.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+      "abstract": "Existing law authorizes a borrower to request forbearance on their residential mortgage loan for a period of 12 months if, among other things, the borrower affirms that they are experiencing financial hardship that prevents them from making timely payments on the loan due directly to the wildfire disaster described in the proclamation of a state of emergency issued by Governor Gavin Newsom on January 7, 2025, or the federally declared disaster, declared on January 8, 2025, related to the Eaton Wildfire, the Palisades Fire, and the Straight-line Winds. Existing law requires an applicant requesting forbearance on their residential mortgage loan to affirm that they are experiencing a financial hardship due to the wildfire disaster. Existing law requires that request to be made before the earlier of either 6 months after the date upon which the state of emergency is terminated or January 7, 2027. Existing law requires a borrower to be notified by the mortgage servicer within 10 business days whether their request for forbearance has been approved. Existing law prohibits any late fees from being assessed to the borrower's account during the period of forbearance, and the borrower from being charged a default rate of interest.\n\nThis bill would extend the period of mortgage forbearance to 24 months and extend the latest possible deadline for a borrower's request for forbearance to January 7, 2029. The bill would require an applicant requesting forbearance on their residential mortgage loan to further affirm that the property securing the loan is uninhabitable due to the wildfire disaster. Because the bill would expand the crime of perjury, the bill would impose a state-mandated local program. If the borrower has requested an extension of a forbearance period that would result in a total forbearance period of more than 12 months, the bill would authorize a mortgage servicer to request certain related documentation from the borrower, as specified. The bill would extend the amount of time the mortgage servicer has to notify the borrower whether their request for forbearance has been approved to 21 days or longer, as specified. During the period in which the borrower is waiting to be notified, the bill would prohibit any late fees from being assessed to the borrower's account, and the borrower from being charged a default rate of interest.\n\nExisting law requires a mortgage servicer to disclose to a borrower to whom a forbearance has been granted that the forborne mortgage payments are required to be repaid. Existing law prohibits requiring a borrower who was current on the residential mortgage loan when they entered forbearance to make a lump sum payment.\n\nThis bill would require a mortgage servicer to offer the borrower the option to defer repayment of forborne amounts to the end of the loan term, as specified.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
     }
   ],
   "other_titles": [],
@@ -356,6 +356,20 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:25Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T07:45:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -447,6 +461,17 @@
         }
       ],
       "date": "2026-06-22",
+      "classification": ""
+    },
+    {
+      "note": "08/13/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1847&version=20250AB184795AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
       "classification": ""
     }
   ],
@@ -549,6 +574,17 @@
       ],
       "date": "2026-08-13",
       "classification": "analysis"
+    },
+    {
+      "note": "08/17/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1847&analysisId=404138&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-17",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -572,7 +608,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:25Z",
+    "logs_latest_update": "2026-08-18T07:45:24Z",
     "text_extraction_latest_update": "2026-08-14T08:43:16.387639Z"
   }
 }

@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, the Governor's Reorganization Plan No. 1 of 2025 (GRP) , which became effective on July 5, 2025, reorganized specified state agencies and departments, including eliminating the Business, Consumer Services, and Housing Agency as of July 1, 2026, and instead establishing the Business and Consumer Services Agency and the California Housing and Homelessness Agency. The GRP, as of July 1, 2026, sets forth the general responsibilities and roles of the California Housing Homelessness Agency, the Department of Housing and Community Development, the Housing Development and Finance Committee, and the California Housing Finance Agency in carrying out state housing policies and programs. Existing law establishes programs providing assistance for, among other things, multifamily housing, farmworker housing, and veteran housing.\n\nThis bill would require the California Housing and Homelessness Agency, the California Housing Finance Agency, the California Debt Limit Allocation Committee, and the California Tax Credit Allocation Committee, no later than July 1, 2027, when administering a multifamily affordable housing program, as specified, to, among other things, review, analyze, and make any changes necessary to their guidelines and regulations to facilitate the production and use of factory-built housing."
+      "abstract": "Existing law, the Governor's Reorganization Plan No. 1 of 2025 (GRP) , which became effective on July 5, 2025, reorganized specified state agencies and departments, including eliminating the Business, Consumer Services, and Housing Agency as of July 1, 2026, and instead establishing the Business and Consumer Services Agency and the California Housing and Homelessness Agency. The GRP, as of July 1, 2026, sets forth the general responsibilities and roles of the California Housing Homelessness Agency, the Department of Housing and Community Development, the Housing Development and Finance Committee, and the California Housing Finance Agency in carrying out state housing policies and programs. Existing law establishes programs providing assistance for, among other things, multifamily housing, farmworker housing, and veteran housing.\n\nThis bill would require the California Housing and Homelessness Agency, the California Housing Finance Agency, the California Debt Limit Allocation Committee, the California Tax Credit Allocation Committee, and the Housing Development and Finance Committee, no later than July 1, 2027, when administering a multifamily affordable housing program, as specified, to, among other things, review, analyze, and make any changes necessary to their guidelines and regulations to facilitate the production and use of factory-built housing."
     }
   ],
   "other_titles": [
@@ -265,6 +265,20 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:25Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T07:45:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -274,6 +288,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Quirk-Silva\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wicks",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wicks\"}",
       "organization_id": null
     }
   ],
@@ -310,6 +332,17 @@
         }
       ],
       "date": "2026-03-19",
+      "classification": ""
+    },
+    {
+      "note": "08/13/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2185&version=20250AB218597AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
       "classification": ""
     }
   ],
@@ -368,6 +401,28 @@
       ],
       "date": "2026-07-31",
       "classification": "analysis"
+    },
+    {
+      "note": "08/14/26- Senate Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2185&analysisId=403927&analyzingOffice=Senate+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-14",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/17/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2185&analysisId=404065&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-17",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -390,7 +445,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:25Z",
+    "logs_latest_update": "2026-08-18T07:45:24Z",
     "text_extraction_latest_update": "2026-08-14T08:39:02.542972Z"
   }
 }

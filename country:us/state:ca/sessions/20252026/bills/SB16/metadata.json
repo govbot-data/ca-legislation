@@ -13,25 +13,25 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, the Lanterman-Petris-Short Act, provides for the involuntary detention and treatment of persons with specified mental health disorders. Under the act, when a person, as a result of a mental health disorder, is a danger to others, or to themselves, or gravely disabled, the person may, upon probable cause, be taken into custody and placed in a facility designated by the county and approved by the State Department of Health Care Services for up to 72 hours for evaluation and treatment. Existing law authorizes a county behavioral health director to develop procedures for the county's designation and training of professionals who will be designated to perform the above-described provisions.\n\nThis bill would instead require a county behavioral health director to develop procedures for the county's designation and training of professionals who will be designated to perform the above-described provisions. By imposing additional duties on county behavioral health directors, the bill would create a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+      "abstract": "Existing law, the Lanterman-Petris-Short Act, provides for the involuntary detention and treatment of persons with specified mental health disorders. Under the act, when a person, as a result of a mental health disorder, is a danger to others, or to themselves, or gravely disabled, the person may, upon probable cause, be taken into custody and placed in a facility designated by the county and approved by the State Department of Health Care Services for up to 72 hours for evaluation and treatment. Existing law authorizes a county behavioral health director to develop procedures for the county's designation and training of professionals who will be designated to perform the above-described provisions.\n\nThis bill would instead require a county behavioral health director to establish and implement procedures governing the county's designation and training of professionals who will be designated to perform the above-described provisions. By imposing additional duties on county behavioral health directors, the bill would create a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
     }
   ],
   "other_titles": [
-    {
-      "note": "",
-      "title": "Homeless Housing, Assistance, and Prevention program: housing element: Integrated Plan for Behavioral Health Services and Outcomes."
-    },
     {
       "note": "",
       "title": "Ending Street Homelessness Act."
     },
     {
       "note": "",
-      "title": "Homelessness."
+      "title": "Homeless Housing, Assistance, and Prevention program: housing element: Integrated Plan for Behavioral Health Services and Outcomes."
     },
     {
       "note": "",
       "title": "Homeless Housing, Assistance, and Prevention program: housing element: unsheltered and chronic homelessness: assessment and financing plan."
+    },
+    {
+      "note": "",
+      "title": "Homelessness."
     }
   ],
   "other_identifiers": [
@@ -503,6 +503,33 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:25Z"
       }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T07:45:25Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T07:45:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -601,6 +628,17 @@
       ],
       "date": "2026-06-25",
       "classification": ""
+    },
+    {
+      "note": "08/17/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB16&version=20250SB1693AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-17",
+      "classification": ""
     }
   ],
   "documents": [
@@ -680,6 +718,28 @@
       ],
       "date": "2026-08-03",
       "classification": "analysis"
+    },
+    {
+      "note": "08/14/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB16&analysisId=403789&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-14",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/17/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB16&analysisId=404353&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-17",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -703,7 +763,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:25Z",
+    "logs_latest_update": "2026-08-18T07:45:25Z",
     "text_extraction_latest_update": "2026-08-14T09:35:20.899269Z"
   }
 }

@@ -335,6 +335,16 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:24Z"
       }
+    },
+    {
+      "description": "Ordered to inactive file at the request of Senator Ashby.",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T07:45:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -471,6 +481,17 @@
       ],
       "date": "2026-07-31",
       "classification": "analysis"
+    },
+    {
+      "note": "08/14/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB458&analysisId=403654&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-14",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -493,7 +514,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:24Z",
+    "logs_latest_update": "2026-08-18T07:45:24Z",
     "text_extraction_latest_update": "2026-08-14T10:06:30.983458Z"
   }
 }

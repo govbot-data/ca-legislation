@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, the Physical Therapy Practice Act, establishes the Physical Therapy Board of California within the Department of Consumer Affairs for the licensure, approval, and regulation of physical therapists and physical therapist assistants. Existing law repeals the board and its authority to employ an executive officer on January 1, 2027.\n\nThis bill would extend the board's authority to enforce and administer the act and to appoint an executive officer until January 1, 2031.\n\n Existing law prescribes specified fees for licenses issued by the board. Existing law authorizes the board to decrease or increase the fee amounts, and establishes specified maximum amounts of license fees. For physical therapists, existing law sets the maximum license issuance fee at $150, and the maximum application for licensure and license renewal fee at $300. For physical therapist assistants, existing law sets the maximum fees for the application for licensure, license issuance, and license renewal at $300.\n\n This bill would double the maximum amount of the above-described fees. Specifically, for physical therapists, the bill would increase the maximum license issuance fee to $300, and the maximum application for licensure and license renewal fee to $600. For physical therapist assistants, the bill would increase the maximum fees for the application for licensure, license issuance, and license renewal to $600. The bill would also make nonsubstantive changes to those fee provisions.\n\nExisting law authorizes a person whose license has been revoked or suspended, or who has been placed on probation, to petition the board for reinstatement or modification of a penalty after a specified period of time has elapsed. Existing law prohibits the board from considering a petition while the petitioner is under sentence for any criminal offense, including any period of court-imposed probation or parole, or while there is an accusation or petition to revoke probation pending against the petitioner.\n\nThis bill would further prohibit the board from considering a petition if the applicant is required to register as a sex offender, as specified. The bill would except from this prohibition an applicant whose requirement to register as a sex offender is based solely on a misdemeanor conviction. The bill would also prohibit the board from considering a petition if the conduct underlying the petitioner's conviction involved certain sexual misconduct."
+      "abstract": "Existing law, the Physical Therapy Practice Act, establishes the Physical Therapy Board of California within the Department of Consumer Affairs for the licensure, approval, and regulation of physical therapists and physical therapist assistants. Existing law prescribes specified fees for licenses issued by the board. Existing law authorizes the board to decrease or increase the fee amounts, and establishes specified maximum amounts of license fees. Existing law repeals the board and its authority to employ an executive officer on January 1, 2027.\n\nThis bill would extend the board's authority to enforce and administer the act and to appoint an executive officer until January 1, 2031. The bill would increase specified fees for licenses issued by the board and would increase the maximum amount to which the board may increase the fees, as specified. The bill would also make nonsubstantive changes to those fee provisions.\n\nExisting law authorizes a person whose license has been revoked or suspended, or who has been placed on probation, to petition the board for reinstatement or modification of a penalty after a specified period of time has elapsed. Existing law prohibits the board from considering a petition while the petitioner is under sentence for any criminal offense, including any period of court-imposed probation or parole, or while there is an accusation or petition to revoke probation pending against the petitioner.\n\nThis bill would further prohibit the board from considering a petition if the applicant is required to register as a sex offender, as specified. The bill would except from this prohibition an applicant whose requirement to register as a sex offender is based solely on a misdemeanor conviction. The bill would also prohibit the board from considering a petition if the conduct underlying the petitioner's conviction involved certain sexual misconduct."
     }
   ],
   "other_titles": [],
@@ -323,15 +323,29 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:24Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T07:45:24Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Committee on Business and Professions",
+      "name": "Berman",
       "classification": "author",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Committee on Business and Professions\"}",
+      "person_id": "~{\"name\": \"Berman\"}",
       "organization_id": null
     }
   ],
@@ -379,6 +393,17 @@
         }
       ],
       "date": "2026-07-01",
+      "classification": ""
+    },
+    {
+      "note": "08/13/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2774&version=20250AB277496AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
       "classification": ""
     }
   ],
@@ -448,6 +473,17 @@
       ],
       "date": "2026-08-13",
       "classification": "analysis"
+    },
+    {
+      "note": "08/17/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2774&analysisId=404040&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-17",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -470,7 +506,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:24Z",
+    "logs_latest_update": "2026-08-18T07:45:24Z",
     "text_extraction_latest_update": "2026-08-14T08:27:34.462350Z"
   }
 }

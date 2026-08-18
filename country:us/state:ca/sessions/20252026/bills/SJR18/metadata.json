@@ -92,7 +92,7 @@
       }
     },
     {
-      "description": "From committee: Be adopted and re-refer to Com. on JUD. (Ayes 4. Noes 0.) (June 9). Re-referred to Com. on JUD.",
+      "description": "From committee: Be adopted and re-refer to Com. on JUD. (Ayes 4. Noes 0. Page 4643.) (June 9). Re-referred to Com. on JUD.",
       "date": "2026-06-09",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -110,11 +110,11 @@
         }
       ],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:32Z"
+        "log_file_created": "2026-08-18T07:45:25Z"
       }
     },
     {
-      "description": "From committee: Be adopted. Ordered to third reading. (Ayes 10. Noes 2.) (June 9).",
+      "description": "From committee: Be adopted. Ordered to third reading. (Ayes 10. Noes 2. Page 4645.) (June 9).",
       "date": "2026-06-10",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -127,11 +127,11 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:32Z"
+        "log_file_created": "2026-08-18T07:45:25Z"
       }
     },
     {
-      "description": "Read. Adopted. (Ayes 28. Noes 8.) Ordered to the Assembly.",
+      "description": "Read. Adopted. (Ayes 28. Noes 8. Page 4698.) Ordered to the Assembly.",
       "date": "2026-06-11",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -141,7 +141,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:32Z"
+        "log_file_created": "2026-08-18T07:45:25Z"
       }
     },
     {
@@ -187,6 +187,20 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:55:32Z"
+      }
+    },
+    {
+      "description": "Read. Adopted. Ordered to the Senate.",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "passage",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T07:45:25Z"
       }
     }
   ],
@@ -463,7 +477,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:32Z",
+    "logs_latest_update": "2026-08-18T07:45:25Z",
     "text_extraction_latest_update": "2026-07-21T23:15:04.612840Z"
   }
 }

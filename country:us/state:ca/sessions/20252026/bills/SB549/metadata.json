@@ -13,17 +13,17 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Under existing law, a \"heritage school\" is a school that, among other things, offers world language education or tutoring and cultural education relating to a country other than the United States to children who are at least 4 years and 9 months of age and no older than 18 years of age and who attend a public or private full-time day school. Existing law exempts a heritage school from licensure by the State Department of Social Services as a child day care center, as specified.\n\nThis bill would expand the definition of \"heritage school\" to also include a school that provides services to children younger than 4 years and 9 months of age who are enrolled in kindergarten, including transitional kindergarten, or any of grades 1 to 12, inclusive.\n\nExisting law requires a heritage school, upon a pupil's enrollment in a heritage school, to provide a notice to the pupil's parent or guardian stating that the heritage school is exempt from childcare licensure and that attendance at a heritage school does not satisfy California's compulsory education.\n\nThis bill would require a heritage school, upon a pupil's enrollment in a heritage school, to also provide notice that the State Department of Education has no regulatory authority over heritage schools and does not monitor heritage school operations or instruction."
+      "abstract": "Under existing law, a \"heritage school\" is a school that, among other things, offers education or academic tutoring, or both, in a world language and education on the culture, traditions, or history of a country other than the United States to children who are at least 4 years and 9 months of age and no older than 18 years of age and who attend a public or private full-time day school. Existing law exempts a heritage school from licensure by the State Department of Social Services as a child day care center, as specified.\n\nThis bill would expand the definition of \"heritage school\" to also include a school that provides services to children younger than 4 years and 9 months of age who are enrolled in kindergarten, including transitional kindergarten, or any of grades 1 to 12, inclusive.\n\nExisting law requires a heritage school, upon a pupil's enrollment in a heritage school, to provide a notice to the pupil's parent or guardian stating that the heritage school is exempt from childcare licensure and that attendance at a heritage school does not satisfy California's compulsory education requirements.\n\nThis bill would require a heritage school, upon a pupil's enrollment in a heritage school, to also provide notice that the State Department of Education has no regulatory authority over heritage schools and does not monitor heritage school operations or instruction."
     }
   ],
   "other_titles": [
     {
       "note": "",
-      "title": "Local government: Second Neighborhood Infill Finance and Transit Improvements Act: Resilient Rebuilding Authority for the Los Angeles Wildfires."
+      "title": "Second Neighborhood Infill Finance and Transit Improvements Act."
     },
     {
       "note": "",
-      "title": "Second Neighborhood Infill Finance and Transit Improvements Act."
+      "title": "Local government: Second Neighborhood Infill Finance and Transit Improvements Act: Resilient Rebuilding Authority for the Los Angeles Wildfires."
     }
   ],
   "other_identifiers": [
@@ -351,6 +351,33 @@
       "_processing": {
         "log_file_created": "2026-08-04T09:49:54Z"
       }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T07:45:25Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T07:45:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -360,6 +387,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Allen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stern",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stern\"}",
       "organization_id": null
     }
   ],
@@ -408,6 +443,17 @@
       ],
       "date": "2026-06-11",
       "classification": ""
+    },
+    {
+      "note": "08/17/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB549&version=20250SB54996AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-17",
+      "classification": ""
     }
   ],
   "documents": [
@@ -454,6 +500,28 @@
       ],
       "date": "2026-06-29",
       "classification": "analysis"
+    },
+    {
+      "note": "08/05/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB549&analysisId=403180&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-05",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/17/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB549&analysisId=404356&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-17",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -474,7 +542,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-04T09:49:54Z",
+    "logs_latest_update": "2026-08-18T07:45:25Z",
     "text_extraction_latest_update": "2026-08-04T10:15:42.008636Z"
   }
 }

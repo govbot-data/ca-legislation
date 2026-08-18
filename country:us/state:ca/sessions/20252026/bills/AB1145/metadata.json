@@ -20,11 +20,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Traffic violations: penalties."
-    },
-    {
-      "note": "",
-      "title": "State highways: safety: report."
+      "title": "Safety Enhancement-Double Fine Zone."
     },
     {
       "note": "",
@@ -32,7 +28,11 @@
     },
     {
       "note": "",
-      "title": "Safety Enhancement-Double Fine Zone."
+      "title": "Traffic violations: penalties."
+    },
+    {
+      "note": "",
+      "title": "State highways: safety: report."
     }
   ],
   "other_identifiers": [
@@ -424,6 +424,20 @@
       "_processing": {
         "log_file_created": "2026-08-12T08:27:48Z"
       }
+    },
+    {
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling.",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T07:45:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -568,6 +582,17 @@
       ],
       "date": "2026-08-05",
       "classification": "analysis"
+    },
+    {
+      "note": "08/12/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1145&analysisId=403443&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-12",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -590,7 +615,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-12T08:27:48Z",
+    "logs_latest_update": "2026-08-18T07:45:25Z",
     "text_extraction_latest_update": "2026-08-12T08:32:47.886036Z"
   }
 }

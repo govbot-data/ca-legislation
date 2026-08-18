@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law makes it a crime to knowingly or willfully cause another person to engage in the unlawful manufacture of firearms or knowingly or willfully aiding, abetting, prompting, or facilitating the unlawful manufacture of firearms, including the manufacture of assault weapons or .50 BMG rifles or the manufacture of any firearm using a 3-dimensional printer, as specified.\n\nThis bill would require, on or before September 1, 2028, the department to publish written guidance on performance standards for firearm blueprint detection algorithm for use by 3-dimensional printer manufacturers, as specified.\n\nThis bill would require, on or before March 1, 2029, any business that produces or manufactures 3-dimensional printers for sale or transfer in California to submit to the department an attestation for each make and model of printer they intend to make available for sale or transfer in California, confirming, among other things, that the manufacturer has equipped that make and model with a firearm blueprint detection algorithm. The bill would require, on or before June 1, 2029, the department to publish a list of all the makes and models of 3-dimensional printers whose manufacturers have submitted complete self-attestations and would require the department to update the list no less frequently than on a quarterly basis and to make the list available on the department's internet website. The bill, beginning on December 1, 2029, would prohibit the sale or transfer of 3-dimensional printers that are not equipped with firearm blocking technology and that are not listed on the department's list, except as specified. The bill would authorize a civil action to be brought against a person who sells, offers to sell, or transfers a printer without the firearm blocking technology. \n\nThis bill would make these provisions severable."
+      "abstract": "Existing law makes it a crime to knowingly or willfully cause another person to engage in the unlawful manufacture of firearms or knowingly or willfully aiding, abetting, prompting, or facilitating the unlawful manufacture of firearms, including the manufacture of assault weapons or .50 BMG rifles or the manufacture of any firearm using a 3-dimensional printer, as specified.\n\nThis bill would require the Department of Justice to check on a quarterly basis beginning no later than July 1, 2027, whether ASTM International has published industry standards for firearm blocking technology for 3-dimensional printers. The bill would require, if the department determines that ASTM International has published or adopted industry standards for firearm blocking technology for 3-dimensional printers, that the department publish written guidance or regulations within 24 months after making that determination. The bill would require, among other things, the written guidance or regulations to describe minimum performance standards for 3-dimensional printer firearm blocking technology necessary to safely, fairly, and effectively implement the technology at a state level. If, as of July 1, 2029, the department determines that ASTM International has not published industry standards for firearm blocking technology for 3-dimensional printers, the bill would relieve the department of any further responsibility to ascertain whether ASTM International has published or adopted industry standards.\n\nThis bill would make these provisions severable."
     }
   ],
   "other_titles": [],
@@ -324,6 +324,34 @@
       "_processing": {
         "log_file_created": "2026-08-05T09:46:48Z"
       }
+    },
+    {
+      "description": "From committee: Amend, and do pass as amended. (Ayes 5. Noes 2.) (August 13).",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T07:45:25Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered returned to second reading.",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T07:45:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -424,6 +452,17 @@
       ],
       "date": "2026-07-02",
       "classification": ""
+    },
+    {
+      "note": "08/17/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2047&version=20250AB204795AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-17",
+      "classification": ""
     }
   ],
   "documents": [
@@ -503,6 +542,17 @@
       ],
       "date": "2026-07-31",
       "classification": "analysis"
+    },
+    {
+      "note": "08/14/26- Senate Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2047&analysisId=403620&analyzingOffice=Senate+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-14",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -525,7 +575,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-05T09:46:48Z",
+    "logs_latest_update": "2026-08-18T07:45:25Z",
     "text_extraction_latest_update": "2026-08-05T10:09:19.933486Z"
   }
 }

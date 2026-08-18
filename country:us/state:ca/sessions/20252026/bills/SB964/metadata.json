@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, the Knox-Keene Health Care Service Plan Act of 1975, provides for the licensure and regulation of health care service plans by the Department of Managed Health Care, and makes a willful violation of the act a crime. Existing law provides for the regulation of health insurers by the Department of Insurance. Existing law generally authorizes a health care service plan or health insurer to use utilization review, under which a licensed physician or a licensed health care professional who is competent to evaluate specific clinical issues may approve, modify, delay, or deny requests for health care services based on medical necessity. Existing law also prohibits a health care service plan that covers prescription drug benefits from limiting or excluding coverage for a drug that was previously approved for coverage if an enrollee continues to be prescribed that drug, as specified.\n\nThis bill would authorize an enrollee's or insured's treating provider to request, and would require that they be granted, the authority to adjust the dose or frequency of a drug to meet the specific medical needs of the enrollee or insured without prior authorization if specified conditions are met. Because a willful violation of these provisions by a health care service plan would be a crime, the bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+      "abstract": "Existing law, the Knox-Keene Health Care Service Plan Act of 1975, provides for the licensure and regulation of health care service plans by the Department of Managed Health Care, and makes a willful violation of the act a crime. Existing law provides for the regulation of health insurers by the Department of Insurance. Existing law generally authorizes a health care service plan or health insurer to use utilization review, under which a licensed physician or a licensed health care professional who is competent to evaluate specific clinical issues may approve, modify, delay, or deny requests for health care services based on medical necessity. Existing law also prohibits a health care service plan that covers prescription drug benefits from limiting or excluding coverage for a drug that was previously approved for coverage if an enrollee continues to be prescribed that drug, as specified.\n\nThis bill would authorize an enrollee's or insured's treating contracting provider to submit a written request to a health care service plan or health insurer requesting the authority to adjust the dose or frequency of a drug to meet the specific medical needs of the enrollee or insured without prior authorization or subsequent utilization management. The bill would require the plan or insurer to issue a written response within 72 hours and to authorize the request if specified conditions are established in the request. Because a willful violation of these provisions by a health care service plan would be a crime, the bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
     }
   ],
   "other_titles": [],
@@ -293,6 +293,33 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:25Z"
       }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T07:45:25Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T07:45:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -349,6 +376,17 @@
         }
       ],
       "date": "2026-05-14",
+      "classification": ""
+    },
+    {
+      "note": "08/17/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB964&version=20250SB96496AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-17",
       "classification": ""
     }
   ],
@@ -418,6 +456,28 @@
       ],
       "date": "2026-06-22",
       "classification": "analysis"
+    },
+    {
+      "note": "08/14/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB964&analysisId=403693&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-14",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/17/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB964&analysisId=404357&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-17",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -441,7 +501,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:25Z",
+    "logs_latest_update": "2026-08-18T07:45:25Z",
     "text_extraction_latest_update": "2026-08-14T09:00:56.548300Z"
   }
 }
