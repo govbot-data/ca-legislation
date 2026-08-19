@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "California Workgroup on Functional, Hormonal, Integrative, and Metabolic Health."
+      "title": "Outdoor food facilities: pet dogs."
     },
     {
       "note": "",
-      "title": "Outdoor food facilities: pet dogs."
+      "title": "California Workgroup on Functional, Hormonal, Integrative, and Metabolic Health."
     }
   ],
   "other_identifiers": [
@@ -312,6 +312,16 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:24Z"
       }
+    },
+    {
+      "description": "Ordered to special consent calendar.",
+      "date": "2026-08-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T07:46:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -415,6 +425,17 @@
       ],
       "date": "2026-06-12",
       "classification": "analysis"
+    },
+    {
+      "note": "08/14/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1126&analysisId=403771&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-14",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -437,7 +458,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:24Z",
+    "logs_latest_update": "2026-08-19T07:46:19Z",
     "text_extraction_latest_update": "2026-08-14T08:45:15.592735Z"
   }
 }

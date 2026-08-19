@@ -23,11 +23,11 @@
     },
     {
       "note": "",
-      "title": "Transactions and use tax: City of Hercules."
+      "title": "San Francisco Bay Conservation and Development Commission: funds."
     },
     {
       "note": "",
-      "title": "San Francisco Bay Conservation and Development Commission: funds."
+      "title": "Transactions and use tax: City of Hercules."
     }
   ],
   "other_identifiers": [
@@ -434,7 +434,7 @@
       }
     },
     {
-      "description": "Read third time. Urgency clause adopted. Passed. Ordered to the Senate.",
+      "description": "Read third time. Urgency clause adopted. Passed. (Ayes 54. Noes 13. Page 5976.) Ordered to the Senate.",
       "date": "2026-07-02",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -445,7 +445,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:25Z"
+        "log_file_created": "2026-08-19T07:46:19Z"
       }
     },
     {
@@ -495,6 +495,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-08-04T09:49:54Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T07:46:19Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Chapter 109, Statutes of 2026.",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T07:46:19Z"
       }
     }
   ],
@@ -593,6 +617,17 @@
         }
       ],
       "date": "2026-08-03",
+      "classification": ""
+    },
+    {
+      "note": "08/17/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB762&version=20250SB76293CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-17",
       "classification": ""
     }
   ],
@@ -695,7 +730,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-04T09:49:54Z",
+    "logs_latest_update": "2026-08-19T07:46:19Z",
     "text_extraction_latest_update": "2026-08-04T10:07:45.024666Z"
   }
 }

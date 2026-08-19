@@ -61,6 +61,20 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:25Z"
       }
+    },
+    {
+      "description": "Read. Adopted.",
+      "date": "2026-08-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "passage",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T07:46:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -153,7 +167,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:25Z",
+    "logs_latest_update": "2026-08-19T07:46:19Z",
     "text_extraction_latest_update": "2026-08-14T09:06:58.262869Z"
   }
 }

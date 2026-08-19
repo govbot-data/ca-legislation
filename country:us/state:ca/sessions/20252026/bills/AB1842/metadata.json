@@ -12,17 +12,17 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law authorizes a borrower who is experiencing financial hardship that prevents the borrower from making timely payments on a specified residential mortgage loan due directly to a specified state of emergency proclaimed by the Governor, or a specified federally declared disaster, to request forbearance on their residential mortgage loan, as prescribed. Existing law requires a mortgage servicer, except as specified, to offer mortgage payment forbearance for an initial 90-day period that may be extended up to a maximum forbearance period of 12 months and prohibits a mortgage servicer from assessing any late fees to the borrower's account or charging a default rate of interest during the forbearance period.\n\nThis bill would, among other things, similarly authorize a borrower to request forbearance on a residential mortgage loan, as defined, secured by residential real property that has become uninhabitable as a direct result of a disaster, which the bill would define to mean the conditions described in a declaration of a disaster issued by the federal government. The bill would require the borrower to affirm that as a direct result of a disaster, a residential unit is uninhabitable. Because the bill would expand the crime of perjury, the bill would impose a state-mandated local program.\n\nThis bill would, except as specified, require a mortgage servicer to offer mortgage payment forbearance of a period of up to an initial 180 days, to be extended at the request of the borrower in 90-day increments, up to a maximum forbearance period of 12 months. The bill would provide that the forbearance period includes any period of forbearance related to the disaster that a mortgage servicer has provided to a borrower before the date upon which a declaration of a disaster was issued. The bill would also prohibit a mortgage servicer from assessing any late fees to the borrower's account or charging a default rate of interest during the forbearance period.\n\nThis bill would require a mortgage servicer to report the credit obligations of borrowers under a disaster-related forbearance plan in compliance with the federal Fair Credit Reporting Act. For an account granted disaster-related mortgage payment relief, the bill would prohibit a mortgage servicer from furnishing information during the forbearance period indicating that the payments are in forbearance and would require the mortgage servicer to report the credit obligation or account as current or delinquent, as specified.\n\nThis bill would authorize a civil action to enforce these provisions to be brought by the Attorney General, a district attorney, or a county counsel.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+      "abstract": "Existing law authorizes a borrower who is experiencing financial hardship that prevents the borrower from making timely payments on a specified residential mortgage loan due directly to a specified state of emergency proclaimed by the Governor, or a specified federally declared disaster, to request forbearance on their residential mortgage loan, as prescribed. Existing law requires a mortgage servicer, except as specified, to offer mortgage payment forbearance for an initial 90-day period that may be extended up to a maximum forbearance period of 12 months and prohibits a mortgage servicer from assessing any late fees to the borrower's account or charging a default rate of interest during the forbearance period.\n\nThis bill would, among other things, similarly authorize a borrower to request forbearance on a residential mortgage loan, as defined, secured by residential real property that has become uninhabitable as a direct result of a disaster, which the bill would define to mean the conditions described in a declaration of a disaster issued by the federal government. The bill would require the borrower to affirm that as a direct result of a disaster, a residential unit is uninhabitable. Because the bill would expand the crime of perjury, the bill would impose a state-mandated local program.\n\nThis bill would, except as specified, require a mortgage servicer to offer mortgage payment forbearance of a period of up to an initial 180 days, to be extended at the request of the borrower in 90-day increments, up to a maximum forbearance period of 12 months. The bill would provide that the forbearance period includes any period of forbearance related to the disaster that a mortgage servicer has provided to a borrower before the date upon which a declaration of a disaster was issued. The bill would also prohibit a mortgage servicer from assessing any late fees to the borrower's account or charging a default rate of interest during the forbearance period.\n\nThis bill would require a mortgage servicer to report the credit obligations of borrowers under a disaster-related forbearance plan in compliance with the federal Fair Credit Reporting Act. For an account granted disaster-related mortgage payment relief, the bill would prohibit a mortgage servicer from furnishing information during the forbearance period indicating that the payments are in forbearance and would require the mortgage servicer to report the credit obligation or account as current.\n\nThis bill would authorize a civil action to enforce these provisions to be brought by the Attorney General, a district attorney, or a county counsel.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
     }
   ],
   "other_titles": [
     {
       "note": "",
-      "title": "California Disaster-related Mortgage Relief Act."
+      "title": "California Emergency Mortgage Relief Act."
     },
     {
       "note": "",
-      "title": "California Emergency Mortgage Relief Act."
+      "title": "California Disaster-related Mortgage Relief Act."
     }
   ],
   "other_identifiers": [
@@ -390,6 +390,21 @@
       "_processing": {
         "log_file_created": "2026-08-18T07:45:24Z"
       }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T07:46:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -508,6 +523,17 @@
         }
       ],
       "date": "2026-08-13",
+      "classification": ""
+    },
+    {
+      "note": "08/18/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1842&version=20250AB184294AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-18",
       "classification": ""
     }
   ],
@@ -633,7 +659,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T07:45:24Z",
+    "logs_latest_update": "2026-08-19T07:46:19Z",
     "text_extraction_latest_update": "2026-08-18T08:19:44.034629Z"
   }
 }

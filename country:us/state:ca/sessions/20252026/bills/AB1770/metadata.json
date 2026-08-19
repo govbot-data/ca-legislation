@@ -1,25 +1,30 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB1770",
-  "title": "Arbitration: health care service plans.",
+  "title": "Arbitration: health care service plans: Lindalee's Law.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
     "Arbitration",
+    "Lindalee'sLaw",
     "healthcareserviceplans"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, the Knox-Keene Health Care Service Plan Act of 1975, provides for the licensure and regulation of health care service plans by the Department of Managed Health Care. Existing law requires a health care service plan contract that includes terms requiring binding arbitration for dispute settlement to provide a specified disclosure to subscribers or enrollees. Existing law, the California Arbitration Act, provides a statutory framework for the enforcement of contractual arbitration under California law. Existing law establishes standards for arbitration, and requires a court to vacate an arbitration award if it makes certain findings.\n\nThis bill would require the Attorney General to oversee compliance by health care service plans with specified provisions regulating the use of binding arbitration to settle disputes. The bill would authorize the Attorney General to require reports from health care service plans for this purpose."
+      "abstract": "Existing law, the Knox-Keene Health Care Service Plan Act of 1975, provides for the licensure and regulation of health care service plans by the Department of Managed Health Care. Existing law requires a health care service plan contract that includes terms requiring binding arbitration for dispute settlement to provide a specified disclosure to subscribers or enrollees. Existing law, the California Arbitration Act, provides a statutory framework for the enforcement of contractual arbitration under California law. Existing law establishes standards for arbitration, and requires a court to vacate an arbitration award if it makes certain findings.\n\nThis bill would require the Attorney General to oversee compliance by health care service plans with specified provisions regulating the use of binding arbitration to settle disputes. The bill would authorize the Attorney General to require reports from health care service plans for this purpose. The bill would also require the Attorney General to notify the director of the department of any corrective action taken pursuant to these provisions."
     }
   ],
   "other_titles": [
     {
       "note": "",
       "title": "Arbitration: health care service plans and health insurers."
+    },
+    {
+      "note": "",
+      "title": "Arbitration: health care service plans."
     }
   ],
   "other_identifiers": [
@@ -351,6 +356,21 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:24Z"
       }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T07:46:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -360,6 +380,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Garcia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Umberg",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Umberg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wahab",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wahab\"}",
       "organization_id": null
     }
   ],
@@ -407,6 +443,17 @@
         }
       ],
       "date": "2026-07-02",
+      "classification": ""
+    },
+    {
+      "note": "08/18/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1770&version=20250AB177096AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-18",
       "classification": ""
     }
   ],
@@ -476,6 +523,17 @@
       ],
       "date": "2026-07-31",
       "classification": "analysis"
+    },
+    {
+      "note": "08/14/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1770&analysisId=403805&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-14",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -498,7 +556,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:24Z",
+    "logs_latest_update": "2026-08-19T07:46:19Z",
     "text_extraction_latest_update": "2026-08-14T09:12:41.041506Z"
   }
 }

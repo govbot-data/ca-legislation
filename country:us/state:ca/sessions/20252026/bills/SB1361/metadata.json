@@ -20,7 +20,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Transit-oriented housing developments: local governments: transit providers and projects."
+      "title": "Transit-oriented housing developments: exceptions: housing development policy."
     },
     {
       "note": "",
@@ -28,7 +28,7 @@
     },
     {
       "note": "",
-      "title": "Transit-oriented housing developments: exceptions: housing development policy."
+      "title": "Transit-oriented housing developments: local governments: transit providers and projects."
     }
   ],
   "other_identifiers": [
@@ -337,6 +337,33 @@
       "_processing": {
         "log_file_created": "2026-08-04T09:49:54Z"
       }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T07:46:19Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T07:46:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -440,6 +467,17 @@
       ],
       "date": "2026-06-23",
       "classification": ""
+    },
+    {
+      "note": "08/18/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1361&version=20250SB136194AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-18",
+      "classification": ""
     }
   ],
   "documents": [
@@ -508,6 +546,17 @@
       ],
       "date": "2026-08-03",
       "classification": "analysis"
+    },
+    {
+      "note": "08/18/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1361&analysisId=404444&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-18",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -528,7 +577,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-04T09:49:54Z",
+    "logs_latest_update": "2026-08-19T07:46:19Z",
     "text_extraction_latest_update": "2026-08-04T10:17:25.115045Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB1526",
-  "title": "Horse racing: audits of the horsemen's organizations: minisatellite wagering facilities.",
+  "title": "Horse racing: audits of the horsemen's organizations: license fee deposits: minisatellite wagering facilities.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -9,18 +9,23 @@
   "subject": [
     "Horseracing",
     "auditsofthehorsemen'sorganizations",
+    "licensefeedeposits",
     "minisatellitewageringfacilities"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law requires an annual audit of the financial books and records of the horsemen's organizations, with respect to pension funds received by the organizations pursuant to specified laws, to be conducted by a nationally recognized accounting firm within 90 days of the close of the fund's business year.\n\nThis bill would eliminate the 90-day time limit on conducting the annual audit and would authorize the California Horse Racing Board to permit exceptions to the audit requirement.\n\n Existing law authorizes the board to approve minisatellite wagering sites, as defined, under specified conditions. Existing law requires an organization formed by associations or fairs to operate the audiovisual signal system to execute a specified agreement with the association conducting a racing meeting and the minisatellite wagering facility that specifies, among other things, the components of its racing program, including live, out-of-zone, out-of-state, and out-of-country races, that an association or fair will make available to the site.\n\nThis bill would explicitly require the agreement to specify which live in-state races would be provided by the association or fair to the site. The bill would also make nonsubstantive changes, including deleting obsolete language."
+      "abstract": "Existing law requires an annual audit of the financial books and records of the horsemen's organizations, with respect to pension funds received by the organizations pursuant to specified laws, to be conducted by a nationally recognized accounting firm within 90 days of the close of the fund's business year.\n\nThis bill would eliminate the 90-day time limit on conducting the annual audit and would authorize the California Horse Racing Board to permit exceptions to the audit requirement.\n\nThe Horse Racing Law requires each application for a license to conduct a horse racing meeting to be accompanied by a deposit to secure the payment of any license fee imposed pursuant to specified provisions of that law, in the form of a certified check payable to the Treasurer of the State of California, in the amount of $10,000. Under the Horse Racing Law, a person engaged in the conduct of a recognized horse race meeting is required to pay a separate license fee imposed under other provisions of the Horse Racing Law in lieu of the license fee subject to that deposit requirement.\n\nThis bill would eliminate this deposit requirement and would make other conforming changes.\n\n Existing law authorizes the board to approve minisatellite wagering sites, as defined, under specified conditions. Existing law requires an organization formed by associations or fairs to operate the audiovisual signal system to execute a specified agreement with the association conducting a racing meeting and the minisatellite wagering facility that specifies, among other things, the components of its racing program, including live, out-of-zone, out-of-state, and out-of-country races, that an association or fair will make available to the site.\n\nThis bill would explicitly require the agreement to specify which live in-state races would be provided by the association or fair to the site. The bill would also make nonsubstantive changes, including deleting obsolete language."
     }
   ],
   "other_titles": [
     {
       "note": "",
       "title": "Horse racing: minisatellite wagering facilities."
+    },
+    {
+      "note": "",
+      "title": "Horse racing: audits of the horsemen's organizations: minisatellite wagering facilities."
     }
   ],
   "other_identifiers": [
@@ -310,6 +315,21 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:34Z"
       }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T07:46:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -355,6 +375,17 @@
         }
       ],
       "date": "2026-06-02",
+      "classification": ""
+    },
+    {
+      "note": "08/18/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1526&version=20250AB152697AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-18",
       "classification": ""
     }
   ],
@@ -412,7 +443,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Sections 19440.5 and 19605.25 of the Business and Professions Code, relating to horse racing.",
+    "impact_clause": "An act to amend Sections 19440.5, 19480, 19488, and 19605.25 of, and to repeal Sections 19490, 19493, and 19547 of, the Business and Professions Code, relating to horse racing.",
     "tags": [
       "fiscal committee"
     ]
@@ -424,7 +455,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:34Z",
+    "logs_latest_update": "2026-08-19T07:46:19Z",
     "text_extraction_latest_update": "2026-07-21T23:37:59.198954Z"
   }
 }

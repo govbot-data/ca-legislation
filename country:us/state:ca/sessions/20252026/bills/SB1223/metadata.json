@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law governs fairs in this state, including the California Exposition and State Fair, district agricultural associations, county and district fairs, and citrus fruit fairs. Existing law establishes various requirements applicable to contracts of fairs.\n\nThis bill would prohibit a fair from issuing any invitation to bid or request for proposal, in connection with the awarding of a contract, for services to any person or entity, in a manner that limits the bidding directly or indirectly to any one bidder. The bill would make any contract awarded in violation of this prohibition void."
+      "abstract": "Existing law governs fairs in this state, including the California Exposition and State Fair, district agricultural associations, county and district fairs, and citrus fruit fairs. Existing law establishes various requirements applicable to contracts of fairs.\n\nThis bill would prohibit a fair from issuing any invitation to bid or request for proposal, in connection with the awarding of a contract, for services to any person or entity, in a manner that limits the bidding directly or indirectly to any one bidder, except as specified. The bill would make any contract awarded in violation of this prohibition void."
     }
   ],
   "other_titles": [],
@@ -223,6 +223,33 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:33Z"
       }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T07:46:19Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T07:46:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -257,6 +284,17 @@
         }
       ],
       "date": "2026-02-19",
+      "classification": ""
+    },
+    {
+      "note": "08/18/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1223&version=20250SB122398AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-18",
       "classification": ""
     }
   ],
@@ -304,6 +342,17 @@
       ],
       "date": "2026-06-29",
       "classification": "analysis"
+    },
+    {
+      "note": "07/29/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1223&analysisId=402172&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-29",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -326,7 +375,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:33Z",
+    "logs_latest_update": "2026-08-19T07:46:19Z",
     "text_extraction_latest_update": "2026-07-22T14:46:55.421350Z"
   }
 }

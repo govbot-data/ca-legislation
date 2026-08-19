@@ -20,15 +20,15 @@
   "other_titles": [
     {
       "note": "",
+      "title": "Dentistry: licensure."
+    },
+    {
+      "note": "",
       "title": "Community colleges: artificial intelligence: employment dislocation: pilot programs."
     },
     {
       "note": "",
       "title": "Community colleges: artificial intelligence: employment dislocation: certificate: pilot programs."
-    },
-    {
-      "note": "",
-      "title": "Dentistry: licensure."
     }
   ],
   "other_identifiers": [
@@ -455,6 +455,16 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:25Z"
       }
+    },
+    {
+      "description": "Ordered to special consent calendar.",
+      "date": "2026-08-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T07:46:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -648,6 +658,17 @@
       ],
       "date": "2026-07-31",
       "classification": "analysis"
+    },
+    {
+      "note": "08/15/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2504&analysisId=403948&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-15",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -670,7 +691,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:25Z",
+    "logs_latest_update": "2026-08-19T07:46:19Z",
     "text_extraction_latest_update": "2026-08-14T09:57:26.712904Z"
   }
 }

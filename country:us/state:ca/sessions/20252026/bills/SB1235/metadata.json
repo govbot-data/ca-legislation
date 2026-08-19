@@ -1,21 +1,27 @@
 {
   "legislative_session": "20252026",
   "identifier": "SB1235",
-  "title": "California Gambling Control Commission.",
+  "title": "Tribal gaming: compact ratification.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "CaliforniaGamblingControlCommission"
+    "Tribalgaming",
+    "compactratification"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, the Gambling Control Act, provides for the licensure and regulation of various legalized gambling activities and establishments by the California Gambling Control Commission and the investigation and enforcement of those activities and establishments by the Department of Justice. Under existing law, the commission consists of 5 members appointed by the Governor, subject to confirmation by the Senate. Existing law authorizes the Governor to remove any member of the commission for cause, as specified.\n\nThis bill would additionally require the Governor to notify the Senate and Assembly Committees on Governmental Organization of the removal of any member of the commission."
+      "abstract": "Existing federal law, the Indian Gaming Regulatory Act of 1988, provides for the negotiation and execution of tribal-state gaming compacts for the purpose of authorizing certain types of gaming on Indian lands within a state. The California Constitution authorizes the Governor to negotiate and conclude those compacts, subject to ratification by the Legislature. Existing law expressly ratifies a number of tribal-state gaming compacts, and amendments to tribal-state gaming compacts, between the State of California and specified Indian tribes.\n\nThe California Environmental Quality Act (CEQA) requires a lead agency to prepare, or cause to be prepared, and certify the completion of, an environmental impact report on a project, as defined, that it proposes to carry out or approve that may have a significant effect on the environment, as defined, or to adopt a negative declaration if it finds that the project will not have that effect.\n\nThis bill would ratify the 5th amendment to the tribal-state gaming compact entered into between the State of California and the Picayune Rancheria of Chukchansi Indians of California, the tribal-state gaming compact between the State of California and the Fort Mojave Indian Tribe, and the first amendment to the tribal-state gaming compact entered into between the State of California and the Pechanga Band of Indians. The bill would provide that, in deference to tribal sovereignty, certain actions related to this amended compact are not projects for the purposes of CEQA.\n\nThis bill would declare that it is to take effect immediately as an urgency statute."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "California Gambling Control Commission."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-ca-20252026-sb1235"
@@ -273,15 +279,98 @@
       "_processing": {
         "log_file_created": "2026-08-18T07:45:25Z"
       }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T07:46:19Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T07:46:19Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Committee on Governmental Organization",
+      "name": "Rubio",
       "classification": "author",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Committee on Governmental Organization\"}",
+      "person_id": "~{\"name\": \"Rubio\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Blanca Rubio",
+      "classification": "principal coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Blanca Rubio\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dahle",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dahle\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ochoa Bogh",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ochoa Bogh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Richardson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Richardson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Seyarto",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Seyarto\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Valladares",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Valladares\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ramos",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ramos\"}",
       "organization_id": null
     }
   ],
@@ -307,6 +396,17 @@
         }
       ],
       "date": "2026-02-19",
+      "classification": ""
+    },
+    {
+      "note": "08/18/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1235&version=20250SB123598AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-18",
       "classification": ""
     }
   ],
@@ -365,6 +465,17 @@
       ],
       "date": "2026-08-14",
       "classification": "analysis"
+    },
+    {
+      "note": "08/18/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1235&analysisId=404433&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-18",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -375,9 +486,10 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Section 19813 of the Business and Professions Code, relating to gambling.",
+    "impact_clause": "An act to add Section 12012.122 to the Government Code, relating to tribal gaming, and declaring the urgency thereof, to take effect immediately.",
     "tags": [
-      "fiscal committee"
+      "fiscal committee",
+      "urgency"
     ]
   },
   "jurisdiction": {
@@ -387,7 +499,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T07:45:25Z",
+    "logs_latest_update": "2026-08-19T07:46:19Z",
     "text_extraction_latest_update": "2026-08-18T08:00:11.342255Z"
   }
 }

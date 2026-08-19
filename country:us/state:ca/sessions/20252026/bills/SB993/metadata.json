@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law establishes the Board of Behavioral Sciences and sets forth its powers and duties, including, but not limited to, the licensing, registration, and regulation of marriage and family therapists, educational psychologists, clinical social workers, and professional clinical counselors. Existing law requires these licensees and registrants to provide a client with a written notice stating that the board receives and responds to complaints regarding services provided by the licensee or registrant and containing specified information about the licensee or registrant and their license.\n\nThis bill would authorize the employing entity or agency of the licensee or registrant, in specified practice settings, to exercise discretion whether to disclose any or all of the information about the licensee or registrant and their license in the notice based on individual safety concerns if certain requirements are met."
+      "abstract": "Existing law establishes the Board of Behavioral Sciences and sets forth its powers and duties, including, but not limited to, the licensing, registration, and regulation of marriage and family therapists, educational psychologists, clinical social workers, and professional clinical counselors. Existing law requires these licensees and registrants to provide a client with a written notice stating that the board receives and responds to complaints regarding services provided by the licensee or registrant and containing specified information about the licensee or registrant and their license.\n\nThis bill would authorize the licensee or registrant, in specified practice settings, to exercise discretion whether to disclose any or all of the information about the licensee or registrant and their license in the notice based on individual safety concerns if certain requirements are met."
     }
   ],
   "other_titles": [
@@ -311,6 +311,33 @@
       "_processing": {
         "log_file_created": "2026-08-07T08:23:47Z"
       }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T07:46:19Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T07:46:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -320,6 +347,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Ochoa Bogh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeff Gonzalez",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeff Gonzalez\"}",
       "organization_id": null
     }
   ],
@@ -368,6 +403,17 @@
       ],
       "date": "2026-04-08",
       "classification": ""
+    },
+    {
+      "note": "08/18/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB993&version=20250SB99396AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-18",
+      "classification": ""
     }
   ],
   "documents": [
@@ -414,6 +460,28 @@
       ],
       "date": "2026-08-03",
       "classification": "analysis"
+    },
+    {
+      "note": "08/07/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB993&analysisId=403234&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-07",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/18/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB993&analysisId=404435&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-18",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -436,7 +504,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-07T08:23:47Z",
+    "logs_latest_update": "2026-08-19T07:46:19Z",
     "text_extraction_latest_update": "2026-08-07T08:30:20.675125Z"
   }
 }

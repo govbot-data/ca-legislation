@@ -210,7 +210,7 @@
       }
     },
     {
-      "description": "Read third time. Urgency clause adopted. Passed. Ordered to the Senate.",
+      "description": "Read third time. Urgency clause adopted. Passed. (Ayes 73. Noes 0. Page 5925.) Ordered to the Senate.",
       "date": "2026-06-29",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -221,7 +221,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:33Z"
+        "log_file_created": "2026-08-19T07:46:19Z"
       }
     },
     {
@@ -232,6 +232,20 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:55:33Z"
+      }
+    },
+    {
+      "description": "Assembly amendments concurred in. (Ayes 39. Noes 0.) Ordered to engrossing and enrolling.",
+      "date": "2026-08-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T07:46:19Z"
       }
     }
   ],
@@ -382,7 +396,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:33Z",
+    "logs_latest_update": "2026-08-19T07:46:19Z",
     "text_extraction_latest_update": "2026-07-22T13:18:38.139421Z"
   }
 }

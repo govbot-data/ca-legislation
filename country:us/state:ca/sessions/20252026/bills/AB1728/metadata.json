@@ -20,11 +20,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Community colleges: common course numbering system: firefighting and law enforcement education courses."
+      "title": "Community colleges: common course numbering system: firefighting education, law enforcement education, and modern policing degree program courses."
     },
     {
       "note": "",
-      "title": "Community colleges: common course numbering system: firefighting education, law enforcement education, and modern policing degree program courses."
+      "title": "Community colleges: common course numbering system: firefighting and law enforcement education courses."
     }
   ],
   "other_identifiers": [
@@ -300,6 +300,16 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:25Z"
       }
+    },
+    {
+      "description": "Ordered to special consent calendar.",
+      "date": "2026-08-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T07:46:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -414,6 +424,17 @@
       ],
       "date": "2026-07-31",
       "classification": "analysis"
+    },
+    {
+      "note": "08/15/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1728&analysisId=403955&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-15",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -436,7 +457,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:25Z",
+    "logs_latest_update": "2026-08-19T07:46:19Z",
     "text_extraction_latest_update": "2026-08-14T08:50:23.091094Z"
   }
 }

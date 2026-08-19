@@ -20,11 +20,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Cash Balance Benefit Program: member election: filing timeframe."
+      "title": "Ballot printing specifications."
     },
     {
       "note": "",
-      "title": "Ballot printing specifications."
+      "title": "Cash Balance Benefit Program: member election: filing timeframe."
     }
   ],
   "other_identifiers": [
@@ -304,6 +304,16 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:24Z"
       }
+    },
+    {
+      "description": "Ordered to special consent calendar.",
+      "date": "2026-08-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T07:46:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -418,6 +428,17 @@
       ],
       "date": "2026-06-19",
       "classification": "analysis"
+    },
+    {
+      "note": "08/14/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2519&analysisId=403653&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-14",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -440,7 +461,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:24Z",
+    "logs_latest_update": "2026-08-19T07:46:19Z",
     "text_extraction_latest_update": "2026-08-14T09:06:51.683057Z"
   }
 }
