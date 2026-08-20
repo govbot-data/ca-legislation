@@ -1,22 +1,27 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB1960",
-  "title": "Wildfire Prevention Grants Program: identified cohesive fire communities.",
+  "title": "Wildfire Prevention Grants Program: wildfire mitigation validation.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
     "WildfirePreventionGrantsProgram",
-    "identifiedcohesivefirecommunities"
+    "wildfiremitigationvalidation"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law requires the Department of Forestry and Fire Protection to establish a local assistance grant program for fire prevention and home hardening education activities in California and extends eligibility for grants to, among others, local agencies, resource conservation districts, fire safe councils, the California Conservation Corps, certified community conservation corps, Native American tribes, and qualified nonprofit organizations. Existing law requires the department, on or before December 31, 2023, and annually thereafter, to post on its internet website certain information regarding hazardous fuel reduction and vegetation management projects funded or conducted by the department for the preceding fiscal year, including projects funded under the department's Wildfire Prevention Grants Program, as provided. \n\nExisting law requires the Director of Forestry and Fire Protection to establish a statewide program to allow qualified entities, as defined, who have completed a specific training program developed and administered by the department to support and augment the department in its defensible space and home hardening assessment and education efforts.\n\nThis bill would authorize the department, commencing with the 2028\u201329 fiscal year, to disburse funds appropriated for the Wildfire Prevention Grants Program to identified cohesive fire communities, as defined, that partner with fire safe councils, as provided, to use for activities related to hazardous fuels reduction, wildfire prevention planning, and wildfire prevention education, among other activities. The bill would require the department to prioritize disadvantaged identified cohesive fire communities in its evaluation of applicants for the Wildfire Prevention Grants Program."
+      "abstract": "Existing law requires the Department of Forestry and Fire Protection to establish a local assistance grant program for fire prevention and home hardening education activities in California and extends eligibility for grants to, among others, local agencies, resource conservation districts, fire safe councils, the California Conservation Corps, certified community conservation corps, Native American tribes, and qualified nonprofit organizations. Existing law requires the department, on or before December 31, 2023, and annually thereafter, to post on its internet website certain information regarding hazardous fuel reduction and vegetation management projects funded or conducted by the department for the preceding fiscal year, including projects funded under the department's Wildfire Prevention Grants Program, as provided. \n\nExisting law requires the Director of Forestry and Fire Protection to establish a statewide program to allow qualified entities, as defined, who have completed a specific training program developed and administered by the department to support and augment the department in its defensible space and home hardening assessment and education efforts.\n\nThis bill would require the department, in consultation with the State Fire Marshal's Wildfire Mitigation Advisory Committee, to establish a wildfire mitigation validation program to provide voluntary official recognition to a community that achieves progress toward community-scale wildfire preparedness and mitigations. The bill would require the department, in consultation with the committee, to (1) set the wildfire mitigations, including, among other things, home hardening and defensible space requirements, and (2) set the minimum percentage of mitigations required to achieve recognition and set increases in those percentages, as provided. The bill would authorize the department, commencing with the 2028\u201329 fiscal year, to disburse funds appropriated for the Wildfire Prevention Grants Program to recognized communities that partner with fire safe councils or other eligible groups, as provided. The bill would authorize the department to prioritize disadvantaged recognized fire communities pursuant to its established procedures for prioritizing disadvantaged applicants for the Wildfire Prevention Grants Program."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Wildfire Prevention Grants Program: identified cohesive fire communities."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-ca-20252026-ab1960"
@@ -372,6 +377,21 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:25Z"
       }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T07:47:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -480,6 +500,17 @@
       ],
       "date": "2026-06-25",
       "classification": ""
+    },
+    {
+      "note": "08/19/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1960&version=20250AB196095AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-19",
+      "classification": ""
     }
   ],
   "documents": [
@@ -559,6 +590,17 @@
       ],
       "date": "2026-07-31",
       "classification": "analysis"
+    },
+    {
+      "note": "08/15/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1960&analysisId=404012&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-15",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -581,7 +623,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:25Z",
+    "logs_latest_update": "2026-08-20T07:47:45Z",
     "text_extraction_latest_update": "2026-08-14T09:40:18.228260Z"
   }
 }

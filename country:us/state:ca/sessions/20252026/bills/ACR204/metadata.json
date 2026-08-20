@@ -113,13 +113,13 @@
       }
     },
     {
-      "description": "Assembly Rule 63 suspended.",
+      "description": "Assembly Rule 63 suspended. (Page 6029.)",
       "date": "2026-08-03",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-04T09:49:54Z"
+        "log_file_created": "2026-08-20T07:47:45Z"
       }
     },
     {
@@ -133,7 +133,7 @@
       }
     },
     {
-      "description": "Adopted and to Senate.",
+      "description": "Adopted and to Senate. (Page 6039.)",
       "date": "2026-08-03",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -142,7 +142,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-04T09:49:54Z"
+        "log_file_created": "2026-08-20T07:47:45Z"
       }
     },
     {
@@ -169,6 +169,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-08-13T08:25:02Z"
+      }
+    },
+    {
+      "description": "Ordered to special consent calendar.",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T07:47:45Z"
       }
     }
   ],
@@ -828,7 +838,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-13T08:25:02Z",
+    "logs_latest_update": "2026-08-20T07:47:45Z",
     "text_extraction_latest_update": "2026-08-13T08:27:04.754574Z"
   }
 }

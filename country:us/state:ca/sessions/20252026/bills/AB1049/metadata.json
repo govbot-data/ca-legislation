@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing federal law establishes the Supplemental Nutrition Assistance Program (SNAP) , known in California as CalFresh, under which supplemental nutrition assistance benefits allocated to the state by the federal government are distributed to eligible individuals by each county. Existing state law establishes, in addition to CalFresh, the California Food Assistance Program (CFAP) to provide nutrition benefits to households that are ineligible for CalFresh benefits solely due to their immigration status, as specified. Existing law sets forth provisions relating to state funding for CFAP.\n\nUnder existing federal and state law, in determining the eligibility and amount of aid for a person who is not a citizen or national of the United States under certain public social services programs, the income and resources of the person are deemed to include the income and resources of any person who has executed an affidavit of support on behalf of the person and the spouse of that person, with certain exemptions.\n\nExisting state law requires that federal deeming rules and exemptions governing SNAP also govern CFAP, with certain exceptions.\n\nUnder this bill, federal deeming rules and exemptions governing SNAP would instead not apply to CFAP. By creating new duties for counties relating to CFAP eligibility, the bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+      "abstract": "Existing federal law establishes the Supplemental Nutrition Assistance Program (SNAP) , known in California as CalFresh, under which supplemental nutrition assistance benefits allocated to the state by the federal government are distributed to eligible individuals by each county. Existing state law establishes, in addition to CalFresh, the California Food Assistance Program (CFAP) to provide nutrition benefits to households that are ineligible for CalFresh benefits solely due to their immigration status, as specified. Existing law sets forth provisions relating to state funding for CFAP.\n\nUnder existing federal and state law, in determining the eligibility and amount of aid for a person who is not a citizen or national of the United States under certain public social services programs, the income and resources of the person are deemed to include the income and resources of any person who has executed an affidavit of support on behalf of the person and the spouse of that person, with certain exemptions.\n\nExisting state law requires that federal deeming rules and exemptions governing SNAP also govern CFAP, with certain exceptions.\n\nUnder this bill, beginning January 1, 2028, or when the department notifies the Legislature that the Statewide Automated Welfare System can perform the necessary automation to implement these provisions, whichever is later, federal sponsor deeming rules and noncitizen exemptions governing SNAP would instead not apply to CFAP. By creating new duties for counties relating to CFAP eligibility, the bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
     }
   ],
   "other_titles": [],
@@ -282,6 +282,21 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:24Z"
       }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T07:47:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -324,6 +339,17 @@
         }
       ],
       "date": "2025-02-20",
+      "classification": ""
+    },
+    {
+      "note": "08/19/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1049&version=20250AB104998AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-19",
       "classification": ""
     }
   ],
@@ -393,6 +419,17 @@
       ],
       "date": "2026-06-26",
       "classification": "analysis"
+    },
+    {
+      "note": "08/15/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1049&analysisId=403962&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-15",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -403,7 +440,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Section 18932 of the Welfare and Institutions Code, relating to food assistance.",
+    "impact_clause": "An act to amend, repeal, and add Section 18932 of the Welfare and Institutions Code, relating to food assistance.",
     "tags": [
       "fiscal committee",
       "local program"
@@ -416,7 +453,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:24Z",
+    "logs_latest_update": "2026-08-20T07:47:45Z",
     "text_extraction_latest_update": "2026-08-14T10:02:29.943495Z"
   }
 }

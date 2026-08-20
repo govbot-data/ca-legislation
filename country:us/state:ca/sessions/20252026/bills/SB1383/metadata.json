@@ -15,7 +15,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, commonly referred to as the Density Bonus Law, requires a city or county to provide a developer that proposes a housing development within the city or county with a density bonus, waivers or reductions of development standards, parking ratios, and other incentives or concessions, as specified, if the developer agrees to construct certain types of housing, including, among other types of housing, housing that will include specified percentages of units for rental or sale to lower income households or very low income households, as specified. Existing law requires a city or county to grant incentives or concessions requested by an applicant for a density bonus except under prescribed circumstances. Existing law defines \"incentives or concessions\" to include, among other things, a reduction in site development standards or a modification of zoning code requirements or architectural design requirements that exceed the minimum building standards, as specified, and regulatory incentives or concessions proposed by the developer or the city or county that result in identifiable and actual cost reductions to provide for affordable housing costs, as specified.\n\nThis bill would exclude a reduction in site development standards, a modification of zoning code or architectural design requirements, and other regulatory incentives or concessions that include or relate to a labor standard, as defined, from the definition of \"incentives or concessions.\""
+      "abstract": "Existing law, commonly referred to as the Density Bonus Law, requires a city or county to provide a developer that proposes a housing development within the city or county with a density bonus, waivers or reductions of development standards, parking ratios, and other incentives or concessions, as specified, if the developer agrees to construct certain types of housing, including, among other types of housing, housing that will include specified percentages of units for rental or sale to lower income households or very low income households, as specified. Existing law requires a city or county to grant incentives or concessions requested by an applicant for a density bonus except under prescribed circumstances. Existing law defines \"incentives or concessions\" to include, among other things, a reduction in site development standards or a modification of zoning code requirements or architectural design requirements that exceed the minimum building standards, as specified, and regulatory incentives or concessions proposed by the developer or the city or county that result in identifiable and actual cost reductions to provide for affordable housing costs, as specified.\n\nThis bill would exclude, for buildings over 85 feet in height above grade, a reduction in site development standards, a modification of zoning code or architectural design requirements, and other regulatory incentives or concessions that include or relate to a labor standard, as defined, that have been adopted by the local government entity from the definition of \"incentives or concessions.\" The bill would provide that, for purposes of these provisions, the applicable labor standards are those that do not exceed certain statutory requirements, as specified, as those requirements existed on December 31, 2025."
     }
   ],
   "other_titles": [
@@ -310,6 +310,33 @@
       "_processing": {
         "log_file_created": "2026-08-04T09:49:55Z"
       }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T07:47:45Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T07:47:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -319,6 +346,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Arregu\\u00edn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cortese",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cortese\"}",
       "organization_id": null
     }
   ],
@@ -355,6 +390,17 @@
         }
       ],
       "date": "2026-03-23",
+      "classification": ""
+    },
+    {
+      "note": "08/19/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1383&version=20250SB138397AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-19",
       "classification": ""
     }
   ],
@@ -435,6 +481,17 @@
       ],
       "date": "2026-07-29",
       "classification": "analysis"
+    },
+    {
+      "note": "08/19/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1383&analysisId=404556&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-19",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -455,7 +512,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-04T09:49:55Z",
+    "logs_latest_update": "2026-08-20T07:47:45Z",
     "text_extraction_latest_update": "2026-08-04T10:18:05.990516Z"
   }
 }

@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law generally regulates the use of pesticides, and requires every manufacturer of, importer of, or dealer in any pesticide, except as specified, to obtain a certificate of registration from the Department of Pesticide Regulation before the pesticide is offered for sale. Existing law requires a pesticide use report to be submitted to a county agricultural commissioner or the Director of Pesticide Regulation, as provided.\n\nThis bill would require the department to indicate if a pesticide contains perfluoroalkyl and polyfluoroalkyl substances (PFAS) pesticide ingredients, as defined, in the pesticide use reporting database on its internet website, include PFAS as a category of interest for purposes of that database, and include pesticide use trends of PFAS pesticide ingredients from the pesticide database in the pesticide use annual report and other relevant pesticide use reporting documents. The bill would also require the department to publish a list of all registered pesticides that contain PFAS pesticide ingredients, as specified."
+      "abstract": "Existing law generally regulates the use of pesticides, and requires every manufacturer of, importer of, or dealer in any pesticide, except as specified, to obtain a certificate of registration from the Department of Pesticide Regulation before the pesticide is offered for sale. Existing law requires a pesticide use report to be submitted to a county agricultural commissioner or the Director of Pesticide Regulation, as provided.\n\nThis bill would require the department, on or before January 1, 2028, or on or before the posting of the pesticide use reporting database containing 2026 data, whichever occurs first, and annually thereafter, to indicate if a pesticide contains perfluoroalkyl and polyfluoroalkyl substances (PFAS) pesticide ingredients, as defined, in the pesticide use reporting database on its internet website, include PFAS as a category of interest for purposes of that database, and include pesticide use trends of PFAS pesticide ingredients from the pesticide database in the pesticide use annual report and other relevant pesticide use reporting documents. The bill would also require the department to, on or before January 1, 2028, publish a list of all registered pesticides that contain PFAS pesticide ingredients and submit this list to the commissioner of each county, and to, within 60 calendar days of the registration of a new pesticide containing PFAS pesticide ingredients, update the list on its internet website and submit the updated list to the commissioner of each county."
     }
   ],
   "other_titles": [
@@ -421,6 +421,21 @@
       "_processing": {
         "log_file_created": "2026-08-12T08:27:47Z"
       }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T07:47:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -533,6 +548,17 @@
       ],
       "date": "2026-07-08",
       "classification": ""
+    },
+    {
+      "note": "08/19/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1603&version=20250AB160391AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-19",
+      "classification": ""
     }
   ],
   "documents": [
@@ -612,6 +638,17 @@
       ],
       "date": "2026-06-29",
       "classification": "analysis"
+    },
+    {
+      "note": "08/13/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1603&analysisId=403515&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -622,7 +659,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to add Article 19 (commencing with Section 13200) to Chapter 2 of Division 7 of the Food and Agricultural Code, relating to pesticides.",
+    "impact_clause": "An act to amend and renumber Section 12500.5 of, to add Sections 12500.3 and 12500.4 to, and to add Article 19 (commencing with Section 13200) to Chapter 2 of Division 7 of, the Food and Agricultural Code, relating to pesticides.",
     "tags": [
       "fiscal committee"
     ]
@@ -634,7 +671,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-12T08:27:47Z",
+    "logs_latest_update": "2026-08-20T07:47:45Z",
     "text_extraction_latest_update": "2026-08-12T08:38:37.652649Z"
   }
 }

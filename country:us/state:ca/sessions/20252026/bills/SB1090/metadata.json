@@ -17,17 +17,17 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Under the Planning and Zoning Law, the legislative body of a county or city may adopt ordinances that, among other things, regulate the use of buildings, structures, and land, as provided. The Subdivision Map Act vests the authority to regulate and control the design and improvement of subdivisions in the legislative body of a local agency and sets forth procedures governing the local agency's processing, approval, conditional approval or disapproval, and filing of tentative, final, and parcel maps.\n\nExisting law requires a local agency to consider ministerially a proposed housing development that contains no more than 2 residential units within a single-family residential zone, or to ministerially approve a parcel map for an urban lot split, if the development or parcel map meets specified requirements, as provided. Existing law authorizes a development proponent to submit an application for a housing development project on a subdivided lot, as specified, that meets specified requirements, and requires a local agency to ministerially consider that application, as specified. Existing law requires a local agency to ministerially consider, without discretionary review or a hearing, a parcel map or a tentative and final map for a housing development project that meets specified requirements.\n\nThis bill would provide that the above-described ministerial approval requirements do not apply to an application for a proposed housing development or map located in ZIP Code 91001 or 91003 and submitted on or after January 1, 2027, and before January 7, 2030, except as specified.\n\nThis bill would make legislative findings and declarations as to the necessity of a special statute for the unincorporated area known as Altadena in the County of Los Angeles."
+      "abstract": "Under the Planning and Zoning Law, the legislative body of a county or city may adopt ordinances that, among other things, regulate the use of buildings, structures, and land, as provided. The Subdivision Map Act vests the authority to regulate and control the design and improvement of subdivisions in the legislative body of a local agency and sets forth procedures governing the local agency's processing, approval, conditional approval or disapproval, and filing of tentative, final, and parcel maps.\n\nExisting law authorizes a development proponent to submit an application for a housing development project on a subdivided lot, as specified, that meets specified requirements, and requires a local agency to ministerially consider that application, as specified. Existing law requires a local agency to ministerially consider, without discretionary review or a hearing, a parcel map or a tentative and final map for a housing development project that meets specified requirements.\n\nThis bill would, until January 1, 2030, provide that the above-described ministerial approval requirements do not apply to an application for a proposed housing development or map located in ZIP Code 91001 or 91003 and submitted on or after October 1, 2026, except as specified.\n\nThis bill would make legislative findings and declarations as to the necessity of a special statute for the unincorporated area known as Altadena in the County of Los Angeles.\n\nThis bill would declare that it is to take effect immediately as an urgency statute."
     }
   ],
   "other_titles": [
     {
       "note": "",
-      "title": "Housing: disaster impacted areas."
+      "title": "Offers of purchase: real property damaged by wildfire disaster."
     },
     {
       "note": "",
-      "title": "Offers of purchase: real property damaged by wildfire disaster."
+      "title": "Housing: disaster impacted areas."
     }
   ],
   "other_identifiers": [
@@ -344,6 +344,33 @@
       "_processing": {
         "log_file_created": "2026-08-04T09:49:54Z"
       }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T07:47:45Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T07:47:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -442,6 +469,17 @@
       ],
       "date": "2026-07-02",
       "classification": ""
+    },
+    {
+      "note": "08/19/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1090&version=20250SB109093AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-19",
+      "classification": ""
     }
   ],
   "documents": [
@@ -499,6 +537,17 @@
       ],
       "date": "2026-07-29",
       "classification": "analysis"
+    },
+    {
+      "note": "08/19/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1090&analysisId=404544&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-19",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -509,8 +558,10 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Sections 65852.21, 65852.28, 66411.7, and 66499.41 of the Government Code, relating to land use.",
-    "tags": []
+    "impact_clause": "An act to amend, repeal, and add Sections 65852.28 and 66499.41 of the Government Code, relating to land use, and declaring the urgency thereof, to take effect immediately.",
+    "tags": [
+      "urgency"
+    ]
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ca/government",
@@ -519,7 +570,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-04T09:49:54Z",
+    "logs_latest_update": "2026-08-20T07:47:45Z",
     "text_extraction_latest_update": "2026-08-04T09:58:24.200526Z"
   }
 }

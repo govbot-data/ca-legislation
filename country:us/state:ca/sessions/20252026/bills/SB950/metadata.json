@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, the Knox-Keene Health Care Service Plan Act of 1975, provides for the licensure and regulation of health care service plans by the Department of Managed Health Care and makes a willful violation of the act's requirements a crime. Existing law provides for the regulation of health insurers by the Department of Insurance. Existing law prohibits specified health care service plan contracts and disability insurance policies from excluding persons covered by the plan from receiving benefits if they are diagnosed as having any significant destruction of brain tissue with resultant loss of brain function, including Alzheimer's disease.\n\nThis bill would require a health care service plan contract or health insurance policy that is issued, amended, or renewed on or after January 1, 2027, to include coverage for all medically necessary treatments or medications, as determined by a health care provider, approved by the United States Food and Drug Administration (FDA) for the treatment of Alzheimer's disease or other related dementia. On and after January 1, 2027, the bill would prohibit a health care service plan or health insurer from imposing step therapy protocols as a prerequisite to authorizing that coverage, except as provided. Because a willful violation of these provisions by a health care service plan would be a crime, the bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+      "abstract": "Existing law, the Knox-Keene Health Care Service Plan Act of 1975, provides for the licensure and regulation of health care service plans by the Department of Managed Health Care and makes a willful violation of the act's requirements a crime. Existing law provides for the regulation of health insurers by the Department of Insurance. Existing law prohibits specified health care service plan contracts and disability insurance policies from excluding persons covered by the plan from receiving benefits if they are diagnosed as having any significant destruction of brain tissue with resultant loss of brain function, including Alzheimer's disease.\n\nThis bill would require a health care service plan contract or health insurance policy that is issued, amended, or renewed on or after January 1, 2027, to include coverage for all medically necessary treatments or medications, as determined by a health care provider, approved by the United States Food and Drug Administration (FDA) for the treatment of Alzheimer's disease or other medical conditions affecting memory. On and after January 1, 2027, the bill would prohibit a health care service plan or health insurer from imposing step therapy protocols as a prerequisite to authorizing that coverage, except as provided. Because a willful violation of these provisions by a health care service plan would be a crime, the bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
     }
   ],
   "other_titles": [],
@@ -264,6 +264,33 @@
       "_processing": {
         "log_file_created": "2026-08-07T08:23:47Z"
       }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T07:47:45Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T07:47:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -361,6 +388,17 @@
       ],
       "date": "2026-07-02",
       "classification": ""
+    },
+    {
+      "note": "08/19/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB950&version=20250SB95096AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-19",
+      "classification": ""
     }
   ],
   "documents": [
@@ -418,6 +456,28 @@
       ],
       "date": "2026-08-03",
       "classification": "analysis"
+    },
+    {
+      "note": "08/07/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB950&analysisId=403251&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-07",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/19/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB950&analysisId=404554&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-19",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -441,7 +501,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-07T08:23:47Z",
+    "logs_latest_update": "2026-08-20T07:47:45Z",
     "text_extraction_latest_update": "2026-08-07T08:41:38.952753Z"
   }
 }

@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law allows a person who is unlawfully imprisoned or restrained of their liberty to prosecute a writ of habeas corpus to inquire into the cause of their imprisonment or restraint. Existing law allows a writ of habeas corpus to be prosecuted on several bases, including on the basis of false evidence that is material on the issue of guilt or punishment, as specified, or the discovery of new evidence that exists that is presented without substantial delay, is admissible, and that has not been previously presented and heard at trial and has been discovered after trial. Existing law creates a presumption in favor of granting relief through habeas when the district attorney in the county of the conviction or the Attorney General concedes or stipulates to a legal or factual basis for habeas relief.\n\nThis bill would revise the above-described standards to no longer require false evidence to be material and would instead require that the evidence create any reasonable likelihood it could have affected the outcome of the case. The bill would also change the new evidence standard to instead require that there be a reasonable probability it would have produced a different result sufficient to undermine confidence in the outcome of the case. The bill would revise the presumption in favor of granting relief to instead make a stipulation binding on the parties unless the moving party proves by a preponderance of the evidence that the other party violated the terms or the state withheld evidence, as specified. The bill would also revise the process for a concession and instead prohibit a party from withdrawing a concession made in open court, or in a pleading, as specified. The bill would additionally authorize the petitioner, in order to overcome a procedural bar to relief based on untimeliness or successiveness, to identify changes in law or new evidence that create a reasonable probability of a different result sufficient to undermine confidence in the outcome of the case.\n\nExisting law allows a person who is no longer unlawfully imprisoned or restrained to prosecute a motion to vacate a judgment on the basis of newly discovered evidence of fraud by a government official that completely undermines the prosecution's case, is conclusive, and points unerringly to their innocence, newly discovered evidence that a government official testified falsely at trial that resulted in the conviction and that the testimony was substantially probative on the issue of guilt or punishment, or newly discovered evidence of misconduct by a government official committed in the underlying case that resulted in fabrication of evidence that was substantially material and probative on the issue of guilt or punishment.\n\nThe bill would revise the above-described standards to instead require a demonstration that there is a reasonable probability the evidence would have produced a different result sufficient to undermine confidence in the outcome of the case, as specified.\n\nThe bill would make other conforming changes.\n\nThe bill would make related findings and declarations."
+      "abstract": "Existing law allows a person who is unlawfully imprisoned or restrained of their liberty to prosecute a writ of habeas corpus to inquire into the cause of their imprisonment or restraint. Existing law allows a writ of habeas corpus to be prosecuted on several bases, including on the basis of false evidence that is material on the issue of guilt or punishment, as specified, or the discovery of new evidence that exists that is presented without substantial delay, is admissible, and that has not been previously presented and heard at trial and has been discovered after trial. Existing law creates a presumption in favor of granting relief through habeas when the district attorney in the county of the conviction or the Attorney General concedes or stipulates to a legal or factual basis for habeas relief.\n\nThis bill would revise the above-described standards to no longer require false evidence to be material and would instead require that the evidence create any reasonable likelihood it could have affected the outcome of the case. The bill would also change the new evidence standard to instead require that there be a reasonable probability it would have produced a different result sufficient to undermine confidence in the outcome of the case. The bill would revise the presumption in favor of granting relief to instead make a stipulation binding on the parties, if certain conditions are met, unless the moving party proves by a preponderance of the evidence that the other party violated the terms or the state withheld evidence, as specified. The bill would also revise the process for a concession and instead prohibit a party from withdrawing a concession if the concession is contained in a return or other written filing signed by counsel for respondent, as specified.\n\nExisting law allows a person who is no longer unlawfully imprisoned or restrained to prosecute a motion to vacate a judgment on the basis of newly discovered evidence of fraud by a government official that completely undermines the prosecution's case, is conclusive, and points unerringly to their innocence, newly discovered evidence that a government official testified falsely at trial that resulted in the conviction and that the testimony was substantially probative on the issue of guilt or punishment, or newly discovered evidence of misconduct by a government official committed in the underlying case that resulted in fabrication of evidence that was substantially material and probative on the issue of guilt or punishment.\n\nThe bill would revise the above-described standards to instead require a demonstration that there is a reasonable probability the evidence would have produced a different result sufficient to undermine confidence in the outcome of the case, as specified.\n\nThe bill would make other conforming changes.\n\nThe bill would make related findings and declarations."
     }
   ],
   "other_titles": [],
@@ -297,6 +297,21 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:25Z"
       }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T07:47:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -353,6 +368,17 @@
         }
       ],
       "date": "2026-05-18",
+      "classification": ""
+    },
+    {
+      "note": "08/19/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1595&version=20250AB159596AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-19",
       "classification": ""
     }
   ],
@@ -411,6 +437,17 @@
       ],
       "date": "2026-07-31",
       "classification": "analysis"
+    },
+    {
+      "note": "08/14/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1595&analysisId=403635&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-14",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -433,7 +470,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:25Z",
+    "logs_latest_update": "2026-08-20T07:47:45Z",
     "text_extraction_latest_update": "2026-08-14T09:28:08.606026Z"
   }
 }
