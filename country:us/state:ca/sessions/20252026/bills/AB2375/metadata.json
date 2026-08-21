@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, the Alcoholic Beverage Control Act, which is administered by the Department of Alcoholic Beverage Control, regulates the application, issuance, and suspension of alcoholic beverage licenses and generally makes a violation of the act a misdemeanor. Existing law defines \"beer\" for purposes of the Alcoholic Beverage Control Act as any alcoholic beverage obtained by the fermentation of any infusion or decoction of barley, malt, hops, or any other similar product, or any combination thereof in water, as specified.\n\nThis bill would revise the definition of \"beer\" for purposes of the act to provide that beer may be produced using other grain and to specify that fermentation occurs in drinkable water. \n\n Existing law requires specified licensees who sold and delivered alcoholic beverages to a retailer and did not receive payment within 42 days of the date of delivery to charge 1% of the unpaid balance on the 43rd day and an additional 1% for each subsequent 30-day period.\n\nThis bill would instead require the above-described licensees to charge 1% of the unpaid balance after 30 days without payment and an additional 1% for each subsequent 30-day period. The bill would make other nonsubstantive and conforming changes. By expanding the scope of an existing crime, this bill would impose a state-mandated local program.\n\nExisting law requires a payment from a licensed retailer to a licensed wholesaler for the delivery of alcoholic beverages to be made by electronic funds transfer (EFT) pursuant to certain conditions, except as specified. Among other things, existing law requires the wholesaler to initiate the EFT and requires any service fees related to the EFT to be applied in an equitable manner. Existing law also provides for the selection of the third-party payment processor used to facilitate the EFT, including requiring the use of the processor used by the parties on July 1, 2025, if the parties cannot agree on a processor, and if no processor was used as of July 1, 2025, requiring the wholesaler to select the processor.\n\nThis bill would revise and recast the above-described provisions to instead apply to the sale of alcoholic beverages. The bill would define \"initiate\" and \"equitable manner\" for these purposes. The bill would require the parties to either use the third-party payment processor used by the parties on July 1, 2025, or a payment processing service offered by a financial institution that held a deposit account of the licensed retailer on that date, and, if neither apply, would require the wholesaler to select the processor. The bill would make various other clarifying and nonsubstantive changes.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+      "abstract": "Existing law, the Alcoholic Beverage Control Act, which is administered by the Department of Alcoholic Beverage Control, regulates the application, issuance, and suspension of alcoholic beverage licenses and generally makes a violation of the act a misdemeanor. Existing law defines \"beer\" for purposes of the Alcoholic Beverage Control Act as any alcoholic beverage obtained by the fermentation of any infusion or decoction of barley, malt, hops, or any other similar product, or any combination thereof in water, as specified.\n\nThis bill would revise the definition of \"beer\" for purposes of the act to provide that beer may be produced using other grain and to specify that fermentation occurs in drinkable water.\n\n Existing law requires specified licensees who sold and delivered alcoholic beverages to a retailer and did not receive payment within 42 days of the date of delivery to charge 1% of the unpaid balance on the 43rd day and an additional 1% for each subsequent 30-day period.\n\nThis bill would instead require the above-described licensees to charge 1% of the unpaid balance on the 32nd day after 30 days without payment and an additional 1% for each subsequent 30-day period. The bill would make other nonsubstantive and conforming changes. By expanding the scope of an existing crime, this bill would impose a state-mandated local program.\n\nExisting law requires a payment from a licensed retailer to a licensed wholesaler for the delivery of alcoholic beverages to be made by electronic funds transfer (EFT) pursuant to certain conditions, except as specified. Among other things, existing law requires the wholesaler to initiate the EFT and requires any service fees related to the EFT to be applied in an equitable manner. Existing law also provides for the selection of the third-party payment processor used to facilitate the EFT, including requiring the use of the processor used by the parties on July 1, 2025, if the parties cannot agree on a processor, and if no processor was used as of July 1, 2025, requiring the wholesaler to select the processor.\n\nThis bill would revise and recast the above-described provisions to instead apply to the sale of alcoholic beverages. The bill would define \"initiate\" and \"equitable manner\" for these purposes. The bill would require the parties to either use the third-party payment processor used by the parties on July 1, 2025, or a payment processing service offered by a financial institution that held a deposit account of the licensed retailer on that date, and, if neither apply, would require the wholesaler to select the processor. The bill would make various other clarifying and nonsubstantive changes.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
     }
   ],
   "other_titles": [
@@ -274,6 +274,48 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:25Z"
       }
+    },
+    {
+      "description": "Action rescinded whereby the bill was read third time, passed, and to Assembly.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -331,6 +373,17 @@
       ],
       "date": "2026-06-17",
       "classification": ""
+    },
+    {
+      "note": "08/20/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2375&version=20250AB237596AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-20",
+      "classification": ""
     }
   ],
   "documents": [
@@ -357,14 +410,14 @@
       "classification": "analysis"
     },
     {
-      "note": "08/05/26- Sen. Floor Analyses",
+      "note": "08/18/26- Sen. Floor Analyses",
       "links": [
         {
-          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2375&analysisId=403125&analyzingOffice=Sen.+Floor+Analyses",
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2375&analysisId=404401&analyzingOffice=Sen.+Floor+Analyses",
           "media_type": "application/pdf"
         }
       ],
-      "date": "2026-08-05",
+      "date": "2026-08-18",
       "classification": "analysis"
     }
   ],
@@ -389,7 +442,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:25Z",
+    "logs_latest_update": "2026-08-21T07:52:43Z",
     "text_extraction_latest_update": "2026-08-14T08:42:56.675773Z"
   }
 }

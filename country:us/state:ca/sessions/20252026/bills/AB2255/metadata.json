@@ -317,6 +317,20 @@
       "_processing": {
         "log_file_created": "2026-08-20T07:47:45Z"
       }
+    },
+    {
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -465,7 +479,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-20T07:47:45Z",
+    "logs_latest_update": "2026-08-21T07:52:43Z",
     "text_extraction_latest_update": "2026-08-20T08:03:25.201814Z"
   }
 }

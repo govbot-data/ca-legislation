@@ -274,6 +274,32 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:27Z"
       }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Assembly. (Ayes 28. Noes 10.).",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
+    },
+    {
+      "description": "In Assembly. Ordered to Engrossing and Enrolling.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -412,7 +438,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:27Z",
+    "logs_latest_update": "2026-08-21T07:52:43Z",
     "text_extraction_latest_update": "2026-07-21T20:28:58.823347Z"
   }
 }

@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, the Healthy Workplaces, Healthy Families Act of 2014, entitles an employee who works in California for the same employer for 30 or more days within a year from the commencement of employment to paid sick days. Under existing law, an employee accrues paid sick days at a rate of not less than one hour per every 30 hours worked, subject to certain use, accrual, and yearly carryover limitations.\n\nThis bill would entitle active firefighting members of specified fire departments who, after 20 weeks of gestation, give birth or have a stillbirth or miscarriage to 26 weeks of fully paid postpartum and recovery leave, as provided, if the firefighter has been employed by the fire department for at least 12 months as of the date of the birth, stillbirth, or miscarriage, has at least 1,250 hours of service with the fire department in that 12-month period, and takes the leave continuously. The bill would require the leave to be granted without regard to employment classification and to begin immediately upon the date of the childbirth, stillbirth, or miscarriage. The bill would require a firefighter on postpartum and recovery leave to be compensated at the firefighter's regular rate of pay set forth in a collective bargaining agreement and in accordance with their normal pay schedule and would require all benefits to continue to accrue during the leave, as specified. The bill would require a firefighter returning from postpartum and recovery leave to be restored to their prior position, as provided. The bill would request a fire department of the University of California to comply with these provisions."
+      "abstract": "Existing law, the Healthy Workplaces, Healthy Families Act of 2014, entitles an employee who works in California for the same employer for 30 or more days within a year from the commencement of employment to paid sick days. Under existing law, an employee accrues paid sick days at a rate of not less than one hour per every 30 hours worked, subject to certain use, accrual, and yearly carryover limitations.\n\nThis bill would require specified fire departments to provide a paid leave of absence of up to 26 weeks to an active firefighting member who requests leave because the firefighter is disabled by pregnancy, childbirth, or a related medical condition, as provided. The bill would apply to an active firefighting member who has at least 1,250 hours of service with the fire department in the 12-month period before the date on which the paid leave begins and would require the leave to be with full pay, except as specified, at the firefighter's regular rate of pay set forth in a collective bargaining agreement and in accordance with their normal pay schedule. The bill would require all benefits to continue to accrue during the paid leave, as specified, and would require a firefighter returning from the paid leave to be restored to their prior position, as provided. The bill would request a fire department of the University of California to comply with these provisions."
     }
   ],
   "other_titles": [
@@ -366,6 +366,33 @@
       "_processing": {
         "log_file_created": "2026-08-18T07:45:25Z"
       }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -514,6 +541,17 @@
       ],
       "date": "2026-08-13",
       "classification": ""
+    },
+    {
+      "note": "08/19/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1024&version=20250SB102495AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-19",
+      "classification": ""
     }
   ],
   "documents": [
@@ -614,7 +652,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to add Article 5 (commencing with Section 290) to Chapter 1 of Part 1 of Division 2 of the Labor Code, relating to employment.",
+    "impact_clause": "An act to add Chapter 9.6.1 (commencing with Section 3270) to Division 4 of Title 1 of the Government Code, relating to public employment.",
     "tags": [
       "fiscal committee"
     ]
@@ -626,7 +664,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T07:45:25Z",
+    "logs_latest_update": "2026-08-21T07:52:43Z",
     "text_extraction_latest_update": "2026-08-18T08:17:54.816195Z"
   }
 }

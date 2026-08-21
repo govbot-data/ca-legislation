@@ -162,6 +162,30 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:25Z"
       }
+    },
+    {
+      "description": "Enrolled and filed with the Secretary of State at 3:30 p.m.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State - Res. Chapter 191, Statutes of 2026.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -171,6 +195,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Mark Gonz\\u00e1lez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lackey",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lackey\"}",
       "organization_id": null
     },
     {
@@ -315,14 +347,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Aguiar-Curry\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Lackey",
-      "classification": "author",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Lackey\"}",
       "organization_id": null
     },
     {
@@ -781,6 +805,28 @@
       ],
       "date": "2026-06-03",
       "classification": ""
+    },
+    {
+      "note": "08/17/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260ACR216&version=20250ACR21698ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-17",
+      "classification": ""
+    },
+    {
+      "note": "08/20/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260ACR216&version=20250ACR21697CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-20",
+      "classification": ""
     }
   ],
   "documents": [
@@ -836,7 +882,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:25Z",
+    "logs_latest_update": "2026-08-21T07:52:43Z",
     "text_extraction_latest_update": "2026-08-14T10:09:11.185938Z"
   }
 }

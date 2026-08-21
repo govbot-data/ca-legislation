@@ -18,11 +18,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Courts: electronic records."
+      "title": "Gambling Control Act."
     },
     {
       "note": "",
-      "title": "Gambling Control Act."
+      "title": "Courts: electronic records."
     }
   ],
   "other_identifiers": [
@@ -295,6 +295,34 @@
       "_processing": {
         "log_file_created": "2026-08-20T07:47:45Z"
       }
+    },
+    {
+      "description": "Re-referred to Coms. on L. GOV. and REV. & TAX.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Coms. on L. GOV. and REV. & TAX.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:42Z"
+      }
+    },
+    {
+      "description": "Joint Rules 61 and 62(a) suspended.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -415,7 +443,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-20T07:47:45Z",
+    "logs_latest_update": "2026-08-21T07:52:42Z",
     "text_extraction_latest_update": "2026-08-20T07:57:21.086548Z"
   }
 }

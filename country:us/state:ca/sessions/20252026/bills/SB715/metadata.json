@@ -12,10 +12,14 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law requires the Secretary of State to transmit a certified list of candidates for partisan and voter-nominated offices eligible to be voted on within each county to the county elections official at least 68 days before a primary or general election. Existing law also requires the Secretary of State to notify the candidates for partisan and voter-nominated offices of the names, addresses, offices, occupations, and party preferences of all other candidates for the same office at least 73 days before the election. Existing law imposes various deadlines pertaining to candidates and elections. Existing law requires a candidate who submits a ballot designation to file a ballot designation worksheet, as specified.\n\nThis bill would move the deadline to notify candidates of the other candidates for the same office to at least 78 days before the election. The bill would move specified deadlines 5 days earlier, including the deadline for the Secretary of State to publicly announce a list of candidates and the availability of specified forms and documents. The bill would require a candidate to certify, under penalty of perjury, the truth and accuracy of the content of the ballot designation worksheet. By expanding the crime of perjury, the bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+      "abstract": "Existing law requires the Secretary of State to transmit a certified list of candidates for partisan and voter-nominated offices eligible to be voted on within each county to the county elections official at least 68 days before a primary or general election. Existing law also requires the Secretary of State to notify the candidates for partisan and voter-nominated offices of the names, addresses, offices, occupations, and party preferences of all other candidates for the same office at least 73 days before the election. Existing law imposes various deadlines pertaining to candidates and elections. Existing law requires a candidate who submits a ballot designation to file a ballot designation worksheet, as specified.\n\nThis bill would move the deadline to notify candidates of the other candidates for the same office to at least 78 days before the election. The bill would move other specified deadlines earlier, including the deadline for the Secretary of State to publicly announce a list of candidates and the availability of specified forms and documents. The bill would require a candidate to certify, under penalty of perjury, the truth and accuracy of the content of the ballot designation worksheet. By expanding the crime of perjury, the bill would impose a state-mandated local program.\n\nThis bill would incorporate additional changes to Section 13307 of the Elections Code proposed by SB 1360 to be operative only if this bill and SB 1360 are enacted and this bill is enacted last.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
     }
   ],
   "other_titles": [
+    {
+      "note": "",
+      "title": "Regional housing need: methodology: distribution."
+    },
     {
       "note": "",
       "title": "Planning and zoning: regional housing need allocation."
@@ -23,10 +27,6 @@
     {
       "note": "",
       "title": "Elections: notice of candidates."
-    },
-    {
-      "note": "",
-      "title": "Regional housing need: methodology: distribution."
     }
   ],
   "other_identifiers": [
@@ -387,6 +387,33 @@
       "_processing": {
         "log_file_created": "2026-08-18T07:45:25Z"
       }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -466,6 +493,17 @@
       ],
       "date": "2026-08-13",
       "classification": ""
+    },
+    {
+      "note": "08/20/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB715&version=20250SB71594AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-20",
+      "classification": ""
     }
   ],
   "documents": [
@@ -533,7 +571,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Sections 6041, 6340, 6520, 6722, 6852, 8020, 8020.5, 8022, 8024, 8027, 8028, 8121, 8147.5, 8903, 10220, 10224, 10225, 10229, 10407, 10510, 10516, 10603, 10604, 10704, 13107.3, and 13307 of the Elections Code, relating to elections.",
+    "impact_clause": "An act to amend Sections 6041, 6340, 6520, 6722, 6852, 8020, 8020.5, 8022, 8024, 8027, 8028, 8121, 8147.5, 8903, 10220, 10224, 10225, 10229, 10403, 10407, 10510, 10516, 10603, 10604, 10703, 12101, 12262, 13112, 13107.3, and 13307 of the Elections Code, relating to elections.",
     "tags": [
       "fiscal committee",
       "local program"
@@ -546,7 +584,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T07:45:25Z",
+    "logs_latest_update": "2026-08-21T07:52:43Z",
     "text_extraction_latest_update": "2026-08-18T08:49:29.075286Z"
   }
 }

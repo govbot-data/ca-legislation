@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law requires the Department of Toxic Substances Control to adopt regulations for the identification and management of hazardous wastes. Existing law authorizes the department to adopt regulations designating end-of-life photovoltaic modules that are identified as hazardous waste as a universal waste and subject to regulations applicable to universal waste management. Existing regulations define surplus materials, as provided, and specify that surplus material is not a recyclable material. Existing federal regulations exclude from being classified as hazardous waste under federal law certain hazardous secondary material that is generated and then transferred to another person for the purpose of reclamation if specific conditions are met.\n\nThis bill would make the universal waste designation applicable to a solar photovoltaic module that is intended for recycling and cannot otherwise be resold, reused, or refurbished only until the department adopts regulations implementing alternative management standards for solar photovoltaic modules. The bill would require the department to institute a rulemaking to develop alternative management standards for solar photovoltaic modules that facilitate greater material recovery. The bill would require the department to adopt the above-referenced federal transfer-based exclusion regulation for solar photovoltaic modules. The bill would also designate a solar photovoltaic module that can be resold, reused, or refurbished as surplus material. The bill would make a conforming change."
+      "abstract": "Existing law requires the Department of Toxic Substances Control to adopt regulations for the identification and management of hazardous wastes. Existing law authorizes the department to adopt regulations designating end-of-life photovoltaic modules that are identified as hazardous waste as a universal waste and subject to regulations applicable to universal waste management.\n\nFederal regulations identify solid wastes which are subject to regulation as hazardous wastes. Federal regulations exclude from the definition of solid waste for that purpose hazardous secondary material that is generated and then transferred to another person for the purpose of reclamation under specified circumstances.\n\nThis bill would require the department, on or before July 1, 2028, to convene one or more public workshops for interested parties to comment on the applicability of the above-described federal regulations to hazardous waste streams, including, but not limited to, solar photovoltaic modules, generated in California. The bill would require the department, on or before July 1, 2029, to consider the feedback received and evaluate the applicability of those federal regulations to end-of-life solar photovoltaic modules as an alternative to one or more of the state standards governing hazardous waste and universal waste management. The bill would authorize the department, based on findings of the evaluation, to adopt, by regulation, the federal regulations, subject to revision as necessary, and apply them to end-of-life solar photovoltaic modules that are identified as hazardous waste under existing state law."
     }
   ],
   "other_titles": [],
@@ -369,6 +369,43 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:27Z"
       }
+    },
+    {
+      "description": "From inactive file.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:42Z"
+      }
+    },
+    {
+      "description": "Ordered to second reading.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:42Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered returned to second reading.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -436,6 +473,17 @@
         }
       ],
       "date": "2025-07-17",
+      "classification": ""
+    },
+    {
+      "note": "08/20/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB864&version=20250AB86495AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-20",
       "classification": ""
     }
   ],
@@ -515,7 +563,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Section 25259 of, and to add Section 25259.1 to, the Health and Safety Code, relating to hazardous waste.",
+    "impact_clause": "An act to amend Section 25259 of the Health and Safety Code, relating to hazardous waste.",
     "tags": [
       "fiscal committee"
     ]
@@ -527,7 +575,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:27Z",
+    "logs_latest_update": "2026-08-21T07:52:42Z",
     "text_extraction_latest_update": "2026-07-22T13:12:23.966105Z"
   }
 }

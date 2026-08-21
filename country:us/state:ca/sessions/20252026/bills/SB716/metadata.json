@@ -15,14 +15,10 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law makes the violation of a county ordinance or a city ordinance a misdemeanor unless by ordinance it is made an infraction. Existing law specifies monetary fines for any violation of local ordinances that is an infraction, not to exceed specified amounts that vary based on the circumstances of the violation, as prescribed.\n\nThis bill would authorize the county board of supervisors to impose fines, penalties, and forfeitures for violations of ordinances and to fix the penalty by fine or imprisonment, or both. The bill would also increase the amount of the fine that may be imposed for the violation of a city or county ordinance, where the violation pertains to a nonresidential structure with a floor area of 20,000 or more square feet, to $1,000 for the first violation, $2,000 for the second violation within 5 years of the first violation, and $5,000 for subsequent violations within 5 years of the first violation, as specified.\n\nThis bill would declare that it is to take effect immediately as an urgency statute."
+      "abstract": "Existing law makes the violation of a county ordinance or a city ordinance a misdemeanor unless by ordinance it is made an infraction. Existing law specifies monetary fines for any violation of local ordinances that is an infraction, not to exceed specified amounts that vary based on the circumstances of the violation, as prescribed.\n\nThis bill would authorize the county board of supervisors to impose fines, penalties, and forfeitures for violations of ordinances and to fix the penalty by fine or imprisonment, or both. The bill would also increase the amount of the fine that may be imposed for the violation of a city or county ordinance, where the violation pertains to a nonresidential structure with a floor area of 20,000 or more square feet, to $1,000 for the first violation, $2,000 for the second violation within 5 years of the first violation, and $5,000 for subsequent violations within 5 years of the first violation, as specified.\n\nThis bill would incorporate additional changes to Sections 25132 and 36900 of the Government Code proposed by SB 828 to be operative only if this bill and SB 828 are enacted and this bill is enacted last.\n\nThis bill would declare that it is to take effect immediately as an urgency statute."
     }
   ],
   "other_titles": [
-    {
-      "note": "",
-      "title": "California Home Internet LifeLine Act of 2025."
-    },
     {
       "note": "",
       "title": "Communications: universal service."
@@ -30,6 +26,10 @@
     {
       "note": "",
       "title": "Lifeline program: broadband internet access service."
+    },
+    {
+      "note": "",
+      "title": "California Home Internet LifeLine Act of 2025."
     }
   ],
   "other_identifiers": [
@@ -485,6 +485,28 @@
       "_processing": {
         "log_file_created": "2026-08-18T07:45:25Z"
       }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on L. GOV.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -502,6 +524,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Mark Gonz\\u00e1lez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Caloza",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Caloza\"}",
       "organization_id": null
     }
   ],
@@ -593,6 +623,17 @@
         }
       ],
       "date": "2026-08-13",
+      "classification": ""
+    },
+    {
+      "note": "08/20/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB716&version=20250SB71692AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-20",
       "classification": ""
     }
   ],
@@ -706,7 +747,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T07:45:25Z",
+    "logs_latest_update": "2026-08-21T07:52:43Z",
     "text_extraction_latest_update": "2026-08-18T08:05:11.253105Z"
   }
 }

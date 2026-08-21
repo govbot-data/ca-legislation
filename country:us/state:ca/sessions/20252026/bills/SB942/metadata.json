@@ -12,17 +12,17 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, the Lanterman-Petris-Short (LPS) Act, authorizes the involuntary commitment and treatment of a person, when the person, as a result of a mental health disorder, is a danger to themselves or others, or is gravely disabled. Existing law grants persons involuntarily detained in state hospitals as a result of developmental or mental health disabilities specified rights, including a right to dignity, privacy, and humane care, to be free from harm, to religious freedom and practice, and to physical exercise and recreational opportunities.\n\nThis bill, the Civil Detainees' Bill of Rights Act of 2026, would clarify that all persons housed or detained for purposes of civil immigration proceedings in California at any state, county, local, or private locked detention facility, including any county, local, or private locked detention facility in which an individual is housed or detained on behalf of, or pursuant to a contract with, United States Immigration and Customs Enforcement, have the legal rights and responsibilities guaranteed all other persons by the United States Constitution and federal law and the California Constitution and state law, unless specifically limited by federal or state law or regulations.\n\nThe bill would grant persons housed or detained for the purposes of civil immigration proceedings in California certain rights, including a right to dignity, privacy, and humane care, a right to clean and well-maintained facilities, and a right to safe and good-quality food.\n\nThe bill would require an operator of a facility to ensure the rights of individuals housed or civilly detained for purposes of civil immigration proceedings in California are protected. The bill would authorize the Attorney General to bring a civil action for injunctive and other relief in order to protect any of the above-described rights, and would additionally authorize the Attorney General to seek a civil penalty not to exceed $2,500 for each violation. The bill would require an operator of a facility to provide the Attorney General all necessary access for the observations necessary to effectuate enforcement of the above-described requirements.\n\nThe bill would make related findings and declarations.\n\nThe bill would declare that it is to take effect immediately as an urgency statute."
+      "abstract": "Existing law, the Lanterman-Petris-Short (LPS) Act, authorizes the involuntary commitment and treatment of a person, when the person, as a result of a mental health disorder, is a danger to themselves or others, or is gravely disabled. Existing law grants persons involuntarily detained in state hospitals as a result of developmental or mental health disabilities specified rights, including a right to dignity, privacy, and humane care, to be free from harm, to religious freedom and practice, and to physical exercise and recreational opportunities.\n\nThis bill, the Civil Detainees' Bill of Rights Act of 2026, would clarify that all persons housed or detained for purposes of civil immigration proceedings in California at any state, county, local, or private locked detention facility, including any county, local, or private locked detention facility in which an individual is housed or detained on behalf of, or pursuant to a contract with, the federal Office of Refugee Resettlement or the United States Immigration and Customs Enforcement, have the legal rights and responsibilities guaranteed all other persons by the United States Constitution and federal law and the California Constitution and state law, unless specifically limited by federal or state law or regulations.\n\nThe bill would grant persons housed or detained for the purposes of civil immigration proceedings in California certain rights, including a right to dignity, privacy, and humane care, a right to clean facilities and living quarters, and a right to safe and healthy food. The bill would reaffirm the intent of the Legislature that individuals housed or detained as a result of developmental or mental health disabilities have the rights described above.\n\nThe bill would require the rights of individuals involuntarily housed as a result of developmental or mental health disabilities or civilly detained in California to be observed and protected by the operator of any facility in California in which the individuals are housed or civilly detained. The bill would authorize the Attorney General to bring a civil action for injunctive and other relief in order to protect any of the above-described rights, and would additionally authorize the Attorney General to seek a civil penalty not to exceed $2,500 for each violation. The bill would require all necessary access for the observations necessary to ensure compliance with the above-described requirements to be provided to the Attorney General.\n\nThe bill would make related findings and declarations.\n\nThe bill would declare that it is to take effect immediately as an urgency statute."
     }
   ],
   "other_titles": [
     {
       "note": "",
-      "title": "Civil confinement facilities."
+      "title": "Private detention facilities."
     },
     {
       "note": "",
-      "title": "Private detention facilities."
+      "title": "Civil confinement facilities."
     }
   ],
   "other_identifiers": [
@@ -491,6 +491,33 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:24Z"
       }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -580,6 +607,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"\\u00c1vila Far\\u00edas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Calderon",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Calderon\"}",
       "organization_id": null
     },
     {
@@ -736,6 +771,17 @@
       ],
       "date": "2026-07-02",
       "classification": ""
+    },
+    {
+      "note": "08/20/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB942&version=20250SB94292AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-20",
+      "classification": ""
     }
   ],
   "documents": [
@@ -815,6 +861,17 @@
       ],
       "date": "2026-08-03",
       "classification": "analysis"
+    },
+    {
+      "note": "08/14/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB942&analysisId=403687&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-14",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -838,7 +895,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:24Z",
+    "logs_latest_update": "2026-08-21T07:52:43Z",
     "text_extraction_latest_update": "2026-08-14T09:10:15.417856Z"
   }
 }

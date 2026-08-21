@@ -1,24 +1,25 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB2173",
-  "title": "Gambling Control Act.",
+  "title": "Tribal gaming: compact ratification.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "GamblingControlAct"
+    "Tribalgaming",
+    "compactratification"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, the Gambling Control Act, establishes the California Gambling Control Commission, which is responsible for licensing and regulating various gambling activities and establishments. Existing law requires the commission to maintain a public record of every vote at its principal office.\n\nThis bill would additionally require the commission to post a public record of every vote on the commission's internet website no later than the close of business on the 2nd business day after the meeting at which the vote was taken."
+      "abstract": "Existing federal law, the Indian Gaming Regulatory Act of 1988, provides for the negotiation and execution of tribal-state gaming compacts for the purpose of authorizing certain types of gaming on Indian lands within a state. The California Constitution authorizes the Governor to negotiate and conclude those compacts, subject to ratification by the Legislature. Existing law expressly ratifies a number of tribal-state gaming compacts, and amendments to tribal-state gaming compacts, between the State of California and specified Indian tribes.\n\nThe California Environmental Quality Act (CEQA) requires a lead agency to prepare, or cause to be prepared, and certify the completion of, an environmental impact report on a project, as defined, that it proposes to carry out or approve that may have a significant effect on the environment, as defined, or to adopt a negative declaration if it finds that the project will not have that effect.\n\nThis bill would ratify the first amendment to the tribal-state gaming compact entered into between the State of California and the Agua Caliente Band of Cahuilla Indians, executed on July 13, 2026. The bill would provide that, in deference to tribal sovereignty, certain actions related to this amended compact are not projects for the purposes of CEQA.\n\nThis bill would declare that it is to take effect immediately as an urgency statute."
     }
   ],
   "other_titles": [
     {
       "note": "",
-      "title": "Tribal gaming: compact ratification."
+      "title": "Gambling Control Act."
     }
   ],
   "other_identifiers": [
@@ -259,6 +260,43 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:38Z"
       }
+    },
+    {
+      "description": "From inactive file.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
+    },
+    {
+      "description": "Ordered to second reading.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered returned to second reading.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -304,6 +342,17 @@
         }
       ],
       "date": "2026-03-19",
+      "classification": ""
+    },
+    {
+      "note": "08/20/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2173&version=20250AB217397AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-20",
       "classification": ""
     }
   ],
@@ -361,9 +410,10 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Section 19819 of the Business and Professions Code, relating to gambling.",
+    "impact_clause": "An act to add Section 12012.126 to the Government Code, relating to tribal gaming, and declaring the urgency thereof, to take effect immediately.",
     "tags": [
-      "fiscal committee"
+      "fiscal committee",
+      "urgency"
     ]
   },
   "jurisdiction": {
@@ -373,7 +423,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:38Z",
+    "logs_latest_update": "2026-08-21T07:52:43Z",
     "text_extraction_latest_update": "2026-07-22T10:23:40.683355Z"
   }
 }

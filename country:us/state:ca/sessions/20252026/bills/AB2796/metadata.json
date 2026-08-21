@@ -309,6 +309,21 @@
       "_processing": {
         "log_file_created": "2026-08-18T07:45:25Z"
       }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -377,6 +392,17 @@
       ],
       "date": "2026-08-05",
       "classification": ""
+    },
+    {
+      "note": "08/20/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2796&version=20250AB279695AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-20",
+      "classification": ""
     }
   ],
   "documents": [
@@ -433,7 +459,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Sections 2736, 4606, 6533.5, and 22253.5 of the Business and Professions Code, to amend Section 14502 of the Corporations Code, to amend Sections 33192, 33195.2, 44237, and 45125.1 of the Education Code, to amend Section 8908 of the Family Code, to amend Sections 1300 and 17331 of the Financial Code, to amend Section 725 of the Harbors and Navigation Code, to amend Sections 1522, 1568.09, 1569.17, and 1596.871 of, and to add Section 54933 to, the Health and Safety Code, to amend Sections 11105,\n\t\t  11105.001, 11105.002, 11105.05, and 11105.3 of, to add Section 11105.003 to, and to repeal and add Section 23520 of, the Penal Code, to amend Section 5164 of the Public Resources Code, and to amend Sections 14043.38 and 16519.5 of the Welfare and Institutions Code, relating to criminal history information, and declaring the urgency thereof, to take effect immediately.",
+    "impact_clause": "An act to amend Sections 2736, 4606, 6533.5, and 22253.5 of the Business and Professions Code, to amend Section 14502 of the Corporations Code, to amend Sections 33192, 33195.2, 44237, and 45125.1 of the Education Code, to amend Section 8908 of the Family Code, to amend Sections 1300 and 17331 of the Financial Code, to amend Section 725 of the Harbors and Navigation Code, to amend Sections 1522, 1568.09, 1569.17, and 1596.871 of, and to add Section 54933 to, the Health and Safety Code, to amend Sections 11105, 11105.001, 11105.002, 11105.05, and 11105.3 of, to add Section 11105.003 to, and to repeal and add Section 23520 of, the Penal Code, to amend Section 5164 of the Public Resources Code, and to amend Sections 14043.38 and 16519.5 of the Welfare and Institutions Code, relating to criminal history information, and declaring the urgency thereof, to take effect immediately.",
     "tags": [
       "fiscal committee",
       "local program",
@@ -447,7 +473,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T07:45:25Z",
+    "logs_latest_update": "2026-08-21T07:52:42Z",
     "text_extraction_latest_update": "2026-08-18T08:29:00.449396Z"
   }
 }

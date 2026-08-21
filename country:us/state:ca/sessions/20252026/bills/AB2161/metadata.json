@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Medi-Cal: work or community engagement."
+      "title": "Medi-Cal: redeterminations and work or community engagement."
     },
     {
       "note": "",
-      "title": "Medi-Cal: redeterminations and work or community engagement."
+      "title": "Medi-Cal: work or community engagement."
     }
   ],
   "other_identifiers": [
@@ -346,6 +346,20 @@
       "_processing": {
         "log_file_created": "2026-08-20T07:47:45Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -536,6 +550,17 @@
       ],
       "date": "2026-08-17",
       "classification": "analysis"
+    },
+    {
+      "note": "08/20/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2161&analysisId=404574&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-20",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -559,7 +584,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-20T07:47:45Z",
+    "logs_latest_update": "2026-08-21T07:52:42Z",
     "text_extraction_latest_update": "2026-08-20T08:15:44.904443Z"
   }
 }

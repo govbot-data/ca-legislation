@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law delegates to the Department of Child Support Services and local child support agencies the responsibility for collecting and enforcing child support obligations, including child support delinquencies, as defined. Existing law requires a local child support agency to maintain a list of those persons included in certain child support cases. Existing law requires the Department of Child Support Services to consolidate and certify the local child support agency lists and provide the consolidated list to specified state entities that are responsible for the regulation of licenses, including, but not limited to, the Department of Motor Vehicles. Existing law requires those entities, prior to the issuance or renewal of a license, to determine whether the applicant is on the most recent certified consolidated list provided by the department and authorizes the entity to withhold issuance or renewal of the license of an applicant on the list, as specified. Existing law prohibits a local child support agency from issuing a release removing an obligor from license suspension or denial if the obligor is not in compliance with a judgment or order for support. Existing law prohibits the department from including in the list sent to the Department of Motor Vehicles, for the purpose of denying, withholding, or suspending a driver's license, the information of a support obligor whose annual household income is at or below 70% of the median income for the county in which the department or the local child enforcement agency believes the support obligor resides. Commencing January 1, 2027, existing law would only apply this prohibition to noncommercial driver's licenses. \n\nThis bill would delete the provision making this prohibition applicable only to noncommercial driver's licenses. The bill would instead prohibit an obligor from being included on that list sent to the Department of Motor Vehicles if the support obligor's annual income is 70% or less of the median income for a household of one person within the applicable. The bill would, for all boards other than the Department of Motor Vehicles, also entitle a support obligor to relief from denying, withholding, or suspending any license, other than a driver's license, if they provide proof to the local child support agency that their income is at or below that threshold. The bill would authorize the department to implement and administer these provisions through a child support services letter. The bill would make these provisions operative on January 1, 2027, or on the date the department notifies the Legislature that the California Child Support Enforcement System can perform the necessary automation to implement these changes, whichever is later."
+      "abstract": "Existing law delegates to the Department of Child Support Services and local child support agencies the responsibility for collecting and enforcing child support obligations, including child support delinquencies, as defined. Existing law requires a local child support agency to maintain a list of those persons included in certain child support cases. Existing law requires the Department of Child Support Services to consolidate and certify the local child support agency lists and provide the consolidated list to specified state entities that are responsible for the regulation of licenses, including, but not limited to, the Department of Motor Vehicles. Existing law requires those entities, prior to the issuance or renewal of a license, to determine whether the applicant is on the most recent certified consolidated list provided by the department and authorizes the entity to withhold issuance or renewal of the license of an applicant on the list, as specified. Existing law prohibits a local child support agency from issuing a release removing an obligor from license suspension or denial if the obligor is not in compliance with a judgment or order for support. Existing law prohibits the department from including in the list sent to the Department of Motor Vehicles, for the purpose of denying, withholding, or suspending a driver's license, the information of a support obligor whose annual household income is at or below 70% of the median income for the county in which the department or the local child enforcement agency believes the support obligor resides. Commencing January 1, 2027, existing law would only apply this prohibition to noncommercial driver's licenses.\n\nThis bill would delete the provision making this prohibition applicable only to noncommercial driver's licenses. The bill would instead prohibit an obligor from being included on the list sent to the Department of Motor Vehicles for purposes of denying, withholding, or suspending a noncommercial driver's license, if the support obligor's annual income is 70% or less of the median income for a household of one person within the applicable county, as specified. The bill would also entitle a support obligor to relief from denying, withholding, or suspending any license, other than a noncommercial driver's license issued by the Department of Motor Vehicles, if they provide proof to the local child support agency that their income is at or below that threshold. The bill would authorize the department to implement and administer these provisions through a child support services letter. The bill would make these provisions operative on January 1, 2027, or on the date the department notifies the Legislature that the California Child Support Enforcement System can perform the necessary automation to implement these changes, whichever is later."
     }
   ],
   "other_titles": [],
@@ -354,6 +354,21 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:25Z"
       }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -418,6 +433,17 @@
         }
       ],
       "date": "2026-08-03",
+      "classification": ""
+    },
+    {
+      "note": "08/20/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2195&version=20250AB219596AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-20",
       "classification": ""
     }
   ],
@@ -509,6 +535,17 @@
       ],
       "date": "2026-08-08",
       "classification": "analysis"
+    },
+    {
+      "note": "08/14/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2195&analysisId=403879&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-14",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -531,7 +568,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:25Z",
+    "logs_latest_update": "2026-08-21T07:52:43Z",
     "text_extraction_latest_update": "2026-08-14T08:31:55.963844Z"
   }
 }

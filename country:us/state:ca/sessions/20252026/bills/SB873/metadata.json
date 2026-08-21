@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law prohibits a person from being subject to civil arrest in a courthouse while attending a court proceeding or having legal business in a courthouse, except pursuant to a valid judicial warrant. Existing law confers specified powers to judicial officers, including to preserve and enforce order in the officer's immediate presence and in proceedings before the officer, to compel obedience to the officer's lawful orders, and to prohibit activities that threaten access to courthouses and court proceedings, including protecting the privilege from civil arrest at courthouses and court proceedings.\n\nThis bill would prohibit a person from being subject to civil arrest while traveling to, while present at, or while traveling from a courthouse for any lawful activity, as defined. The bill would authorize a court to issue appropriate judicial orders to protect the privilege from civil arrest. The bill would authorize the Attorney General to bring a civil action to obtain appropriate equitable and declaratory relief if the Attorney General has reasonable cause to believe that a violation of these provisions has occurred or is imminent. The bill would also authorize a person who has been subject to civil arrest to bring a civil action for appropriate equitable and declaratory relief and civil damages, including actual damages and statutory damages of $10,000. The bill would authorize a party in a successful action to recover court costs and reasonable attorney's fees. The bill would exempt a court, judicial officer, or court personnel acting lawfully pursuant to their duty to maintain safety and order in the courts from any action or proceeding pursuant to these provisions.\n\nThis bill would require, when court security personnel are aware that any representative of a local, state, or federal law enforcement agency, while acting in an official capacity, enters a courthouse, that court security personnel request the law enforcement representative or representatives identify themselves and state their specific law enforcement purposes and intended enforcement action to be taken, and request from the law enforcement representative or representatives a copy of a valid judicial warrant concerning the intended enforcement action to be taken. The bill would require, if court security personnel are aware there is an attorney representing a person named in the judicial warrant in any capacity, that court security personnel request the law enforcement representative to afford the attorney the right to review the warrant.\n\nThis bill would require the Judicial Council to annually prepare a report compiling statistics, aggregated by county, of information related to civil arrests, as specified. The bill would require the Judicial Council to publicly post the report on its public internet website.\n\n This bill would also make related findings and declarations and specify that the provisions of this act are severable."
+      "abstract": "Existing law prohibits a person from being subject to civil arrest in a courthouse while attending a court proceeding or having legal business in a courthouse, except pursuant to a valid judicial warrant. Existing law confers specified powers to judicial officers, including to preserve and enforce order in the officer's immediate presence and in proceedings before the officer, to compel obedience to the officer's lawful orders, and to prohibit activities that threaten access to courthouses and court proceedings, including protecting the privilege from civil arrest at courthouses and court proceedings.\n\nThis bill would prohibit a person from being subject to civil arrest while traveling to, while present at, or while traveling from a courthouse for any lawful activity, as defined. The bill would authorize a court to issue appropriate judicial orders to protect the privilege from civil arrest. Under the bill, a civil arrest in violation of these provisions or the common law privilege against civil arrest would constitute false imprisonment or false arrest if the person was going to, remaining at, or returning from court for any lawful activity, and each person in violation of these provisions or who assists in the violation of these provisions would be liable for civil damages for the tort of false imprisonment or false arrest, including actual damages and statutory damages of $10,000. The bill would authorize a party in a successful action to recover court costs and reasonable attorney's fees. The bill would exempt a court, judicial officer, or court personnel acting lawfully pursuant to their duty to maintain safety and order in the courts from any action or proceeding pursuant to these provisions.\n\nThis bill would require, when court security personnel are aware that any representative of a law enforcement agency, while acting in an official capacity, enters a courthouse, that court security personnel request the law enforcement representative or representatives identify themselves and state their specific law enforcement purposes and intended enforcement action to be taken, and request from the law enforcement representative or representatives a copy of a valid judicial warrant concerning the intended enforcement action to be taken. The bill would require, if court security personnel are aware there is an attorney representing a person named in the judicial warrant in any capacity, that court security personnel request the law enforcement representative to afford the attorney the right to review the warrant.\n\nThis bill would require the Judicial Council to annually prepare a report compiling statistics, aggregated by county, of information related to civil arrests, as specified. The bill would require the Judicial Council to publicly post the report on its public internet website.\n\n This bill would also make related findings and declarations and specify that the provisions of this act are severable."
     }
   ],
   "other_titles": [],
@@ -375,6 +375,33 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:25Z"
       }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -411,11 +438,11 @@
       "organization_id": null
     },
     {
-      "name": ": Zbur",
+      "name": "Addis",
       "classification": "coauthor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \": Zbur\"}",
+      "person_id": "~{\"name\": \"Addis\"}",
       "organization_id": null
     },
     {
@@ -424,6 +451,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Kalra\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Papan",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Papan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zbur",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Zbur\"}",
       "organization_id": null
     }
   ],
@@ -482,6 +525,17 @@
         }
       ],
       "date": "2026-06-15",
+      "classification": ""
+    },
+    {
+      "note": "08/20/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB873&version=20250SB87395AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-20",
       "classification": ""
     }
   ],
@@ -551,6 +605,17 @@
       ],
       "date": "2026-08-03",
       "classification": "analysis"
+    },
+    {
+      "note": "08/14/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB873&analysisId=403675&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-14",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -561,7 +626,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to add Section 43.541 to, and to repeal and add Section 43.54 of, the Civil Code, relating to courts.",
+    "impact_clause": "An act to add Sections 43.541 and 43.542 to, and to repeal and add Section 43.54 of, the Civil Code, relating to courts.",
     "tags": [
       "fiscal committee"
     ]
@@ -573,7 +638,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:25Z",
+    "logs_latest_update": "2026-08-21T07:52:43Z",
     "text_extraction_latest_update": "2026-08-14T10:15:09.029400Z"
   }
 }

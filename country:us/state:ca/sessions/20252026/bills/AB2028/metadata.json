@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "The California Deferred Deposit Transaction Law generally provides for the licensure and regulation by the Commissioner of Financial Protection and Innovation of a person who engages in the business of making deferred deposit transactions. The law requires each licensee to pay to the commissioner its pro rata share of all costs and expenses reasonably incurred in the administration of the law, as specified.\n\nThis bill would require an invoice or assessment notice issued by the commissioner to a licensee pursuant to the provisions described above to include the pro rata amount calculation used to determine the amount due and payable by the licensee, as specified."
+      "abstract": "The California Deferred Deposit Transaction Law generally provides for the licensure and regulation by the Commissioner of Financial Protection and Innovation of a person who engages in the business of making deferred deposit transactions. The law requires each licensee to pay to the commissioner its pro rata share of all costs and expenses reasonably incurred in the administration of the law, as specified.\n\nThis bill would require an invoice or assessment notice issued by the commissioner to a licensee pursuant to the provisions described above to include the pro rata amount calculation used to determine the amount due and payable by the licensee, as specified.\n\nThis bill would incorporate additional changes to Section 23016 of the Financial Code proposed by AB 2795 to be operative only if this bill and AB 2795 are enacted and this bill is enacted last."
     }
   ],
   "other_titles": [],
@@ -256,6 +256,48 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:25Z"
       }
+    },
+    {
+      "description": "Action rescinded whereby the bill was read third time, passed, and to Assembly.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -290,6 +332,17 @@
         }
       ],
       "date": "2026-02-17",
+      "classification": ""
+    },
+    {
+      "note": "08/20/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2028&version=20250AB202898AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-20",
       "classification": ""
     }
   ],
@@ -359,7 +412,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:25Z",
+    "logs_latest_update": "2026-08-21T07:52:43Z",
     "text_extraction_latest_update": "2026-08-14T08:50:49.831094Z"
   }
 }

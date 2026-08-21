@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law authorizes the finder of fact in a criminal prosecution to find the defendant guilty of an offense that is necessarily included in the charged offense. Case law requires the trial court to instruct the jury that it must find the defendant guilty of a necessarily included offense if there is substantial evidence that the defendant is guilty of the necessarily included offense.\n\nThis bill would require the court, if requested by a defendant, to instruct the jury on a lesser offense, which is closely related to the offense charged, if the court finds that the defendant has relied on a theory of defense consistent with a conviction for the lesser offense, the evidence of the lesser offense is relevant to and admitted for the purpose of establishing guilt of the charged offense, and a basis exists on which the jury could find the offense to be less than charged. The bill would also authorize the judge to find the defendant guilty of the lesser offense if there is no jury. The bill would require the defendant to provide notice to the prosecution of the intent to seek the above-described jury instruction, as specified. The bill would state the intent of the Legislature that the bill restores rights previously found by the California Supreme Court in People v. Geiger (1984) 35 Cal.3d 510."
+      "abstract": "Existing law authorizes the finder of fact in a criminal prosecution to find the defendant guilty of an offense that is necessarily included in the charged offense. Case law requires the trial court to instruct the jury that it must find the defendant guilty of a necessarily included offense if there is substantial evidence that the defendant is guilty of the necessarily included offense.\n\nThis bill would require the court, if requested by a defendant, to instruct the jury on a lesser offense, which is closely related to the offense charged, if the court finds that the defendant has relied on a theory of defense consistent with a conviction for the lesser offense, the evidence of the lesser offense is relevant to and admitted for the purpose of establishing guilt of the charged offense, and a basis exists on which the jury could find the offense to be less than charged. The bill would also authorize the judge to find the defendant guilty of the lesser offense if there is no jury. The bill would require the defendant to provide notice to the prosecution of the intent to seek the above-described jury instruction, as specified."
     }
   ],
   "other_titles": [
@@ -307,6 +307,33 @@
       "_processing": {
         "log_file_created": "2026-08-18T07:45:25Z"
       }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:42Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -324,6 +351,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Cortese\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bonta",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bonta\"}",
       "organization_id": null
     },
     {
@@ -379,6 +414,17 @@
         }
       ],
       "date": "2026-08-13",
+      "classification": ""
+    },
+    {
+      "note": "08/20/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1173&version=20250SB117396AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-20",
       "classification": ""
     }
   ],
@@ -468,7 +514,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T07:45:25Z",
+    "logs_latest_update": "2026-08-21T07:52:42Z",
     "text_extraction_latest_update": "2026-08-18T08:23:52.576936Z"
   }
 }

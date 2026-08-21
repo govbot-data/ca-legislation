@@ -13,13 +13,13 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "(1) Existing law, the Joint Exercise of Powers Act, authorizes 2 or more public agencies, by agreement, to form a joint powers authority to exercise any power common to the contracting parties, as specified. Existing law authorizes the agreement to set forth the manner by which the joint powers authority will be exercised.\n\nThis bill would require the County of Sacramento, the City of Sacramento, the City of Elk Grove, the City of Rancho Cordova, the City of Citrus Heights, and the City of Folsom to participate in and work together to establish a joint powers authority, pursuant to the Joint Exercise of Powers Act, designed to make a meaningful difference for people experiencing housing insecurity and homelessness across the County of Sacramento. In this regard, the bill would require the above-specified local governments together to, among other things, bring the oversight and functions of the Sacramento City and County Continuum of Care under the jurisdiction of the joint powers authority, while maintaining the federally required composition and integrity of the continuum of care. The bill would require the joint powers authority to, among other things, be designated as the federally recognized continuum of care. The bill would specify that a local jurisdiction retains oversight and accountability over funding decisions, projects, and programs administered by the jurisdiction, including contracting for prevention, outreach, sheltering, and housing. The bill would make findings and declarations relating to its provisions.\n\nBy requiring the above-described local governments to establish the joint powers authority, this bill would impose a state-mandated local program.\n\nThis bill would make legislative findings and declarations as to the necessity of a special statute for County of Sacramento. The bill would make additional related findings and declarations.\n\n(2) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+      "abstract": "(1) Existing law, the Joint Exercise of Powers Act, authorizes 2 or more public agencies, by agreement, to form a joint powers authority to exercise any power common to the contracting parties, as specified. Existing law authorizes the agreement to set forth the manner by which the joint powers authority will be exercised.\n\nThis bill would require the County of Sacramento, the City of Sacramento, the City of Elk Grove, the City of Rancho Cordova, the City of Citrus Heights, and the City of Folsom to participate in and work together to establish a joint powers authority, pursuant to the Joint Exercise of Powers Act, designed to make a meaningful difference for people experiencing housing insecurity and homelessness across the County of Sacramento. In this regard, the bill would require the above-specified local governments together to, among other things, bring the oversight and functions of the Sacramento City and County Continuum of Care under the jurisdiction of the joint powers authority, while maintaining the federally required composition and integrity of the continuum of care. The bill would require the joint powers authority to, among other things, provide direction to the continuum of care lead agency. The bill would specify that a local jurisdiction retains oversight and accountability over funding decisions, projects, and programs administered by the jurisdiction, including contracting for prevention, outreach, sheltering, and housing. The bill would declare that these provisions are severable. The bill would make findings and declarations relating to its provisions.\n\nBy requiring the above-described local governments to establish the joint powers authority, this bill would impose a state-mandated local program.\n\nThis bill would make legislative findings and declarations as to the necessity of a special statute for County of Sacramento. The bill would make additional related findings and declarations.\n\n(2) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
     }
   ],
   "other_titles": [
     {
       "note": "",
-      "title": "Multifamily Housing Program: Homekey: Homeless Housing, Assistance, and Prevention program."
+      "title": "Housing finance and development: Sacramento Area Housing and Homelessness Agency: Multifamily Housing Program: Homekey: Homeless Housing, Assistance, and Prevention program."
     },
     {
       "note": "",
@@ -31,7 +31,7 @@
     },
     {
       "note": "",
-      "title": "Housing finance and development: Sacramento Area Housing and Homelessness Agency: Multifamily Housing Program: Homekey: Homeless Housing, Assistance, and Prevention program."
+      "title": "Multifamily Housing Program: Homekey: Homeless Housing, Assistance, and Prevention program."
     }
   ],
   "other_identifiers": [
@@ -588,6 +588,33 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:24Z"
       }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -597,6 +624,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Ashby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Caloza",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Caloza\"}",
       "organization_id": null
     },
     {
@@ -719,6 +754,17 @@
       ],
       "date": "2026-06-15",
       "classification": ""
+    },
+    {
+      "note": "08/20/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB802&version=20250SB80290AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-20",
+      "classification": ""
     }
   ],
   "documents": [
@@ -809,6 +855,17 @@
       ],
       "date": "2026-08-03",
       "classification": "analysis"
+    },
+    {
+      "note": "08/14/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB802&analysisId=403673&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-14",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -832,7 +889,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:24Z",
+    "logs_latest_update": "2026-08-21T07:52:43Z",
     "text_extraction_latest_update": "2026-08-14T08:37:52.415958Z"
   }
 }

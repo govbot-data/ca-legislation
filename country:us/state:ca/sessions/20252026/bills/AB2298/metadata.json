@@ -1,7 +1,7 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB2298",
-  "title": "Pupil instruction: computer science: content standards and instructional materials.",
+  "title": "Pupil instruction: computer science: content standards.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -9,18 +9,22 @@
   "subject": [
     "Pupilinstruction",
     "computerscience",
-    "contentstandardsandinstructionalmaterials"
+    "contentstandards"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law establishes the Instructional Quality Commission and requires the commission to, among other things, advise and recommend to the State Board of Education the policies and activities that are needed to implement the state's academic content standards and develop criteria for evaluating instructional materials, as specified.\n\nThis bill would require the commission, when the computer science content standards are next revised after January 1, 2027, to consider incorporating cybersecurity skills, as defined, into those standards. The bill would also require the commission, when the computer science instructional materials are next adopted by the state board after January 1, 2027, to consider including cybersecurity skills in its criteria for evaluating instructional materials."
+      "abstract": "Existing law establishes the Instructional Quality Commission and requires the commission to, among other things, advise and recommend to the State Board of Education the policies and activities that are needed to implement the state's academic content standards. Existing law requires the commission, on or before July 31, 2019, to consider developing and recommending to the state board computer science content standards for kindergarten and grades 1 to 12, inclusive, pursuant to recommendations developed by a group of computer science experts, as specified.\n\nThis bill would require the commission, when the computer science content standards are next revised after January 1, 2027, to consider incorporating cybersecurity skills, as defined, into those standards."
     }
   ],
   "other_titles": [
     {
       "note": "",
       "title": "Cybersecurity."
+    },
+    {
+      "note": "",
+      "title": "Pupil instruction: computer science: content standards and instructional materials."
     }
   ],
   "other_identifiers": [
@@ -242,6 +246,21 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:29Z"
       }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -287,6 +306,17 @@
         }
       ],
       "date": "2026-03-19",
+      "classification": ""
+    },
+    {
+      "note": "08/20/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2298&version=20250AB229897AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-20",
       "classification": ""
     }
   ],
@@ -356,7 +386,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:29Z",
+    "logs_latest_update": "2026-08-21T07:52:42Z",
     "text_extraction_latest_update": "2026-07-21T21:39:56.226747Z"
   }
 }

@@ -18,11 +18,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Short-term rental facilitators: Indian tribes."
+      "title": "Waste discharge permits: landfills."
     },
     {
       "note": "",
-      "title": "Waste discharge permits: landfills."
+      "title": "Short-term rental facilitators: Indian tribes."
     }
   ],
   "other_identifiers": [
@@ -391,6 +391,30 @@
       "_processing": {
         "log_file_created": "2026-08-13T08:25:02Z"
       }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Senate.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
+    },
+    {
+      "description": "In Senate. Concurrence in Assembly amendments pending.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -570,14 +594,14 @@
       "classification": "analysis"
     },
     {
-      "note": "08/12/26- ASSEMBLY FLOOR ANALYSIS",
+      "note": "08/14/26- ASSEMBLY FLOOR ANALYSIS",
       "links": [
         {
-          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB594&analysisId=403440&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB594&analysisId=403772&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
           "media_type": "application/pdf"
         }
       ],
-      "date": "2026-08-12",
+      "date": "2026-08-14",
       "classification": "analysis"
     }
   ],
@@ -599,7 +623,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-13T08:25:02Z",
+    "logs_latest_update": "2026-08-21T07:52:43Z",
     "text_extraction_latest_update": "2026-08-13T08:32:57.054746Z"
   }
 }

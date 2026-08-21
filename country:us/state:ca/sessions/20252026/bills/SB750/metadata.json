@@ -1,26 +1,29 @@
 {
   "legislative_session": "20252026",
   "identifier": "SB750",
-  "title": "California Housing Finance Agency: credit enhancement mechanisms study: pilot credit enhancement program.",
+  "title": "California Housing Finance Agency: credit enhancement mechanisms study.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
     "CaliforniaHousingFinanceAgency",
-    "creditenhancementmechanismsstudy",
-    "pilotcreditenhancementprogram"
+    "creditenhancementmechanismsstudy"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law establishes the California Housing Finance Agency for the primary purpose of meeting the housing needs of persons and families of low or moderate income, and sets forth various programs administered by the agency to fulfill that purpose.\n\nThis bill would require the agency to conduct a comprehensive assessment of potential credit enhancement mechanisms designed to reduce borrowing costs for housing projects receiving state financial assistance that includes specified evaluations. The bill would require the agency to submit an interim report by January 1, 2028, and a final report by July 1, 2028, as specified. Upon appropriation, and within 6 months of that appropriation, the bill would authorize the agency to establish a limited-scale pilot credit enhancement product and program to run concurrently with the assessment and a fund for the purpose of deploying that product, as specified."
+      "abstract": "Existing law establishes the California Housing Finance Agency for the primary purpose of meeting the housing needs of persons and families of low or moderate income, and sets forth various programs administered by the agency to fulfill that purpose.\n\nThis bill would require the agency to conduct a comprehensive assessment of potential credit enhancement mechanisms designed to reduce borrowing costs for housing projects receiving state financial assistance that includes specified evaluations. The bill would require the agency to submit an interim report by January 1, 2028, and a final report by July 1, 2028, as specified."
     }
   ],
   "other_titles": [
     {
       "note": "",
       "title": "California Residential Mortgage Insurance Act."
+    },
+    {
+      "note": "",
+      "title": "California Housing Finance Agency: credit enhancement mechanisms study: pilot credit enhancement program."
     },
     {
       "note": "",
@@ -421,6 +424,33 @@
       "_processing": {
         "log_file_created": "2026-08-18T07:45:24Z"
       }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -615,6 +645,17 @@
       ],
       "date": "2026-08-13",
       "classification": ""
+    },
+    {
+      "note": "08/20/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB750&version=20250SB75093AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-20",
+      "classification": ""
     }
   ],
   "documents": [
@@ -738,7 +779,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T07:45:24Z",
+    "logs_latest_update": "2026-08-21T07:52:43Z",
     "text_extraction_latest_update": "2026-08-18T08:15:10.461797Z"
   }
 }

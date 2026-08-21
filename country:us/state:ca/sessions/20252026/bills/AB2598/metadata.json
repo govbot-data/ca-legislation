@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law provides for the licensure and regulation of health facilities, including general acute care hospitals and skilled nursing facilities, by the State Department of Public Health. A violation of these provisions is generally a crime.\n\nUnder existing law, if a person dies in a hospital, convalescent hospital, or board and care facility without known next of kin, the person in charge of the hospital or facility is required to give immediate notice of that fact to the public administrator of the county in which the hospital or facility is located, and if the person in charge fails to do so, the hospital or facility is liable for the cost of internment, as specified, and specified losses incurred by the estate or beneficiaries as a result of the failure to notify.\n\nThis bill would instead require the person in charge of a general acute care hospital or a skilled nursing facility to make a reasonable attempt to notify any known next of kin, as specified. The bill would state that this requirement is met if a skilled nursing facility notifies the person's resident representative or has the body transferred to a hospital after death, or if the person notified the hospital or facility, prior to death and in writing, that they do not want their known next of kin to be notified of their presence or death. The bill would require, if a reasonable attempt is made or the person expressed a desire that next of kin not be notified, as specified, that the hospital or facility give notice to the public administrator as described above.\n\nThe bill would make a hospital or facility that fails to notify any known next of kin liable for a civil penalty of $200 per day, up to a maximum of $50,000, measured from the time it would take to make a reasonable attempt to notify the next of kin, as determined by the State Department of Public Health, until the actual knowledge by the next of kin of the decedent's death. The bill would also make a hospital or facility that fails to notify the county public administrator, as specified, liable for a civil penalty of up to $200 per day, up to a maximum of $50,000, measured from the time it would take to provide notice to the county public administrator, as determined by the department, until the county public administrator is notified. The bill would authorize the department to assess the penalty after notice and an opportunity to be heard."
+      "abstract": "Existing law provides for the licensure and regulation of health facilities, including general acute care hospitals and skilled nursing facilities, by the State Department of Public Health. A violation of these provisions is generally a crime.\n\nUnder existing law, if a person dies in a hospital, convalescent hospital, or board and care facility without known next of kin, the person in charge of the hospital or facility is required to give immediate notice of that fact to the public administrator of the county in which the hospital or facility is located, and if the person in charge fails to do so, the hospital or facility is liable for the cost of internment, as specified, and specified losses incurred by the estate or beneficiaries as a result of the failure to notify.\n\nThis bill would instead require the licensee in charge of a general acute care hospital or a skilled nursing facility to make a reasonable attempt to notify any known next of kin, as specified. The bill would state that this requirement is met if a skilled nursing facility notifies the person's resident representative or has the body transferred to a hospital after death, or if the person notified the hospital or facility, prior to death and in writing, that they do not want their known next of kin to be notified of their presence or death. The bill would require, if a reasonable attempt is made or the person expressed a desire that next of kin not be notified, as specified, that the hospital or facility give notice to the public administrator as described above.\n\nThe bill would make a hospital or facility that fails to notify any known next of kin liable for a continuing civil penalty of $200 per day, up to a maximum of $50,000, measured from the time it would take to make a reasonable attempt to notify the next of kin until the actual knowledge by the next of kin of the decedent's death. The bill would also make a hospital or facility that fails to notify the county public administrator, as specified, liable for a continuing civil penalty of up to $200 per day, up to a maximum of $50,000, measured from the 5th business day following a person's death until the county public administrator is notified. The bill would authorize a licensee that disputes the assessment of a civil penalty to, within 10 working days of the notification of the penalty, request a hearing pursuant to specified law."
     }
   ],
   "other_titles": [],
@@ -372,6 +372,21 @@
       "_processing": {
         "log_file_created": "2026-08-18T07:45:25Z"
       }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -463,6 +478,17 @@
         }
       ],
       "date": "2026-08-13",
+      "classification": ""
+    },
+    {
+      "note": "08/20/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2598&version=20250AB259895AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-20",
       "classification": ""
     }
   ],
@@ -575,7 +601,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to add Section 1293.3 to the Health and Safety Code, and to amend Section 7600.5 of, and to add Section 7600.4 to, the Probate Code, relating to health care facilities.",
+    "impact_clause": "An act to add Section 1280.7 to the Health and Safety Code, and to amend Section 7600.5 of, and to add Section 7600.4 to, the Probate Code, relating to health care facilities.",
     "tags": [
       "fiscal committee"
     ]
@@ -587,7 +613,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T07:45:25Z",
+    "logs_latest_update": "2026-08-21T07:52:43Z",
     "text_extraction_latest_update": "2026-08-18T08:00:49.287159Z"
   }
 }

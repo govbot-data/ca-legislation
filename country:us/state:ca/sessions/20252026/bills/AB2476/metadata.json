@@ -15,7 +15,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law requires the Public Utilities Commission to adopt a process for each load-serving entity, as defined, to file an integrated resource plan, adopt a schedule for periodic updates to the plan, and ensure each load-serving entity takes specified actions, as specified. Existing law requires the commission to determine if there is a need for the procurement of eligible energy resources, as described, requires the commission to specify the eligible energy resources that should be procured to meet that need, and authorizes the commission, within 6 months of making that determination, to request the Department of Water Resources to procure those specified resources that meet the portfolio of resources, as specified. Existing law authorizes the department to procure those resources pursuant to that request only before January 1, 2035, as provided. Existing law authorizes the department to procure resources from a pump hydroelectric facility pursuant to these provisions if the pump hydroelectric facility does not exceed 500 megawatts and was directly appropriated funding by the state before January 1, 2023.\n\nThis bill would eliminate the requirement that a pump hydroelectric facility be directly appropriated funding by the state before January 1, 2023, in order for the department to procure resources from the facility."
+      "abstract": "Existing law requires the Public Utilities Commission to adopt a process for each load-serving entity, as defined, to file an integrated resource plan, adopt a schedule for periodic updates to the plan, and ensure each load-serving entity takes specified actions, as specified. Existing law requires the commission to determine if there is a need for the procurement of eligible energy resources, as described, requires the commission to specify the eligible energy resources that should be procured to meet that need, and authorizes the commission, within 6 months of making that determination, to request the Department of Water Resources to procure those specified resources that meet the portfolio of resources, as specified. Existing law authorizes the department to procure those resources pursuant to that request only before January 1, 2035, as provided. Existing law authorizes the department to procure resources from a pump hydroelectric facility pursuant to these provisions if the pump hydroelectric facility does not exceed 500 megawatts and was directly appropriated funding by the state before January 1, 2023.\n\nThis bill would eliminate the requirement that a pump hydroelectric facility be directly appropriated funding by the state before January 1, 2023, in order for the department to procure resources from the facility.\n\nThis bill would incorporate additional changes to Section 454.52 of the Public Utilities Code proposed by AB 2369 to be operative only if this bill and AB 2369 are enacted and this bill is enacted last."
     }
   ],
   "other_titles": [],
@@ -286,6 +286,48 @@
       "_processing": {
         "log_file_created": "2026-08-19T07:46:19Z"
       }
+    },
+    {
+      "description": "Action rescinded whereby the bill was read third time, passed, and to Assembly.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:42Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:42Z"
+      }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -331,6 +373,17 @@
         }
       ],
       "date": "2026-04-27",
+      "classification": ""
+    },
+    {
+      "note": "08/20/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2476&version=20250AB247697AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-20",
       "classification": ""
     }
   ],
@@ -400,7 +453,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-19T07:46:19Z",
+    "logs_latest_update": "2026-08-21T07:52:42Z",
     "text_extraction_latest_update": "2026-08-19T07:50:43.470641Z"
   }
 }

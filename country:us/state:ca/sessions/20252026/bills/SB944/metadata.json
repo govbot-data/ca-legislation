@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law establishes the Medi-Cal program, which is administered by the State Department of Health Care Services and under which qualified low-income individuals receive health care services. The Medi-Cal program is in part governed by, and funded pursuant to, federal Medicaid program provisions. Existing law sets forth a schedule of benefits covered under the Medi-Cal program, including acupuncture, but only to the extent that federal matching funds are provided for acupuncture.\n\nUnder this bill, acupuncture would instead be a covered Medi-Cal benefit regardless of whether federal financial participation is available, subject to an appropriation and utilization controls."
+      "abstract": "Existing law establishes the Medi-Cal program, which is administered by the State Department of Health Care Services and under which qualified low-income individuals receive health care services. The Medi-Cal program is in part governed by, and funded pursuant to, federal Medicaid program provisions. Existing law sets forth a schedule of benefits covered under the Medi-Cal program, including acupuncture, but only to the extent that federal matching funds are provided for acupuncture.\n\nUnder this bill, acupuncture would instead be a covered Medi-Cal benefit subject to utilization controls and the availability of federal financial participation. The bill would, if federal financial participation is not available for coverage of acupuncture services, make acupuncture a covered benefit subject to an appropriation and utilization controls.\n\nThis bill would incorporate additional changes to Section 14132 of the Welfare and Institutions Code proposed by AB 1949 and AB 350 to be operative only if this bill and either or both AB 1949 and AB 350 are enacted and this bill is enacted last."
     }
   ],
   "other_titles": [],
@@ -287,6 +287,33 @@
       "_processing": {
         "log_file_created": "2026-08-18T07:45:25Z"
       }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -429,6 +456,17 @@
       ],
       "date": "2026-08-13",
       "classification": ""
+    },
+    {
+      "note": "08/20/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB944&version=20250SB94497AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-20",
+      "classification": ""
     }
   ],
   "documents": [
@@ -519,7 +557,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T07:45:25Z",
+    "logs_latest_update": "2026-08-21T07:52:43Z",
     "text_extraction_latest_update": "2026-08-18T07:58:53.589814Z"
   }
 }

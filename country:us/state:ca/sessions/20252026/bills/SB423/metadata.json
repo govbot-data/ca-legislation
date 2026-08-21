@@ -13,18 +13,10 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, the California Public Records Act, requires each state or local agency, upon a request for a copy of records that reasonably describes an identifiable record or records, to make the records promptly available to any person upon payment of fees covering direct costs of duplication, or a statutory fee if applicable, except with respect to public records exempt from disclosure by express provisions of law. Existing law requires, upon request, an exact copy to be provided unless it is impracticable to do so.\n\nThis bill would specify that a recording of a call or a written communication that is maintained by a state or local agency that reports or describes an incident, as defined, occurring at a private detention facility, and specified records relating to that call or communication in the possession of a law enforcement agency, are not confidential, and would require an agency to disclose those records upon request to any member of the public. By requiring agencies to disclose certain records to the public, the bill would increase the duties of local officials and create a state-mandated local program.\n\nExisting law specifies that, except as provided, the act does not require the disclosure of records of complaints to, or investigations conducted by, or records of intelligence information or security procedures of, the office of the Attorney General and the Department of Justice, the Office of Emergency Services and any state or local police agency, or any investigatory or security files compiled by any other state or local police agency, or any investigatory or security files compiled by any other state or local agency for correctional, law enforcement, or licensing purposes.\n\nThis bill would also except the above-described requirements relating to records relating to private detention facilities from that provision, but would specify that those requirements do not apply to the office of the Attorney General or the Department of Justice.\n\nThe California Constitution requires local agencies, for the purpose of ensuring public access to the meetings of public bodies and the writings of public officials and agencies, to comply with a statutory enactment that amends or enacts laws relating to public records or open meetings and contains findings demonstrating that the enactment furthers the constitutional requirements relating to this purpose.\n\nThis bill would make legislative findings to that effect.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+      "abstract": "Existing law, the California Public Records Act, requires each state or local agency, upon a request for a copy of records that reasonably describes an identifiable record or records, to make the records promptly available to any person upon payment of fees covering direct costs of duplication, or a statutory fee if applicable, except with respect to public records exempt from disclosure by express provisions of law. Existing law requires, upon request, an exact copy to be provided unless it is impracticable to do so.\n\nThis bill would specify that a recording of a call or a written communication that is maintained by a state or local agency that reports or describes an incident, as defined, occurring at a private detention facility, and specified records relating to that call or communication in the possession of a law enforcement agency, are not confidential, and would require an agency to disclose those records upon request to any member of the public. By requiring agencies to disclose certain records to the public, the bill would increase the duties of local officials and create a state-mandated local program.\n\nExisting law specifies that, except as provided, the act does not require the disclosure of records of complaints to, or investigations conducted by, or records of intelligence information or security procedures of, the office of the Attorney General and the Department of Justice, the Office of Emergency Services and any state or local police agency, or any investigatory or security files compiled by any other state or local police agency, or any investigatory or security files compiled by any other state or local agency for correctional, law enforcement, or licensing purposes.\n\nThis bill would also except the above-described requirements relating to records relating to private detention facilities from that provision, but would specify that those requirements do not apply to the office of the Attorney General, the Department of Justice, the Department of Consumer Affairs, or any state entity within the Department of Consumer Affairs, as specified.\n\nThe California Constitution requires local agencies, for the purpose of ensuring public access to the meetings of public bodies and the writings of public officials and agencies, to comply with a statutory enactment that amends or enacts laws relating to public records or open meetings and contains findings demonstrating that the enactment furthers the constitutional requirements relating to this purpose.\n\nThis bill would make legislative findings to that effect.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
     }
   ],
   "other_titles": [
-    {
-      "note": "",
-      "title": "Housing: real property transfer taxes: affordability covenants."
-    },
-    {
-      "note": "",
-      "title": "Inmate labor: firefighters."
-    },
     {
       "note": "",
       "title": "Inmate firefighters: local handcrew pilot program."
@@ -32,6 +24,14 @@
     {
       "note": "",
       "title": "Inmate firefighters: postsecondary education: enhanced firefighter training and certification program: local handcrew pilot program."
+    },
+    {
+      "note": "",
+      "title": "Housing: real property transfer taxes: affordability covenants."
+    },
+    {
+      "note": "",
+      "title": "Inmate labor: firefighters."
     },
     {
       "note": "",
@@ -711,6 +711,33 @@
       "_processing": {
         "log_file_created": "2026-08-18T07:45:25Z"
       }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T07:52:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -865,6 +892,17 @@
         }
       ],
       "date": "2026-08-13",
+      "classification": ""
+    },
+    {
+      "note": "08/20/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB423&version=20250SB42390AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-20",
       "classification": ""
     }
   ],
@@ -1034,7 +1072,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T07:45:25Z",
+    "logs_latest_update": "2026-08-21T07:52:43Z",
     "text_extraction_latest_update": "2026-08-18T07:57:52.287697Z"
   }
 }
