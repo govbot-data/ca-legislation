@@ -27,11 +27,11 @@
     },
     {
       "note": "",
-      "title": "California Environmental Quality Act:Infrastructure Projects."
+      "title": "California Science and Health Research Bond Act."
     },
     {
       "note": "",
-      "title": "California Science and Health Research Bond Act."
+      "title": "California Environmental Quality Act:Infrastructure Projects."
     }
   ],
   "other_identifiers": [
@@ -675,6 +675,18 @@
       "_processing": {
         "log_file_created": "2026-08-18T07:45:25Z"
       }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 3 p.m.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T07:45:10Z"
+      }
     }
   ],
   "sponsorships": [
@@ -830,6 +842,17 @@
       ],
       "date": "2026-07-02",
       "classification": ""
+    },
+    {
+      "note": "08/19/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB607&version=20250SB60790ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-19",
+      "classification": ""
     }
   ],
   "documents": [
@@ -973,7 +996,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T07:45:25Z",
+    "logs_latest_update": "2026-08-22T07:45:10Z",
     "text_extraction_latest_update": "2026-08-18T08:35:25.380153Z"
   }
 }

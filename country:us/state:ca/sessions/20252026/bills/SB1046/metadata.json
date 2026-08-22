@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, the California Occupational Safety and Health Act of 1973, exists for the purpose of assuring safe and healthful working conditions for all California workers by authorizing the enforcement of effective standards, assisting and encouraging employers to maintain safe and healthful working conditions, and providing for research, information, education, training, and enforcement in the field of occupational safety and health. Existing law establishes the Occupational Safety and Health Standards Board within the Department of Industrial Relations for the adoption of occupational safety and health standards and establishes the Division of Occupational Safety and Health in that department for the enforcement of those occupational safety and health standards, as prescribed. \n\nThis bill would require the division, on or before January 1, 2030, to propose to the board for its review and adoption, a standard that protects the health and safety of employees who risk high or prolonged exposure to transboundary pollution, as defined, in outdoor occupational environments, as specified. The bill would require the board to consider identifying an exposure threshold for hydrogen sulfide at which acute or chronic health effects occur to reference in the standards and may consider exposure thresholds for other relevant pollutants. The bill would authorize the board to develop the standard in consultation with other specified groups. The bill would authorize the board to adopt emergency regulations to implement these provisions."
+      "abstract": "Existing law, the California Occupational Safety and Health Act of 1973, exists for the purpose of assuring safe and healthful working conditions for all California workers by authorizing the enforcement of effective standards, assisting and encouraging employers to maintain safe and healthful working conditions, and providing for research, information, education, training, and enforcement in the field of occupational safety and health. Existing law establishes the Occupational Safety and Health Standards Board within the Department of Industrial Relations for the adoption of occupational safety and health standards and establishes the Division of Occupational Safety and Health in that department for the enforcement of those occupational safety and health standards, as prescribed. \n\nThis bill would require the division, on or before January 1, 2030, to propose to the standards board, for its consideration and possible adoption, a standard that protects the health and safety of employees who risk high or prolonged exposure to transboundary pollution, as defined, in outdoor occupational environments, as specified. The bill would require the division to consider identifying an exposure threshold for hydrogen sulfide at which acute or chronic health effects occur to reference in the standards and may consider exposure thresholds for other relevant pollutants. The bill would authorize the division to develop the standard in consultation with other specified groups. The bill would authorize the standards board to adopt emergency regulations to implement these provisions."
     }
   ],
   "other_titles": [
@@ -323,6 +323,43 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:24Z"
       }
+    },
+    {
+      "description": "Assembly Rule 69(b)(1) suspended.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T07:45:11Z"
+      }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T07:45:11Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T07:45:11Z"
+      }
     }
   ],
   "sponsorships": [
@@ -388,6 +425,17 @@
       ],
       "date": "2026-04-09",
       "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1046&version=20250SB104696AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
+      "classification": ""
     }
   ],
   "documents": [
@@ -445,6 +493,28 @@
       ],
       "date": "2026-06-29",
       "classification": "analysis"
+    },
+    {
+      "note": "08/14/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1046&analysisId=403701&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-14",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/21/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1046&analysisId=404764&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -467,7 +537,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:24Z",
+    "logs_latest_update": "2026-08-22T07:45:11Z",
     "text_extraction_latest_update": "2026-08-14T09:45:56.061780Z"
   }
 }

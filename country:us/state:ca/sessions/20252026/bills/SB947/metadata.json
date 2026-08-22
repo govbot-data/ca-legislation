@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law requires the Department of Technology to conduct, in coordination with other interagency bodies as it deems appropriate, a comprehensive inventory of all high-risk automated decision systems (ADS) that have been proposed for use, development, or procurement by, or are being used, developed, or procured by, any state agency.\n\nExisting law establishes the Labor and Workforce Development Agency, which is composed of various departments responsible for protecting and promoting the rights and interests of workers in California, including the Division of Labor Standards Enforcement, led by the Labor Commissioner, within the Department of Industrial Relations.\n\nThis bill would prohibit an employer, as defined, from using an ADS to perform certain functions and would limit the purposes for and way in which an ADS may be used. The bill would authorize a worker to request, and require an employer to provide, a copy of the most recent 12 months of the worker's own data primarily used by an ADS to make a disciplinary, termination, or deactivation decision, as specified. The bill would require an employer that primarily relied upon an ADS to make a disciplinary, termination, or deactivation decision to provide the affected worker with a written postuse notice, as specified.\n\nThis bill would prohibit an employer from discharging, threatening to discharge, demoting, suspending, or in any manner discriminating or retaliating against any worker for taking certain actions asserting their rights under the bill. The bill would require the Labor Commissioner to enforce the bill's provisions and also authorize a public prosecutor to bring a civil enforcement action, as specified. The bill would set forth specified types of relief that a plaintiff may seek and specified penalties that an employer that violates these provisions is subject to, including a $500 civil penalty per violation.\n\nThis bill would also provide that an employer who complies with the requirements related to notice in this bill is not required to comply with any substantially similar provisions under any other state law, except as specified. The bill would not apply to parties covered by a valid collective bargaining agreement if the agreement contains specified information, including an explicit waiver of the bill's provisions. The bill would exempt from its provisions the use of an automated decision system to the extent that its use is required by, or reasonably necessary to comply with, a federal statute, federal regulation, or binding federal contract relating to the development of aircraft for use in the national airspace or the development of products or services for national security, military, space, or defense purposes, as specified.\n\nThe bill would include a statement that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.\n\nThis bill would declare that its provisions are severable."
+      "abstract": "Existing law requires the Department of Technology to conduct, in coordination with other interagency bodies as it deems appropriate, a comprehensive inventory of all high-risk automated decision systems (ADS) that have been proposed for use, development, or procurement by, or are being used, developed, or procured by, any state agency.\n\nExisting law establishes the Labor and Workforce Development Agency, which is composed of various departments responsible for protecting and promoting the rights and interests of workers in California, including the Division of Labor Standards Enforcement, led by the Labor Commissioner, within the Department of Industrial Relations.\n\nThis bill, beginning on July 1, 2027, would prohibit an employer, as defined, from using an ADS to perform certain functions and would limit the purposes for and way in which an ADS may be used. The bill would, when an employer primarily uses an ADS to make a disciplinary or termination decision, authorize an employee to request, and require an employer to provide, a description of the employee's own data primarily used by an ADS to make a disciplinary or termination decision, as specified. The bill would require an employer that primarily relied upon an ADS to make a disciplinary or termination decision to provide the affected employee with a written postuse notice, as specified.\n\nThis bill would prohibit an employer from discharging, threatening to discharge, demoting, suspending, or in any manner discriminating or retaliating against any employee for taking certain actions asserting their rights under the bill. The bill would authorize the Labor Commissioner to enforce the bill's provisions and also authorize a public prosecutor to bring a civil enforcement action, as specified. The bill would set forth specified types of relief that a plaintiff may seek and specified penalties that an employer that violates these provisions is subject to, including a $500 civil penalty per violation.\n\nThis bill would also provide that an employer who complies with the requirements related to notice in this bill is not required to comply with any substantially similar provisions under any other state law, except as specified. The bill would not apply to parties covered by a valid collective bargaining agreement if the agreement contains specified information, including an explicit waiver of the bill's provisions. The bill would provide that it does not prohibit the use of an automated decision system relating to the development of aircraft for use in the national airspace or the development of products or services for national security, military, space, or defense purposes, if the use of an automated decision system is reasonably necessary to comply with the federal statute, the federal regulation, or the binding federal contract, as specified.\n\nThe bill would include a statement that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.\n\nThis bill would declare that its provisions are severable."
     }
   ],
   "other_titles": [],
@@ -461,6 +461,43 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:24Z"
       }
+    },
+    {
+      "description": "Assembly Rule 69(b)(1) suspended.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T07:45:11Z"
+      }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T07:45:11Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T07:45:11Z"
+      }
     }
   ],
   "sponsorships": [
@@ -597,6 +634,17 @@
       ],
       "date": "2026-07-02",
       "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB947&version=20250SB94791AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
+      "classification": ""
     }
   ],
   "documents": [
@@ -698,6 +746,17 @@
       ],
       "date": "2026-08-03",
       "classification": "analysis"
+    },
+    {
+      "note": "08/14/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB947&analysisId=403690&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-14",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -720,7 +779,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:24Z",
+    "logs_latest_update": "2026-08-22T07:45:11Z",
     "text_extraction_latest_update": "2026-08-14T09:49:31.306814Z"
   }
 }

@@ -23,11 +23,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Personal Income Tax Law and Corporation Tax Law: credits: local news organizations."
+      "title": "Taxation."
     },
     {
       "note": "",
-      "title": "Taxation."
+      "title": "Personal Income Tax Law and Corporation Tax Law: credits: local news organizations."
     }
   ],
   "other_identifiers": [
@@ -447,6 +447,20 @@
       "_processing": {
         "log_file_created": "2026-08-21T07:52:43Z"
       }
+    },
+    {
+      "description": "Read second time and amended. Ordered returned to second reading.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T07:45:10Z"
+      }
     }
   ],
   "sponsorships": [
@@ -722,7 +736,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-21T07:52:43Z",
+    "logs_latest_update": "2026-08-22T07:45:10Z",
     "text_extraction_latest_update": "2026-08-21T08:03:10.612493Z"
   }
 }

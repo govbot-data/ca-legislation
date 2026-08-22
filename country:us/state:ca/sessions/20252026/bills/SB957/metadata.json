@@ -1,24 +1,25 @@
 {
   "legislative_session": "20252026",
   "identifier": "SB957",
-  "title": "Privacy: social media companies: administrative subpoenas: remedies.",
+  "title": "Civil detention facilities.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Privacy",
-    "administrativesubpoenas",
-    "remedies",
-    "socialmediacompanies"
+    "Civildetentionfacilities"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law generally regulates social media platforms, including, among other laws, the Protecting Our Kids from Social Media Addiction Act that prohibits an operator of an addictive internet-based service or application, including a social media platform, from providing an addictive feed, as defined, to a minor user, except as prescribed. Existing law, the California Consumer Privacy Act of 2018, grants consumers various rights with respect to personal information, as defined, that is collected by a business, as defined. Existing law, the California Values Act, generally prohibits California law enforcement agencies from using their moneys or personnel for immigration enforcement purposes, except as specified.\n\nExisting federal law authorizes specified federal officers to require, among other things, the attendance and testimony of witnesses before immigration officers and the production of books, papers, and documents relating to, among other things, the privilege of any person to enter, reenter, reside in, or pass through the United States.\n\nThis bill would require a social media company, as defined, to promptly notify an individual whose personal information is requested by an administrative subpoena issued as described above, except as specified. The bill would require the social media company to provide the individual whose personal information is requested in an administrative subpoena with at least 30 days to respond to or challenge the administrative subpoena before responding to the administrative subpoena. The bill would also require a social media platform, before responding to an administrative subpoena, to determine if the administrative subpoena is invalid for any of specified reasons, including that the information requested by the subpoena is too indefinite or broad, except as specified.\n\n This bill would require a social media company that discloses personal information in response to an administrative subpoena to provide notice to the individual whose information was disclosed and would require a social media company that responds to an administrative subpoena to notify the Attorney General of that response, as specified. The bill would prohibit a social media company from responding to an administrative subpoena for personal information while a legal challenge to the subpoena is pending if the social media company has actual knowledge of the challenge.\n\n This bill would require the Attorney General to develop a process for a social media company to submit the notice described above, as specified. The bill would exempt notices submitted as described above from the California Public Records Act. The bill would authorize the Attorney General, and a person whose information has been shared in violation of the above provisions by a social media company, to bring an action for injunctive or declaratory relief, as specified. The bill would declare its provisions severable.\n\nExisting constitutional provisions require that a statute that limits the right of access to the meetings of public bodies or the writings of public officials and agencies be adopted with findings demonstrating the interest protected by the limitation and the need for protecting that interest.\n\nThis bill would make legislative findings to that effect."
+      "abstract": "Existing law requires the operator of a private detention facility, as defined, to comply with, and adhere to, the detention standards of care and confinement agreed upon in the facility's contract for operations, as specified. Existing law requires a private detention facility operator to comply with, and adhere to, all local and state public health orders and occupational safety and health regulations.\n\nThis bill, the Protecting Vulnerable Immigrant Detainees Model Act, would require the Attorney General, on or before December 31, 2027, to submit to the Legislature a proposed oversight plan for private civil detention facilities that protects the health, safety, and welfare of persons detained in those facilities, as specified. The bill would require the Governor to direct the appropriate state entity to cooperate with the Attorney General for the purposes of developing the oversight plan, as specified.\n\nThe bill would make related findings and declarations.\n\nExisting constitutional provisions require that a statute that limits the right of access to the meetings of public bodies or the writings of public officials and agencies be adopted with findings demonstrating the interest protected by the limitation and the need for protecting that interest.\n\nThis bill would make legislative findings to that effect."
     }
   ],
   "other_titles": [
+    {
+      "note": "",
+      "title": "Privacy: social media companies: administrative subpoenas: remedies."
+    },
     {
       "note": "",
       "title": "Online dating services."
@@ -408,6 +409,43 @@
       "_processing": {
         "log_file_created": "2026-08-18T07:45:25Z"
       }
+    },
+    {
+      "description": "Assembly Rule 69(b)(1) suspended.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T07:45:11Z"
+      }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T07:45:11Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T07:45:11Z"
+      }
     }
   ],
   "sponsorships": [
@@ -486,6 +524,17 @@
         }
       ],
       "date": "2026-08-13",
+      "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB957&version=20250SB95794AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
       "classification": ""
     }
   ],
@@ -587,7 +636,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to add Chapter 31.7 (commencing with Section 22946.5) to Division 8 of the Business and Professions Code, relating to privacy.",
+    "impact_clause": "An act to add Division 123 (commencing with Section 153000) to the Health and Safety Code, relating to civil detention facilities.",
     "tags": [
       "fiscal committee"
     ]
@@ -599,7 +648,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T07:45:25Z",
+    "logs_latest_update": "2026-08-22T07:45:11Z",
     "text_extraction_latest_update": "2026-08-18T08:46:32.192658Z"
   }
 }

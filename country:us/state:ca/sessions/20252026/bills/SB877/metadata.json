@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law generally regulates classes of insurance, including residential property insurance. Existing law prohibits a policy of residential property insurance from being issued or renewed by an insurer unless the named insured is provided a copy of specified information, including the California Residential Insurance Disclosure. Under existing law, the California Standard Form Fire Insurance Policy requires an insured to notify every claimant that they can request copies of claim-related documents, as defined to include all valuation, measurement, and loss adjustment calculations of the amount of loss, covered damage, and cost of repairs, that the insurer is required to provide within 15 calendar days of the request. Under existing law, it is a misdemeanor to issue or countersign a fire policy that varies from the standard form fire insurance policy.\n\nThis bill would modify the definition of claim-related documents for purposes of the above-described provisions to include all valuation, measurement, and loss adjustment calculations, whether preliminary or final, that relate to the amount of loss, covered damage, and cost of repairs. Because the bill would make changes to the standard form for fire insurance, the bill would expand the scope of an existing crime and impose a state-mandated local program. \n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+      "abstract": "Existing law generally regulates classes of insurance, including residential property insurance. Existing law prohibits a policy of residential property insurance from being issued or renewed by an insurer unless the named insured is provided a copy of specified information, including the California Residential Insurance Disclosure. Under existing law, the California Standard Form Fire Insurance Policy requires an insured to notify every claimant that they can request copies of claim-related documents, as defined to include all valuation, measurement, and loss adjustment calculations of the amount of loss, covered damage, and cost of repairs, that the insurer is required to provide within 15 calendar days of the request. Under existing law, it is a misdemeanor to issue or countersign a fire policy that varies from the standard form fire insurance policy.\n\nThis bill would modify the definition of claim-related documents for purposes of the above-described provisions to include all valuation, measurement, and loss adjustment calculations, whether preliminary or final, that relate to the amount of loss, covered damage, and cost of repairs. Because the bill would make changes to the standard form for fire insurance, the bill would expand the scope of an existing crime and impose a state-mandated local program. \n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason.\n\nThis bill would incorporate additional changes to Section 2071 of the Insurance Code proposed by SB 876 to be operative only if this bill and SB 876 are enacted and this bill is enacted last."
     }
   ],
   "other_titles": [],
@@ -300,6 +300,43 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:25Z"
       }
+    },
+    {
+      "description": "Assembly Rule 69(b)(1) suspended.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T07:45:10Z"
+      }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T07:45:10Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T07:45:10Z"
+      }
     }
   ],
   "sponsorships": [
@@ -325,6 +362,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Allen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ochoa Bogh",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ochoa Bogh\"}",
       "organization_id": null
     }
   ],
@@ -372,6 +417,17 @@
         }
       ],
       "date": "2026-06-10",
+      "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB877&version=20250SB87796AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
       "classification": ""
     }
   ],
@@ -430,6 +486,28 @@
       ],
       "date": "2026-08-03",
       "classification": "analysis"
+    },
+    {
+      "note": "08/14/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB877&analysisId=403676&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-14",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/21/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB877&analysisId=404790&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -453,7 +531,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:25Z",
+    "logs_latest_update": "2026-08-22T07:45:10Z",
     "text_extraction_latest_update": "2026-08-14T08:27:10.573817Z"
   }
 }

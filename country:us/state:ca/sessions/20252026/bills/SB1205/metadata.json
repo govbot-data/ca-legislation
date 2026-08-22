@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law imposes various requirements regarding the formation, content, and enforcement of public works contracts. Existing law generally requires that retention proceeds withheld from payment by a public entity be released within 60 days after the date of completion of the work of improvement, except as specified in case of a dispute. Existing law limits the allowable amount of retention proceeds withheld in a contract between a public entity and the original contractor, a contract between the original contractor and a subcontractor, and a contract between subcontractors, as specified. Existing law defines \"public entity\" differently for these various purposes.\n\nThis bill would prohibit any retention payments from exceeding 5% of the payment for contracts under design-bid-build, and amendments thereto, entered into on or after January 1, 2027, directly between a public entity and an individual or legal entity permitted by law to practice the profession of architecture or engineering, unless the public entity makes a finding that the project is substantially complex and therefore requires a higher retention amount and the public entity includes in the contract details explaining the basis for the finding and the actual retention amount. The bill would require any retention withheld to be released no later than 60 days after completion of services under contract. The bill would define terms for its purposes, including \"public entity.\""
+      "abstract": "Existing law imposes various requirements regarding the formation, content, and enforcement of public works contracts. Existing law generally requires that retention proceeds withheld from payment by a public entity be released within 60 days after the date of completion of the work of improvement, except as specified in case of a dispute. Existing law limits the allowable amount of retention proceeds withheld in a contract between a public entity and the original contractor, a contract between the original contractor and a subcontractor, and a contract between subcontractors, as specified. Existing law defines \"public entity\" differently for these various purposes.\n\nThis bill would prohibit any retention payments from exceeding 5% of the payment for contracts under design-bid-build, and amendments thereto, entered into on or after January 1, 2027, directly between a public entity and an individual or legal entity permitted by law to practice the profession of architecture or engineering, except for specific projects where, among other things, a finding has been made that the project is substantially complex and requires a higher retention amount. The bill would require any retention withheld to be released no later than 60 days after completion of services under contract. The bill would define terms for its purposes, including \"public entity.\""
     }
   ],
   "other_titles": [
@@ -385,6 +385,43 @@
       "_processing": {
         "log_file_created": "2026-08-18T07:45:25Z"
       }
+    },
+    {
+      "description": "Assembly Rule 69(b)(1) suspended.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T07:45:10Z"
+      }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T07:45:10Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T07:45:10Z"
+      }
     }
   ],
   "sponsorships": [
@@ -452,6 +489,17 @@
         }
       ],
       "date": "2026-08-13",
+      "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1205&version=20250SB120595AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
       "classification": ""
     }
   ],
@@ -532,6 +580,17 @@
       ],
       "date": "2026-08-17",
       "classification": "analysis"
+    },
+    {
+      "note": "08/21/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1205&analysisId=404793&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -554,7 +613,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T07:45:25Z",
+    "logs_latest_update": "2026-08-22T07:45:10Z",
     "text_extraction_latest_update": "2026-08-18T08:32:13.254687Z"
   }
 }

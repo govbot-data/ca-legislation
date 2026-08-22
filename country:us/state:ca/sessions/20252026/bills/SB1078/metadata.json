@@ -1,26 +1,29 @@
 {
   "legislative_session": "20252026",
   "identifier": "SB1078",
-  "title": "Civil rights violations: service of process: Civil Rights Department.",
+  "title": "Gift certificates: cash redemption.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "CivilRightsDepartment",
-    "Civilrightsviolations",
-    "serviceofprocess"
+    "Giftcertificates",
+    "cashredemption"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, including the Unruh Civil Rights Act, the Ralph Civil Rights Act of 1976, and the Tom Bane Civil Rights Act, specifies various civil rights based on specified characteristics. Among these rights are the right to be free from discrimination in business establishments, right to be free from violence or intimidation, and right to be free from interference with the exercise of legal rights through threats, intimidation, or coercion. Existing law establishes liability for sexual harassment within certain professional relationships. If a violation of any of these specified civil rights is alleged or the application or construction thereof is in issue in any proceeding in the Supreme Court of California, the state court of appeal, or the appellate division of a superior court, existing law requires each party to serve a copy of the party's brief or petition and brief on the State Solicitor General at the office of the Attorney General.\n\nThis bill would additionally require each party to serve a copy of the party's brief or petition and brief on the Director of the Civil Rights Department."
+      "abstract": "Existing law, commencing April 1, 2026, makes a gift certificate with a cash value of less than $15 redeemable in cash for its cash value.\n\nThis bill would authorize the issuer of a gift certificate that contains printed language on the certificate stating a cash redemption threshold that is lower than the amount described above to sell the gift certificate until December 31, 2028, if certain requirements are met, including that the gift certificate was manufactured or printed before April 1, 2026, and the issuer of the gift certificate displays at specified point-of-sale devices, a notice stating that a gift certificate with a cash value of less than $15 is redeemable in cash for its cash value, as provided."
     }
   ],
   "other_titles": [
     {
       "note": "",
       "title": "Transactions and use taxes: County of Santa Cruz."
+    },
+    {
+      "note": "",
+      "title": "Civil rights violations: service of process: Civil Rights Department."
     }
   ],
   "other_identifiers": [
@@ -289,6 +292,43 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:24Z"
       }
+    },
+    {
+      "description": "Assembly Rule 69(b)(1) suspended.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T07:45:10Z"
+      }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T07:45:10Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T07:45:10Z"
+      }
     }
   ],
   "sponsorships": [
@@ -298,6 +338,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Laird\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pellerin",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pellerin\"}",
       "organization_id": null
     }
   ],
@@ -334,6 +382,17 @@
         }
       ],
       "date": "2026-06-10",
+      "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1078&version=20250SB107897AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
       "classification": ""
     }
   ],
@@ -392,6 +451,17 @@
       ],
       "date": "2026-08-03",
       "classification": "analysis"
+    },
+    {
+      "note": "08/14/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1078&analysisId=403712&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-14",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -402,10 +472,8 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Section 51.1 of the Civil Code, relating to civil rights.",
-    "tags": [
-      "fiscal committee"
-    ]
+    "impact_clause": "An act to add Section 1749.52 to the Civil Code, relating to gift certificates.",
+    "tags": []
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ca/government",
@@ -414,7 +482,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:24Z",
+    "logs_latest_update": "2026-08-22T07:45:10Z",
     "text_extraction_latest_update": "2026-08-14T10:00:13.886591Z"
   }
 }

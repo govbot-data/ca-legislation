@@ -18,15 +18,15 @@
   "other_titles": [
     {
       "note": "",
+      "title": "Immigration enforcement: polling places and child daycare facilities."
+    },
+    {
+      "note": "",
       "title": "Immigration enforcement: child daycare facilities."
     },
     {
       "note": "",
       "title": "Search warrants."
-    },
-    {
-      "note": "",
-      "title": "Immigration enforcement: polling places and child daycare facilities."
     }
   ],
   "other_identifiers": [
@@ -491,6 +491,21 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:37Z"
       }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T07:45:10Z"
+      }
     }
   ],
   "sponsorships": [
@@ -680,7 +695,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:37Z",
+    "logs_latest_update": "2026-08-22T07:45:10Z",
     "text_extraction_latest_update": "2026-07-22T12:35:17.180189Z"
   }
 }

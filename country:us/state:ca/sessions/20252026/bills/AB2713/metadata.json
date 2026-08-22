@@ -19,7 +19,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "California AI Transparency Act: system provenance data: inspection."
+      "title": "California AI Transparency Act: civil penalty."
     },
     {
       "note": "",
@@ -27,7 +27,7 @@
     },
     {
       "note": "",
-      "title": "California AI Transparency Act: civil penalty."
+      "title": "California AI Transparency Act: system provenance data: inspection."
     }
   ],
   "other_identifiers": [
@@ -269,6 +269,21 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:27Z"
       }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T07:45:10Z"
+      }
     }
   ],
   "sponsorships": [
@@ -411,7 +426,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:27Z",
+    "logs_latest_update": "2026-08-22T07:45:10Z",
     "text_extraction_latest_update": "2026-07-21T22:45:54.112998Z"
   }
 }

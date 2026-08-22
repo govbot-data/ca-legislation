@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law establishes the Labor and Workforce Development Agency, which is composed of various departments responsible for protecting and promoting the rights and interests of workers in California, including the Division of Labor Standards Enforcement, led by the Labor Commissioner (commissioner) , within the Department of Industrial Relations. Existing law establishes the Employment Development Department (EDD) , which is administered by the Director of Employment Development. Under existing law, the Director of Employment Development is vested with specified duties, purposes, responsibilities, and jurisdiction related to job creation activity functions, among other things.\n\nExisting law, the California Worker Adjustment and Retraining Act (Cal/WARN Act) , prohibits an employer from ordering a mass layoff, relocation, or termination at a covered establishment unless, 60 days before the order takes effect, the employer gives written notice of the order to the employees affected by the order and to the EDD and certain local officials. Existing law makes an employer who fails to give specified notice regarding a mass layoff, relocation, or termination subject to a civil penalty of not more than $500 for each day of the employer's violation.\n\nThis bill would revise the Cal/WARN Act to also require an employer giving notice of a mass layoff, relocation, or termination caused in whole or in substantial part by an artificial intelligence (AI) system or other automated technology replacing or automating employment positions to include certain information in the notice, including the job functions performed by workers that will be automated by AI.\n\nThe bill would additionally require an employer to provide the EDD with a written technology hiring disruption notice that contains specified information about the employer's use of AI or other automation when that employer executes a technological cessation in hiring, as specified. The bill would require the EDD to post summaries of notices received pursuant to these provisions on its internet website as part of the existing notice requirements of the Cal/WARN Act, compile quarterly summaries regarding worker displacement due to AI and automation with the report including a link to the Cal/WARN Act notice report internet website, and submit the report to specified legislative committees. The bill would make an employer who fails to give a written technology hiring disruption notice when it executes a technological cessation in hiring liable for a civil penalty of not more than $500 for each day of the employer's violation. The bill would authorize the Labor Commissioner to enforce these notice requirements and would make various related, conforming changes to the Cal/WARN Act.\n\nThe bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities and counties, including charter cities and charter counties."
+      "abstract": "Existing law, the California Worker Adjustment and Retraining Act (Cal/WARN Act) , prohibits an employer from ordering a mass layoff, relocation, or termination at a covered establishment unless, 60 days before the order takes effect, the employer gives written notice of the order to the employees affected by the order and to the Employment Development Department and certain local officials. Existing law makes an employer who fails to give specified notice regarding a mass layoff, relocation, or termination subject to a civil penalty of not more than $500 for each day of the employer's violation.\n\nThis bill would revise the Cal/WARN Act to also require an employer giving notice of a mass layoff, relocation, or termination caused in whole or in substantial part by an artificial intelligence (AI) system or other automated technology replacing or automating employment positions to include certain information in the notice, including the job functions performed by workers that will be automated by AI or other automated technology. The bill would require the department to publish a summary of the notices received on its internet website and to post a quarterly statewide summary of technological displacements reported. The bill would require the department, on or before January 1, 2028, to submit a report to the Legislature on artificial intelligence's effects on business hiring practices, including its impact on industries and occupations at the state and regional level. The bill would repeal the provision requiring that report on January 1, 2029."
     }
   ],
   "other_titles": [],
@@ -435,6 +435,43 @@
       "_processing": {
         "log_file_created": "2026-08-18T07:45:25Z"
       }
+    },
+    {
+      "description": "Assembly Rule 69(b)(1) suspended.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T07:45:11Z"
+      }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T07:45:11Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T07:45:11Z"
+      }
     }
   ],
   "sponsorships": [
@@ -563,6 +600,17 @@
       ],
       "date": "2026-08-13",
       "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB951&version=20250SB95191AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
+      "classification": ""
     }
   ],
   "documents": [
@@ -664,6 +712,17 @@
       ],
       "date": "2026-08-17",
       "classification": "analysis"
+    },
+    {
+      "note": "08/21/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB951&analysisId=404779&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -674,7 +733,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Sections 1400.5, 1401, 1403, and 1406 of, and to add Section 1402.7 to, the Labor Code, relating to employment.",
+    "impact_clause": "An act to amend Sections 1400.5 and 1401 of, and to add and repeal Section 1402.7 of, the Labor Code, relating to employment.",
     "tags": [
       "fiscal committee"
     ]
@@ -686,7 +745,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T07:45:25Z",
+    "logs_latest_update": "2026-08-22T07:45:11Z",
     "text_extraction_latest_update": "2026-08-18T08:37:25.635703Z"
   }
 }

@@ -20,11 +20,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "State government: office buildings: day care centers."
+      "title": "State agencies: privacy policy."
     },
     {
       "note": "",
-      "title": "State agencies: privacy policy."
+      "title": "State government: office buildings: day care centers."
     }
   ],
   "other_identifiers": [
@@ -413,6 +413,21 @@
       "_processing": {
         "log_file_created": "2026-08-21T07:52:43Z"
       }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T07:45:10Z"
+      }
     }
   ],
   "sponsorships": [
@@ -601,7 +616,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-21T07:52:43Z",
+    "logs_latest_update": "2026-08-22T07:45:10Z",
     "text_extraction_latest_update": "2026-08-21T08:07:03.079361Z"
   }
 }
