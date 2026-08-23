@@ -1,24 +1,30 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB1969",
-  "title": "California Coordinated Neighborhood and Community Schools Incentive Grant Program.",
+  "title": "California Community Schools Partnership Program: Promise Neighborhoods.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
-    "bill"
+    "bill",
+    "appropriation"
   ],
   "subject": [
-    "CaliforniaCoordinatedNeighborhoodandCommunitySchoolsIncentiveGrantProgram"
+    "CaliforniaCommunitySchoolsPartnershipProgram",
+    "PromiseNeighborhoods"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law requires the Department of Community Services and Development to, among other things, plan and evaluate strategies for overcoming poverty in the state, mobilize resources in support of antipoverty and community services programs, and administer public and private funds designed to support antipoverty programs that are not currently administered by other departments.\n\nExisting law establishes the Cradle-to-Career Data System for the purpose of connecting individuals and organizations to trusted information and resources, as a source for actionable data and research on education, economic, and health outcomes for individuals, families, and communities, and to provide for expanded access to tools and services that support the education-to-employment pipeline, as specified.\n\nThis bill, the It Takes a Village Act of 2026, upon appropriation in the annual Budget Act or another statute for these purposes, would establish the California Coordinated Neighborhood and Community Schools Incentive Grant Program to be administered by the State Department of Social Services or another department within the California Health and Human Services Agency. The bill would require the department to grant awards for the 2026\u201327 and 2027\u201328 fiscal years to eligible entities that are neighborhood partnerships, Promise Neighborhoods, or regional partnerships, as those terms are defined, to support educational outcomes, reduce child poverty, and advance economic mobility for children and families disproportionately affected by intergenerational poverty. The bill would require the department, in consultation with the State Board of Education and the State Department of Education, to develop an application process and would require the department to establish performance standards to measure progress on indicators and results relevant to the evaluation of the grant program. The bill would require each grant recipient to prepare and submit an annual report to the department that includes information about the number and percentage of children, family members, and community members served by the grant recipient and disaggregated data at population and program levels related to the grant recipient's program's success, as specified. The bill would make that data subject to all applicable privacy laws and would require the department to enforce data privacy and protection policies with all grant recipients."
+      "abstract": "The Budget Act of 2026 appropriates, for the 2026\u201327 fiscal year, $1,000,000,000 from the General Fund to the State Department of Education to administer the California Community Schools Partnership Program to distribute funding to local educational agencies, as defined, in accordance with a specified formula, to support a network of their eligible schoolsites to implement new, and provide ongoing support for existing, community schools, as provided. Existing law authorizes a local educational agency who receives funds under these provisions to retain up to 10% of the total funds awarded for its eligible schoolsites each fiscal year to be used for specified activities, including, among other things, administering community schools established at eligible schoolsites.\n\nThis bill, to be known as the It Takes a Village Act of 2026, would (1) require any retained funds described above to be used consistent with a specified community schools framework, as provided, and (2) authorize a local educational agency that retains those funds to also use those funds to serve as a network lead for multiple schoolsites located in a Promise Neighborhood, as provided. By expanding the purposes for which previously appropriated moneys may be expended, the bill would make an appropriation."
     }
   ],
   "other_titles": [
     {
       "note": "",
       "title": "California Coordinated Neighborhood and Community Services Grant Program."
+    },
+    {
+      "note": "",
+      "title": "California Coordinated Neighborhood and Community Schools Incentive Grant Program."
     }
   ],
   "other_identifiers": [
@@ -301,6 +307,21 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:24Z"
       }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-23T07:41:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -357,6 +378,17 @@
         }
       ],
       "date": "2026-06-10",
+      "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1969&version=20250AB196996AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
       "classification": ""
     }
   ],
@@ -415,6 +447,17 @@
       ],
       "date": "2026-06-26",
       "classification": "analysis"
+    },
+    {
+      "note": "08/15/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1969&analysisId=404006&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-15",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -425,7 +468,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to add Chapter 10 (commencing with Section 8300) to Division 8 of the Welfare and Institutions Code, relating to poverty.",
+    "impact_clause": "An act to amend Section 8903 of the Education Code, relating to community schools, and making an appropriation therefor.",
     "tags": [
       "fiscal committee"
     ]
@@ -437,7 +480,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:24Z",
+    "logs_latest_update": "2026-08-23T07:41:28Z",
     "text_extraction_latest_update": "2026-08-14T09:49:00.243338Z"
   }
 }

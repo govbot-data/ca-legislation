@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law authorizes the removal and seizure of a vehicle under various circumstances, including whenever a peace officer determines that a person was driving without a license or while their driving privilege was suspended or revoked, or when a city or a county adopts an ordinance declaring a motor vehicle to be a public nuisance. Existing law requires that a vehicle be released to the legal owner of the vehicle or the legal owner's agent prior to the end of the impoundment period if specified conditions are met, including, among other things, that the legal owner or the legal owner's agent pays all towing and storage fees related to the seizure of the vehicle and presents specified documents showing proof of legal ownership. With regards to the payment of the fees, existing law requires a person operating or in charge of a storage facility where vehicles are stored to accept a valid bank credit card or cash for payment by a legal or registered owner or the owner's agent claiming the vehicle. Existing law prohibits any tow yard, impounding agency, or governmental agency, or any person acting on behalf of those entities, from refusing to release a vehicle or other collateral to anyone that is legally entitled to that vehicle or other collateral.\n\n A violation of any provision of the Vehicle Code is punishable as a crime, unless otherwise specified.\n\nThis bill would additionally require the acceptance of debit cards, as defined, for the payment of the fees described above. The bill would provide that requiring any documents to show proof of ownership other than those specified in the provisions described above constitutes a refusal to release under the prohibition described above. The bill would also make other technical, clarifying, and conforming changes. By expanding the scope of existing crimes and creating a new crime, this bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+      "abstract": "Existing law authorizes the removal and seizure of a vehicle under various circumstances, including whenever a peace officer determines that a person was driving without a license or while their driving privilege was suspended or revoked, or when a city or a county adopts an ordinance declaring a motor vehicle to be a public nuisance. Existing law requires that a vehicle be released to the legal owner of the vehicle or the legal owner's agent prior to the end of the impoundment period if specified conditions are met, including, among other things, that the legal owner or the legal owner's agent pays all towing and storage fees related to the seizure of the vehicle and presents specified documents showing proof of legal ownership. With regards to the payment of the fees, existing law requires a person operating or in charge of a storage facility where vehicles are stored to accept a valid bank credit card or cash for payment by a legal or registered owner or the owner's agent claiming the vehicle. Existing law prohibits any tow yard, impounding agency, or governmental agency, or any person acting on behalf of those entities, from refusing to release a vehicle or other collateral to anyone that is legally entitled to that vehicle or other collateral.\n\n A violation of any provision of the Vehicle Code is punishable as a crime, unless otherwise specified.\n\nThis bill would additionally require the acceptance of debit cards, as defined, for the payment of the fees described above. The bill would provide that requiring any documents to show proof of ownership other than those specified in the provisions described above constitutes a refusal to release under the prohibition described above. The bill would also make other technical, clarifying, and conforming changes. By expanding the scope of existing crimes and creating a new crime, this bill would impose a state-mandated local program.\n\nThis bill would incorporate additional changes to Section 14602.6 of the Vehicle Code proposed by AB 1830 to be operative only if this bill and AB 1830 are enacted and this bill is enacted last.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
     }
   ],
   "other_titles": [
@@ -365,6 +365,48 @@
       "_processing": {
         "log_file_created": "2026-08-21T07:52:42Z"
       }
+    },
+    {
+      "description": "Action rescinded whereby the bill was read third time, passed, and to Assembly.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-23T07:41:28Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-23T07:41:28Z"
+      }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-23T07:41:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -432,6 +474,17 @@
         }
       ],
       "date": "2026-06-15",
+      "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2437&version=20250AB243795AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
       "classification": ""
     }
   ],
@@ -513,7 +566,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-21T07:52:42Z",
+    "logs_latest_update": "2026-08-23T07:41:28Z",
     "text_extraction_latest_update": "2026-08-21T08:03:51.632268Z"
   }
 }

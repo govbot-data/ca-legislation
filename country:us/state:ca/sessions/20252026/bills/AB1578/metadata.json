@@ -1,26 +1,31 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB1578",
-  "title": "State and local officials: sexual harassment training and education: anti-hate speech training.",
+  "title": "State agency officials: training on responding to hate: local agency officials: anti-hate speech training.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Stateandlocalofficials",
+    "Stateagencyofficials",
     "anti-hatespeechtraining",
-    "sexualharassmenttrainingandeducation"
+    "localagencyofficials",
+    "trainingonrespondingtohate"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "The California Fair Employment and Housing Act makes specified employment practices unlawful, including the harassment of an employee directly by the employer or indirectly by agents of the employer with the employer's knowledge. Under existing law, the Civil Rights Department administers these provisions. Existing law requires a specified employer with 5 or more employees to, by January 1, 2021, provide at least 2 hours of classroom or other effective interactive training and education regarding sexual harassment to all supervisory employees and at least one hour of classroom or other effective interactive training and education regarding sexual harassment to all nonsupervisory employees in California and, after that date, once every 2 years. Existing law requires an employer to include prevention of abusive conduct as a component of that training and education.\n\nThis bill would additionally require, beginning on January 1, 2028, for an employer that is a state agency or local agency that the above-described training and education include, as a component of the training and education for elected officials, anti-hate speech training, as described.\n\nExisting law requires an employee who has received the above-described training and education within the prior 2 years as specified, to be given, and be required to read and to acknowledge receipt of, the employer's anti-harassment policy within 6 months of assuming the employee's new position. Existing law requires the employee then be put on a 2-year tracking schedule based on the employee's last training. Under existing law, the current employer has the burden of establishing that the prior training was legally compliant with the act.\n\nThis bill would specify that a state official or local official who serves more than one state agency or local agency only be required to receive the above-described training once every 2 years without regard to the number of state agencies or local agencies the official serves.\n\nExisting law requires local agency officials, as defined, to receive sexual harassment prevention training and education if the local agency provides any type of compensation, salary, or stipend to those officials. Existing law requires the training and education to include practical examples aimed at instructing the local agency official in the prevention of sexual harassment, discrimination, and retaliation.\n\nThis bill would additionally require, beginning on January 1, 2028, the above-described training and education include for any elected state or local official, as a component of the training and education, anti-hate speech training, as described.\n\nBy imposing new requirements on local agencies, this bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+      "abstract": "The California Fair Employment and Housing Act makes specified employment practices unlawful, including the harassment of an employee directly by the employer or indirectly by agents of the employer with the employer's knowledge. Under existing law, the Civil Rights Department administers these provisions. Existing law requires a specified employer with 5 or more employees to, by January 1, 2021, provide at least 2 hours of classroom or other effective interactive training and education regarding sexual harassment to all supervisory employees and at least one hour of classroom or other effective interactive training and education regarding sexual harassment to all nonsupervisory employees in California and, after that date, once every 2 years. Existing law requires an employer to include prevention of abusive conduct as a component of that training and education.\n\nThis bill would require, if a state agency provides any type of compensation, salary, or stipend to a state agency official of that agency, that all state agency officials of that agency receive training on responding to hate, as prescribed. The bill would specify that state agency officials include elected officials for that purpose. The bill would require at least one hour of training and education for a state agency official within the first 6 months of taking office or commencing employment, and every 2 years thereafter. The bill would authorize a state agency or an association of state agencies to offer one or more training courses, or sets of self-study materials with tests, to meet these requirements. The bill would authorize a state agency to develop its own training that meets the requirements or direct elected officials to complete a training developed by the department. The bill would require the department to develop or obtain an online training course on responding to hate and make the course available on its internet website.\n\nExisting law requires local agency officials, as defined, to receive sexual harassment prevention training and education if the local agency provides any type of compensation, salary, or stipend to those officials. Existing law requires the training and education to include practical examples aimed at instructing the local agency official in the prevention of sexual harassment, discrimination, and retaliation.\n\nThis bill would additionally require, beginning on January 1, 2028, the above-described training and education to include for any elected local agency official, as a component of the training and education, anti-hate speech training, as described. The bill would authorize an elected local agency official to take a training developed for state agency officials pursuant to the bill to satisfy the anti-hate speech training requirement.\n\nBy imposing new requirements on local agencies, this bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
     }
   ],
   "other_titles": [
     {
       "note": "",
       "title": "State and local officials: antihate speech training."
+    },
+    {
+      "note": "",
+      "title": "State and local officials: sexual harassment training and education: anti-hate speech training."
     }
   ],
   "other_identifiers": [
@@ -364,6 +369,21 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:24Z"
       }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-23T07:41:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -373,6 +393,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lowenthal",
+      "classification": "principal coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lowenthal\"}",
       "organization_id": null
     }
   ],
@@ -420,6 +448,17 @@
         }
       ],
       "date": "2026-05-22",
+      "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1578&version=20250AB157896AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
       "classification": ""
     }
   ],
@@ -511,6 +550,17 @@
       ],
       "date": "2026-08-01",
       "classification": "analysis"
+    },
+    {
+      "note": "08/14/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1578&analysisId=403625&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-14",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -521,7 +571,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Sections 12950.1 and 53237.1 of the Government Code, relating to public officials.",
+    "impact_clause": "An act to amend Section 53237.1 of, and to add Section 12950.4 to, the Government Code, relating to public officials.",
     "tags": [
       "fiscal committee",
       "local program"
@@ -534,7 +584,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:24Z",
+    "logs_latest_update": "2026-08-23T07:41:28Z",
     "text_extraction_latest_update": "2026-08-14T09:08:53.568427Z"
   }
 }

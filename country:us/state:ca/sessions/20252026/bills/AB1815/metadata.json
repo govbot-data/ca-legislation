@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Factory-built housing."
+      "title": "Factory-built housing: building standards."
     },
     {
       "note": "",
-      "title": "Factory-built housing: building standards."
+      "title": "Factory-built housing."
     }
   ],
   "other_identifiers": [
@@ -382,6 +382,20 @@
       "_processing": {
         "log_file_created": "2026-08-21T07:52:43Z"
       }
+    },
+    {
+      "description": "Read second time and amended. Ordered returned to second reading.",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-23T07:41:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -512,6 +526,17 @@
       ],
       "date": "2026-08-20",
       "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1815&version=20250AB181593AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
+      "classification": ""
     }
   ],
   "documents": [
@@ -590,7 +615,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Sections 19967, 19969.3, 19971, 19975.1, 19981, 19993, and 25227 of, and to add Sections 19966.1, 19971.1, and 19993.1 to, the Health and Safety Code, to amend Section 6012.7 of\n\t\t  the Revenue and Taxation Code, and to amend Sections 321 and 387 of the Vehicle Code,\n\t\t  relating to housing.",
+    "impact_clause": "An act to amend Sections 19967, 19969.3, 19971, 19975.1, 19981, 19993, and 25227 of, and to add Sections 19966.1, 19971.1, and 19993.1 to, the Health and Safety Code, to amend Section 6012.7 of the Revenue and Taxation Code, and to amend Sections 321 and 387 of the Vehicle Code, relating to housing.",
     "tags": [
       "fiscal committee",
       "local program"
@@ -603,7 +628,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-21T07:52:43Z",
+    "logs_latest_update": "2026-08-23T07:41:28Z",
     "text_extraction_latest_update": "2026-08-21T08:16:19.825482Z"
   }
 }
