@@ -1,22 +1,26 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB2760",
-  "title": "County board of supervisors: inspector general.",
+  "title": "Law enforcement: wearable electroshock devices.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Countyboardofsupervisors",
-    "inspectorgeneral"
+    "Lawenforcement",
+    "wearableelectroshockdevices"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law requires a board of supervisors to supervise the official conduct of all county officers and ensure that they faithfully perform their duties. Existing law authorizes a county, either by action of the board of supervisors or through a vote of county residents, to establish an office of the inspector general to assist the board of supervisors with these duties as they relate to the sheriff.\n\nThis bill would authorize a county, either by action of the board of supervisors or through a vote of county residents, to establish an office of the inspector general to assist the board of supervisors with these duties as they relate to the county animal control department or the office of chief probation, as defined."
+      "abstract": "Existing law requires each law enforcement agency, on or before January 1, 2021, to maintain a policy that provides a minimum standard on the use of force. Existing law requires that the policy include, among other things, training standards and requirements relating to demonstrated knowledge and understanding of the law enforcement agency's use of force policy by officers, investigators, and supervisors. Existing law prohibits a law enforcement agency from authorizing the use of a carotid restraint or choke hold by any peace officer employed by that agency.\n\nThis bill would prohibit a law enforcement agency, including a federal law enforcement agency, from using a wearable electroshock device within the State of California. The bill would also prohibit a state or local law enforcement agency from using state funds to purchase a wearable electroshock device. The bill would require a state or local law enforcement agency to update their use of force policies to prohibit the use of a wearable electroshock device. By increasing the duties on local law enforcement, the bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
     }
   ],
   "other_titles": [
+    {
+      "note": "",
+      "title": "County board of supervisors: inspector general."
+    },
     {
       "note": "",
       "title": "Educational equity: discrimination: Office of Civil Rights."
@@ -236,6 +240,66 @@
       "_processing": {
         "log_file_created": "2026-08-22T07:45:11Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on RLS. pursuant to Senate Rule 29.10 (c).",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS. pursuant to Senate Rule 29.10 (c).",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on PUB. S.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on PUB. S.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
+    },
+    {
+      "description": "Joint Rules 61 and 62 (a) suspended. (Ayes 30. Noes 9.)",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -281,6 +345,17 @@
         }
       ],
       "date": "2026-03-19",
+      "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2760&version=20250AB276097AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
       "classification": ""
     }
   ],
@@ -349,8 +424,11 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Section 25303.7 of the Government Code, relating to local government.",
-    "tags": []
+    "impact_clause": "An act to add Section 7286.1 to the Government Code, relating to law enforcement.",
+    "tags": [
+      "fiscal committee",
+      "local program"
+    ]
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ca/government",
@@ -359,7 +437,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T07:45:11Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-22T08:19:59.784864Z"
   }
 }

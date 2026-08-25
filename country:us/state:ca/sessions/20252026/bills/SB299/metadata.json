@@ -21,11 +21,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "California Environmental Quality Act: exemption: day care center: family daycare home: zoning."
+      "title": "Local government: ordinances."
     },
     {
       "note": "",
-      "title": "Local government: ordinances."
+      "title": "California Environmental Quality Act: exemption: day care center: family daycare home: zoning."
     }
   ],
   "other_identifiers": [
@@ -210,6 +210,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:55:33Z"
+      }
+    },
+    {
+      "description": "(Corrected August 24.)",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
       }
     },
     {
@@ -541,6 +551,14 @@
       "organization_id": null
     },
     {
+      "name": "Wicks",
+      "classification": "principal coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wicks\"}",
+      "organization_id": null
+    },
+    {
       "name": "P\u00e9rez",
       "classification": "coauthor",
       "entity_type": "person",
@@ -784,7 +802,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T07:45:11Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-22T07:51:44.335077Z"
   }
 }

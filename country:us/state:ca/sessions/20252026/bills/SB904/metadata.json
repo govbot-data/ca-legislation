@@ -18,11 +18,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "California Emergency Services Act: disaster recovery: wildfires."
+      "title": "Recovery from wildfires."
     },
     {
       "note": "",
-      "title": "Recovery from wildfires."
+      "title": "California Emergency Services Act: disaster recovery: wildfires."
     }
   ],
   "other_identifiers": [
@@ -424,6 +424,30 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:24Z"
       }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Senate.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:40Z"
+      }
+    },
+    {
+      "description": "In Senate. Concurrence in Assembly amendments pending.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -697,6 +721,28 @@
       ],
       "date": "2026-08-03",
       "classification": "analysis"
+    },
+    {
+      "note": "08/14/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB904&analysisId=403682&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-14",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/24/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB904&analysisId=405076&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -720,7 +766,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:24Z",
+    "logs_latest_update": "2026-08-25T07:50:40Z",
     "text_extraction_latest_update": "2026-08-14T09:31:08.290610Z"
   }
 }

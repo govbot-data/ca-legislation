@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, the K\u201312 Pupil Online Personal Information Protection Act (KOPIPA) , generally protects the personal information of a student enrolled in a K\u201312 course of instruction, defined as a \"pupil,\" by prescribing requirements and prohibitions applicable to an operator of an internet website, online service, online application, or mobile application with actual knowledge that the site, service, or application is used primarily for K\u201312 school purposes and was designed and marketed for K\u201312 school purposes.\n\nExisting law, the Early Learning Personal Information Protection Act (ELPIPA) , generally protects the personal information of a child enrolled in a preschool or prekindergarten course of instruction, defined as a \"pupil,\" by prescribing requirements and prohibitions applicable to an operator of an internet website, online service, online application, or mobile application with actual knowledge that the site, service, or application is used primarily for preschool or prekindergarten purposes and was designed and marketed for preschool and prekindergarten purposes.\n\nThis bill would instead apply the provisions of KOPIPA and ELPIPA to an operator, or an entity working on behalf of the operator, of an internet website, online service, online application, or mobile application with actual knowledge that the site, service, or application is used for the applicable school purposes and was designed or marketed for those purposes, as specified. The bill would, among other changes to KOPIPA and ELPIPA related to protecting the personal information of students, prohibit an operator from using covered information, as defined, including persistent unique identifiers, created or gathered by the operator's site, service, or application to train a generative artificial intelligence system or service or develop an artificial intelligence system.\n\nThis bill would also enact the Higher Education Student Information Protection Act (HESIPA) , which would generally protect the personal information of a student enrolled in a higher education institution, as defined, in a similar manner as KOPIPA and ELPIPA. The bill would make HESIPA operative on July 1, 2027.\n\nThis bill would authorize a pupil or student actually harmed by noncompliance with KOPIPA, ELPIPA, or HESIPA to bring a civil action against the noncompliant operator, as prescribed, and would require a person bringing that action to furnish a copy of the complain to the Attorney General within 10 days after filing the action."
+      "abstract": "Existing law, the K\u201312 Pupil Online Personal Information Protection Act (KOPIPA) , generally protects the personal information of a student enrolled in a K\u201312 course of instruction, defined as a \"pupil,\" by prescribing requirements and prohibitions applicable to an operator of an internet website, online service, online application, or mobile application with actual knowledge that the site, service, or application is used primarily for K\u201312 school purposes and was designed and marketed for K\u201312 school purposes.\n\nExisting law, the Early Learning Personal Information Protection Act (ELPIPA) , generally protects the personal information of a child enrolled in a preschool or prekindergarten course of instruction, defined as a \"pupil,\" by prescribing requirements and prohibitions applicable to an operator of an internet website, online service, online application, or mobile application with actual knowledge that the site, service, or application is used primarily for preschool or prekindergarten purposes and was designed and marketed for preschool and prekindergarten purposes.\n\nThis bill would instead apply the provisions of KOPIPA and ELPIPA to an operator, or an entity working on behalf of the operator, of an internet website, online service, online application, or mobile application with actual knowledge that the site, service, or application is used for the applicable school purposes and was designed or marketed for those purposes, as specified. The bill would, among other changes to KOPIPA and ELPIPA related to protecting the personal information of students, prohibit an operator from using covered information, as defined, including persistent unique identifiers, created or gathered by the operator's site, service, or application to train a generative artificial intelligence system or service or develop an artificial intelligence system.\n\nThis bill would also enact the Higher Education Student Information Protection Act (HESIPA) , which would generally protect the personal information of a student enrolled in a higher education institution, as defined, in a similar manner as KOPIPA and ELPIPA. The bill would make HESIPA operative on July 1, 2027.\n\nThis bill would authorize a pupil or student actually harmed by noncompliance with KOPIPA, ELPIPA, or HESIPA to bring a civil action against the noncompliant operator, as prescribed, and would require a person bringing that action to furnish a copy of the complaint to the Attorney General within 10 days after filing the action."
     }
   ],
   "other_titles": [
@@ -483,6 +483,20 @@
       "_processing": {
         "log_file_created": "2026-08-22T07:45:11Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -561,6 +575,17 @@
         }
       ],
       "date": "2026-08-03",
+      "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1159&version=20250AB115994AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
       "classification": ""
     }
   ],
@@ -652,6 +677,17 @@
       ],
       "date": "2026-08-15",
       "classification": "analysis"
+    },
+    {
+      "note": "08/24/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1159&analysisId=404913&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -674,7 +710,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T07:45:11Z",
+    "logs_latest_update": "2026-08-25T07:50:40Z",
     "text_extraction_latest_update": "2026-08-22T08:11:09.686502Z"
   }
 }

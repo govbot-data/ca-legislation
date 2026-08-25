@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, the Davis-Stirling Common Interest Development Act, governs the management and operation of common interest developments. Existing law limits the authority of the governing documents, as defined, to regulate the use of a member's separate interest.\n\nThis bill would prohibit the governing documents from imposing restrictions on a member's use of public streets, except as specified.\n\nExisting law requires that a common interest development be managed by an association and requires that the association levy assessments to fulfill its obligations. Existing law provides that assessments of the association, late charges, reasonable costs of collection, attorney's fees, and interest, as specified, are a debt of a member at the time the assessment or other sums are levied. Existing law requires that an association provide a member making a payment a receipt, upon request, that indicates the date of payment and the person who received it and to provide a mailing address for overnight payment of assessments in the annual statement.\n\nThis bill would require the association to notify the members through individual notice by either electronic delivery or first-class mail, evidenced by a certificate of mailing, as specified, if the person or entity authorized to receive payment of assessments on behalf of the association changes, within 60 days of the change. The bill would require the association to maintain records confirming that individual notices were distributed and to make reasonable effort to post a physical copy of the notice in the association's common areas.\n\nExisting law provides that assessments, including the costs of collection, late charges, and interest, are a lien on the member's separate interest when the association records a notice of delinquent assessment and follows a specified process, including providing the owner of record a specified notice, at least 30 days prior to recording a lien upon the separate interest. Existing law requires that an association that fails to comply with these procedures recommence the required notice process, prior to recording a lien, and bear the cost of recommencing the notice process.\n\nThe bill would make the association liable to the member for specified fees if the association fails to comply with these procedures. If the association fails to comply with these procedures and the failure is the 3rd failure within a 5-year period, the bill would make the board liable to the member for a civil penalty of $1,000 and require it to notify members by general notice of its failure to comply."
+      "abstract": "Existing law, the Davis-Stirling Common Interest Development Act, governs the management and operation of common interest developments. Existing law limits the authority of the governing documents, as defined, to regulate the use of a member's separate interest.\n\nThis bill would prohibit the governing documents from imposing restrictions on a member's use of public streets, except as specified.\n\nExisting law requires that a common interest development be managed by an association and requires that the association levy assessments to fulfill its obligations. Existing law provides that assessments of the association, late charges, reasonable costs of collection, attorney's fees, and interest, as specified, are a debt of a member at the time the assessment or other sums are levied. Existing law requires that an association provide a member making a payment a receipt, upon request, that indicates the date of payment and the person who received it and to provide a mailing address for overnight payment of assessments in the annual statement.\n\nThis bill would require the association to notify the members through individual notice by either electronic delivery or first-class mail, evidenced by a certificate of mailing, as specified, if the person or entity authorized to receive payment of assessments on behalf of the association changes, within 60 days of the change. The bill would require the association, if a member fails to make the next 2 consecutive assessment payments following the individual notice, to send a notice by certified mail with return receipt requested to that member, except as specified. The bill would require the association to maintain records confirming that individual notices were distributed.\n\nExisting law provides that assessments, including the costs of collection, late charges, and interest, are a lien on the member's separate interest when the association records a notice of delinquent assessment and follows a specified process, including providing the owner of record a specified notice, at least 30 days prior to recording a lien upon the separate interest. Existing law requires that an association that fails to comply with these procedures recommence the required notice process, prior to recording a lien, and bear the cost of recommencing the notice process.\n\nThe bill would make the association liable to the member for specified fees if the association fails to comply with these procedures. If the association fails to comply with these procedures, as specified, and the failure is the 3rd failure within a 5-year period, the bill would make the board liable to the member for a civil penalty of $1,000 and would require it to notify members by general notice of its failure to comply."
     }
   ],
   "other_titles": [
@@ -285,6 +285,20 @@
       "_processing": {
         "log_file_created": "2026-08-22T07:45:11Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -377,6 +391,17 @@
       ],
       "date": "2026-06-29",
       "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2439&version=20250AB243995AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
+      "classification": ""
     }
   ],
   "documents": [
@@ -456,6 +481,17 @@
       ],
       "date": "2026-07-01",
       "classification": "analysis"
+    },
+    {
+      "note": "08/24/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2439&analysisId=404845&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -476,7 +512,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T07:45:11Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-22T08:15:44.592588Z"
   }
 }

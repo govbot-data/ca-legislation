@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, commonly referred to as the Density Bonus Law, requires a city or county to provide a developer that proposes a housing development, as defined, within the city or county with a density bonus, other incentives or concessions, and waivers or reductions of development standards, as specified, if the developer agrees to construct, among other options, specified units and meets other requirements.\n\nThis bill would prohibit land improved with an operating hotel or motel from being valued by the landowner, for purposes of establishing, adjusting, or resetting ground rent under an existing lease, based on residential density or density bonuses, unless those density increases are entitled and vested as of the valuation date, as provided. The bill would also prohibit its provisions from being construed to alter the existing requirements for obtaining a density bonus."
+      "abstract": "Existing law, commonly referred to as the Density Bonus Law, requires a city or county to provide a developer that proposes a housing development, as defined, within the city or county with a density bonus, other incentives or concessions, and waivers or reductions of development standards, as specified, if the developer agrees to construct, among other options, specified units and meets other requirements.\n\nThis bill would prohibit land improved with an operating hotel or motel from being valued, for purposes of establishing, adjusting, or resetting ground rent under an existing lease, based on density bonuses, concessions or incentives, or waivers, as specified, unless those density increases are entitled and vested as of the valuation date, as provided. The bill would also prohibit its provisions from being construed to alter the requirements for obtaining a density bonus, as specified."
     }
   ],
   "other_titles": [
@@ -292,6 +292,20 @@
       "_processing": {
         "log_file_created": "2026-08-22T07:45:11Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -317,6 +331,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Durazo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Arregu\u00edn",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Arregu\\u00edn\"}",
       "organization_id": null
     }
   ],
@@ -353,6 +375,17 @@
         }
       ],
       "date": "2026-06-11",
+      "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2181&version=20250AB218197AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
       "classification": ""
     }
   ],
@@ -411,6 +444,17 @@
       ],
       "date": "2026-08-03",
       "classification": "analysis"
+    },
+    {
+      "note": "08/24/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2181&analysisId=404874&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -421,7 +465,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Section 65915 of the Government Code, relating to housing.",
+    "impact_clause": "An act to add Section 65915.9 to the Government Code, relating to housing.",
     "tags": []
   },
   "jurisdiction": {
@@ -431,7 +475,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T07:45:11Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-22T08:15:18.126922Z"
   }
 }

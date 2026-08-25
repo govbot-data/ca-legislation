@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law requires that, except as specified, not less than the general prevailing rate of per diem wages, determined by the Director of Industrial Relations, be paid to workers employed on public works projects. Existing law requires the body awarding a contract for a public work to obtain from the director the general prevailing rate of per diem wages for work of a similar character in the locality in which the public work is to be performed, and the general prevailing rate of per diem wages for holiday and overtime work, for each craft, classification, or type of worker needed to execute the contract. Under existing law, if the director determines during any quarterly period that there has been a change in any prevailing rate of per diem wages in a locality, the director is required to make that change available to the awarding body and their determination is final. Under existing law, that determination does not apply to public works contracts for which the notice to bidders has been published.\n\nThis bill would instead state, commencing July 1, 2027, that if the director determines, within a semiannual period, that there is a change in any prevailing rate of per diem wages in a locality, that determination applies to any public works contract that is awarded or for which notice to bidders is published after July 1, 2027. The bill would authorize any contractor, awarding body, or specified representative affected by a change in rates on a particular contract to, within 20 days, file with the director a verified petition to review the determination of that rate, as specified. The bill would require the director to, upon notice to the interested parties, initiate an investigation or hold a hearing, and, within 20 days after the filing of that petition, except as specified, make a final determination and transmit the determination in writing to the awarding body and to the interested parties. The bill would make that determination issued by the director effective 10 days after its issuance, and until it is modified, rescinded, or superseded by the director. The bill would exempt certain housing projects from these provisions, including, among others, projects that are restricted by deed or subject to regulatory restrictions contained in an agreement with a governmental agency or other recorded document, as specified."
+      "abstract": "Existing law requires that, except as specified, not less than the general prevailing rate of per diem wages, determined by the Director of Industrial Relations, be paid to workers employed on public works projects. Existing law requires the body awarding a contract for a public work to obtain from the director the general prevailing rate of per diem wages for work of a similar character in the locality in which the public work is to be performed, and the general prevailing rate of per diem wages for holiday and overtime work, for each craft, classification, or type of worker needed to execute the contract. Under existing law, if the director determines during any quarterly period that there has been a change in any prevailing rate of per diem wages in a locality, the director is required to make that change available to the awarding body and their determination is final. Under existing law, that determination does not apply to public works contracts for which the notice to bidders has been published.\n\nThis bill would instead state, commencing July 1, 2027, that if the director determines, within a semiannual period, that there is a change in any prevailing rate of per diem wages in a locality, that determination applies to any public works contract that is awarded or for which notice to bidders is published after July 1, 2027, if the awarded value of the contract is $35,000,000 or greater. The bill would authorize any contractor, awarding body, or specified representative affected by a change in rates on a particular contract to, within 20 days, file with the director a verified petition to review the determination of that rate, as specified. The bill would require the director to, upon notice to the interested parties, initiate an investigation or hold a hearing, and, within 20 days after the filing of that petition, except as specified, make a final determination and transmit the determination in writing to the awarding body and to the interested parties. The bill would make that determination issued by the director effective 10 days after its issuance, and until it is modified, rescinded, or superseded by the director. The bill would exempt certain housing projects from these provisions, including, among others, projects that are restricted by deed or subject to regulatory restrictions contained in an agreement with a governmental agency or other recorded document, as specified."
     }
   ],
   "other_titles": [],
@@ -304,6 +304,20 @@
       "_processing": {
         "log_file_created": "2026-08-22T07:45:10Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -349,6 +363,17 @@
         }
       ],
       "date": "2026-01-22",
+      "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1198&version=20250AB119897AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
       "classification": ""
     }
   ],
@@ -418,6 +443,17 @@
       ],
       "date": "2026-08-14",
       "classification": "analysis"
+    },
+    {
+      "note": "08/24/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1198&analysisId=404886&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -440,7 +476,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T07:45:10Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-22T08:10:32.074495Z"
   }
 }

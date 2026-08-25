@@ -315,6 +315,30 @@
       "_processing": {
         "log_file_created": "2026-08-19T07:46:19Z"
       }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Senate.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
+    },
+    {
+      "description": "In Senate. Concurrence in Assembly amendments pending.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -485,7 +509,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-19T07:46:19Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-19T07:49:34.660605Z"
   }
 }

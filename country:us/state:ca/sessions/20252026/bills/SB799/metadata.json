@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "False claims: taxation."
+      "title": "State government: local costs."
     },
     {
       "note": "",
-      "title": "State government: local costs."
+      "title": "False claims: taxation."
     }
   ],
   "other_identifiers": [
@@ -550,6 +550,18 @@
       "_processing": {
         "log_file_created": "2026-08-20T07:47:45Z"
       }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 3 p.m.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -650,6 +662,17 @@
         }
       ],
       "date": "2026-08-10",
+      "classification": ""
+    },
+    {
+      "note": "08/20/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB799&version=20250SB79992ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-20",
       "classification": ""
     }
   ],
@@ -794,7 +817,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-20T07:47:45Z",
+    "logs_latest_update": "2026-08-25T07:50:40Z",
     "text_extraction_latest_update": "2026-08-20T07:55:06.272268Z"
   }
 }

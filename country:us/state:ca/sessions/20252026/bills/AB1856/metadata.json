@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, the Digital Age Assurance Act (DAAA) , beginning January 1, 2027, requires, among other things related to age verification with respect to software applications, an operating system provider, as defined, to provide an accessible interface at account setup that requires an account holder, as defined, to indicate the birth date, age, or both, of the user of that device for the purpose of providing a signal regarding the user's age bracket to applications available in a covered application store. Existing law defines the term \"user\" for these purposes to mean a child that is the primary user of a device.\n\nThis bill would, among other things, delete that definition of \"user,\" would specify that the requirement of an operating system provider to provide an accessible interface applies if the operating system provider's operating system has an account setup feature with respect to the use of the operating system on a particular device, and would require the signal to be provided to a covered application store or application developer, as prescribed. The bill would prohibit a person from requesting a signal with respect to a particular user from an operating system provider or a covered application store if not required to do so by the DAAA or any other applicable law."
+      "abstract": "Existing law, the Digital Age Assurance Act (DAAA) , beginning January 1, 2027, requires, among other things related to age verification with respect to software applications, an operating system provider, as defined, to provide an accessible interface at account setup that requires an account holder, as defined, to indicate the birth date, age, or both, of the user of that device for the purpose of providing a signal regarding the user's age bracket to applications available in a covered application store. Existing law defines the term \"user\" for these purposes to mean a child that is the primary user of a device.\n\nThis bill would, among other things, delete that definition of \"user,\" would specify that the requirement of an operating system provider to provide an accessible interface applies if an operating system operates on a device and has an account setup feature, and would require the signal to be provided to a covered application store or application developer, as prescribed. The bill would prohibit a person from requesting a signal with respect to a particular user from an operating system provider or a covered application store if not required to do so by the DAAA or any other applicable law."
     }
   ],
   "other_titles": [
@@ -425,6 +425,20 @@
       "_processing": {
         "log_file_created": "2026-08-22T07:45:10Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -515,6 +529,17 @@
       ],
       "date": "2026-07-01",
       "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1856&version=20250AB185693AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
+      "classification": ""
     }
   ],
   "documents": [
@@ -583,6 +608,17 @@
       ],
       "date": "2026-08-15",
       "classification": "analysis"
+    },
+    {
+      "note": "08/24/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1856&analysisId=405003&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -605,7 +641,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T07:45:10Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-22T08:09:18.066775Z"
   }
 }

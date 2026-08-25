@@ -13,17 +13,17 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law prohibits various acts of abuse toward animals, including, among others, inflicting unnecessary cruelty or abusing an animal in any manner, including, but not limited to, maliciously and intentionally maiming, mutilating, torturing, or wounding an animal.\n\nThis bill would, in a criminal case alleging a violation of specified animal abuse crimes, authorize specified entities to request that the prosecuting attorney file a petition requesting that, before final disposition, the court issue an order forfeiting the animal to the city, county, or seizing agency 30 days after a defendant fails to appear in court, as specified. The bill would additionally authorize those entities to request, and the court to issue, a forfeiture petition within 3 days after a defendant fails to appear in court a 2nd or subsequent time. The bill would additionally, if the defendant is granted diversion for those crimes, authorize the prosecution to request an order from the court that the defendant be prohibited from owning, possessing, caring for, or residing with animals of any kind throughout the period of diversion, as specified. By increasing duties on local prosecutors, this bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+      "abstract": "Existing law authorizes a peace officer, humane society officer, or animal control officer to take possession of a stray or abandoned animal in specified circumstances, including when the animal is kept without proper care and attention, as specified. Existing law provides that if an animal is seized pursuant to those provisions or pursuant to a warrant, the owner is personally liable to the seizing agency for the cost of the seizure and care of the animal. Existing law deems the animal to then be abandoned by the owner under specified circumstances, including if the owner, within 14 days of notice of availability of the animal to be returned, fails to pay charges and take possession of the animal.\n\nThis bill would make those provisions apply to animals seized pursuant to any provision of California law."
     }
   ],
   "other_titles": [
     {
       "note": "",
-      "title": "Government Code."
+      "title": "Animal abuse: registry: internet publication."
     },
     {
       "note": "",
-      "title": "Animal abuse: registry: internet publication."
+      "title": "Government Code."
     }
   ],
   "other_identifiers": [
@@ -407,6 +407,20 @@
       "_processing": {
         "log_file_created": "2026-08-22T07:45:10Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -537,6 +551,17 @@
       ],
       "date": "2026-08-13",
       "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2344&version=20250AB234493AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
+      "classification": ""
     }
   ],
   "documents": [
@@ -627,6 +652,17 @@
       ],
       "date": "2026-08-19",
       "classification": "analysis"
+    },
+    {
+      "note": "08/24/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2344&analysisId=404811&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -637,10 +673,9 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to add Sections 600.9 and 600.10 to the Penal Code, relating to animal abuse.",
+    "impact_clause": "An act to amend Section 597.1 of the Penal Code, relating to animal abuse.",
     "tags": [
-      "fiscal committee",
-      "local program"
+      "fiscal committee"
     ]
   },
   "jurisdiction": {
@@ -650,7 +685,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T07:45:10Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-22T07:52:57.636968Z"
   }
 }

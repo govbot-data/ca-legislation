@@ -18,11 +18,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Elections: voting systems."
+      "title": "Elections officials: meetings."
     },
     {
       "note": "",
-      "title": "Elections officials: meetings."
+      "title": "Elections: voting systems."
     }
   ],
   "other_identifiers": [
@@ -390,6 +390,43 @@
       "_processing": {
         "log_file_created": "2026-08-21T07:52:43Z"
       }
+    },
+    {
+      "description": "Re-referred to Com. on RLS. pursuant to Senate Rule 29.10(d).",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS. pursuant to Senate Rule 29.10(d).",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
+    },
+    {
+      "description": "From committee: Be re-referred to Com. on E. & C.A. pursuant to Senate Rule 29.10(d). (Ayes 5. Noes 0.) Re-referred to Com. on E. & C.A.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on E. & C.A. pursuant to Senate Rule 29.10(d). (Ayes 5. Noes 0.) Re-referred to Com. on E. & C.A.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -566,7 +603,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-21T07:52:43Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-21T08:33:30.556980Z"
   }
 }

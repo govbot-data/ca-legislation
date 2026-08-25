@@ -172,7 +172,7 @@
       }
     },
     {
-      "description": "Read third time. Passed. Ordered to the Senate.",
+      "description": "Read third time. Passed. (Ayes 74. Noes 0. Page 6040.) Ordered to the Senate.",
       "date": "2026-08-03",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -182,7 +182,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-04T09:49:55Z"
+        "log_file_created": "2026-08-25T07:50:41Z"
       }
     },
     {
@@ -207,6 +207,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-08-12T08:27:47Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Chapter 126, Statutes of 2026.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
       }
     }
   ],
@@ -270,6 +294,17 @@
       ],
       "date": "2026-08-05",
       "classification": ""
+    },
+    {
+      "note": "08/24/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB897&version=20250SB89797CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": ""
     }
   ],
   "documents": [
@@ -325,7 +360,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-12T08:27:47Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-12T08:30:14.924146Z"
   }
 }

@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law establishes the State Department of Social Services and sets forth its powers and duties, including the certification and regulation of continuing care retirement communities. Existing law regulates different types of continuing care contracts, including, among others, a repayable contract. A repayable contract is a continuing care contract that includes a promise to repay all or a portion of an entrance fee that is conditioned upon reoccupancy or resale of the unit previously occupied by the resident.\n\nThis bill would additionally define a repayable contract to include a continuing care contract that includes a promise to repay all or a portion of an entrance fee based on the sequential order in which repayable contracts are terminated. To repay entrance fees using the sequential order method, the bill would require a provider to assign each terminated contract a sequential repayment number, and each time entrance fees are paid for a reoccupied unit, a repayment account would be credited until funds are sufficient to repay the next terminated contract in sequential order. The bill would require a provider to issue this repayment within 14 days."
+      "abstract": "Existing law establishes the State Department of Social Services and sets forth its powers and duties, including the certification and regulation of continuing care retirement communities. Existing law regulates different types of continuing care contracts, including, among others, a repayable contract. A repayable contract is a continuing care contract that includes a promise to repay all or a portion of an entrance fee that is conditioned upon reoccupancy or resale of the unit previously occupied by the resident.\n\nThis bill would instead refer to the contract described above as a repayable conditioned on resale contract, define a repayable contract to include both a repayable conditioned on resale contract and a repayable in sequential order contract, and would define a repayable in sequential order contract to mean a continuing care contract that includes a promise to repay all or a portion of an entrance fee based on the sequential order in which repayable contracts are terminated. The bill would require a provider that offers or maintains repayable in sequential order contracts to establish a repayment account for these purposes, to assign each terminated contract a sequential repayment number, and to repay those contracts in sequential order from the proceeds of future repayable in sequential order contracts, as specified.\n\n Existing law requires all continuing care contracts to include specified provisions, including, among others, that if it's a repayable contract, the average and longest amount of time that it has taken to resell or reoccupy a unit within the last 5 calendar years.\n\n This bill would make that provision applicable only to repayable conditioned on resale contracts and would require certain additional disclosures relating to repayable in sequential order contracts to be made, including, among others, the average and longest duration of time elapsed between contract termination and repayment during the last 5 calendar years.\n\nExisting law requires a lump sum owed to a resident or a resident's estate, including any interest accrued, to be paid within 14 calendar days after resale of the unit.\n\nThis bill would make that provision applicable only to repayable conditioned on resale contracts and would make it 14 days after resale or reoccupancy. For repayable conditioned on sequential order contracts, the bill would require the full lump sum to be paid within 14 calendar days after sufficient funds exist in the sequential repayment account to satisfy the contract's assigned sequential repayment number."
     }
   ],
   "other_titles": [],
@@ -347,6 +347,20 @@
       "_processing": {
         "log_file_created": "2026-08-22T07:45:10Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -381,6 +395,17 @@
         }
       ],
       "date": "2026-02-13",
+      "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1983&version=20250AB198398AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
       "classification": ""
     }
   ],
@@ -461,6 +486,17 @@
       ],
       "date": "2026-08-14",
       "classification": "analysis"
+    },
+    {
+      "note": "08/24/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1983&analysisId=404868&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -471,7 +507,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Section 1771 of the Health and Safety Code, relating to continuing care contracts.",
+    "impact_clause": "An act to amend Sections 1771, 1788, and 1788.4 of the Health and Safety Code, relating to continuing care contracts.",
     "tags": [
       "fiscal committee"
     ]
@@ -483,7 +519,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T07:45:10Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-22T08:19:46.620911Z"
   }
 }

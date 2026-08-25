@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law establishes the Department of Corrections and Rehabilitation to administer the state prison system under the direction of the Secretary of the Department of Corrections and Rehabilitation. Existing California constitutional provisions grant the department the authority to award credits earned for good behavior and approved rehabilitative or educational achievements in order to enhance public safety, improve rehabilitation, and avoid the release of prisoners by federal court order.\n\nThis bill, the Second Chance Sports Act, would, until a specified date, require the department to establish, in consultation with specified individuals and organizations, a policy on organized sports programming at facilities operated by the department. The bill would authorize the department to solicit and accept proposals and negotiate and enter into agreements with specified entities for the purposes of expanding access to sports programming as described above. The bill would establish the Second Chance Sports Fund within the State Treasury. The bill would require the Government Operations Agency to seek advisement from the Legislature and the department on the priorities for utilizing the moneys in the fund and to approve the uses of the moneys. The bill would make funds available, upon appropriation and approval by the agency, for the above-described purposes. The bill would require the Treasurer, on or before January 1, 2028, and annually thereafter, to provide a report to the Legislature on the amounts deposited into the fund. The bill would make related findings and declarations."
+      "abstract": "Existing law establishes the Department of Corrections and Rehabilitation to administer the state prison system under the direction of the Secretary of the Department of Corrections and Rehabilitation. Existing California constitutional provisions grant the department the authority to award credits earned for good behavior and approved rehabilitative or educational achievements in order to enhance public safety, improve rehabilitation, and avoid the release of prisoners by federal court order.\n\nThis bill, the Second Chance Sports Act, would, until January 1, 2036, require the department to formalize, in consultation with specified individuals and organizations, a policy on organized sports programming. The bill would authorize the department to solicit and accept proposals and negotiate and enter into agreements with specified entities for the purposes of expanding access to sports programming as described above. The bill would establish the Second Chance Sports Fund within the State Treasury. The bill would require the department to seek advisement from the Legislature on the priorities for utilizing the moneys in the fund. The bill would make funds available, upon appropriation by the Legislature in the annual Budget Act, for the above-described purposes. The bill would require the Controller, on or before January 1, 2029, and annually thereafter, to provide a report to the Legislature on the amounts deposited into the fund. The bill would make related findings and declarations."
     }
   ],
   "other_titles": [
@@ -335,6 +335,31 @@
       "_processing": {
         "log_file_created": "2026-08-18T07:45:25Z"
       }
+    },
+    {
+      "description": "Joint Rule 61(b)(16) suspended.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -418,6 +443,17 @@
         }
       ],
       "date": "2026-08-13",
+      "classification": ""
+    },
+    {
+      "note": "08/24/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2204&version=20250AB220495AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
       "classification": ""
     }
   ],
@@ -520,7 +556,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-23T07:41:28Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-23T07:44:33.955808Z"
   }
 }

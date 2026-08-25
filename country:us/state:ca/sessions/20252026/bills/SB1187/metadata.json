@@ -296,6 +296,33 @@
       "_processing": {
         "log_file_created": "2026-08-20T07:47:45Z"
       }
+    },
+    {
+      "description": "Urgency clause adopted.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
+    },
+    {
+      "description": "Assembly amendments concurred in. (Ayes 39. Noes 0.) Ordered to engrossing and enrolling.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -405,6 +432,17 @@
       "classification": "analysis"
     },
     {
+      "note": "08/19/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1187&analysisId=404563&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-19",
+      "classification": "analysis"
+    },
+    {
       "note": "08/19/26- Senate Local Government",
       "links": [
         {
@@ -436,7 +474,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-20T07:47:45Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-20T07:54:52.192956Z"
   }
 }

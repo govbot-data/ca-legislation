@@ -13,14 +13,10 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law requires the Public Utilities Commission to appoint a chief internal auditor who holds office at the pleasure of the commission. Existing law makes the chief internal auditor responsible for the oversight of the internal audit unit. Existing law requires the chief internal auditor to plan, initiate, and perform audits of key financial, management, operational, and information technology functions within the commission to improve accountability and transparency to executive and state management, and to report their findings and recommendations directly to an audit subcommittee of the commission.\n\nThis bill would instead require the Governor to appoint an Inspector General, subject to Senate confirmation, to be responsible for the oversight of the internal audit unit and would instead require the Inspector General to plan, initiate, and perform audits of key financial, management, operational, and information technology functions within the commission to improve accountability and transparency to executive and state management. The bill would also require the Inspector General to ensure, among other things, that the commission administers funds and programs in a prescribed manner, fulfills mandated requirements, develops an annual audit plan, administers an effective enterprise risk management program, and monitors reporting compliance. The bill would provide for the appointment and removal of the Inspector General, as specified. The bill would authorize the Inspector General to access and examine all records, files, documents, accounts, reports, correspondence, or other property of the commission, public utilities, and other entities regulated by the commission, as specified. The bill would require the Inspector General to report specified information to the Governor and the Legislature, as provided."
+      "abstract": "Existing law requires the Public Utilities Commission to appoint a chief internal auditor who holds office at the pleasure of the commission. Existing law makes the chief internal auditor responsible for the oversight of the internal audit unit. Existing law requires the chief internal auditor to plan, initiate, and perform audits of key financial, management, operational, and information technology functions within the commission to improve accountability and transparency to executive and state management, and to report their findings and recommendations directly to an audit subcommittee of the commission.\n\nThis bill would instead require the Governor to appoint an Inspector General, subject to Senate confirmation, to be responsible for the oversight of the internal audit unit and would instead require the Inspector General to plan, initiate, and perform audits of key financial, management, operational, and information technology functions within the commission to improve accountability and transparency to executive and state management. The bill would also require the Inspector General to ensure, among other things, that the commission administers funds and programs in a prescribed manner, fulfills mandated requirements, develops an annual audit plan, administers an effective enterprise risk management program, and monitors reporting compliance. The bill would provide for the appointment and removal of the Inspector General, as specified. The bill would authorize the Inspector General to access and examine all records, files, documents, accounts, reports, correspondence, or other property of the commission and public utilities, and would require other entities that are regulated by the commission and participate in programs administered by the commission, upon request of the Inspector General, to provide or make available to the Inspector General for examination all relevant records, files, documents, accounts, reports, correspondence, or other property pertaining to participation in those programs, as specified. The bill would require the Inspector General to report specified information to the Governor and the Legislature, as provided."
     }
   ],
   "other_titles": [
-    {
-      "note": "",
-      "title": "Public Utilities Commission: Independent Office of Audits and Investigations."
-    },
     {
       "note": "",
       "title": "Communications: broadband internet service providers: affordable home internet service."
@@ -28,6 +24,10 @@
     {
       "note": "",
       "title": "Communications: broadband internet service providers: affordable home internet."
+    },
+    {
+      "note": "",
+      "title": "Public Utilities Commission: Independent Office of Audits and Investigations."
     }
   ],
   "other_identifiers": [
@@ -495,6 +495,20 @@
       "_processing": {
         "log_file_created": "2026-08-22T07:45:10Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -607,6 +621,17 @@
       ],
       "date": "2026-08-03",
       "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB353&version=20250AB35391AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
+      "classification": ""
     }
   ],
   "documents": [
@@ -686,6 +711,17 @@
       ],
       "date": "2026-08-14",
       "classification": "analysis"
+    },
+    {
+      "note": "08/24/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB353&analysisId=404830&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -708,7 +744,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T07:45:10Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-22T08:17:11.040004Z"
   }
 }

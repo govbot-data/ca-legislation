@@ -294,6 +294,16 @@
       "_processing": {
         "log_file_created": "2026-08-21T07:52:42Z"
       }
+    },
+    {
+      "description": "Joint Rule 62(a) suspended.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -439,7 +449,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-21T07:52:42Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-21T08:43:47.982155Z"
   }
 }

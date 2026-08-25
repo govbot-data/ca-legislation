@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law authorizes the Department of Transportation or a local authority, upon application in writing and if good cause appears, to issue a special or annual permit for the transporting of a manufactured home that does not exceed 14 feet in total width, exclusive of lights and devices, upon any highway, as specified. Existing law prescribes specified requirements and conditions for transporting the above-described manufactured homes, and makes it unlawful for a person to violate any of the terms or conditions of the above-described permits.\n\nThis bill would remove the good cause requirement for the department or the local authority to issue the above-described permits for manufactured homes under specified conditions. The bill would clarify that a special permit is not required to move a manufactured home if the applicant has obtained an annual permit."
+      "abstract": "Existing law authorizes the Department of Transportation or a local authority, upon application in writing and if good cause appears, to issue a special or annual permit for the transporting of a manufactured home that does not exceed 14 feet in total width, exclusive of lights and devices, upon any highway, as specified. Existing law prescribes specified requirements and conditions for transporting the above-described manufactured homes and additional requirements and conditions for manufactured homes exceeding 14 feet but not exceeding 16 feet in width, including requiring the Department of Transportation, in cooperation with the Department of the California Highway Patrol, or the local authority to require pilot car or special escort services for the movement of these manufactured housing units, and makes it unlawful for a person to violate the terms or conditions of a permit issued to haul specified loads, including the above-described permits. Existing regulations provide a schedule for the number of pilot cars and Department of the California Highway Patrol escorts that are required based on the width and length of the load and the route class.\n\nThis bill would remove the good cause requirement for the department or the local authority to issue the above-described permits. The bill would expand the issuance of a special or annual permit to include transportation of a manufactured home, factory-built housing, and commercial modular, as defined, not exceeding 14 feet in total width. By expanding the scope of an existing crime, the bill would create a state-mandated local program. The bill would clarify that a special permit is not required to move a manufactured home, factory-built housing, or commercial modular if the applicant has obtained an annual permit. The bill would authorize the Department of Transportation, in cooperation with the Department of the California Highway Patrol, or the local authority to require pilot car or special escort services for the movement of the above-described manufactured housing units, as specified.\n\nThis bill would require the Department of Housing and Community Development, in consultation with the Department of Transportation and the Department of the California Highway Patrol, to convene a stakeholder workgroup, as specified, to gather feedback and provide a report on cost pressures associated with, and opportunities to facilitate and make efficient, the movement of a manufactured home, factory-built housing, and commercial modular, as specified. The bill would require the workgroup to begin no later than March 31, 2027, and meet at least quarterly. The bill would require the Department of Housing and Community Development, in consultation, to solicit feedback from the workgroup on specified topics, including the feasibility of deploying a single crew of Department of the California Highway Patrol escorts in operation across multiple jurisdictions. The bill would require the Department of Housing and Community Development, in consultation, to provide a report to the Legislature by January 1, 2029, as specified.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
     }
   ],
   "other_titles": [],
@@ -293,6 +293,20 @@
       "_processing": {
         "log_file_created": "2026-08-22T07:45:11Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -385,6 +399,17 @@
       ],
       "date": "2026-05-20",
       "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2012&version=20250AB201295AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
+      "classification": ""
     }
   ],
   "documents": [
@@ -453,6 +478,17 @@
       ],
       "date": "2026-08-05",
       "classification": "analysis"
+    },
+    {
+      "note": "08/24/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2012&analysisId=404861&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -463,9 +499,10 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Section 35790 of the Vehicle Code, relating to vehicles.",
+    "impact_clause": "An act to amend Sections 35790 and 35790.1 of, and to add Section 35790.2 to, the Vehicle Code, relating to vehicles.",
     "tags": [
-      "fiscal committee"
+      "fiscal committee",
+      "local program"
     ]
   },
   "jurisdiction": {
@@ -475,7 +512,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T07:45:11Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-22T08:02:39.035758Z"
   }
 }

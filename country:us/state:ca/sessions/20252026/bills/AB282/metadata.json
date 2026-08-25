@@ -1,23 +1,27 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB282",
-  "title": "Discrimination: housing: source of income.",
+  "title": "Elections: seizure of election materials.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Discrimination",
-    "housing",
-    "sourceofincome"
+    "Elections",
+    "seizureofelectionmaterials"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, the California Fair Employment and Housing Act (FEHA) makes unlawful various practices connected to obtaining and financing housing accommodations, among other things, if those practices discriminate based on source of income. FEHA requires the Civil Rights Department to enforce specific provisions of the act, including the provision described above.\n\nThis bill would provide that the establishment by a public agency or a similar entity, as specified, of policies or preferences in favor of an applicant or tenant who qualifies for or participates in federal, state, or local housing subsidy programs, as specified, does not constitute discrimination based on source of income for purposes of the above-described provisions of FEHA."
+      "abstract": "Under existing law, a county elections official is required to prepare a certified statement of the results of an election and submit it to the county board of supervisors within 30 days of the election.\n\nThis bill would make it a felony, punishable by imprisonment for 16 months or 2 or 3 years, to seize or cause or assist in the seizure of ballots, election records, or certified voting technology before election results are certified by the elections official. The bill would also make it a felony punishable by imprisonment for 2, 3, or 4 years for any person with authority to direct another person subject to their supervision or authority to seize ballots, election records, or certified voting technology before election results are certified. By creating new crimes, this bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason.\n\nThis bill would declare that it is to take effect immediately as an urgency statute."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Discrimination: housing: source of income."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-ca-20252026-ab282"
@@ -323,6 +327,66 @@
       "_processing": {
         "log_file_created": "2026-08-22T07:45:11Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:40Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on RLS. pursuant to Senate Rule 29.10 (c).",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS. pursuant to Senate Rule 29.10 (c).",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:40Z"
+      }
+    },
+    {
+      "description": "Re-referred to Coms. on PUB. S. and E. & C.A.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Coms. on PUB. S. and E. & C.A.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:40Z"
+      }
+    },
+    {
+      "description": "Joint Rules 61 and 62(a) suspended. (Ayes 30. Noes 9.)",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -332,38 +396,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Pellerin\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Laird",
-      "classification": "principal coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Laird\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Haney",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Haney\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Lee",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Lee\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Quirk-Silva",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Quirk-Silva\"}",
       "organization_id": null
     }
   ],
@@ -411,6 +443,17 @@
         }
       ],
       "date": "2025-07-17",
+      "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB282&version=20250AB28296AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
       "classification": ""
     }
   ],
@@ -490,9 +533,11 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Section 12955 of the Government Code, relating to discrimination.",
+    "impact_clause": "An act to add Section 18579 to the Elections Code, relating to elections, and declaring the urgency thereof, to take effect immediately.",
     "tags": [
-      "fiscal committee"
+      "fiscal committee",
+      "local program",
+      "urgency"
     ]
   },
   "jurisdiction": {
@@ -502,7 +547,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T07:45:11Z",
+    "logs_latest_update": "2026-08-25T07:50:40Z",
     "text_extraction_latest_update": "2026-08-22T08:19:44.777242Z"
   }
 }

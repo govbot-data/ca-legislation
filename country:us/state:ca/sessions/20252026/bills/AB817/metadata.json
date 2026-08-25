@@ -18,11 +18,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Gambling Control Act."
+      "title": "Courts: electronic records."
     },
     {
       "note": "",
-      "title": "Courts: electronic records."
+      "title": "Gambling Control Act."
     }
   ],
   "other_identifiers": [
@@ -323,6 +323,26 @@
       "_processing": {
         "log_file_created": "2026-08-21T07:52:42Z"
       }
+    },
+    {
+      "description": "From committee: Do pass and re-refer to Com. on REV. & TAX. (Ayes 4. Noes 2.) (August 24). Re-referred to Com. on REV. & TAX.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on REV. & TAX.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -420,6 +440,28 @@
       ],
       "date": "2025-04-28",
       "classification": "analysis"
+    },
+    {
+      "note": "08/21/26- Senate Local Government",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB817&analysisId=404746&analyzingOffice=Senate+Local+Government",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/24/26- Senate Revenue and Taxation",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB817&analysisId=405025&analyzingOffice=Senate+Revenue+and+Taxation",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -443,7 +485,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-21T07:52:42Z",
+    "logs_latest_update": "2026-08-25T07:50:40Z",
     "text_extraction_latest_update": "2026-08-21T08:08:56.870311Z"
   }
 }

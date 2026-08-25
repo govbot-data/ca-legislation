@@ -19,11 +19,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Hazardous waste generation and handling fees: Department of Toxic Substances Control oversight and postentitlement phase permit responses: housing development, park, or open-space projects and nonprofit entity requests."
-    },
-    {
-      "note": "",
-      "title": "Hazardous waste generation and handling fees: Department of Toxic Substances Control oversight responses: housing development projects."
+      "title": "Hazardous waste generation and handling fees: study and report: affordable housing development projects."
     },
     {
       "note": "",
@@ -31,15 +27,19 @@
     },
     {
       "note": "",
-      "title": "Hazardous waste generator permits: housing development projects."
-    },
-    {
-      "note": "",
-      "title": "Hazardous waste generation and handling fees: study and report: affordable housing development projects."
+      "title": "Hazardous waste generation and handling fees: Department of Toxic Substances Control oversight and postentitlement phase permit responses: housing development, park, or open-space projects and nonprofit entity requests."
     },
     {
       "note": "",
       "title": "Hazardous waste generation and handling fees: Department of Toxic Substances Control oversight and postentitlement phase permit responses: housing development projects."
+    },
+    {
+      "note": "",
+      "title": "Hazardous waste generation and handling fees: Department of Toxic Substances Control oversight responses: housing development projects."
+    },
+    {
+      "note": "",
+      "title": "Hazardous waste generator permits: housing development projects."
     }
   ],
   "other_identifiers": [
@@ -540,6 +540,24 @@
       "_processing": {
         "log_file_created": "2026-08-22T07:45:10Z"
       }
+    },
+    {
+      "description": "Re-referred to Coms. on L. GOV. and NAT. RES. pursuant to Assembly Rule 77.2.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Coms. on L. GOV. and NAT. RES. pursuant to Assembly Rule 77.2.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -788,6 +806,17 @@
       ],
       "date": "2026-08-17",
       "classification": "analysis"
+    },
+    {
+      "note": "08/24/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB328&analysisId=405024&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -812,7 +841,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T07:45:10Z",
+    "logs_latest_update": "2026-08-25T07:50:40Z",
     "text_extraction_latest_update": "2026-08-22T08:16:04.830764Z"
   }
 }

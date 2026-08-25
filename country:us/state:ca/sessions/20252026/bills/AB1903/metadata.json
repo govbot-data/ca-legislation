@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law specifies the rights and requirements of a claimant or homeowner to bring a civil action for construction defects of a dwelling, including applicable standards for home construction, detailed prelitigation procedures, statute of limitations, burden of proof, and the damages recoverable. Existing law specifies the rights and prohibitions for a builder to defend against a civil action for construction defects, including a prohibition against a builder obtaining a release or waiver in exchange for repair work mandated by law.\n\nThis bill would modify specific rights, requirements, and prohibitions for the parties to a civil action for construction defects of a dwelling by revising, among other things, the requirements for a prelitigation notice from the claimant to the builder and the evidence a claimant is required to affirmatively demonstrate to make a claim. The bill would prohibit the recovery of investigative costs, except as specified. The bill would repeal the prohibition on, and instead authorize, a builder to obtain a release or waiver in exchange for certain repair work, as specified. The bill would prohibit an insurer from asserting repairs as a voluntary payment or as a payment made without the insurer's consent, or denying counting the costs associated with those repairs, against a deductible or self-insured retention."
+      "abstract": "Existing law specifies the rights and requirements of a claimant or homeowner to bring a civil action for construction defects of a dwelling, including applicable standards for home construction, detailed prelitigation procedures, statute of limitations, burden of proof, and the damages recoverable. Existing law provides that, to the extent the function or component of a structure is not addressed by the applicable standards, a function or component of a structure shall be actionable, if it causes damage. Existing law specifies the rights and prohibitions for a builder to defend against a civil action for construction defects, including a prohibition against a builder obtaining a release or waiver in exchange for repair work mandated by law. Existing law defines various terms for these purposes.\n\nThis bill, among other things, would revise the applicable standards with respect to water issues, structural issues, soil issues, and fire protection issues, as prescribed. The bill would, instead, provide that, to the extent the function or component of a structure is not addressed by the applicable standards, a function or component of a structure shall be actionable, if it causes damage to another component part. The bill would specify circumstances that are not a violation of the applicable standards. The bill would modify specific rights, requirements, and prohibitions for the parties to a civil action for construction defects of a dwelling by revising, among other things, the requirements for a prelitigation notice from the claimant to the builder and the evidence a claimant is required to affirmatively demonstrate to make a claim. Among other changes, the bill would repeal the prohibition on, and, instead, authorize, a builder to obtain a release or waiver in exchange for certain repair work, as specified. Commencing July 1, 2027, the bill would prohibit an insurer from asserting repairs as a voluntary payment or as a payment made without the insurer's consent, or denying counting the costs associated with those repairs, against a deductible or self-insured retention. The bill would provide that its provisions apply to a structures subject to the provisions governing the rights of a claimant or homeowner to bring a civil action for construction defects of a dwelling, except as provided. The bill would further provide that its provisions are severable. The bill would additionally revise various definitions and define additional terms."
     }
   ],
   "other_titles": [],
@@ -386,6 +386,20 @@
       "_processing": {
         "log_file_created": "2026-08-22T07:45:10Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -524,6 +538,17 @@
       ],
       "date": "2026-08-04",
       "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1903&version=20250AB190393AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
+      "classification": ""
     }
   ],
   "documents": [
@@ -581,6 +606,17 @@
       ],
       "date": "2026-08-07",
       "classification": "analysis"
+    },
+    {
+      "note": "08/24/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1903&analysisId=404928&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -591,7 +627,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Sections 910, 930, and 942 of, to add Sections 942.2, 945.1, and 945.2 to, and to repeal and add Section 926 of, the Civil Code, relating to construction defects.",
+    "impact_clause": "An act to amend Sections 895, 896, 897, 910, 930, and 942 of, to add Sections 898, 942.2, 945.1, and 945.6 to, to add Chapter 6 (commencing with Section 945.9) to Title 7 of Part 2 of Division 2 of, and to repeal and add Section 926 of, the Civil Code, relating to construction defects.",
     "tags": []
   },
   "jurisdiction": {
@@ -601,7 +637,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T07:45:10Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-22T08:07:53.580297Z"
   }
 }

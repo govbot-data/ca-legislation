@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law requires all records of the Department of Motor Vehicles relating to the registration of vehicles, other information contained on an application for a driver's license, abstracts of convictions, and certain abstracts of accident reports to be open to public inspection during office hours, except when a specific provision of law prohibits the disclosure of records or information or provides for confidentiality. Of these records, existing law requires the department to make available or disclose abstracts of convictions and abstracts of accident reports if, for driving under the influence-related violations, the date of occurrence is not later than 10 years.\n\nThis bill would also require the department to make available or disclose these abstracts or reports within 10 years of the occurrence for a violation of gross vehicular manslaughter while intoxicated and with gross negligence.\n\nExisting law establishes that specified convictions, violations, and traffic-related incidents count as points against a driver's record for purposes of the suspension or revocation of the privilege to drive. Existing law imposes 2 violation points against a driver's record for purposes of the suspension or revocation of the privilege to drive if a driver is convicted of vehicular manslaughter while intoxicated but without gross negligence.\n\nThis bill would impose 3 violation points against a driver's record for a conviction of the gross vehicular manslaughter while intoxicated and with gross negligence."
+      "abstract": "Existing law requires all records of the Department of Motor Vehicles relating to the registration of vehicles, other information contained on an application for a driver's license, abstracts of convictions, and certain abstracts of accident reports to be open to public inspection during office hours, except when a specific provision of law prohibits the disclosure of records or information or provides for confidentiality. Of these records, existing law requires the department to make available or disclose abstracts of convictions and abstracts of accident reports if, for driving under the influence-related violations, the date of occurrence is not later than 10 years.\n\nThis bill would also require the department to make available or disclose these abstracts or reports within 10 years of the occurrence for a violation of gross vehicular manslaughter while intoxicated and with gross negligence.\n\nExisting law establishes that specified convictions, violations, and traffic-related incidents count as points against a driver's record for purposes of the suspension or revocation of the privilege to drive. Existing law imposes 2 violation points against a driver's record for purposes of the suspension or revocation of the privilege to drive if a driver is convicted of vehicular manslaughter while intoxicated but without gross negligence.\n\nThis bill would impose 3 violation points against a driver's record for a conviction of gross vehicular manslaughter while intoxicated and with gross negligence.\n\nThis bill would make its provisions operative January 1, 2031."
     }
   ],
   "other_titles": [],
@@ -414,6 +414,20 @@
       "_processing": {
         "log_file_created": "2026-08-22T07:45:10Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -494,6 +508,17 @@
         }
       ],
       "date": "2026-04-13",
+      "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1685&version=20250AB168596AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
       "classification": ""
     }
   ],
@@ -585,6 +610,17 @@
       ],
       "date": "2026-08-14",
       "classification": "analysis"
+    },
+    {
+      "note": "08/24/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1685&analysisId=405017&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -595,7 +631,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Sections 1808 and 12810 of the Vehicle Code, relating to vehicles.",
+    "impact_clause": "An act to amend, repeal, and add Sections 1808 and 12810 of the Vehicle Code, relating to vehicles.",
     "tags": [
       "fiscal committee"
     ]
@@ -607,7 +643,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T07:45:10Z",
+    "logs_latest_update": "2026-08-25T07:50:40Z",
     "text_extraction_latest_update": "2026-08-22T07:58:45.597582Z"
   }
 }

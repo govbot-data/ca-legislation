@@ -263,6 +263,20 @@
       "_processing": {
         "log_file_created": "2026-08-21T07:52:42Z"
       }
+    },
+    {
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -385,6 +399,17 @@
       ],
       "date": "2026-06-12",
       "classification": "analysis"
+    },
+    {
+      "note": "08/21/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1573&analysisId=404627&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -405,7 +430,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-21T07:52:42Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-21T08:43:53.771442Z"
   }
 }

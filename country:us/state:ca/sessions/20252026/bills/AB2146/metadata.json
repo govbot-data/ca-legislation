@@ -1,23 +1,26 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB2146",
-  "title": "Supportive housing: prospective tenants: barriers to access.",
+  "title": "Coordinated Entry System: study.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Supportivehousing",
-    "barrierstoaccess",
-    "prospectivetenants"
+    "CoordinatedEntrySystem",
+    "study"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law establishes the Department of Housing and Community Development within the Business, Consumer Services, and Housing Agency and sets forth its powers and duties. Existing law, the Governor's Reorganization Plan No. 1 of 2025 (GRP) , which became effective on July 5, 2025, transfers the Department of Housing and Community Development to the California Housing and Homelessness Agency, which the GRP also establishes, as of July 1, 2026.\n\nExisting law establishes a low-income housing tax credit program, through which the California Tax Credit Allocation Committee, chaired by the Treasurer, allocates low-income housing tax credits aimed at providing affordable low-income housing within and throughout the state. Existing law sets forth procedures and criteria under the program for housing credit applicants, who are owners, sponsors, or developers of qualifying low-income buildings or projects, as specified.\n\nExisting law, the Multifamily Housing Program, administered by the Department of Housing and Community Development, makes available deferred payment loans to pay for the eligible costs of housing development projects. Existing law specifies particular requirements for projects funded with funds appropriated for supportive housing projects, including, among other things, that supportive housing projects provide or demonstrate collaboration with programs that provide services that meet the needs of the supportive housing residents. Existing law also requires that funds appropriated to provide housing for individuals and families who are experiencing homelessness or who are at risk of homelessness and who are impacted by the COVID-19 pandemic or other communicable diseases be disbursed in accordance with the Multifamily Housing Program for specified uses. This disbursement program is referred to as Homekey.\n\nExisting law, known as the No Place Like Home Program, requires the Department of Housing and Community Development to award $2,000,000,000 among counties to finance capital costs, including, but not limited to, acquisition, design, construction, rehabilitation, or preservation, and to capitalize operating reserves, of permanent supportive housing for the target population, as specified.\n\nThis bill would establish the California Direct Access to Supportive Housing (DASH) designation, for the purpose of facilitating quick and accountable access to supportive housing units. The bill would, beginning July 1, 2027, require a sponsor of a housing unit that meets prescribed criteria to notify the Department of Housing and Community Development or the California Tax Credit Allocation Committee of the unit's eligibility for a DASH designation, as specified. The bill would, beginning July 1, 2027, and to the extent not prohibited by federal law, require the department or the committee to apply specified expedited compliance documentation standards for a prospective tenant referred to a DASH unit, as provided. The bill would include in these expedited compliance standards, among others, the requirement to accept self-certification of homelessness, defined as an affidavit, signed under penalty of perjury, indicating an individual's status as chronically homeless, homeless, or at risk of homelessness. By expanding the crime of perjury, the bill would impose a state-mandated local program.\n\nThis bill would require the California Housing and Homelessness Agency to, by January 1, 2028, complete a comprehensive review of compliance documentation required for DASH units, as provided. The bill would require the agency to submit a report on this review to the Legislature by April 1, 2028, and to implement revised compliance requirements based on the review by July 1, 2028.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+      "abstract": "Existing law establishes the California Interagency Council on Homelessness (council) , which has various goals, including, among other things, to serve as a statewide facilitator, coordinator, and policy development resource on ending homelessness in California.\n\nThis bill would require the council to, by July 1, 2028, complete a comprehensive statewide study of the coordinated entry system and its role in connecting individuals and families experiencing homelessness to affordable housing, as specified. The bill would require the council, in conducting the study, to meaningfully consult with a geographically representative group of stakeholders, as described, and would require the council, by July 1, 2028, to post the report on its internet website and submit the report to the Legislature and any relevant policy committees."
     }
   ],
   "other_titles": [
+    {
+      "note": "",
+      "title": "Supportive housing: prospective tenants: barriers to access."
+    },
     {
       "note": "",
       "title": "Multifamily Housing Program: Homekey."
@@ -363,6 +366,20 @@
       "_processing": {
         "log_file_created": "2026-08-22T07:45:10Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -482,6 +499,17 @@
       ],
       "date": "2026-08-13",
       "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2146&version=20250AB214694AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
+      "classification": ""
     }
   ],
   "documents": [
@@ -561,6 +589,17 @@
       ],
       "date": "2026-08-17",
       "classification": "analysis"
+    },
+    {
+      "note": "08/24/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2146&analysisId=404934&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -571,10 +610,9 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to add Sections 50199.26 and 50675.15.5 to, and to add Chapter 20 (commencing with Section 50899.8.1) to Part 2 of Division 31 of, the Health and Safety Code, and to add Section 5849.8.5 to the Welfare and Institutions Code, relating to housing.",
+    "impact_clause": "An act to add Section 8257.5  to the Welfare and Institutions Code, relating to housing.",
     "tags": [
-      "fiscal committee",
-      "local program"
+      "fiscal committee"
     ]
   },
   "jurisdiction": {
@@ -584,7 +622,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T07:45:10Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-22T07:56:18.846706Z"
   }
 }

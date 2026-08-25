@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law defines \"disadvantaged communities\" and requires the California Environmental Protection Agency to identify disadvantaged communities for investment opportunities from the Greenhouse Gas Reduction Fund and for other purposes.\n\nThis bill would expand the definition of \"disadvantaged communities\" by explicitly authorizing the inclusion of farmworker communities that meet certain requirements.o"
+      "abstract": "Existing law defines \"disadvantaged communities\" and requires the California Environmental Protection Agency to identify disadvantaged communities for investment opportunities from the Greenhouse Gas Reduction Fund and for other purposes.\n\nThis bill would require the agency to do specified things regarding farmworker communities for purposes of identifying disadvantaged communities including, among other things, assessing whether designating farmworker communities as disadvantaged communities would increase those communities' access to investment opportunities and identifying potential barriers faced by low-income farmworker communities in accessing investment opportunities, as specified. The bill would require the agency to make its findings publicly available on its internet website and consider those findings when identifying disadvantaged communities. The bill would require the agency and the Office of Environmental Health Hazard Assessment to develop and implement a strategy for engaging with farmworker communities on environmental, health, and socioeconomic burdens, as provided."
     }
   ],
   "other_titles": [],
@@ -312,6 +312,20 @@
       "_processing": {
         "log_file_created": "2026-08-22T07:45:11Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -321,6 +335,46 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Arambula\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Garcia",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Garcia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Quirk-Silva",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Quirk-Silva\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Arregu\u00edn",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Arregu\\u00edn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Reyes",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Reyes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rubio",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rubio\"}",
       "organization_id": null
     }
   ],
@@ -368,6 +422,17 @@
         }
       ],
       "date": "2026-08-13",
+      "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1600&version=20250AB160096AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
       "classification": ""
     }
   ],
@@ -452,6 +517,17 @@
       ],
       "date": "2026-08-17",
       "classification": "analysis"
+    },
+    {
+      "note": "08/24/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1600&analysisId=404849&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -474,7 +550,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T07:45:11Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-22T07:57:57.331939Z"
   }
 }

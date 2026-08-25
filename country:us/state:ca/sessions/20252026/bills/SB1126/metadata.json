@@ -370,6 +370,30 @@
       "_processing": {
         "log_file_created": "2026-08-12T08:27:47Z"
       }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-08-22",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Chapter 119, Statutes of 2026.",
+      "date": "2026-08-22",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -465,6 +489,17 @@
       ],
       "date": "2026-08-05",
       "classification": ""
+    },
+    {
+      "note": "08/22/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1126&version=20250SB112694CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-22",
+      "classification": ""
     }
   ],
   "documents": [
@@ -556,7 +591,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-12T08:27:47Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-12T08:37:30.980523Z"
   }
 }

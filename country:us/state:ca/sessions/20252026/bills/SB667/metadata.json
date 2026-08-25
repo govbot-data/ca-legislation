@@ -20,7 +20,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Railroads: safety: wayside detectors."
+      "title": "Railroads: safety: wayside detectors: train length: emergency vehicle crossing."
     },
     {
       "note": "",
@@ -28,7 +28,7 @@
     },
     {
       "note": "",
-      "title": "Railroads: safety: wayside detectors: train length: emergency vehicle crossing."
+      "title": "Railroads: safety: wayside detectors."
     }
   ],
   "other_identifiers": [
@@ -469,6 +469,30 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:24Z"
       }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Senate.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
+    },
+    {
+      "description": "In Senate. Concurrence in Assembly amendments pending.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -660,6 +684,28 @@
       ],
       "date": "2026-06-29",
       "classification": "analysis"
+    },
+    {
+      "note": "08/14/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB667&analysisId=403666&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-14",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/24/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB667&analysisId=405050&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -682,7 +728,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:24Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-14T09:53:06.973554Z"
   }
 }

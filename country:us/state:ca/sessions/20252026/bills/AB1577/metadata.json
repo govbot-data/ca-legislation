@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law establishes the State Energy Resources Conservation and Development Commission and vests the commission with various responsibilities with respect to developing and implementing the state's energy policies. Existing law requires the commission to biennially adopt an integrated energy policy report, as specified, and to make the reports accessible to state, local, and federal entities and to the general public.\n\nThis bill would require the commission to establish a process for the owner of a data center, as defined, to submit specified information to the commission, including, among other information, the data center's location and size, the data center's power usage effectiveness, as defined, and the quantity of fuel consumed by onsite generators or other fuel-based energy systems, as specified. The bill would require the owner of a data center to submit the required information in the manner and timeframe specified by the commission. The bill would require the commission, beginning with the 2029 integrated energy policy report, and in subsequent biennial reports thereafter as determined by the commission, to include an assessment of electrical load trends for data centers, as provided. The bill would require the commission to annually publish the information submitted in an anonymized and aggregated format on its internet website.\n\nThe bill would require the owner or developer of a data center, upon applying for a discretionary permit, entitlement, or land use authorization required for the construction or operation of the data center, to submit to the applicable local agency, as defined, specified information, including the expected annual energy consumption, as specified, and the expected sound levels attributable to the operation of the data center, as provided. The bill would authorize the local agency to use this information for various purposes, including, but not limited to, land use planning, infrastructure planning, energy supply assessment, and environmental review.\n\nThe bill would prohibit the commission or a local agency from disclosing the information described above in a manner that would result in the disclosure of identifiable information or energy consumption data for a data center customer, except as provided. The bill would require the commission to establish a process for the owner of a data center to obtain an exemption from reporting data that would jeopardize trade secrets if disclosed.\n\nExisting constitutional provisions require that a statute that limits the right of access to the meetings of public bodies or the writings of public officials and agencies be adopted with findings demonstrating the interest protected by the limitation and the need for protecting that interest.\n\nThis bill would make legislative findings to that effect."
+      "abstract": "Existing law establishes the State Energy Resources Conservation and Development Commission and vests the commission with various responsibilities with respect to developing and implementing the state's energy policies. Existing law requires the commission to biennially adopt an integrated energy policy report, as specified, and to make the reports accessible to state, local, and federal entities and to the general public.\n\nThis bill would require the commission to establish a process for the owner or operator of a data center, as defined, to submit specified information to the commission, including, among other information, the data center's location and size, the data center's power usage effectiveness, as defined, and the quantity of fuel consumed by onsite generators or other fuel-based energy systems, as specified. The bill would require the owner or operator of a data center to submit the required information in the manner and timeframe specified by the commission. The bill would require the commission, beginning with the 2029 integrated energy policy report, and in subsequent biennial reports thereafter as determined by the commission, to include an assessment of electrical load trends for data centers, as provided. The bill would require the commission to annually publish the information submitted in an anonymized and aggregated format on its internet website. The bill would require the commission to establish a process for the owner or operator of a data center to identify information that the owner or operator claims is exempted or prohibited from disclosure pursuant to federal or state law, as provided.\n\nThe bill would require the owner or operator of a data center, upon applying for a discretionary permit, entitlement, or land use authorization required for the construction or operation of the data center, to submit to the applicable local agency, as defined, specified information, including the expected annual energy consumption, as specified, and the expected sound levels attributable to the operation of the data center, as provided. The bill would authorize the local agency to use this information for various purposes, including, but not limited to, land use planning, infrastructure planning, energy supply assessment, and environmental review.\n\nThe bill would exempt a publicly funded research facility, public safety facility, publicly funded national security facility, publicly owned facility, or other utility facility, as provided, from the above-described provisions.\n\nThe bill would prohibit the commission or a local agency from disclosing the information described above in a manner that would result in the disclosure of personally identifiable information or energy consumption data for a data center customer, as provided.\n\nExisting constitutional provisions require that a statute that limits the right of access to the meetings of public bodies or the writings of public officials and agencies be adopted with findings demonstrating the interest protected by the limitation and the need for protecting that interest.\n\nThis bill would make legislative findings to that effect."
     }
   ],
   "other_titles": [
@@ -438,6 +438,20 @@
       "_processing": {
         "log_file_created": "2026-08-22T07:45:10Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -538,6 +552,17 @@
         }
       ],
       "date": "2026-08-13",
+      "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1577&version=20250AB157792AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
       "classification": ""
     }
   ],
@@ -640,6 +665,17 @@
       ],
       "date": "2026-08-17",
       "classification": "analysis"
+    },
+    {
+      "note": "08/24/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1577&analysisId=404813&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -650,7 +686,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to add Sections 25245, 25246, and 25247 to the Public Resources Code, relating to energy.",
+    "impact_clause": "An act to add Sections 7927.303 and 65909.3 to the Government Code, and to add Section 25302.10 to the Public Resources Code, relating to energy.",
     "tags": [
       "fiscal committee"
     ]
@@ -662,7 +698,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T07:45:10Z",
+    "logs_latest_update": "2026-08-25T07:50:40Z",
     "text_extraction_latest_update": "2026-08-22T08:03:36.870196Z"
   }
 }

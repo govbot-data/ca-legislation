@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, the Knox-Keene Health Care Service Plan Act of 1975, provides for the licensure and regulation of health care service plans by the Department of Managed Health Care, and makes a willful violation of the act a crime. Existing law provides for the regulation of health insurers by the Department of Insurance. Existing law requires a health care service plan and a health insurer that contracts with providers for alternative rates of payment to publish and maintain a provider directory or directories with information on contracting providers that deliver health care services enrollees or insureds, and requires a health care service plan and health insurer to regularly update its printed and online provider directory or directories, as specified. Existing law authorizes the departments to require a plan or insurer to provide coverage for all covered health care services provided to an enrollee or insured who reasonably relied on materially inaccurate, incomplete, or misleading information contained in a plan's or insurer's provider directory or directories.\n\nThis bill would require a plan or insurer to annually verify and delete inaccurate listings from its provider directories, and would require a provider directory to be 60% accurate on July 1, 2026, with increasing required percentage accuracy benchmarks to be met each year until the directories are 95% accurate on or before July 1, 2029. The bill would subject a plan or insurer to administrative penalties for failure to meet the prescribed benchmarks. The bill would require a plan or insurer to provide coverage for all covered health care services provided to an enrollee or insured who reasonably relied on inaccurate, incomplete, or misleading information contained in a health plan or policy's provider directory or directories and to reimburse the provider the out-of-network amount for those services. The bill would prohibit a provider from collecting an additional amount from an enrollee or insured other than the applicable in-network cost sharing, which would count toward the in-network deductible and out-of-pocket maximum. The bill would require a plan or insurer to provide information about in-network providers to enrollees and insureds upon request, including whether the provider is accepting new patients at the time, and would limit the cost-sharing amounts an enrollee or insured is required to pay for services from those providers under specified circumstances. The bill would require the health care service plan or the insurer, as applicable, to ensure the accuracy of a request to add back a provider who was previously removed from a directory and approve the request within 10 business days of receipt, if accurate. The bill would authorize a health care service plan or insurer to include a specified statement in the provider listing before removing the provider from the directory if the provider does not respond within 5 calendar days of the plan or insurer's annual notification. Because a violation of the bill's requirements by a health care service plan would be a crime, the bill would impose a state-mandated local program.\n\nOn or before January 1, 2026, this bill would authorize the Department of Managed Health Care and the Department of Insurance to update uniform formats for plans and insurers to use to request directory information from providers and to establish a methodology and processes to ensure accuracy of provider directories and consistency with other laws, regulations, or standards.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+      "abstract": "Existing law, the Knox-Keene Health Care Service Plan Act of 1975, provides for the licensure and regulation of health care service plans by the Department of Managed Health Care, and makes a willful violation of the act a crime. Existing law provides for the regulation of health insurers by the Department of Insurance. Existing law requires a health care service plan and a health insurer that contracts with providers for alternative rates of payment to publish and maintain a provider directory or directories with information on contracting providers that deliver health care services enrollees or insureds, and requires a health care service plan and health insurer to regularly update its printed and online provider directory or directories, as specified. Existing law authorizes the departments to require a plan or insurer to provide coverage for all covered health care services provided to an enrollee or insured who reasonably relied on materially inaccurate, incomplete, or misleading information contained in a plan's or insurer's provider directory or directories.\n\nThis bill would require the Department of Managed Health Care to select a central utility and develop uniform provider directory standards requiring a health care service plan to use the designated central utility to collect, manage, and verify the consistency and completeness of their provider directories. The bill would also require health insurers to use the designated central utility and follow the uniform provider directory standards. The bill would require plans and health insurers to submit their provider directories to the central utility for analysis, and would require the central utility to create a consistency report for each directory.\n\nThis bill would require a plan or insurer to provide coverage for all covered benefits provided to an enrollee or insured who reasonably relied on inaccurate, incomplete, or misleading information contained in the plan's or insurer's provider directory or directories and to reimburse the provider the agreed upon amount, or, if none, a reasonable and customary amount, as specified, for those services. The bill would prohibit a provider from collecting an additional amount from an enrollee or insured other than the applicable in-network cost sharing, which would count toward the in-network deductible and out-of-pocket maximum. The bill would require the health care service plan or the insurer, as applicable, to ensure the accuracy of a request to add back a provider who was previously removed from a directory and approve the request within 10 business days of receipt, if accurate. The bill would authorize a health care service plan or insurer to include a specified statement in the provider listing before removing the provider from the directory if the provider does not respond within 5 calendar days of the plan's or insurer's annual notification. The bill would require a plan or insurer to comply with its provisions on and after July 1, 2027. Because a violation of the bill's requirements by a health care service plan would be a crime, the bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
     }
   ],
   "other_titles": [],
@@ -348,6 +348,20 @@
       "_processing": {
         "log_file_created": "2026-08-22T07:45:11Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -357,6 +371,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Aguiar-Curry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Papan",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Papan\"}",
       "organization_id": null
     }
   ],
@@ -415,6 +437,17 @@
         }
       ],
       "date": "2025-07-15",
+      "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB280&version=20250AB28095AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
       "classification": ""
     }
   ],
@@ -484,6 +517,17 @@
       ],
       "date": "2025-08-30",
       "classification": "analysis"
+    },
+    {
+      "note": "08/24/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB280&analysisId=404836&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -507,7 +551,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T07:45:11Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-22T08:05:08.705398Z"
   }
 }

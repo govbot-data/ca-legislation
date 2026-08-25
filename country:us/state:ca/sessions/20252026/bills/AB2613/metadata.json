@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law, the Knox-Keene Health Care Service Plan Act of 1975, provides for the licensure and regulation of health care service plans by the Department of Managed Health Care and makes a willful violation of the act's requirements a crime. Existing law requires a health care service plan to notify an enrollee by United States mail at least 60 days before the termination date of a contract between a health care service plan and a provider group or a general acute care hospital to which the enrollee is assigned. If the plan reaches an agreement with a terminated provider after sending that notice, existing law requires the plan to offer each affected enrollee the option to return to that provider and to reassign the enrollee to another provider if the enrollee does not exercise that option.\n\nThis bill would additionally require a health care service plan to notify an enrollee by email or text message, as specified and only if the enrollee has opted in and provided their contact information, at least 60 days before the termination date of a contract between a health care service plan and a provider group or a general acute care hospital to which the enrollee is assigned. If the plan reaches an agreement with a terminated provider after sending the notice of termination, the bill would require the health care service plan to send written notice by United States mail and by email or text message, as specified and only if the enrollee has opted in and provided their contact information, to affected enrollees within 60 days of reaching the agreement. Because a willful violation of these provisions would be a crime, this bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+      "abstract": "Existing law, the Knox-Keene Health Care Service Plan Act of 1975, provides for the licensure and regulation of health care service plans by the Department of Managed Health Care and makes a willful violation of the act's requirements a crime. Existing law requires a health care service plan to notify an enrollee by United States mail at least 60 days before the termination date of a contract between a health care service plan and a provider group or a general acute care hospital to which the enrollee is assigned. If the plan reaches an agreement with a terminated provider after sending that notice, existing law requires the plan to offer each affected enrollee the option to return to that provider and to reassign the enrollee to another provider if the enrollee does not exercise that option.\n\nThis bill would additionally require a health care service plan to notify an enrollee by email or text message, as specified and only if the enrollee has opted in and provided their contact information, at least 60 days before the termination date of a contract between a health care service plan and a provider group or a general acute care hospital to which the enrollee is assigned. If the plan reaches an agreement with a terminating or terminated provider after sending the notice of termination, the bill would require the health care service plan to send written notice by United States mail and by email or text message, as specified and only if the enrollee has opted in and provided their contact information, to affected enrollees no later than 10 business days after department approval of the notice. If the agreement is to renew, enter into a new contract, or to not terminate their contract before the termination date in the notice of termination, the bill would require the health care service plan to notify enrollees that they will remain assigned to the provider. If the agreement is to renew, enter into a new contract, or to not terminate their contract after the termination date in the notice of termination, the bill would require the health care service plan to notify and offer each affected enrollee the option to return to that provider. The bill would require a health care service plan to submit these notices to the department for approval within 5 business days of reaching an agreement. Because a willful violation of these provisions would be a crime, this bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
     }
   ],
   "other_titles": [
@@ -305,6 +305,20 @@
       "_processing": {
         "log_file_created": "2026-08-22T07:45:11Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -381,6 +395,17 @@
       ],
       "date": "2026-06-29",
       "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2613&version=20250AB261395AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
+      "classification": ""
     }
   ],
   "documents": [
@@ -438,6 +463,17 @@
       ],
       "date": "2026-08-05",
       "classification": "analysis"
+    },
+    {
+      "note": "08/24/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2613&analysisId=404930&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -461,7 +497,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T07:45:11Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-22T07:48:32.415993Z"
   }
 }

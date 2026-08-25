@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Transactions and use taxes: County of Santa Cruz."
+      "title": "Civil rights violations: service of process: Civil Rights Department."
     },
     {
       "note": "",
-      "title": "Civil rights violations: service of process: Civil Rights Department."
+      "title": "Transactions and use taxes: County of Santa Cruz."
     }
   ],
   "other_identifiers": [
@@ -329,6 +329,24 @@
       "_processing": {
         "log_file_created": "2026-08-22T07:45:10Z"
       }
+    },
+    {
+      "description": "Re-referred to Com. on P. & C.P. pursuant to Assembly Rule 77.2.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on P. & C.P. pursuant to Assembly Rule 77.2.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -462,6 +480,17 @@
       ],
       "date": "2026-08-14",
       "classification": "analysis"
+    },
+    {
+      "note": "08/24/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1078&analysisId=404931&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -482,7 +511,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T07:45:10Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-22T08:18:46.133046Z"
   }
 }

@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law establishes the Department of Transportation and vests it with various powers and duties.\n\nThis bill would require the department to create, on or before June 1, 2027, the California Transit Stop Registry as a centralized, statewide dataset of standardized information regarding transit stops that includes, but is not limited to, each transit stop's name, location, available amenities, and unique identifier, as specified.\n\nExisting law provides for the funding of public transit, including under the Mills-Alquist-Deddeh Act, also known as the Transportation Development Act.\n\nThis bill would require a transit operator, as defined, to ensure, on or before January 1, 2028, that the name and location of each of its transit stops conforms with the name and location for the stop in the California Transit Stop Registry and to use a transit stop's unique identifier listed in the registry when publishing any dataset with stop information or during publication of agency open datasets. By requiring a transit operator to perform new duties, the bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+      "abstract": "Existing law establishes the Department of Transportation and vests it with various powers and duties.\n\nThis bill would require the department to create, on or before June 1, 2027, and with input from transit operators, the California Transit Stop Registry as a centralized, statewide dataset of standardized information regarding transit stops that includes, but is not limited to, each transit stop's name, location, available seating, and unique identifier, and information on whether the transit stop is sheltered, as specified.\n\nExisting law provides for the funding of public transit, including under the Mills-Alquist-Deddeh Act, also known as the Transportation Development Act.\n\nThis bill would require a transit operator, as defined, on or before January 1, 2028, to (1) ensure that the name and location of each of its transit stops conforms with the name and location for the stop in the California Transit Stop Registry, (2) use a transit stop's unique identifier listed in the registry when publishing any dataset with stop information or during publication of agency open datasets, and (3) report, for inclusion in the California Transit Stop Registry, if each of its transit stops has seating and shelter. By requiring a transit operator to perform new duties, the bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
     }
   ],
   "other_titles": [],
@@ -296,6 +296,20 @@
       "_processing": {
         "log_file_created": "2026-08-22T07:45:10Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -357,6 +371,17 @@
         }
       ],
       "date": "2026-06-04",
+      "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1599&version=20250AB159997AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
       "classification": ""
     }
   ],
@@ -449,7 +474,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T07:45:10Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-22T08:10:28.086449Z"
   }
 }

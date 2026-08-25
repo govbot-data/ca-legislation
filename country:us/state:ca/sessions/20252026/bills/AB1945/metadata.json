@@ -1,13 +1,14 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB1945",
-  "title": "Municipal utility districts: termination of service.",
+  "title": "Municipal utility districts: prepay option: termination of service.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
     "Municipalutilitydistricts",
+    "prepayoption",
     "terminationofservice"
   ],
   "abstracts": [
@@ -16,7 +17,12 @@
       "abstract": "The Municipal Utility District Act establishes the formation of a municipal utility district for the provision of light, heat, water, or power within the district's jurisdiction. The act prohibits a district furnishing light, heat, water, or power from terminating residential service on account of nonpayment of a delinquent account unless the district provides a notice of delinquency and an opportunity to cure, as provided.\n\nThis bill would authorize districts to offer customers the option of electronically receiving the required notice of delinquency, as specified. The bill would authorize districts furnishing service to fewer than 100,000 customers to offer residential customers a prepay option, as defined, for electrical service if certain conditions are met, including, among other things, that the district provides the customer with information on returning to standard billing and issues automated low-balance alerts to the customer before suspending the customer's electrical service, as provided. The bill would specify that the requirement to provide a notice of delinquency does not apply to customers participating in the prepay option."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Municipal utility districts: termination of service."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-ca-20252026-ab1945"
@@ -267,6 +273,20 @@
       "_processing": {
         "log_file_created": "2026-08-22T07:45:10Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -351,6 +371,17 @@
       ],
       "date": "2026-06-25",
       "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1945&version=20250AB194595AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
+      "classification": ""
     }
   ],
   "documents": [
@@ -397,6 +428,17 @@
       ],
       "date": "2026-06-29",
       "classification": "analysis"
+    },
+    {
+      "note": "08/24/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1945&analysisId=404851&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -417,7 +459,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T07:45:10Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-22T08:00:29.566308Z"
   }
 }

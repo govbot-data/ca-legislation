@@ -187,6 +187,18 @@
       "_processing": {
         "log_file_created": "2026-08-19T07:46:19Z"
       }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 4:30 p.m.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -221,6 +233,17 @@
         }
       ],
       "date": "2026-02-13",
+      "classification": ""
+    },
+    {
+      "note": "08/19/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1944&version=20250AB194498ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-19",
       "classification": ""
     }
   ],
@@ -288,7 +311,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-19T07:46:19Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-19T07:51:28.077762Z"
   }
 }

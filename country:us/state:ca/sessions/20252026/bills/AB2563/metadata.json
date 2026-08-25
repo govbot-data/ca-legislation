@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "(1) The United States and California Constitutions guarantee all persons the right to equal protection of the laws. The California Constitution further recognizes the right of all persons to pursue and obtain safety, happiness, and privacy, guarantees an individual's reproductive freedom in their most intimate decisions, and prohibits disqualification of a person from entering or pursuing a business, profession, vocation, or employment because of, among other things, sex.\n\nThis bill would require, under all state laws, that any provision that prohibits discrimination on the basis of sex, discrimination on the basis of gender, or similar discrimination be interpreted to prohibit sex discrimination. The bill would define \"sex discrimination\" to include, among other things, discrimination based on any of specified actual or perceived characteristics or actions, including based on degree of conformity to sex or gender stereotypes.\n\nThis bill would provide that this interpretation reflects the existing protections of specified state constitutional laws, as described above. The bill would require these provisions to be liberally construed to effectuate the purposes of these constitutional protections. The bill would make related findings and declarations.\n\n(2) Existing law, the Unruh Civil Rights Act (act) , provides that all persons within the jurisdiction of this state are entitled to full and equal accommodations, advantages, facilities, privileges, or services in all business establishments regardless of their sex, race, color, religion, ancestry, national origin, disability status, medical condition, genetic information, marital status, sexual orientation, citizenship, primary language, or immigration status. That act defines \"sex\" to include, among other things, pregnancy, childbirth, or medical conditions related to pregnancy or childbirth.\n\nThis bill would further define, for purposes of the act, \"sex\" to include any characteristics set forth under the above-described definition of \"sex discrimination.\"\n\n(3) Existing law, the California Fair Employment and Housing Act (FEHA) , makes certain discriminatory employment and housing practices unlawful, and authorizes a person claiming to be aggrieved by an alleged unlawful practice to file a verified complaint with the Civil Rights Department. The FEHA defines various terms in connection with unlawful practices, including the term \"sex.\"\n\nThis bill would further define \"sex\" to include any characteristics set forth under the above-described definition of \"sex discrimination.\""
+      "abstract": "(1) The United States and California Constitutions guarantee all persons the right to equal protection of the laws. The California Constitution further recognizes the right of all persons to pursue and obtain safety, happiness, and privacy, guarantees an individual's reproductive freedom in their most intimate decisions, and prohibits disqualification of a person from entering or pursuing a business, profession, vocation, or employment because of, among other things, sex.\n\nThis bill would require, under all state laws, that any provision that prohibits discrimination on the basis of sex, discrimination on the basis of gender, or similar discrimination be interpreted to prohibit sex discrimination. The bill would define \"sex discrimination\" to include, among other things, discrimination based on any of specified actual or perceived characteristics or actions, including based on degree of conformity to sex or gender stereotypes.\n\nThis bill would provide that this interpretation reflects the existing protections of specified state constitutional laws, as described above. The bill would require these provisions to be liberally construed to effectuate the purposes of these constitutional protections. The bill would make related findings and declarations.\n\n(2) Existing law, the Unruh Civil Rights Act (act) , provides that all persons within the jurisdiction of this state are entitled to full and equal accommodations, advantages, facilities, privileges, or services in all business establishments regardless of their sex, race, color, religion, ancestry, national origin, disability status, medical condition, genetic information, marital status, sexual orientation, citizenship, primary language, or immigration status. That act defines \"sex\" to include, among other things, pregnancy, childbirth, or medical conditions related to pregnancy or childbirth.\n\nThis bill would further define, for purposes of the act, \"sex\" to include any characteristics set forth under the above-described definition of \"sex discrimination.\"\n\n(3) Existing law, the California Fair Employment and Housing Act (FEHA) , makes certain discriminatory employment and housing practices unlawful, and authorizes a person claiming to be aggrieved by an alleged unlawful practice to file a verified complaint with the Civil Rights Department. The FEHA defines various terms in connection with unlawful practices, including the term \"sex.\"\n\nThis bill would further define \"sex\" to include any characteristics set forth under the above-described definition of \"sex discrimination.\"\n\n(4) This bill would incorporate additional changes to Section 51 of the Civil Code proposed by AB 1940 to be operative only if this bill and AB 1940 are enacted and this bill is enacted last.\n\nThis bill would incorporate additional changes to Section 12926 of the Government Code proposed by AB 1940 to be operative only if this bill and AB 1940 are enacted and this bill is enacted last.\n\n(5) This bill would include certain provisions that become operative only if AB 1940 is enacted and takes effect on or before January 1, 2027, and amends Section 12926 of the Government Code. In that regard, the bill would expand the above-described definition of \"sex discrimination\" to include discrimination based on actual or perceived perimenopause, menopause, or postmenopause or medical conditions related to perimenopause, menopause, and postmenopause."
     }
   ],
   "other_titles": [],
@@ -282,6 +282,20 @@
       "_processing": {
         "log_file_created": "2026-08-22T07:45:10Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -291,6 +305,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Pacheco\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Calderon",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Calderon\"}",
       "organization_id": null
     },
     {
@@ -346,6 +368,17 @@
         }
       ],
       "date": "2026-05-18",
+      "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2563&version=20250AB256396AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
       "classification": ""
     }
   ],
@@ -404,6 +437,17 @@
       ],
       "date": "2026-07-01",
       "classification": "analysis"
+    },
+    {
+      "note": "08/24/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2563&analysisId=404893&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -426,7 +470,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T07:45:10Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-22T08:23:07.389493Z"
   }
 }

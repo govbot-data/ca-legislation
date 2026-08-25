@@ -21,7 +21,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Coastal resources: coastal development permits: City of Santa Monica."
+      "title": "Coastal resources: coastal development permits: urban multimodal communities: bicycle facilities."
     },
     {
       "note": "",
@@ -29,7 +29,7 @@
     },
     {
       "note": "",
-      "title": "Coastal resources: coastal development permits: urban multimodal communities: bicycle facilities."
+      "title": "Coastal resources: coastal development permits: City of Santa Monica."
     }
   ],
   "other_identifiers": [
@@ -459,6 +459,30 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:25Z"
       }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Assembly. (Ayes 39. Noes 0.).",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
+    },
+    {
+      "description": "In Assembly. Concurrence in Senate amendments pending.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -669,6 +693,28 @@
       ],
       "date": "2026-07-31",
       "classification": "analysis"
+    },
+    {
+      "note": "08/15/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1740&analysisId=403957&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-15",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/24/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1740&analysisId=405092&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -692,7 +738,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:25Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-14T08:57:07.967489Z"
   }
 }

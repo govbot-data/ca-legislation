@@ -20,11 +20,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "California Coordinated Neighborhood and Community Services Grant Program."
+      "title": "California Coordinated Neighborhood and Community Schools Incentive Grant Program."
     },
     {
       "note": "",
-      "title": "California Coordinated Neighborhood and Community Schools Incentive Grant Program."
+      "title": "California Coordinated Neighborhood and Community Services Grant Program."
     }
   ],
   "other_identifiers": [
@@ -322,6 +322,57 @@
       "_processing": {
         "log_file_created": "2026-08-23T07:41:28Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on RLS. pursuant to Senate Rule 29.10 (b).",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS. pursuant to Senate Rule 29.10 (b).",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
+    },
+    {
+      "description": "From committee: Be re-referred to Com. on ED. pursuant to Senate Rule 29.10 (b). (Ayes 5. Noes 0.) Re-referred to Com. on ED.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on ED. pursuant to Senate Rule 29.10 (b). (Ayes 5. Noes 0.) Re-referred to Com. on ED.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -480,7 +531,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-23T07:41:28Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-23T07:45:28.282387Z"
   }
 }

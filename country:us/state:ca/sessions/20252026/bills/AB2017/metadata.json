@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law designates specific days as holidays in this state. Existing law adopts state holidays as judicial holidays, with certain exceptions, including Admission Day and Columbus Day. Existing law designates holidays on which community colleges and public schools are authorized to close pursuant to a memorandum of understanding between the governing board and represented employees, including \"Native American Day\" on the 4th Friday in September.\n\nThis bill would add \"Eid al-Fitr\" and \"Eid al-Adha\" to the list of state holidays. The bill would exclude \"Eid al-Fitr\" and \"Eid al-Adha\" from designation as judicial holidays. The bill would authorize community colleges and public schools to close on \"Eid al-Fitr\" and \"Eid al-Adha,\" as specified.\n\nExisting law entitles state employees, with specified exceptions, to be given time off with pay for specified holidays. Existing law, in addition, authorizes state employees to elect to use 8 hours of vacation, annual leave, compensating time off, or personal holiday credit corresponding with specified dates.\n\n This bill would, similarly, permit the employee to elect to receive the holiday credit for the holidays of \"Eid al-Fitr\" or \"Eid al-Adha,\" as specified. The bill would, for those holidays whose dates vary annually, instead authorize the above-described election to be made on the date designated by their group.\n\nThe bill would make findings and declarations related to the purpose of the Eid holidays. The bill would make its provisions severable."
+      "abstract": "Existing law designates specific days as holidays in this state. Existing law adopts state holidays as judicial holidays, with certain exceptions, including Admission Day and Columbus Day. Existing law designates holidays on which community colleges and public schools are authorized to close pursuant to a memorandum of understanding between the governing board and represented employees, including \"Native American Day\" on the 4th Friday in September.\n\nThis bill would add \"Eid al-Fitr\" and \"Eid al-Adha\" to the list of state holidays. The bill would exclude \"Eid al-Fitr\" and \"Eid al-Adha\" from designation as judicial holidays. The bill would authorize community colleges and public schools to close on \"Eid al-Fitr\" and \"Eid al-Adha,\" as specified.\n\nExisting law entitles state employees, with specified exceptions, to be given time off with pay for specified holidays. Existing law, in addition, authorizes state employees to elect to use 8 hours of vacation, annual leave, compensating time off, or personal holiday credit corresponding with specified dates.\n\n This bill would, similarly, permit the employee to elect to receive the holiday credit for the holidays of \"Eid al-Fitr\" or \"Eid al-Adha,\" as specified. The bill would, for those holidays whose dates vary annually, instead authorize the above-described election to be made on the date designated by their group.\n\nThe bill would make findings and declarations related to the purpose of the Eid holidays. The bill would make its provisions severable.\n\nThis bill would incorporate additional changes to Section 135 of the Code of Civil Procedure proposed by AB 2294 to be operative only if this bill and AB 2294 are enacted and this bill is enacted last. The bill also would incorporate additional changes to Sections 45203, 79020, and 88203 of the Education Code proposed by SB 1394 to be operative only if this bill and SB 1394 are enacted and this bill is enacted last. The bill further would incorporate additional changes to Section 6700 of the Government Code proposed by AB 2294 and SB 1394 to be operative only if this bill and either or both of those bills are enacted and this bill is enacted last. The bill further would incorporate additional changes to Sections 19853 and 19853.1 of the Government Code proposed by SB 1394 and AB 1841 to be operative only if this bill and either or both of those bills are enacted and this bill is enacted last."
     }
   ],
   "other_titles": [],
@@ -365,6 +365,20 @@
       "_processing": {
         "log_file_created": "2026-08-22T07:45:11Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -406,6 +420,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Bryan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Caloza",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Caloza\"}",
       "organization_id": null
     },
     {
@@ -513,6 +535,17 @@
       ],
       "date": "2026-08-13",
       "classification": ""
+    },
+    {
+      "note": "08/21/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2017&version=20250AB201795AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
+      "classification": ""
     }
   ],
   "documents": [
@@ -614,6 +647,17 @@
       ],
       "date": "2026-08-17",
       "classification": "analysis"
+    },
+    {
+      "note": "08/24/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2017&analysisId=404959&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -636,7 +680,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T07:45:11Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-22T08:12:56.841280Z"
   }
 }

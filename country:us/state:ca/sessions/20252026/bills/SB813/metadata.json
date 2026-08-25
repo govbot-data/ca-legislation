@@ -1,22 +1,25 @@
 {
   "legislative_session": "20252026",
   "identifier": "SB813",
-  "title": "California Artificial Intelligence Standards and Safety Commission: artificial intelligence safety standards.",
+  "title": "Independent verification organizations.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "CaliforniaArtificialIntelligenceStandardsandSafetyCommission",
-    "artificialintelligencesafetystandards"
+    "Independentverificationorganizations"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law requires, on or before September 1, 2024, the Department of Technology, within the Government Operations Agency, to conduct, in coordination with other interagency bodies as it deems appropriate, a comprehensive inventory of all high-risk automated decision systems that have been proposed for use, development, or procurement by, or are being used, developed, or procured by, any state agency. Existing law requires the department to annually submit a report of that comprehensive inventory to the Assembly Committee on Privacy and Consumer Protection and the Senate Committee on Governmental Organization.\n\nExisting law, the Transparency in Frontier Artificial Intelligence Act, among other things related to ensuring the safety of certain artificial intelligence models, requires a large frontier developer to write, implement, and clearly and conspicuously publish on its internet website a frontier AI framework that applies to the large frontier developer's frontier models and describes how the large frontier developer approaches, among other things, incorporating national standards, international standards, and industry-consensus best practices into its frontier AI framework.\n\nThis bill would require the Business and Consumer Services Agency to establish, on or before July 1, 2027, the California Artificial Intelligence Standards and Safety Commission and would provide for its membership, as specified. The bill would make this provision inoperative if AB 1709 of the 2025\u201326 Regular Session is enacted and the e-Safety Advisory Commission is established pursuant to that measure.\n\nThis bill would require either the California Artificial Intelligence Standards and Safety Commission or the e-Safety Advisory Commission, as specified, to take certain actions related to the safety of artificial intelligence, including developing standards for the assessment of AI systems and models by AI auditors, developing procedures for determining whether to suspend or terminate the registration of an AI auditor, and developing criteria for determining whether an AI auditor qualifies as an independent verification organization, as specified."
+      "abstract": "Existing law requires, on or before September 1, 2024, the Department of Technology, within the Government Operations Agency, to conduct, in coordination with other interagency bodies as it deems appropriate, a comprehensive inventory of all high-risk automated decision systems that have been proposed for use, development, or procurement by, or are being used, developed, or procured by, any state agency. Existing law requires the department to annually submit a report of that comprehensive inventory to the Assembly Committee on Privacy and Consumer Protection and the Senate Committee on Governmental Organization.\n\nExisting law, the Transparency in Frontier Artificial Intelligence Act, among other things related to ensuring the safety of certain artificial intelligence models, requires a large frontier developer to write, implement, and clearly and conspicuously publish on its internet website a frontier AI framework that applies to the large frontier developer's frontier models and describes how the large frontier developer approaches, among other things, incorporating national standards, international standards, and industry-consensus best practices into its frontier AI framework.\n\nThis bill would require, on or before January 1, 2028, the Government Operations Agency to take certain actions related to the selection and regulation of certain entities, defined as \"independent verification organizations,\" designated by the agency as having demonstrated expertise in assessing the risks posed by an AI system or model and identifying the metrics and methodologies that form the basis for that assessment. The bill would require the agency to convene working groups to solicit stakeholder input in the identification of standards and the development and revision of procedures and criteria, as specified. The bill would require the agency to provide a report to the Legislature on the findings of the working groups and would require a registered IVO to submit annually, and no sooner than 12 months after initial registration as an IVO, to the agency and Legislature a report, as specified."
     }
   ],
   "other_titles": [
+    {
+      "note": "",
+      "title": "California Artificial Intelligence Standards and Safety Commission: artificial intelligence safety standards."
+    },
     {
       "note": "",
       "title": "Occupational therapy."
@@ -481,6 +484,63 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:25Z"
       }
+    },
+    {
+      "description": "Assembly Rule 96 suspended.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
+    },
+    {
+      "description": "Withdrawn from committee.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
+    },
+    {
+      "description": "Ordered to second reading.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -598,6 +658,17 @@
       ],
       "date": "2026-08-13",
       "classification": ""
+    },
+    {
+      "note": "08/24/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB813&version=20250SB81392AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": ""
     }
   ],
   "documents": [
@@ -655,6 +726,17 @@
       ],
       "date": "2026-08-03",
       "classification": "analysis"
+    },
+    {
+      "note": "08/24/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB813&analysisId=405128&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -677,7 +759,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:25Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-14T09:56:58.935588Z"
   }
 }

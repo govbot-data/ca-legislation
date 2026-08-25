@@ -19,15 +19,15 @@
   "other_titles": [
     {
       "note": "",
-      "title": "State Bar Act."
-    },
-    {
-      "note": "",
       "title": "Corporate investment in litigation practice."
     },
     {
       "note": "",
       "title": "Attorneys: corporate lenders."
+    },
+    {
+      "note": "",
+      "title": "State Bar Act."
     }
   ],
   "other_identifiers": [
@@ -276,6 +276,30 @@
       "_processing": {
         "log_file_created": "2026-08-19T07:46:19Z"
       }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Assembly. (Ayes 39. Noes 0.).",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
+    },
+    {
+      "description": "In Assembly. Concurrence in Senate amendments pending.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -428,6 +452,17 @@
       ],
       "date": "2026-08-18",
       "classification": "analysis"
+    },
+    {
+      "note": "08/24/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2305&analysisId=405106&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -448,7 +483,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-19T07:46:19Z",
+    "logs_latest_update": "2026-08-25T07:50:41Z",
     "text_extraction_latest_update": "2026-08-19T07:55:06.317881Z"
   }
 }
