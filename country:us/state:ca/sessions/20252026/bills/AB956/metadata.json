@@ -18,11 +18,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Accessory dwelling units: ministerial approval: single-family dwellings."
+      "title": "Regional housing need allocation process."
     },
     {
       "note": "",
-      "title": "Regional housing need allocation process."
+      "title": "Accessory dwelling units: ministerial approval: single-family dwellings."
     }
   ],
   "other_identifiers": [
@@ -415,6 +415,48 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:25Z"
       }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Assembly. (Ayes 27. Noes 6.).",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:58:26Z"
+      }
+    },
+    {
+      "description": "In Assembly. Concurrence in Senate amendments pending.",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:58:26Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on H. & C.D. pursuant to Assembly Rule 77.2.",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on H. & C.D. pursuant to Assembly Rule 77.2.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:58:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -601,6 +643,17 @@
       ],
       "date": "2026-08-05",
       "classification": "analysis"
+    },
+    {
+      "note": "08/17/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB956&analysisId=404186&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-17",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -624,7 +677,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:25Z",
+    "logs_latest_update": "2026-08-26T07:58:26Z",
     "text_extraction_latest_update": "2026-08-14T08:51:48.392246Z"
   }
 }

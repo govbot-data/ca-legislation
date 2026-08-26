@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Civil actions: victims' compensation funding: validating proceedings."
+      "title": "Civil actions: statute of limitations."
     },
     {
       "note": "",
-      "title": "Civil actions: statute of limitations."
+      "title": "Civil actions: victims' compensation funding: validating proceedings."
     }
   ],
   "other_identifiers": [
@@ -333,6 +333,18 @@
       "_processing": {
         "log_file_created": "2026-08-20T07:47:45Z"
       }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 4 p.m.",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:58:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -417,6 +429,17 @@
       ],
       "date": "2026-06-03",
       "classification": ""
+    },
+    {
+      "note": "08/21/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1908&version=20250AB190895ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
+      "classification": ""
     }
   ],
   "documents": [
@@ -496,7 +519,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-20T07:47:45Z",
+    "logs_latest_update": "2026-08-26T07:58:26Z",
     "text_extraction_latest_update": "2026-08-20T07:59:38.128111Z"
   }
 }

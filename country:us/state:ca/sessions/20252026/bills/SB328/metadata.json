@@ -19,11 +19,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Hazardous waste generation and handling fees: study and report: affordable housing development projects."
-    },
-    {
-      "note": "",
-      "title": "Hazardous waste control: investigations."
+      "title": "Hazardous waste generator permits: housing development projects."
     },
     {
       "note": "",
@@ -31,15 +27,19 @@
     },
     {
       "note": "",
-      "title": "Hazardous waste generation and handling fees: Department of Toxic Substances Control oversight and postentitlement phase permit responses: housing development projects."
-    },
-    {
-      "note": "",
       "title": "Hazardous waste generation and handling fees: Department of Toxic Substances Control oversight responses: housing development projects."
     },
     {
       "note": "",
-      "title": "Hazardous waste generator permits: housing development projects."
+      "title": "Hazardous waste control: investigations."
+    },
+    {
+      "note": "",
+      "title": "Hazardous waste generation and handling fees: Department of Toxic Substances Control oversight and postentitlement phase permit responses: housing development projects."
+    },
+    {
+      "note": "",
+      "title": "Hazardous waste generation and handling fees: study and report: affordable housing development projects."
     }
   ],
   "other_identifiers": [
@@ -542,7 +542,7 @@
       }
     },
     {
-      "description": "Re-referred to Coms. on L. GOV. and NAT. RES. pursuant to Assembly Rule 77.2.",
+      "description": "Re-referred to Com. on L. GOV. pursuant to Assembly Rule 77.2.",
       "date": "2026-08-24",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -550,13 +550,23 @@
       ],
       "related_entities": [
         {
-          "name": "Coms. on L. GOV. and NAT. RES. pursuant to Assembly Rule 77.2.",
+          "name": "Com. on L. GOV. pursuant to Assembly Rule 77.2.",
           "entity_type": "organization",
           "organization_id": null
         }
       ],
       "_processing": {
-        "log_file_created": "2026-08-25T07:50:40Z"
+        "log_file_created": "2026-08-26T07:58:27Z"
+      }
+    },
+    {
+      "description": "Joint Rule 62(a) suspended.",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:58:27Z"
       }
     }
   ],
@@ -841,7 +851,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-25T07:50:40Z",
+    "logs_latest_update": "2026-08-26T07:58:27Z",
     "text_extraction_latest_update": "2026-08-25T08:50:48.458880Z"
   }
 }

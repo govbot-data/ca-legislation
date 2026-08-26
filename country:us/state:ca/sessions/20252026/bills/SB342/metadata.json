@@ -455,6 +455,20 @@
       "_processing": {
         "log_file_created": "2026-08-25T07:50:41Z"
       }
+    },
+    {
+      "description": "From committee: Do pass as amended. (Ayes 19. Noes 0.) (August 25).",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:58:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -656,14 +670,14 @@
       "classification": "analysis"
     },
     {
-      "note": "08/24/26- Assembly Business and Professions",
+      "note": "08/25/26- Assembly Business and Professions",
       "links": [
         {
-          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB342&analysisId=405022&analyzingOffice=Assembly+Business+and+Professions",
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB342&analysisId=405232&analyzingOffice=Assembly+Business+and+Professions",
           "media_type": "application/pdf"
         }
       ],
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "classification": "analysis"
     }
   ],
@@ -687,7 +701,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-25T07:50:41Z",
+    "logs_latest_update": "2026-08-26T07:58:26Z",
     "text_extraction_latest_update": "2026-08-25T08:30:25.064008Z"
   }
 }

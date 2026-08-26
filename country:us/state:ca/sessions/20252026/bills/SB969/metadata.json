@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Developmental services: remote services and supports."
+      "title": "Developmental services: remote services."
     },
     {
       "note": "",
-      "title": "Developmental services: remote services."
+      "title": "Developmental services: remote services and supports."
     }
   ],
   "other_identifiers": [
@@ -375,6 +375,43 @@
       "_processing": {
         "log_file_created": "2026-08-25T07:50:41Z"
       }
+    },
+    {
+      "description": "Re-referred to Com. on RLS. pursuant to Senate Rule 29.10(d).",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS. pursuant to Senate Rule 29.10(d).",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:58:26Z"
+      }
+    },
+    {
+      "description": "From committee: Be re-referred to Com. on B. P. & E.D. pursuant to Senate Rule 29.10(d). (Ayes 5. Noes 0.) Re-referred to Com. on B. P. & E.D.",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on B. P. & E.D. pursuant to Senate Rule 29.10(d). (Ayes 5. Noes 0.) Re-referred to Com. on B. P. & E.D.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:58:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -550,7 +587,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-25T07:50:41Z",
+    "logs_latest_update": "2026-08-26T07:58:26Z",
     "text_extraction_latest_update": "2026-08-25T09:02:18.882757Z"
   }
 }

@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law requires the operator of a private detention facility, as defined, to comply with, and adhere to, the detention standards of care and confinement agreed upon in the facility's contract for operations, as specified. Existing law requires a private detention facility operator to comply with, and adhere to, all local and state public health orders and occupational safety and health regulations.\n\nThis bill, the Protecting Vulnerable Immigrant Detainees Model Act, would require the Attorney General, on or before December 31, 2027, to submit to the Legislature a proposed oversight plan for private civil detention facilities that protects the health, safety, and welfare of persons detained in those facilities, as specified. The bill would require the Governor to direct the appropriate state entity to cooperate with the Attorney General for the purposes of developing the oversight plan, as specified.\n\nThe bill would make related findings and declarations.\n\nExisting constitutional provisions require that a statute that limits the right of access to the meetings of public bodies or the writings of public officials and agencies be adopted with findings demonstrating the interest protected by the limitation and the need for protecting that interest.\n\nThis bill would make legislative findings to that effect."
+      "abstract": "Existing law requires the operator of a private detention facility, as defined, to comply with, and adhere to, the detention standards of care and confinement agreed upon in the facility's contract for operations, as specified. Existing law requires a private detention facility operator to comply with, and adhere to, all local and state public health orders and occupational safety and health regulations.\n\nThis bill, the Protecting Vulnerable Immigrant Detainees Model Act, would require the Attorney General, on or before December 31, 2027, to submit to the Legislature a report including a proposed oversight plan for private civil detention facilities that protects the health, safety, and welfare of persons detained in those facilities, as specified. The bill would require the Governor to direct the appropriate state entity to cooperate with the Attorney General for the purposes of developing the oversight plan, as specified.\n\nThe bill would make related findings and declarations.\n\nExisting constitutional provisions require that a statute that limits the right of access to the meetings of public bodies or the writings of public officials and agencies be adopted with findings demonstrating the interest protected by the limitation and the need for protecting that interest.\n\nThis bill would make legislative findings to that effect."
     }
   ],
   "other_titles": [
@@ -474,6 +474,94 @@
       "_processing": {
         "log_file_created": "2026-08-25T07:50:40Z"
       }
+    },
+    {
+      "description": "From committee: Do pass and re-refer to Com. on HEALTH. (Ayes 9. Noes 3.) (August 25). Re-referred to Com. on HEALTH.",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on HEALTH.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:58:26Z"
+      }
+    },
+    {
+      "description": "Action rescinded whereby bill re-referred to Com. on HEALTH on August 24.",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on HEALTH on August 24.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:58:26Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on APPR. pursuant to Assembly Rule 77.2.",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR. pursuant to Assembly Rule 77.2.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:58:26Z"
+      }
+    },
+    {
+      "description": "Joint Rule 62(a) suspended.",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:58:26Z"
+      }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on APPR.",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:58:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -563,6 +651,17 @@
         }
       ],
       "date": "2026-08-21",
+      "classification": ""
+    },
+    {
+      "note": "08/25/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB957&version=20250SB95793AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-25",
       "classification": ""
     }
   ],
@@ -687,7 +786,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-25T07:50:40Z",
+    "logs_latest_update": "2026-08-26T07:58:26Z",
     "text_extraction_latest_update": "2026-08-25T09:03:09.871344Z"
   }
 }

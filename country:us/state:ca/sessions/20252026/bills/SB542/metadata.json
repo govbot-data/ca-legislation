@@ -19,15 +19,15 @@
   "other_titles": [
     {
       "note": "",
+      "title": "Oil spill prevention and response."
+    },
+    {
+      "note": "",
       "title": "Oil spill prevention: administrator for oil spill response: duties: pipeline inspections."
     },
     {
       "note": "",
       "title": "Oil spill prevention: administrator for oil spill response: duties."
-    },
-    {
-      "note": "",
-      "title": "Oil spill prevention and response."
     }
   ],
   "other_identifiers": [
@@ -505,6 +505,33 @@
       "_processing": {
         "log_file_created": "2026-08-25T07:50:41Z"
       }
+    },
+    {
+      "description": "Urgency clause adopted.",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:58:26Z"
+      }
+    },
+    {
+      "description": "Assembly amendments concurred in. (Ayes 39. Noes 0.) Ordered to engrossing and enrolling.",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:58:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -763,7 +790,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-25T07:50:41Z",
+    "logs_latest_update": "2026-08-26T07:58:26Z",
     "text_extraction_latest_update": "2026-08-25T09:01:24.451137Z"
   }
 }

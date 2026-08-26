@@ -216,7 +216,7 @@
       }
     },
     {
-      "description": "Read third time. Passed. Ordered to the Senate.",
+      "description": "Read third time. Passed. (Ayes 73. Noes 0. Page 5864.) Ordered to the Senate.",
       "date": "2026-06-25",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -226,7 +226,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:32Z"
+        "log_file_created": "2026-08-26T07:58:26Z"
       }
     },
     {
@@ -237,6 +237,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:55:32Z"
+      }
+    },
+    {
+      "description": "Ordered to special consent calendar.",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:58:26Z"
       }
     }
   ],
@@ -361,7 +371,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:32Z",
+    "logs_latest_update": "2026-08-26T07:58:26Z",
     "text_extraction_latest_update": "2026-07-21T20:37:04.446769Z"
   }
 }

@@ -18,11 +18,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Courts: electronic records."
+      "title": "Gambling Control Act."
     },
     {
       "note": "",
-      "title": "Gambling Control Act."
+      "title": "Courts: electronic records."
     }
   ],
   "other_identifiers": [
@@ -343,6 +343,26 @@
       "_processing": {
         "log_file_created": "2026-08-25T07:50:40Z"
       }
+    },
+    {
+      "description": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 3. Noes 1.) (August 25). Re-referred to Com. on APPR.",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:58:27Z"
+      }
     }
   ],
   "sponsorships": [
@@ -485,7 +505,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-25T07:50:40Z",
+    "logs_latest_update": "2026-08-26T07:58:27Z",
     "text_extraction_latest_update": "2026-08-25T08:17:22.387863Z"
   }
 }

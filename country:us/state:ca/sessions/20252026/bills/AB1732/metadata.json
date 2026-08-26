@@ -21,11 +21,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "California Environmental Quality Act: exemption: housing development project: public higher education land use plan."
+      "title": "California Environmental Quality Act: exemption: housing development projects: public higher education land use plan."
     },
     {
       "note": "",
-      "title": "California Environmental Quality Act: exemption: housing development projects: public higher education land use plan."
+      "title": "California Environmental Quality Act: exemption: housing development project: public higher education land use plan."
     }
   ],
   "other_identifiers": [
@@ -435,6 +435,20 @@
       "_processing": {
         "log_file_created": "2026-08-21T07:52:43Z"
       }
+    },
+    {
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 77. Noes 0.).",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:58:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -698,6 +712,17 @@
       ],
       "date": "2026-08-14",
       "classification": "analysis"
+    },
+    {
+      "note": "08/21/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1732&analysisId=404634&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -721,7 +746,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-21T07:52:43Z",
+    "logs_latest_update": "2026-08-26T07:58:26Z",
     "text_extraction_latest_update": "2026-08-21T08:34:33.980946Z"
   }
 }

@@ -18,19 +18,19 @@
   "other_titles": [
     {
       "note": "",
-      "title": "California Artificial Intelligence Standards and Safety Commission: artificial intelligence safety standards."
-    },
-    {
-      "note": "",
       "title": "Occupational therapy."
     },
     {
       "note": "",
-      "title": "Multistakeholder regulatory organizations."
+      "title": "California Artificial Intelligence Standards and Safety Commission: artificial intelligence safety standards."
     },
     {
       "note": "",
       "title": "California AI Standards and Safety Commission: independent verification organizations."
+    },
+    {
+      "note": "",
+      "title": "Multistakeholder regulatory organizations."
     }
   ],
   "other_identifiers": [
@@ -486,6 +486,28 @@
       }
     },
     {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:50:41Z"
+      }
+    },
+    {
       "description": "Assembly Rule 96 suspended.",
       "date": "2026-08-24",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -521,25 +543,17 @@
       }
     },
     {
-      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
-      "date": "2026-08-24",
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-25",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "amendment-passage",
-        "committee-passage",
         "reading-1",
         "reading-2",
-        "referral-committee"
+        "reading-3"
       ],
-      "related_entities": [
-        {
-          "name": "Com. on RLS.",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
+      "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-25T07:50:41Z"
+        "log_file_created": "2026-08-26T07:58:26Z"
       }
     }
   ],
@@ -728,14 +742,14 @@
       "classification": "analysis"
     },
     {
-      "note": "08/24/26- ASSEMBLY FLOOR ANALYSIS",
+      "note": "08/25/26- ASSEMBLY FLOOR ANALYSIS",
       "links": [
         {
-          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB813&analysisId=405128&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB813&analysisId=405149&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
           "media_type": "application/pdf"
         }
       ],
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "classification": "analysis"
     }
   ],
@@ -759,7 +773,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-25T07:50:41Z",
+    "logs_latest_update": "2026-08-26T07:58:26Z",
     "text_extraction_latest_update": "2026-08-25T08:07:26.566682Z"
   }
 }

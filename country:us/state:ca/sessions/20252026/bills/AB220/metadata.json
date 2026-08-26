@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law establishes the Medi-Cal program, which is administered by the State Department of Health Care Services, under which qualified low-income individuals receive health care services. The Medi-Cal program is, in part, governed and funded by federal Medicaid program provisions. Existing law requires the department to establish a subacute care program in health facilities, as specified, to be available to patients in health facilities who meet subacute care criteria. Existing law requires that medical necessity for pediatric subacute care be substantiated by specified conditions. Existing regulations require a treatment authorization request for each admission to a subacute unit.\n\nThis bill would require a provider seeking authorization for pediatric subacute or adult subacute care services pursuant to these provisions to submit with a treatment authorization request, including an electronic treatment authorization request, a specified form when requesting authorization for subacute care services. The bill would prohibit a Medi-Cal managed care plan from developing or using its own criteria to substantiate medical necessity for pediatric subacute or adult subacute care services with a condition or standard not enumerated in those forms. The bill would prohibit a Medi-Cal managed care plan from requiring a subsequent treatment authorization request upon a patient's return from a bed hold for acute hospitalization. The bill would authorize the department to impose sanctions on Medi-Cal managed care plans for violations of these provisions, as specified."
+      "abstract": "Existing law establishes the Medi-Cal program, which is administered by the State Department of Health Care Services, under which qualified low-income individuals receive health care services. The Medi-Cal program is, in part, governed and funded by federal Medicaid program provisions. Existing law requires the department to establish a subacute care program in health facilities, as specified, to be available to patients in health facilities who meet subacute care criteria. Existing law requires that medical necessity for pediatric subacute care be substantiated by specified criteria. Existing regulations require a treatment authorization request for each admission to a subacute unit.\n\nIf a provider substantiates that a patient meets any of the specified criteria for pediatric subacute care, this bill would prohibit a Medi-Cal managed care plan from imposing, or requiring the patient to meet, any additional criteria. If a standard form is developed by the department for purposes of authorization and reauthorization of pediatric or adult subacute care services, the bill would require a Medi-Cal managed care plan to deem as sufficient and accept from a provider that standard form and would prohibit a plan from creating, or requiring a provider to submit, a separate form created by the plan or any other entity. The bill would prohibit a Medi-Cal managed care plan from requiring a subsequent treatment authorization request upon a patient's return from a bed hold for acute hospitalization. The bill would authorize the department to impose sanctions on Medi-Cal managed care plans for violations of these provisions, as specified."
     }
   ],
   "other_titles": [],
@@ -347,6 +347,58 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:32Z"
       }
+    },
+    {
+      "description": "Action rescinded whereby the bill was read third time, passed, and to Assembly.",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:58:26Z"
+      }
+    },
+    {
+      "description": "(Ayes 29. Noes 7.)",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:58:26Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:58:26Z"
+      }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:58:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -411,6 +463,17 @@
         }
       ],
       "date": "2025-07-08",
+      "classification": ""
+    },
+    {
+      "note": "08/25/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB220&version=20250AB22096AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-25",
       "classification": ""
     }
   ],
@@ -491,6 +554,17 @@
       ],
       "date": "2025-09-05",
       "classification": "analysis"
+    },
+    {
+      "note": "08/25/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB220&analysisId=405269&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-25",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -513,7 +587,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:32Z",
+    "logs_latest_update": "2026-08-26T07:58:26Z",
     "text_extraction_latest_update": "2026-07-22T00:15:01.166619Z"
   }
 }

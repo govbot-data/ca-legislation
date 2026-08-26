@@ -22,7 +22,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Electrical corporations: wildfire victim restitution shortfalls: report."
+      "title": "Electricity: rate reduction: report."
     },
     {
       "note": "",
@@ -30,7 +30,7 @@
     },
     {
       "note": "",
-      "title": "Electricity: rate reduction: report."
+      "title": "Electrical corporations: wildfire victim restitution shortfalls: report."
     }
   ],
   "other_identifiers": [
@@ -463,6 +463,24 @@
       "_processing": {
         "log_file_created": "2026-08-25T07:50:40Z"
       }
+    },
+    {
+      "description": "Re-referred to Com. on U. & E. pursuant to Assembly Rule 77.2.",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on U. & E. pursuant to Assembly Rule 77.2.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:58:27Z"
+      }
     }
   ],
   "sponsorships": [
@@ -693,14 +711,14 @@
       "classification": "analysis"
     },
     {
-      "note": "08/24/26- ASSEMBLY FLOOR ANALYSIS",
+      "note": "08/25/26- ASSEMBLY FLOOR ANALYSIS",
       "links": [
         {
-          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2700&analysisId=405121&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2700&analysisId=405142&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
           "media_type": "application/pdf"
         }
       ],
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "classification": "analysis"
     }
   ],
@@ -724,7 +742,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-25T07:50:40Z",
+    "logs_latest_update": "2026-08-26T07:58:27Z",
     "text_extraction_latest_update": "2026-08-25T07:55:29.851618Z"
   }
 }

@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Second Neighborhood Infill Finance and Transit Improvements Act."
+      "title": "Local government: Second Neighborhood Infill Finance and Transit Improvements Act: Resilient Rebuilding Authority for the Los Angeles Wildfires."
     },
     {
       "note": "",
-      "title": "Local government: Second Neighborhood Infill Finance and Transit Improvements Act: Resilient Rebuilding Authority for the Los Angeles Wildfires."
+      "title": "Second Neighborhood Infill Finance and Transit Improvements Act."
     }
   ],
   "other_identifiers": [
@@ -378,6 +378,30 @@
       "_processing": {
         "log_file_created": "2026-08-18T07:45:25Z"
       }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Senate.",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:58:26Z"
+      }
+    },
+    {
+      "description": "In Senate. Concurrence in Assembly amendments pending.",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:58:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -542,7 +566,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T07:45:25Z",
+    "logs_latest_update": "2026-08-26T07:58:26Z",
     "text_extraction_latest_update": "2026-08-18T08:38:03.447267Z"
   }
 }

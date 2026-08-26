@@ -20,11 +20,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Pupils: work permits: juvenile court."
+      "title": "Pupils: work permits."
     },
     {
       "note": "",
-      "title": "Pupils: work permits."
+      "title": "Pupils: work permits: juvenile court."
     }
   ],
   "other_identifiers": [
@@ -343,6 +343,16 @@
       "_processing": {
         "log_file_created": "2026-08-18T07:45:25Z"
       }
+    },
+    {
+      "description": "Ordered to special consent calendar.",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:58:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -523,7 +533,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T07:45:25Z",
+    "logs_latest_update": "2026-08-26T07:58:26Z",
     "text_extraction_latest_update": "2026-08-18T08:07:54.332889Z"
   }
 }

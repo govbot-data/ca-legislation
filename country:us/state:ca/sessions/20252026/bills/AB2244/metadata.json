@@ -18,11 +18,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Wholesale food: frozen food."
+      "title": "California Certified food standard."
     },
     {
       "note": "",
-      "title": "California Certified food standard."
+      "title": "Wholesale food: frozen food."
     }
   ],
   "other_identifiers": [
@@ -459,6 +459,20 @@
       "_processing": {
         "log_file_created": "2026-08-25T07:50:41Z"
       }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:58:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -767,7 +781,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-25T07:50:41Z",
+    "logs_latest_update": "2026-08-26T07:58:26Z",
     "text_extraction_latest_update": "2026-08-25T08:56:50.774835Z"
   }
 }

@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Dentistry: outreach and support program."
+      "title": "Medical Board of California: appointments: removal."
     },
     {
       "note": "",
-      "title": "Medical Board of California: appointments: removal."
+      "title": "Dentistry: outreach and support program."
     }
   ],
   "other_identifiers": [
@@ -456,6 +456,24 @@
       "_processing": {
         "log_file_created": "2026-08-25T07:50:41Z"
       }
+    },
+    {
+      "description": "Re-referred to Com. on ELECTIONS. pursuant to Assembly Rule 77.2.",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on ELECTIONS. pursuant to Assembly Rule 77.2.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:58:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -651,14 +669,14 @@
       "classification": "analysis"
     },
     {
-      "note": "08/24/26- ASSEMBLY FLOOR ANALYSIS",
+      "note": "08/25/26- ASSEMBLY FLOOR ANALYSIS",
       "links": [
         {
-          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1130&analysisId=405082&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1130&analysisId=405191&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
           "media_type": "application/pdf"
         }
       ],
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "classification": "analysis"
     }
   ],
@@ -683,7 +701,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-25T07:50:41Z",
+    "logs_latest_update": "2026-08-26T07:58:26Z",
     "text_extraction_latest_update": "2026-08-25T08:34:47.549128Z"
   }
 }
