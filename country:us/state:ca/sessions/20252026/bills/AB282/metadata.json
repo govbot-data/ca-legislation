@@ -387,6 +387,46 @@
       "_processing": {
         "log_file_created": "2026-08-25T07:50:40Z"
       }
+    },
+    {
+      "description": "From committee: Do pass and re-refer to Com. on E. & C.A. (Ayes 5. Noes 1.) (August 26). Re-referred to Com. on E. & C.A.",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on E. & C.A.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:13:59Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 4. Noes 1.) (August 26). Re-referred to Com. on APPR.",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:13:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -523,6 +563,39 @@
       ],
       "date": "2025-08-20",
       "classification": "analysis"
+    },
+    {
+      "note": "08/25/26- Senate Public Safety",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB282&analysisId=405247&analyzingOffice=Senate+Public+Safety",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-25",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/25/26- Senate Elections and Constitutional Amendments",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB282&analysisId=405256&analyzingOffice=Senate+Elections+and+Constitutional+Amendments",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-25",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/26/26- Senate Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB282&analysisId=405488&analyzingOffice=Senate+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-26",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -547,7 +620,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-25T07:50:40Z",
+    "logs_latest_update": "2026-08-27T18:13:59Z",
     "text_extraction_latest_update": "2026-08-25T08:56:04.969306Z"
   }
 }

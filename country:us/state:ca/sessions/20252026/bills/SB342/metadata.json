@@ -469,6 +469,20 @@
       "_processing": {
         "log_file_created": "2026-08-26T07:58:26Z"
       }
+    },
+    {
+      "description": "Read second time and amended. Ordered to second reading.",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:13:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -566,6 +580,17 @@
         }
       ],
       "date": "2026-08-19",
+      "classification": ""
+    },
+    {
+      "note": "08/26/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB342&version=20250SB34293AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-26",
       "classification": ""
     }
   ],
@@ -701,7 +726,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-26T07:58:26Z",
+    "logs_latest_update": "2026-08-27T18:13:59Z",
     "text_extraction_latest_update": "2026-08-26T08:27:47.169003Z"
   }
 }

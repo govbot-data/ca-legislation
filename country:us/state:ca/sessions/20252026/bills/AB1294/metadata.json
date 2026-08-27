@@ -561,6 +561,20 @@
       "_processing": {
         "log_file_created": "2026-08-25T07:50:40Z"
       }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Assembly. (Ayes 27. Noes 8.).",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:13:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -815,7 +829,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-25T07:50:40Z",
+    "logs_latest_update": "2026-08-27T18:13:59Z",
     "text_extraction_latest_update": "2026-08-25T08:02:48.819368Z"
   }
 }

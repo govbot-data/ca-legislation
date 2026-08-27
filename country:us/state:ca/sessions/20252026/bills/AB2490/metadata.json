@@ -20,11 +20,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Elementary and secondary education."
+      "title": "Teacher credentialing: substitute teachers: days of service."
     },
     {
       "note": "",
-      "title": "Teacher credentialing: substitute teachers: days of service."
+      "title": "Elementary and secondary education."
     }
   ],
   "other_identifiers": [
@@ -430,6 +430,30 @@
       "_processing": {
         "log_file_created": "2026-08-26T07:58:26Z"
       }
+    },
+    {
+      "description": "In Assembly. Concurrence in Senate amendments pending.",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:14:00Z"
+      }
+    },
+    {
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 69. Noes 0.).",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:14:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -607,6 +631,17 @@
       ],
       "date": "2026-08-24",
       "classification": "analysis"
+    },
+    {
+      "note": "08/26/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2490&analysisId=405393&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-26",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -629,7 +664,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-26T07:58:26Z",
+    "logs_latest_update": "2026-08-27T18:14:00Z",
     "text_extraction_latest_update": "2026-08-26T08:48:41.004231Z"
   }
 }

@@ -366,6 +366,55 @@
       "_processing": {
         "log_file_created": "2026-08-26T07:58:26Z"
       }
+    },
+    {
+      "description": "Re-referred to Com. on RLS. pursuant to Senate Rule 29.10(d).",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS. pursuant to Senate Rule 29.10(d).",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:14:00Z"
+      }
+    },
+    {
+      "description": "From committee: Be re-referred to Com. on B. P. & E.D. pursuant to Senate Rule 29.10(d). (Ayes 5. Noes 0.) Re-referred to Com. on B. P. & E.D.",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on B. P. & E.D. pursuant to Senate Rule 29.10(d). (Ayes 5. Noes 0.) Re-referred to Com. on B. P. & E.D.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:14:00Z"
+      }
+    },
+    {
+      "description": "From committee: That the Assembly amendments be concurred in. (Ayes 8. Noes 1.)",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:14:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -513,6 +562,28 @@
       ],
       "date": "2026-08-21",
       "classification": "analysis"
+    },
+    {
+      "note": "08/26/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1312&analysisId=405509&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-26",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/26/26- Senate Business, Professions and Economic Development",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1312&analysisId=405361&analyzingOffice=Senate+Business,+Professions+and+Economic+Development",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-26",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -535,7 +606,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-26T07:58:26Z",
+    "logs_latest_update": "2026-08-27T18:14:00Z",
     "text_extraction_latest_update": "2026-08-26T08:25:39.359949Z"
   }
 }

@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "State Energy Resources Conservation and Development Commission: certification of facilities: electrical transmission projects."
+      "title": "Substance abuse."
     },
     {
       "note": "",
-      "title": "Substance abuse."
+      "title": "State Energy Resources Conservation and Development Commission: certification of facilities: electrical transmission projects."
     }
   ],
   "other_identifiers": [
@@ -491,6 +491,43 @@
       "_processing": {
         "log_file_created": "2026-08-26T07:58:27Z"
       }
+    },
+    {
+      "description": "Re-referred to Com. on RLS. pursuant to Senate Rule 29.10(d).",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS. pursuant to Senate Rule 29.10(d).",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:13:59Z"
+      }
+    },
+    {
+      "description": "From committee: Be re-referred to Com. on HEALTH pursuant to Senate Rule 29.10(d). (Ayes 5. Noes 0.) Re-referred to Com. on HEALTH.",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on HEALTH pursuant to Senate Rule 29.10(d). (Ayes 5. Noes 0.) Re-referred to Com. on HEALTH.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:13:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -761,6 +798,17 @@
       ],
       "date": "2026-08-21",
       "classification": "analysis"
+    },
+    {
+      "note": "08/26/26- Senate Health",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB331&analysisId=405390&analyzingOffice=Senate+Health",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-26",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -784,7 +832,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-26T07:58:27Z",
+    "logs_latest_update": "2026-08-27T18:13:59Z",
     "text_extraction_latest_update": "2026-08-26T08:01:55.082333Z"
   }
 }

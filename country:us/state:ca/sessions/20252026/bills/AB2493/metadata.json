@@ -21,11 +21,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Electrical corporations: interconnection: transmission: auditor."
+      "title": "Electrical corporations: interconnection: transmission: permitting: auditor."
     },
     {
       "note": "",
-      "title": "Electrical corporations: interconnection: transmission: permitting: auditor."
+      "title": "Electrical corporations: interconnection: transmission: auditor."
     }
   ],
   "other_identifiers": [
@@ -361,6 +361,30 @@
       "_processing": {
         "log_file_created": "2026-08-18T07:45:25Z"
       }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Assembly. (Ayes 29. Noes 9.).",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:14:00Z"
+      }
+    },
+    {
+      "description": "Reconsideration granted. (Ayes 39. Noes 0.)",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:14:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -510,14 +534,14 @@
       "classification": "analysis"
     },
     {
-      "note": "08/17/26- Sen. Floor Analyses",
+      "note": "08/21/26- Sen. Floor Analyses",
       "links": [
         {
-          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2493&analysisId=404205&analyzingOffice=Sen.+Floor+Analyses",
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2493&analysisId=404744&analyzingOffice=Sen.+Floor+Analyses",
           "media_type": "application/pdf"
         }
       ],
-      "date": "2026-08-17",
+      "date": "2026-08-21",
       "classification": "analysis"
     }
   ],
@@ -542,7 +566,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T07:45:25Z",
+    "logs_latest_update": "2026-08-27T18:14:00Z",
     "text_extraction_latest_update": "2026-08-18T08:37:35.482579Z"
   }
 }

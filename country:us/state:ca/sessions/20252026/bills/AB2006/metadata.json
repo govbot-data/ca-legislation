@@ -20,11 +20,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "State government: office buildings: day care centers."
+      "title": "State agencies: privacy policy."
     },
     {
       "note": "",
-      "title": "State agencies: privacy policy."
+      "title": "State government: office buildings: day care centers."
     }
   ],
   "other_identifiers": [
@@ -442,6 +442,44 @@
       "_processing": {
         "log_file_created": "2026-08-25T07:50:41Z"
       }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Assembly. (Ayes 39. Noes 0.).",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:14:00Z"
+      }
+    },
+    {
+      "description": "In Assembly. Concurrence in Senate amendments pending.",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:14:00Z"
+      }
+    },
+    {
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 78. Noes 0.).",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:14:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -630,6 +668,17 @@
       ],
       "date": "2026-08-24",
       "classification": "analysis"
+    },
+    {
+      "note": "08/26/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2006&analysisId=405452&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-26",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -652,7 +701,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-25T07:50:41Z",
+    "logs_latest_update": "2026-08-27T18:14:00Z",
     "text_extraction_latest_update": "2026-08-25T08:14:26.925803Z"
   }
 }

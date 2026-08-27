@@ -299,6 +299,18 @@
       "_processing": {
         "log_file_created": "2026-08-25T07:50:41Z"
       }
+    },
+    {
+      "description": "From committee: That the measure be returned to Senate Floor for consideration. (Ayes 9. Noes 0.) (August 26)",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:14:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -380,6 +392,17 @@
       ],
       "date": "2025-07-07",
       "classification": "analysis"
+    },
+    {
+      "note": "08/25/26- Senate Judiciary",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB540&analysisId=405193&analyzingOffice=Senate+Judiciary",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-25",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -400,7 +423,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-25T07:50:41Z",
+    "logs_latest_update": "2026-08-27T18:14:00Z",
     "text_extraction_latest_update": "2026-08-25T08:53:53.925223Z"
   }
 }

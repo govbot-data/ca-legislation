@@ -19,15 +19,15 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Communications: broadband internet service providers: affordable home internet service."
-    },
-    {
-      "note": "",
       "title": "Communications: broadband internet service providers: affordable home internet."
     },
     {
       "note": "",
       "title": "Public Utilities Commission: Independent Office of Audits and Investigations."
+    },
+    {
+      "note": "",
+      "title": "Communications: broadband internet service providers: affordable home internet service."
     }
   ],
   "other_identifiers": [
@@ -509,6 +509,48 @@
       "_processing": {
         "log_file_created": "2026-08-25T07:50:41Z"
       }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Assembly. (Ayes 30. Noes 7.).",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:13:59Z"
+      }
+    },
+    {
+      "description": "In Assembly. Concurrence in Senate amendments pending.",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:13:59Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on U. & E. pursuant to Assembly Rule 77.2.",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on U. & E. pursuant to Assembly Rule 77.2.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:13:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -722,6 +764,17 @@
       ],
       "date": "2026-08-24",
       "classification": "analysis"
+    },
+    {
+      "note": "08/26/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB353&analysisId=405442&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-26",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -744,7 +797,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-25T07:50:41Z",
+    "logs_latest_update": "2026-08-27T18:13:59Z",
     "text_extraction_latest_update": "2026-08-25T08:51:33.913253Z"
   }
 }

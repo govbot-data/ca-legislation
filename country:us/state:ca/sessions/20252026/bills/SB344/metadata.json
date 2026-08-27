@@ -1,25 +1,30 @@
 {
   "legislative_session": "20252026",
   "identifier": "SB344",
-  "title": "Disposition of human remains: scattering at sea.",
+  "title": "California Environmental Quality Act: City of San Diego: mixed-use development project.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Dispositionofhumanremains",
-    "scatteringatsea"
+    "CaliforniaEnvironmentalQualityAct",
+    "CityofSanDiego",
+    "mixed-usedevelopmentproject"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law provides for the disposition of human remains and makes specified acts relating to human remains, including improperly disposing of human remains, a crime. Existing law authorizes cremated remains or hydrolyzed human remains to be taken by boat from any harbor in this state, or by air, and scattered at sea. Existing law defines the phrase \"at sea\" to include the inland navigable waters of this state, exclusive of lakes and streams, provided that no such scattering may take place within 500 yards of the shoreline. Existing law specifies that these provisions do not allow the scattering of cremated human remains or hydrolyzed human remains from a bridge or pier.\n\nThis bill would additionally specify that these provisions do not allow the scattering of cremated human remains or hydrolyzed human remains from a dock attached to the shore. By expanding the definition of a crime, this bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+      "abstract": "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.\n\nThis bill would provide that a specified City of San Diego environmental impact report for a mixed-use development project, known as the Midway Rising project, is deemed sufficient, adequate, and complete for full compliance with CEQA and that any approval of the Midway Rising project may rely conclusively on the report for purposes of compliance with CEQA. The bill would require that all mitigation measures adopted by the City of San Diego as the lead agency be conditions of approval of the project. The bill would require the lead agency to monitor and enforce those conditions for the life of each applicable obligation. To the extent this requirement would impose new duties on a local agency, the bill would impose a state-mandated local program. The bill would require the project applicant to submit to the lead agency an annual status report on the implementation of those conditions. The bill would make its provisions operative upon the effective date of the bill or on the date the City Council of the City of San Diego certifies the report, whichever occurs later.\n\nThis bill would make legislative findings and declarations as to the necessity of a special statute for the City of San Diego.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason.\n\nThis bill would declare that it is to take effect immediately as an urgency statute."
     }
   ],
   "other_titles": [
     {
       "note": "",
       "title": "Health care service plans: financial risk requirement."
+    },
+    {
+      "note": "",
+      "title": "Disposition of human remains: scattering at sea."
     }
   ],
   "other_identifiers": [
@@ -309,6 +314,71 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:25Z"
       }
+    },
+    {
+      "description": "Joint Rule 61(b)(16) suspended.",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:14:00Z"
+      }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:14:00Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:14:00Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on NAT. RES. pursuant to Assembly Rule 77.2.",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on NAT. RES. pursuant to Assembly Rule 77.2.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:14:00Z"
+      }
+    },
+    {
+      "description": "Joint Rule 62(a) suspended.",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:14:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -318,6 +388,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Weber Pierson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Padilla",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Padilla\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ward",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ward\"}",
       "organization_id": null
     }
   ],
@@ -354,6 +440,17 @@
         }
       ],
       "date": "2025-03-20",
+      "classification": ""
+    },
+    {
+      "note": "08/26/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB344&version=20250SB34497AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-26",
       "classification": ""
     }
   ],
@@ -401,6 +498,17 @@
       ],
       "date": "2025-07-14",
       "classification": "analysis"
+    },
+    {
+      "note": "08/14/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB344&analysisId=403779&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-14",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -411,10 +519,11 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to amend Section 7117 of the Health and Safety Code, relating to human remains.",
+    "impact_clause": "An act to add Section 21080.77 to the Public Resources Code, relating to environmental quality, and declaring the urgency thereof, to take effect immediately.",
     "tags": [
       "fiscal committee",
-      "local program"
+      "local program",
+      "urgency"
     ]
   },
   "jurisdiction": {
@@ -424,7 +533,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:25Z",
+    "logs_latest_update": "2026-08-27T18:14:00Z",
     "text_extraction_latest_update": "2026-08-14T09:55:52.066856Z"
   }
 }

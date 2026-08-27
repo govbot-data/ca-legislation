@@ -421,6 +421,18 @@
       "_processing": {
         "log_file_created": "2026-08-26T07:58:27Z"
       }
+    },
+    {
+      "description": "From committee: That the Assembly amendments be concurred in. (Ayes 5. Noes 2.)",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:14:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -592,6 +604,28 @@
       ],
       "date": "2026-08-21",
       "classification": "analysis"
+    },
+    {
+      "note": "08/26/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB632&analysisId=405516&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-26",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/26/26- Senate Education",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB632&analysisId=405387&analyzingOffice=Senate+Education",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-26",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -614,7 +648,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-26T07:58:27Z",
+    "logs_latest_update": "2026-08-27T18:14:00Z",
     "text_extraction_latest_update": "2026-08-26T08:32:48.964536Z"
   }
 }

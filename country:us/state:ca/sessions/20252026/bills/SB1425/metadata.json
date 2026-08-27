@@ -546,6 +546,20 @@
       "_processing": {
         "log_file_created": "2026-08-26T07:58:26Z"
       }
+    },
+    {
+      "description": "Assembly amendments concurred in. (Ayes 29. Noes 9.) Ordered to engrossing and enrolling.",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:14:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -772,14 +786,14 @@
       "classification": "analysis"
     },
     {
-      "note": "08/25/26- Sen. Floor Analyses",
+      "note": "08/26/26- Sen. Floor Analyses",
       "links": [
         {
-          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1425&analysisId=405254&analyzingOffice=Sen.+Floor+Analyses",
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1425&analysisId=405354&analyzingOffice=Sen.+Floor+Analyses",
           "media_type": "application/pdf"
         }
       ],
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "classification": "analysis"
     }
   ],
@@ -804,7 +818,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-26T07:58:26Z",
+    "logs_latest_update": "2026-08-27T18:14:00Z",
     "text_extraction_latest_update": "2026-08-26T08:25:23.365343Z"
   }
 }

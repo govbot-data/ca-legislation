@@ -13,17 +13,17 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law vests the Public Utilities Commission with regulatory authority over public utilities, including electrical corporations, gas corporations, water corporations, sewer system corporations, and telephone corporations. Existing law authorizes the commission to fix the rates and charges for every public utility and requires that those rates and charges be just and reasonable. Existing law prohibits a utility from recording to an above-the-line account, as defined, or otherwise recovering from ratepayers specified costs.\n\nThis bill would require the commission to find that an electrical corporation, gas corporation, water corporation, sewer system corporation, or telephone corporation has engaged in prohibited cost recovery if the corporation records a cost to a regulator-approved financial account that meets specified criteria, including if the cost is categorically excluded from ratepayer recovery by statute, commission decision, or commission rule, exceeds the scope of the commission's authorization for the specific account or application, or has already been authorized for recovery through another ratemaking mechanism. The bill would require the commission, upon making a determination that such a corporation has recorded prohibited costs to a ratepayer-funded account in violation of commission rule, tariff, or statute, to disallow recovery of the cost from ratepayers and to impose a financial penalty for prohibited cost recovery equal to the amount of the prohibited cost recovery or 3 times that amount, except as specified. The bill would require each such utility to submit an annual report to the commission identifying all instances in the prior year in which prohibited cost recovery was identified, the actions that were taken in response to the identification, and any actions that were taken by the utility to prevent future occurrences.\n\nUnder existing law, a violation of the Public Utilities Act or any order, decision, rule, direction, demand, or requirement of the commission is a crime.\n\nBecause the provisions of this bill would be a part of the act and because a violation of a commission action implementing the bill's requirements would be a crime, the bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+      "abstract": "Existing law vests the Public Utilities Commission with regulatory authority over public utilities, including electrical corporations, gas corporations, water corporations, and sewer system corporations. Existing law authorizes the commission to fix the rates and charges for every public utility and requires that those rates and charges be just and reasonable. Existing law prohibits a utility from recording to an above-the-line account, as defined, or otherwise recovering from ratepayers specified costs.\n\nThis bill would require the commission to find that an electrical corporation, gas corporation, water corporation, or sewer system corporation has engaged in prohibited cost recovery if the corporation records a cost to a regulator-approved financial account and the cost is categorically excluded from ratepayer recovery by statute, commission decision, or commission rule or has already been authorized for recovery through another ratemaking mechanism. The bill would require the commission, upon making a determination that such a corporation has recorded prohibited costs to a ratepayer-funded account in violation of commission rule, tariff, or statute, to disallow recovery of the cost from ratepayers and to impose a financial penalty for prohibited cost recovery equal to the amount of the prohibited cost recovery or 3 times that amount, except as specified. The bill would require each such corporation to submit an annual report to the commission identifying all instances in the prior year in which prohibited cost recovery was identified, the actions that were taken in response to the identification, and any actions that were taken by the corporation to prevent future occurrences.\n\nUnder existing law, a violation of the Public Utilities Act or any order, decision, rule, direction, demand, or requirement of the commission is a crime.\n\nBecause the provisions of this bill would be a part of the act and because a violation of a commission action implementing the bill's requirements would be a crime, the bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
     }
   ],
   "other_titles": [
     {
       "note": "",
-      "title": "Transmission Infrastructure Accelerator: private-public partnership plan."
+      "title": "Rates: inappropriate cost recovery."
     },
     {
       "note": "",
-      "title": "Rates: inappropriate cost recovery."
+      "title": "Transmission Infrastructure Accelerator: private-public partnership plan."
     }
   ],
   "other_identifiers": [
@@ -259,6 +259,21 @@
       "_processing": {
         "log_file_created": "2026-08-12T08:27:48Z"
       }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:13:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -268,6 +283,38 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Petrie-Norris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Berman",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Berman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Harabedian",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Harabedian\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McNerney",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McNerney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rubio",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rubio\"}",
       "organization_id": null
     }
   ],
@@ -316,6 +363,17 @@
       ],
       "date": "2026-06-30",
       "classification": ""
+    },
+    {
+      "note": "08/26/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2065&version=20250AB206596AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-26",
+      "classification": ""
     }
   ],
   "documents": [
@@ -351,6 +409,17 @@
       ],
       "date": "2026-06-22",
       "classification": "analysis"
+    },
+    {
+      "note": "08/12/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2065&analysisId=403401&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-12",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -374,7 +443,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-12T08:27:48Z",
+    "logs_latest_update": "2026-08-27T18:13:59Z",
     "text_extraction_latest_update": "2026-08-12T08:35:02.097705Z"
   }
 }

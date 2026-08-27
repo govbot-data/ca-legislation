@@ -12,18 +12,10 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law requires, on or before September 1, 2024, the Department of Technology, within the Government Operations Agency, to conduct, in coordination with other interagency bodies as it deems appropriate, a comprehensive inventory of all high-risk automated decision systems that have been proposed for use, development, or procurement by, or are being used, developed, or procured by, any state agency. Existing law requires the department to annually submit a report of that comprehensive inventory to the Assembly Committee on Privacy and Consumer Protection and the Senate Committee on Governmental Organization.\n\nExisting law, the Transparency in Frontier Artificial Intelligence Act, among other things related to ensuring the safety of certain artificial intelligence models, requires a large frontier developer to write, implement, and clearly and conspicuously publish on its internet website a frontier AI framework that applies to the large frontier developer's frontier models and describes how the large frontier developer approaches, among other things, incorporating national standards, international standards, and industry-consensus best practices into its frontier AI framework.\n\nThis bill would require, on or before January 1, 2028, the Government Operations Agency to take certain actions related to the selection and regulation of certain entities, defined as \"independent verification organizations,\" designated by the agency as having demonstrated expertise in assessing the risks posed by an AI system or model and identifying the metrics and methodologies that form the basis for that assessment. The bill would require the agency to convene working groups to solicit stakeholder input in the identification of standards and the development and revision of procedures and criteria, as specified. The bill would require the agency to provide a report to the Legislature on the findings of the working groups and would require a registered IVO to submit annually, and no sooner than 12 months after initial registration as an IVO, to the agency and Legislature a report, as specified."
+      "abstract": "Existing law requires, on or before September 1, 2024, the Department of Technology, within the Government Operations Agency, to conduct, in coordination with other interagency bodies as it deems appropriate, a comprehensive inventory of all high-risk automated decision systems that have been proposed for use, development, or procurement by, or are being used, developed, or procured by, any state agency. Existing law requires the department to annually submit a report of that comprehensive inventory to the Assembly Committee on Privacy and Consumer Protection and the Senate Committee on Governmental Organization.\n\nExisting law, the Transparency in Frontier Artificial Intelligence Act, among other things related to ensuring the safety of certain artificial intelligence models, requires a large frontier developer to write, implement, and clearly and conspicuously publish on its internet website a frontier AI framework that applies to the large frontier developer's frontier models and describes how the large frontier developer approaches, among other things, incorporating national standards, international standards, and industry-consensus best practices into its frontier AI framework.\n\nThis bill would require, on or before January 1, 2028, the Government Operations Agency to take certain actions related to the selection and regulation of certain entities, defined as \"independent verification organizations,\" designated by the agency as having demonstrated expertise in assessing the risks posed by an AI system or model and identifying the metrics and methodologies that form the basis for that assessment. The bill would require the agency to convene working groups to solicit stakeholder input in the identification of standards and the development and revision of procedures and criteria, as specified. The bill would require the agency to provide a report to the Legislature on the findings of the working groups and would require a designated IVO to submit annually, and no sooner than 12 months after initial designation as an IVO, to the agency and Legislature a report, as specified."
     }
   ],
   "other_titles": [
-    {
-      "note": "",
-      "title": "Occupational therapy."
-    },
-    {
-      "note": "",
-      "title": "California Artificial Intelligence Standards and Safety Commission: artificial intelligence safety standards."
-    },
     {
       "note": "",
       "title": "California AI Standards and Safety Commission: independent verification organizations."
@@ -31,6 +23,14 @@
     {
       "note": "",
       "title": "Multistakeholder regulatory organizations."
+    },
+    {
+      "note": "",
+      "title": "Occupational therapy."
+    },
+    {
+      "note": "",
+      "title": "California Artificial Intelligence Standards and Safety Commission: artificial intelligence safety standards."
     }
   ],
   "other_identifiers": [
@@ -555,6 +555,43 @@
       "_processing": {
         "log_file_created": "2026-08-26T07:58:26Z"
       }
+    },
+    {
+      "description": "Joint Rule 61(b)(16) suspended.",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:14:00Z"
+      }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:14:00Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:14:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -683,6 +720,17 @@
       ],
       "date": "2026-08-24",
       "classification": ""
+    },
+    {
+      "note": "08/26/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB813&version=20250SB81391AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-26",
+      "classification": ""
     }
   ],
   "documents": [
@@ -773,7 +821,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-26T07:58:26Z",
+    "logs_latest_update": "2026-08-27T18:14:00Z",
     "text_extraction_latest_update": "2026-08-26T08:10:40.150902Z"
   }
 }

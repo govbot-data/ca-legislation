@@ -304,6 +304,21 @@
       "_processing": {
         "log_file_created": "2026-08-25T07:50:41Z"
       }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:13:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -371,6 +386,17 @@
         }
       ],
       "date": "2026-08-21",
+      "classification": ""
+    },
+    {
+      "note": "08/26/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1843&version=20250AB184395AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-26",
       "classification": ""
     }
   ],
@@ -450,7 +476,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to add Section 1342.77 to the Health and Safety Code, and to add Section 10123.1937 to the Insurance Code, relating to public health.",
+    "impact_clause": "An act to add Section 1342.78 to the Health and Safety Code, and to add Section 10123.1938 to the Insurance Code, relating to public health.",
     "tags": [
       "fiscal committee",
       "local program"
@@ -463,7 +489,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-25T07:50:41Z",
+    "logs_latest_update": "2026-08-27T18:13:59Z",
     "text_extraction_latest_update": "2026-08-25T08:48:09.060881Z"
   }
 }

@@ -18,11 +18,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Residential mortgage loans."
+      "title": "Financial institutions: California Community Reinvestment Act."
     },
     {
       "note": "",
-      "title": "Financial institutions: California Community Reinvestment Act."
+      "title": "Residential mortgage loans."
     }
   ],
   "other_identifiers": [
@@ -524,6 +524,20 @@
       "_processing": {
         "log_file_created": "2026-08-26T07:58:26Z"
       }
+    },
+    {
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 60. Noes 11.).",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:14:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -873,7 +887,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-26T07:58:26Z",
+    "logs_latest_update": "2026-08-27T18:14:00Z",
     "text_extraction_latest_update": "2026-08-26T08:25:00.969987Z"
   }
 }

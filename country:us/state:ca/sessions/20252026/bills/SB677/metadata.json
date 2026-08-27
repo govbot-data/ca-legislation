@@ -27,15 +27,15 @@
     },
     {
       "note": "",
+      "title": "Housing development: transit-oriented development."
+    },
+    {
+      "note": "",
       "title": "Housing financing: joint powers agreements: bond approvals:subdivisions: tentative and final maps: appeals."
     },
     {
       "note": "",
       "title": "Housing development: streamlined approvals."
-    },
-    {
-      "note": "",
-      "title": "Housing development: transit-oriented development."
     }
   ],
   "other_identifiers": [
@@ -531,6 +531,43 @@
       "_processing": {
         "log_file_created": "2026-08-26T07:58:26Z"
       }
+    },
+    {
+      "description": "Re-referred to Com. on RLS. pursuant to Senate Rule 29.10(d).",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS. pursuant to Senate Rule 29.10(d).",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:13:59Z"
+      }
+    },
+    {
+      "description": "From committee: Be re-referred to Com. on L. GOV. pursuant to Senate Rule 29.10(d). (Ayes 5. Noes 0.) Re-referred to Com. on L. GOV.",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on L. GOV. pursuant to Senate Rule 29.10(d). (Ayes 5. Noes 0.) Re-referred to Com. on L. GOV.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:13:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -785,7 +822,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-26T07:58:26Z",
+    "logs_latest_update": "2026-08-27T18:13:59Z",
     "text_extraction_latest_update": "2026-08-26T08:49:00.087774Z"
   }
 }

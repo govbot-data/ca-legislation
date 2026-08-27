@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "State Department of State Hospitals."
+      "title": "Hospitals: employee identification."
     },
     {
       "note": "",
-      "title": "Hospitals: employee identification."
+      "title": "State Department of State Hospitals."
     }
   ],
   "other_identifiers": [
@@ -449,6 +449,16 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:25Z"
       }
+    },
+    {
+      "description": "Joint Rule 62(a), file notice suspended.",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:13:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -619,7 +629,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:25Z",
+    "logs_latest_update": "2026-08-27T18:13:59Z",
     "text_extraction_latest_update": "2026-08-14T08:58:01.998836Z"
   }
 }
