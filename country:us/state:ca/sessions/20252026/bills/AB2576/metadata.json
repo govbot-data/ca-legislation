@@ -20,11 +20,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Transit-oriented development."
+      "title": "Local planning: housing element."
     },
     {
       "note": "",
-      "title": "Local planning: housing element."
+      "title": "Transit-oriented development."
     }
   ],
   "other_identifiers": [
@@ -396,7 +396,7 @@
       }
     },
     {
-      "description": "Senate amendments concurred in. To Engrossing and Enrolling.",
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 76. Noes 0.).",
       "date": "2026-08-20",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -406,7 +406,19 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-21T07:52:43Z"
+        "log_file_created": "2026-08-28T19:30:39Z"
+      }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 4 p.m.",
+      "date": "2026-08-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T19:30:39Z"
       }
     }
   ],
@@ -505,6 +517,17 @@
         }
       ],
       "date": "2026-08-10",
+      "classification": ""
+    },
+    {
+      "note": "08/24/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2576&version=20250AB257693ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
       "classification": ""
     }
   ],
@@ -616,7 +639,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-21T07:52:43Z",
+    "logs_latest_update": "2026-08-28T19:30:39Z",
     "text_extraction_latest_update": "2026-08-21T08:18:27.525080Z"
   }
 }

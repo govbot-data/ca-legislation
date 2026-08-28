@@ -331,6 +331,20 @@
       "_processing": {
         "log_file_created": "2026-08-27T18:14:00Z"
       }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Senate.",
+      "date": "2026-08-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T19:30:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -467,6 +481,17 @@
       ],
       "date": "2026-08-26",
       "classification": "analysis"
+    },
+    {
+      "note": "08/27/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1347&analysisId=405647&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-27",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -487,7 +512,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-27T18:14:00Z",
+    "logs_latest_update": "2026-08-28T19:30:39Z",
     "text_extraction_latest_update": "2026-08-27T19:12:17.505277Z"
   }
 }

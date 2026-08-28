@@ -18,11 +18,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Insurance applications: investigative consumer reports."
+      "title": "Insurance Consumer Privacy Protection Act of 2025."
     },
     {
       "note": "",
-      "title": "Insurance Consumer Privacy Protection Act of 2025."
+      "title": "Insurance applications: investigative consumer reports."
     }
   ],
   "other_identifiers": [
@@ -553,6 +553,20 @@
       "_processing": {
         "log_file_created": "2026-08-22T07:45:10Z"
       }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Senate.",
+      "date": "2026-08-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T19:30:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -801,14 +815,25 @@
       "classification": "analysis"
     },
     {
-      "note": "08/21/26- ASSEMBLY FLOOR ANALYSIS",
+      "note": "08/26/26- ASSEMBLY FLOOR ANALYSIS",
       "links": [
         {
-          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB354&analysisId=404773&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB354&analysisId=405486&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
           "media_type": "application/pdf"
         }
       ],
-      "date": "2026-08-21",
+      "date": "2026-08-26",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/27/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB354&analysisId=405646&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-27",
       "classification": "analysis"
     }
   ],
@@ -833,7 +858,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T07:45:10Z",
+    "logs_latest_update": "2026-08-28T19:30:39Z",
     "text_extraction_latest_update": "2026-08-22T08:03:21.858965Z"
   }
 }

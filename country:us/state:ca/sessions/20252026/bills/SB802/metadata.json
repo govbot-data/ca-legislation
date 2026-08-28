@@ -19,19 +19,19 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Housing authorities."
-    },
-    {
-      "note": "",
       "title": "Housing finance and development: Sacramento Area Housing and Homelessness Agency."
     },
     {
       "note": "",
-      "title": "Multifamily Housing Program: Homekey: Homeless Housing, Assistance, and Prevention program."
+      "title": "Housing authorities."
     },
     {
       "note": "",
       "title": "Housing finance and development: Sacramento Area Housing and Homelessness Agency: Multifamily Housing Program: Homekey: Homeless Housing, Assistance, and Prevention program."
+    },
+    {
+      "note": "",
+      "title": "Multifamily Housing Program: Homekey: Homeless Housing, Assistance, and Prevention program."
     }
   ],
   "other_identifiers": [
@@ -676,6 +676,20 @@
       "_processing": {
         "log_file_created": "2026-08-27T18:13:59Z"
       }
+    },
+    {
+      "description": "Assembly amendments concurred in. (Ayes 32. Noes 0.) Ordered to engrossing and enrolling.",
+      "date": "2026-08-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T19:30:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -987,7 +1001,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-27T18:13:59Z",
+    "logs_latest_update": "2026-08-28T19:30:39Z",
     "text_extraction_latest_update": "2026-08-27T18:54:32.467179Z"
   }
 }

@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Wages: behavioral health and medical-surgical employees."
+      "title": "Vending machines."
     },
     {
       "note": "",
-      "title": "Vending machines."
+      "title": "Wages: behavioral health and medical-surgical employees."
     }
   ],
   "other_identifiers": [
@@ -663,6 +663,33 @@
       "_processing": {
         "log_file_created": "2026-08-26T07:58:26Z"
       }
+    },
+    {
+      "description": "Urgency clause adopted.",
+      "date": "2026-08-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T19:30:39Z"
+      }
+    },
+    {
+      "description": "Assembly amendments concurred in. (Ayes 30. Noes 10.) Ordered to engrossing and enrolling.",
+      "date": "2026-08-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T19:30:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -1230,7 +1257,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-26T07:58:26Z",
+    "logs_latest_update": "2026-08-28T19:30:39Z",
     "text_extraction_latest_update": "2026-08-26T08:10:59.823551Z"
   }
 }

@@ -569,6 +569,18 @@
       "_processing": {
         "log_file_created": "2026-08-27T18:13:59Z"
       }
+    },
+    {
+      "description": "From committee: That the Assembly amendments be concurred in. (Ayes 4. Noes 2.)",
+      "date": "2026-08-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T19:30:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -795,17 +807,6 @@
       "classification": "analysis"
     },
     {
-      "note": "08/25/26- Sen. Floor Analyses",
-      "links": [
-        {
-          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB675&analysisId=405227&analyzingOffice=Sen.+Floor+Analyses",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "2026-08-25",
-      "classification": "analysis"
-    },
-    {
       "note": "08/26/26- Senate Environmental Quality",
       "links": [
         {
@@ -814,6 +815,17 @@
         }
       ],
       "date": "2026-08-26",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/27/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB675&analysisId=405600&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-27",
       "classification": "analysis"
     }
   ],
@@ -838,7 +850,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-27T18:13:59Z",
+    "logs_latest_update": "2026-08-28T19:30:39Z",
     "text_extraction_latest_update": "2026-08-27T18:36:40.622108Z"
   }
 }

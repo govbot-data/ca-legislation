@@ -19,15 +19,15 @@
   "other_titles": [
     {
       "note": "",
-      "title": "California Residential Mortgage Insurance Act."
-    },
-    {
-      "note": "",
       "title": "California Housing Finance Agency: credit enhancement mechanisms study: pilot credit enhancement program."
     },
     {
       "note": "",
       "title": "California Housing Finance and Credit Act."
+    },
+    {
+      "note": "",
+      "title": "California Residential Mortgage Insurance Act."
     }
   ],
   "other_identifiers": [
@@ -451,6 +451,20 @@
       "_processing": {
         "log_file_created": "2026-08-21T07:52:43Z"
       }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Senate.",
+      "date": "2026-08-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T19:30:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -757,6 +771,28 @@
       ],
       "date": "2026-08-17",
       "classification": "analysis"
+    },
+    {
+      "note": "08/26/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB750&analysisId=405351&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-26",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/27/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB750&analysisId=405651&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-27",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -779,7 +815,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-21T07:52:43Z",
+    "logs_latest_update": "2026-08-28T19:30:39Z",
     "text_extraction_latest_update": "2026-08-21T08:14:48.246832Z"
   }
 }

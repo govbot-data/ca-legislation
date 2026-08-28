@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "The Planning and Zoning Law authorizes the legislative body of any county or city to adopt ordinances that, among other things, regulate the use of buildings, structures, and land as between industry, businesses, residences, and open space, as specified.\n\nThis bill would prohibit a city, county, or city and county from approving a discretionary or ministerial permit or other entitlement that would result in the construction, or an expansion that increases the maximum peak water use, of a data center unless specified conditions are satisfied, including, among others, that the applicant provides the city, county, or city and a county prescribed information. The bill would include in this prescribed information a water scarcity plan and a water supply assessment, each as provided. The bill would also include in the specified conditions that the applicant assumes responsibility for the full cost of any required water conveyance, treatment or storage, or distribution infrastructure improvements necessary to serve the project, as determined by the applicable water supplier. By expanding the duties of local agencies to administer these provisions, this bill would impose a state-mandated local program.\n\nThe bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+      "abstract": "The Planning and Zoning Law authorizes the legislative body of any county or city to adopt ordinances that, among other things, regulate the use of buildings, structures, and land as between industry, businesses, residences, and open space, as specified.\n\nThis bill would prohibit a city, county, or city and county from approving a discretionary or ministerial permit or other entitlement that would result in the construction, or an expansion that increases the maximum peak water use, of a data center unless specified conditions are satisfied, including, among others, that the applicant provides the city, county, or city and a county prescribed information. The bill would include in this prescribed information a water scarcity plan and a water supply assessment, each as provided. The bill would also include in the specified conditions that the applicant assumes responsibility for the full cost of any required water conveyance, treatment or storage, or distribution infrastructure improvements necessary to serve the project, as determined by the applicable water supplier. The bill would provide that this provision is severable. By expanding the duties of local agencies to administer these provisions, this bill would impose a state-mandated local program.\n\nThe bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
     }
   ],
   "other_titles": [
@@ -440,6 +440,21 @@
       "_processing": {
         "log_file_created": "2026-08-18T07:45:25Z"
       }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T19:30:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -540,6 +555,17 @@
         }
       ],
       "date": "2026-08-13",
+      "classification": ""
+    },
+    {
+      "note": "08/27/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2469&version=20250AB246992AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-27",
       "classification": ""
     }
   ],
@@ -676,7 +702,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T07:45:25Z",
+    "logs_latest_update": "2026-08-28T19:30:39Z",
     "text_extraction_latest_update": "2026-08-18T08:04:50.987752Z"
   }
 }

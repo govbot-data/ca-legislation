@@ -20,11 +20,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Transit-oriented housing developments: exceptions: housing development policy."
+      "title": "Community facilities districts."
     },
     {
       "note": "",
-      "title": "Community facilities districts."
+      "title": "Transit-oriented housing developments: exceptions: housing development policy."
     },
     {
       "note": "",
@@ -364,6 +364,20 @@
       "_processing": {
         "log_file_created": "2026-08-19T07:46:19Z"
       }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Senate.",
+      "date": "2026-08-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T19:30:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -548,14 +562,36 @@
       "classification": "analysis"
     },
     {
-      "note": "08/18/26- ASSEMBLY FLOOR ANALYSIS",
+      "note": "08/25/26- ASSEMBLY FLOOR ANALYSIS",
       "links": [
         {
-          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1361&analysisId=404444&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1361&analysisId=405334&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
           "media_type": "application/pdf"
         }
       ],
-      "date": "2026-08-18",
+      "date": "2026-08-25",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/26/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1361&analysisId=405505&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-26",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/27/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1361&analysisId=405601&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-27",
       "classification": "analysis"
     }
   ],
@@ -577,7 +613,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-19T07:46:19Z",
+    "logs_latest_update": "2026-08-28T19:30:39Z",
     "text_extraction_latest_update": "2026-08-19T08:00:53.930823Z"
   }
 }

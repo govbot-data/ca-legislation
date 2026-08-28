@@ -19,19 +19,19 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Hazardous waste generation and handling fees: study and report: affordable housing development projects."
-    },
-    {
-      "note": "",
       "title": "Hazardous waste generation and handling fees: Department of Toxic Substances Control oversight responses: housing development projects."
     },
     {
       "note": "",
-      "title": "Hazardous waste generator permits: housing development projects."
+      "title": "Hazardous waste generation and handling fees: study and report: affordable housing development projects."
     },
     {
       "note": "",
       "title": "Hazardous waste control: investigations."
+    },
+    {
+      "note": "",
+      "title": "Hazardous waste generator permits: housing development projects."
     },
     {
       "note": "",
@@ -646,6 +646,39 @@
       "_processing": {
         "log_file_created": "2026-08-27T18:13:59Z"
       }
+    },
+    {
+      "description": "From committee: Do pass and re-refer to Com. on NAT. RES. (Ayes 8. Noes 0.) (August 27). Re-referred to Com. on NAT. RES.",
+      "date": "2026-08-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on NAT. RES.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-28T19:30:39Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass. (Ayes 14. Noes 0.) (August 27).",
+      "date": "2026-08-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T19:30:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -935,6 +968,28 @@
       ],
       "date": "2026-08-26",
       "classification": "analysis"
+    },
+    {
+      "note": "08/27/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB328&analysisId=405659&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-27",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/27/26- Assembly Natural Resources",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB328&analysisId=405618&analyzingOffice=Assembly+Natural+Resources",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-27",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -959,7 +1014,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-27T18:13:59Z",
+    "logs_latest_update": "2026-08-28T19:30:39Z",
     "text_extraction_latest_update": "2026-08-27T18:59:34.369060Z"
   }
 }

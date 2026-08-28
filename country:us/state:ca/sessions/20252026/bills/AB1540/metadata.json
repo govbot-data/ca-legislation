@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing federal law, the National Suicide Hotline Designation Act of 2020, designates the 3-digit telephone number \"988\" as the universal number within the United States for the purpose of the national suicide prevention and mental health crisis hotline system operating through the 988 Suicide and Crisis Lifeline.\n\nExisting law, the Miles Hall Lifeline and Suicide Prevention Act, requires, among other things, the Office of Emergency Services (OES) to verify that technology that allows for transfers between 988 centers, as well as between 988 centers and 911 public safety answering points, is available to 988 centers and 911 public safety answering points throughout the state, to appoint a 988 system director, and to verify interoperability between and across 911 and 988. Existing law establishes the 988 State Suicide and Behavioral Health Crisis Services Fund and provides that 988 surcharge revenue in the fund is available, upon appropriation by the Legislature, for purposes of the act.\n\nThis bill would require the California Health and Human Services Agency (agency) to annually determine whether an adequate specialized LGBTQ+ suicide prevention hotline is activated by the federal government under 988 and would make implementation of this bill contingent on the agency's determination, as specified. The bill would require OES to, no later than 6 months after the agency's determination, request the federal Substance Abuse and Mental Health Services Administration (SAMHSA) to enable a press 3 function for calls originating in the State of California to allow callers to dial 988 and press \"3\" to be automatically routed to a specialized call center. The bill would require OES to, no later than 12 months following the approval by SAMHSA, ensure that the specified technologies are available.\n\nThis bill would require, no later than 12 months following approval by SAMHSA, the agency to identify and contract with a qualified entity or entities that specialize in LGBTQ+ suicide prevention services. The bill would require the agency to determine the eligibility criteria, establish an application process, and administer funds to the qualified entity, as specified. The bill would require a qualified entity to comply with various requirements, including having a primary objective of reducing suicide rates or addressing mental health crises.\n\nThis bill would declare that it is to take effect immediately as an urgency statute."
+      "abstract": "Existing federal law, the National Suicide Hotline Designation Act of 2020, designates the 3-digit telephone number \"988\" as the universal number within the United States for the purpose of the national suicide prevention and mental health crisis hotline system operating through the 988 Suicide and Crisis Lifeline.\n\nExisting law, the Miles Hall Lifeline and Suicide Prevention Act, requires, among other things, the Office of Emergency Services (OES) to verify that technology that allows for transfers between 988 centers, as well as between 988 centers and 911 public safety answering points, is available to 988 centers and 911 public safety answering points throughout the state, to appoint a 988 system director, and to verify interoperability between and across 911 and 988. Existing law establishes the 988 State Suicide and Behavioral Health Crisis Services Fund and provides that 988 surcharge revenue in the fund is available, upon appropriation by the Legislature, for purposes of the act.\n\nThis bill would require the California Health and Human Services Agency (agency) to annually determine whether an adequate specialized LGBTQ+ suicide prevention hotline is activated by the federal government under 988. When making this determination, the bill would require the agency to consider specified factors, including, among other things, any factor the agency considers relevant to evaluating the adequacy of press 3 operations. The bill would authorize the agency to, no later than 6 months after its determination, request the federal Substance Abuse and Mental Health Services Administration (SAMHSA) to allow the state to implement the press 3 function at the state level for calls originating in the State of California, which would allow callers to dial \"988\" and press \"3\" to be automatically routed to a specialized 988 center. The bill would require OES and the agency to, no later than 12 months following the approval by SAMHSA, ensure that press 3 function technologies are available.\n\nThis bill would require, no later than 12 months following approval by SAMHSA, the agency to identify and contract with a qualified entity or entities that specialize in LGBTQ+ suicide prevention services. The bill would require the agency to determine the eligibility criteria, establish an application process, and administer funds to the qualified entity, as specified. The bill would require a qualified entity to comply with various requirements, including having a primary objective of reducing suicide rates or addressing mental health crises. The bill would make its implementation subject to an appropriation by the Legislature, as specified.\n\nThis bill would declare that it is to take effect immediately as an urgency statute."
     }
   ],
   "other_titles": [],
@@ -383,6 +383,21 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:25Z"
       }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T19:30:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -555,6 +570,14 @@
       "organization_id": null
     },
     {
+      "name": "Rubio",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rubio\"}",
+      "organization_id": null
+    },
+    {
       "name": "Wiener",
       "classification": "coauthor",
       "entity_type": "person",
@@ -626,6 +649,17 @@
         }
       ],
       "date": "2026-06-15",
+      "classification": ""
+    },
+    {
+      "note": "08/27/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1540&version=20250AB154095AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-27",
       "classification": ""
     }
   ],
@@ -706,6 +740,17 @@
       ],
       "date": "2026-07-31",
       "classification": "analysis"
+    },
+    {
+      "note": "08/15/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1540&analysisId=403988&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-15",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -716,7 +761,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to add Section 53123.7 to the Government Code, relating to mental health, and declaring the urgency thereof, to take effect immediately.",
+    "impact_clause": "An act to add Section 53123.8 to the Government Code, relating to mental health, and declaring the urgency thereof, to take effect immediately.",
     "tags": [
       "fiscal committee",
       "urgency"
@@ -729,7 +774,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:25Z",
+    "logs_latest_update": "2026-08-28T19:30:39Z",
     "text_extraction_latest_update": "2026-08-14T09:04:19.591219Z"
   }
 }

@@ -1,25 +1,30 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB2225",
-  "title": "Pupil achievement: State Education Alignment and Impact Plan.",
+  "title": "Education governance: Education Commissioner: reporting.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Pupilachievement",
-    "StateEducationAlignmentandImpactPlan"
+    "EducationCommissioner",
+    "Educationgovernance",
+    "reporting"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law establishes the State Board of Education and requires the state board to study educational conditions and needs of the state and to make plans for the improvement of the administration and efficiency of the public schools of the state. Existing law establishes the State Department of Education under the administration of the Superintendent of Public Instruction and assigns to the department numerous responsibilities relating to the governance of the public elementary and secondary schools in the state.\n\nThis bill would require the Superintendent, on or before October 1, 2027, to convene a working group consisting of 6 specified members to develop and submit to the Governor and the Legislature, on or before October 1, 2028, a plan, to be known as the State Education Alignment and Impact Plan, that includes, among other things, specific goals and benchmarks for the state to support school districts, county offices of education, and charter schools in closing achievement gaps. The bill would require the Superintendent, on or before November 1, 2027, to convene a stakeholder advisory group that is inclusive and representative of the diversity of the state, as provided, to solicit feedback and input during the development of the State Education Alignment and Impact Plan. The bill would encourage specified committees of the Legislature, on or before March 1, 2029, and annually thereafter, to evaluate the state's progress in meeting the goals and benchmarks established in the State Education Alignment and Impact Plan."
+      "abstract": "Commencing January 1, 2027, existing law vests all executive and administrative functions of the State Department of Education in an Education Commissioner. Existing law requires the Education Commissioner, on or before October 1, 2027, to develop findings and recommendations for a 2nd phase of education governance consolidation and streamlining, as specified, and to submit to the Governor and the appropriate policy and fiscal committees of the Legislature (1) an interim report, by June 30, 2027, with a detailed description of the process used to gather required input for the development of those findings and recommendations and (2) a final report, by October 1, 2027, containing its findings and recommendations.\n\nThis bill would require the Education Commissioner, utilizing those findings and recommendations, to submit a report, on or before October 1, 2028, to the Governor and appropriate policy and fiscal committees of the Legislature on, among other things, progress toward implementation of the recommended actions or activities for education governance consolidation and streamlining and recommendations of any additional steps the Governor and Legislature can take to consolidate or eliminate fragmented or duplicative state requirements and activities that require statutory or budgetary authority."
     }
   ],
   "other_titles": [
     {
       "note": "",
       "title": "Pupil achievement: Closing the Achievement Gap State Operations and Support Plan."
+    },
+    {
+      "note": "",
+      "title": "Pupil achievement: State Education Alignment and Impact Plan."
     }
   ],
   "other_identifiers": [
@@ -332,6 +337,21 @@
       "_processing": {
         "log_file_created": "2026-08-18T07:45:25Z"
       }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T19:30:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -435,6 +455,17 @@
       ],
       "date": "2026-08-13",
       "classification": ""
+    },
+    {
+      "note": "08/27/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2225&version=20250AB222594AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-27",
+      "classification": ""
     }
   ],
   "documents": [
@@ -524,7 +555,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to add Chapter 6.2 (commencing with Section 52090) to Part 28 of Division 4 of Title 2 of the Education Code, relating to pupil achievement.",
+    "impact_clause": "An act to amend Section 1 of Chapter 66 of the Statutes of 2026, relating to education governance.",
     "tags": [
       "fiscal committee"
     ]
@@ -536,7 +567,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T07:45:25Z",
+    "logs_latest_update": "2026-08-28T19:30:39Z",
     "text_extraction_latest_update": "2026-08-18T08:07:08.043287Z"
   }
 }

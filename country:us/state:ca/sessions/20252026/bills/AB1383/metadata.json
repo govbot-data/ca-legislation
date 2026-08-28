@@ -451,9 +451,40 @@
       "_processing": {
         "log_file_created": "2026-08-14T08:21:25Z"
       }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T19:30:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "McKinnor",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"McKinnor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Addis",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Addis\"}",
+      "organization_id": null
+    },
     {
       "name": "Ahrens",
       "classification": "coauthor",
@@ -645,22 +676,6 @@
       "primary": false,
       "person_id": "~{\"name\": \"P\\u00e9rez\"}",
       "organization_id": null
-    },
-    {
-      "name": "McKinnor",
-      "classification": "author",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"McKinnor\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Addis",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Addis\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -741,6 +756,17 @@
       ],
       "date": "2026-07-01",
       "classification": ""
+    },
+    {
+      "note": "08/27/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1383&version=20250AB138393AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-27",
+      "classification": ""
     }
   ],
   "documents": [
@@ -798,6 +824,17 @@
       ],
       "date": "2026-08-10",
       "classification": "analysis"
+    },
+    {
+      "note": "08/21/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1383&analysisId=404781&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -820,7 +857,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:21:25Z",
+    "logs_latest_update": "2026-08-28T19:30:39Z",
     "text_extraction_latest_update": "2026-08-14T08:46:10.591202Z"
   }
 }

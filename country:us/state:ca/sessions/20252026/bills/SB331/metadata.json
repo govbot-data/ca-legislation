@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Substance abuse."
+      "title": "State Energy Resources Conservation and Development Commission: certification of facilities: electrical transmission projects."
     },
     {
       "note": "",
-      "title": "State Energy Resources Conservation and Development Commission: certification of facilities: electrical transmission projects."
+      "title": "Substance abuse."
     }
   ],
   "other_identifiers": [
@@ -528,6 +528,18 @@
       "_processing": {
         "log_file_created": "2026-08-27T18:13:59Z"
       }
+    },
+    {
+      "description": "From committee: That the Assembly amendments be concurred in. (Ayes 9. Noes 0.)",
+      "date": "2026-08-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T19:30:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -809,6 +821,17 @@
       ],
       "date": "2026-08-26",
       "classification": "analysis"
+    },
+    {
+      "note": "08/27/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB331&analysisId=405577&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-27",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -832,7 +855,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-27T18:13:59Z",
+    "logs_latest_update": "2026-08-28T19:30:39Z",
     "text_extraction_latest_update": "2026-08-27T18:17:22.808512Z"
   }
 }

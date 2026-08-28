@@ -28,11 +28,11 @@
     },
     {
       "note": "",
-      "title": "Land use: economic development: surplus land."
+      "title": "Planning and Zoning Law: general plan: land use element."
     },
     {
       "note": "",
-      "title": "Planning and Zoning Law: general plan: land use element."
+      "title": "Land use: economic development: surplus land."
     }
   ],
   "other_identifiers": [
@@ -632,6 +632,18 @@
       "_processing": {
         "log_file_created": "2026-08-27T18:13:59Z"
       }
+    },
+    {
+      "description": "From committee: That the Assembly amendments be concurred in. (Ayes 8. Noes 0.)",
+      "date": "2026-08-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T19:30:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -864,6 +876,28 @@
       ],
       "date": "2026-08-21",
       "classification": "analysis"
+    },
+    {
+      "note": "08/27/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB828&analysisId=405674&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-27",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/27/26- Senate Emergency Management",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB828&analysisId=405519&analyzingOffice=Senate+Emergency+Management",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-27",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -887,7 +921,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-27T18:13:59Z",
+    "logs_latest_update": "2026-08-28T19:30:39Z",
     "text_extraction_latest_update": "2026-08-27T18:35:27.407214Z"
   }
 }

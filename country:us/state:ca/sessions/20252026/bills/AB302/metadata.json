@@ -20,15 +20,15 @@
   "other_titles": [
     {
       "note": "",
+      "title": "Confidentiality of Medical Information Act."
+    },
+    {
+      "note": "",
       "title": "Data brokers: elected officials and judges."
     },
     {
       "note": "",
       "title": "Protected individuals."
-    },
-    {
-      "note": "",
-      "title": "Confidentiality of Medical Information Act."
     }
   ],
   "other_identifiers": [
@@ -598,6 +598,18 @@
       "_processing": {
         "log_file_created": "2026-08-27T18:13:59Z"
       }
+    },
+    {
+      "description": "From committee: That the Senate amendments be concurred in. (Ayes 9. Noes 0.) (August 27).",
+      "date": "2026-08-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T19:30:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -822,6 +834,17 @@
       ],
       "date": "2026-08-26",
       "classification": "analysis"
+    },
+    {
+      "note": "08/27/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB302&analysisId=405628&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-27",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -842,7 +865,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-27T18:13:59Z",
+    "logs_latest_update": "2026-08-28T19:30:39Z",
     "text_extraction_latest_update": "2026-08-27T18:44:24.740558Z"
   }
 }
