@@ -23,19 +23,19 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Land use: housing development approvals: tax-exempt private activity bonds: subdivisions: tentative and final maps: appeals."
-    },
-    {
-      "note": "",
-      "title": "Housing development: transit-oriented development."
-    },
-    {
-      "note": "",
       "title": "Housing financing: joint powers agreements: bond approvals:subdivisions: tentative and final maps: appeals."
     },
     {
       "note": "",
       "title": "Housing development: streamlined approvals."
+    },
+    {
+      "note": "",
+      "title": "Land use: housing development approvals: tax-exempt private activity bonds: subdivisions: tentative and final maps: appeals."
+    },
+    {
+      "note": "",
+      "title": "Housing development: transit-oriented development."
     }
   ],
   "other_identifiers": [
@@ -568,6 +568,18 @@
       "_processing": {
         "log_file_created": "2026-08-27T18:13:59Z"
       }
+    },
+    {
+      "description": "From committee: That the Assembly amendments be concurred in. (Ayes 4. Noes 3.)",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-29T13:09:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -800,6 +812,17 @@
       ],
       "date": "2026-08-21",
       "classification": "analysis"
+    },
+    {
+      "note": "08/27/26- Senate Local Government",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB677&analysisId=405585&analyzingOffice=Senate+Local+Government",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-27",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -822,7 +845,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-27T18:13:59Z",
+    "logs_latest_update": "2026-08-29T13:09:21Z",
     "text_extraction_latest_update": "2026-08-27T19:05:17.369431Z"
   }
 }

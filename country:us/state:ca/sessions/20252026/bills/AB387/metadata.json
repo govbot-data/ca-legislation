@@ -402,6 +402,46 @@
       "_processing": {
         "log_file_created": "2026-08-28T19:30:39Z"
       }
+    },
+    {
+      "description": "Re-referred to Com. on A.,E.,S., & T. pursuant to Assembly Rule 77.2.",
+      "date": "2026-08-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on A.,E.,S., & T. pursuant to Assembly Rule 77.2.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-29T13:09:20Z"
+      }
+    },
+    {
+      "description": "Joint Rule 62(a), file notice suspended.",
+      "date": "2026-08-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-29T13:09:20Z"
+      }
+    },
+    {
+      "description": "From committee: That the Senate amendments be concurred in. (Ayes 8. Noes 0.) (August 28).",
+      "date": "2026-08-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-29T13:09:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -604,6 +644,28 @@
       ],
       "date": "2026-08-27",
       "classification": "analysis"
+    },
+    {
+      "note": "08/28/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB387&analysisId=405801&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-28",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/28/26- Assembly Arts, Entertainment, Sports, and Tourism",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB387&analysisId=405732&analyzingOffice=Assembly+Arts,+Entertainment,+Sports,+and+Tourism",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-28",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -624,7 +686,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-28T19:30:39Z",
+    "logs_latest_update": "2026-08-29T13:09:20Z",
     "text_extraction_latest_update": "2026-08-28T20:07:10.536410Z"
   }
 }

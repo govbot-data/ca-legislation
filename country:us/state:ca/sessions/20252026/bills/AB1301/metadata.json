@@ -344,6 +344,42 @@
       "_processing": {
         "log_file_created": "2026-08-26T07:58:26Z"
       }
+    },
+    {
+      "description": "Action rescinded whereby the bill was re-referred to Coms. on U. & E. and APPR.",
+      "date": "2026-08-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Coms. on U. & E. and APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-29T13:09:20Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on U. & E. pursuant to Assembly Rule 77.2.",
+      "date": "2026-08-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on U. & E. pursuant to Assembly Rule 77.2.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-29T13:09:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -503,7 +539,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-26T07:58:26Z",
+    "logs_latest_update": "2026-08-29T13:09:20Z",
     "text_extraction_latest_update": "2026-08-26T08:44:24.379269Z"
   }
 }

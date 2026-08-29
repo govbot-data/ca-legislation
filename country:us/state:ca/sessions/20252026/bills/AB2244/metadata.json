@@ -18,11 +18,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Wholesale food: frozen food."
+      "title": "California Certified food standard."
     },
     {
       "note": "",
-      "title": "California Certified food standard."
+      "title": "Wholesale food: frozen food."
     }
   ],
   "other_identifiers": [
@@ -497,6 +497,20 @@
       "_processing": {
         "log_file_created": "2026-08-28T19:30:39Z"
       }
+    },
+    {
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 72. Noes 0.).",
+      "date": "2026-08-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-29T13:09:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -827,7 +841,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-28T19:30:39Z",
+    "logs_latest_update": "2026-08-29T13:09:21Z",
     "text_extraction_latest_update": "2026-08-28T20:42:39.525091Z"
   }
 }

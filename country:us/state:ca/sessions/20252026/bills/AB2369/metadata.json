@@ -20,11 +20,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Public utilities."
+      "title": "Electricity: resource adequacy requirements: transmission facility planning."
     },
     {
       "note": "",
-      "title": "Electricity: resource adequacy requirements: transmission facility planning."
+      "title": "Public utilities."
     }
   ],
   "other_identifiers": [
@@ -412,6 +412,20 @@
       "_processing": {
         "log_file_created": "2026-08-28T19:30:39Z"
       }
+    },
+    {
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 67. Noes 6.).",
+      "date": "2026-08-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-29T13:09:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -539,17 +553,6 @@
       "classification": "analysis"
     },
     {
-      "note": "06/26/26- Senate Energy, Utilities and Communications",
-      "links": [
-        {
-          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2369&analysisId=401303&analyzingOffice=Senate+Energy,+Utilities+and+Communications",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "2026-06-26",
-      "classification": "analysis"
-    },
-    {
       "note": "06/28/26- Senate Energy, Utilities and Communications",
       "links": [
         {
@@ -636,7 +639,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-28T19:30:39Z",
+    "logs_latest_update": "2026-08-29T13:09:20Z",
     "text_extraction_latest_update": "2026-08-28T20:00:58.910446Z"
   }
 }

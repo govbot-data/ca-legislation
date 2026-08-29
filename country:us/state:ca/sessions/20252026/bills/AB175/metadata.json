@@ -1,21 +1,28 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB175",
-  "title": "Budget Act of 2025.",
+  "title": "Developmental services: community placement plans and community resource development plans.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
-    "bill"
+    "bill",
+    "appropriation"
   ],
   "subject": [
-    "BudgetActof2025"
+    "Developmentalservices",
+    "communityplacementplansandcommunityresourcedevelopmentplans"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "This bill would express the intent of the Legislature to enact statutory changes relating to the Budget Act of 2025."
+      "abstract": "Existing law, the Lanterman Developmental Disabilities Services Act, requires the State Department of Developmental Services to contract with regional centers to provide services and supports to persons with developmental disabilities and their families. Existing law requires the department to establish policies and procedures for the development of an annual community placement plan by regional centers, and requires the plan to provide dedicated funding for comprehensive assessments of developmental center residents, identified costs of moving individuals from developmental centers to the community, and deflection of individuals from developmental center admission. Existing law requires the department's policies in this regard to address statewide priorities, plan requirements, and the statutory roles of regional centers, developmental centers, and regional resource development projects in the process of assessing consumers for community living and in the development of community resources. Existing law requires the department to establish guidelines for using community placement plan funds appropriated through the budget process for community resource development to address the needs for services and supports of developmental services consumers living in the community, as specified. Existing law establishes procedures for regional centers relating to the proposed use of community resource development plan funds, requires regional centers to submit to the department quarterly reports on the use of those funds, and requires the department to make reports to specified legislative staff and committees in connection with community resource development plans and activities.\n\nThis bill would revise and recast these provisions to replace the term \"community placement plan\" with \"community resource development plan\" and make other clarifying and conforming changes.\n\nThis bill would incorporate additional changes to Section 4474.17 of the Welfare and Institutions Code proposed by AB 2414 to be operative only if this bill and AB 2414 are both enacted and this bill is enacted last.\n\nThis bill would appropriate $1,500,000 from the Federal Trust Fund to the department to support receipt of federal grant awards related to early intervention services, as specified.\n\nThis bill would declare that it is to take effect immediately as a bill providing for appropriations related to the Budget Bill."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Budget Act of 2025."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-ca-20252026-ab175"
@@ -155,15 +162,38 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:29Z"
       }
+    },
+    {
+      "description": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on B. & F. R.",
+      "date": "2026-08-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on B. & F. R.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-29T13:09:21Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Gabriel",
+      "name": "Committee on Budget",
       "classification": "author",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Gabriel\"}",
+      "person_id": "~{\"name\": \"Committee on Budget\"}",
       "organization_id": null
     }
   ],
@@ -190,6 +220,17 @@
       ],
       "date": "2025-01-08",
       "classification": ""
+    },
+    {
+      "note": "08/28/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB175&version=20250AB17598AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-28",
+      "classification": ""
     }
   ],
   "documents": [
@@ -213,8 +254,11 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act relating to the Budget Act of 2025.",
-    "tags": []
+    "impact_clause": "An act to amend Sections 4437, 4474.17, 4648, 4677, 4679.1, 4684.50, 4684.53, 4684.55, 4684.58, 4684.81, 4698, and 4781.6 of, and to amend, repeal, and add Sections 4418.25 and 4679 of, the Welfare and Institutions Code, relating to developmental services, and making an appropriation therefor, to take effect immediately, bill related to the budget.",
+    "tags": [
+      "fiscal committee",
+      "urgency"
+    ]
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ca/government",
@@ -223,7 +267,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:29Z",
+    "logs_latest_update": "2026-08-29T13:09:21Z",
     "text_extraction_latest_update": "2026-07-22T12:47:59.427033Z"
   }
 }

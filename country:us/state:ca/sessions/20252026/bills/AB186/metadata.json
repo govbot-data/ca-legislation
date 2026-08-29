@@ -1,21 +1,28 @@
 {
   "legislative_session": "20252026",
   "identifier": "AB186",
-  "title": "Budget Act of 2025.",
+  "title": "Income taxes: film tax credits.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
-    "bill"
+    "bill",
+    "appropriation"
   ],
   "subject": [
-    "BudgetActof2025"
+    "Incometaxes",
+    "filmtaxcredits"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "This bill would express the intent of the Legislature to enact statutory changes relating to the Budget Act of 2025."
+      "abstract": "(1) The Personal Income Tax Law and the Corporation Tax Law authorize various credits against the taxes imposed by those laws, including various motion picture credits, commonly referred to as motion picture credit 1.0, 2.0, 3.0, and 4.0, and the certified studio credit, to be allocated by the California Film Commission in differing amounts equal to specified percentages of the qualified expenditures of a qualified motion picture in this state. Existing law allows those credits to be sold if they are allocated to independent films, as defined. Existing law allows those credits to be carried forward for 9 years in the case that the credit exceeds the tax owed, as provided. Existing law allows a qualified taxpayer to elect to be paid a refund equal to 90% of the total refundable amount, as specified, over a period of 5 years if the amount allowable as a credit under motion picture credit 4.0 exceeds the qualified taxpayer's tax liability for the taxable year, and allows the excess to be carried over, as specified. Existing law allows these refunds from the Tax Relief and Refund Account, which is a continuously appropriated fund. \n\nThis bill would expand the carry forward provisions of motion picture credit 2.0 and 3.0 to 15 years. The bill would require the qualified taxpayer, or a related company, as specified, to be an active participant, as defined, to carry the credit forward for any of the 10th through the 15th years, inclusive. The bill would also increase the total refundable amount under motion picture credit 4.0 from 90% to 95%, and would make the refund payable over 2 years instead of over 5 years. By increasing the amounts refunded from a continuously appropriated fund, the bill would make an appropriation. \n\n(2) Existing law, for taxable years beginning on or after January 1, 2024, and before January 1, 2030, limits the total tax reduction by all business credits, as defined, to $5,000,000 per taxable year, except as specified. Existing law, for taxable years beginning on or after January 1, 2030, similarly applies a business credit limit of 70% of the total taxes imposed or $5,000,000, whichever is greater, except as specified. \n\nThis bill would, for taxable years beginning on or after January 1, 2027, exempt credits that have been sold from the business credit limit described above.\n\n(3) This bill would make legislative findings and declarations related to a gift of public funds.\n\n(4) This bill would declare that it is to take effect immediately as a bill providing for appropriations related to the Budget Bill."
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Budget Act of 2025."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-ca-20252026-ab186"
@@ -155,15 +162,38 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:23Z"
       }
+    },
+    {
+      "description": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on B. & F. R.",
+      "date": "2026-08-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on B. & F. R.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-29T13:09:21Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Gabriel",
+      "name": "Committee on Budget",
       "classification": "author",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Gabriel\"}",
+      "person_id": "~{\"name\": \"Committee on Budget\"}",
       "organization_id": null
     }
   ],
@@ -190,6 +220,17 @@
       ],
       "date": "2025-01-08",
       "classification": ""
+    },
+    {
+      "note": "08/28/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB186&version=20250AB18698AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-28",
+      "classification": ""
     }
   ],
   "documents": [
@@ -213,8 +254,11 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act relating to the Budget Act of 2025.",
-    "tags": []
+    "impact_clause": "An act to amend Sections 17039.4, 17039.6, 17053.95, 17053.98, 17053.98.1, 23036.4, 23036.6, 23695, 23698, and 23698.1 of the Revenue and Taxation Code, relating to taxation, and making an appropriation therefor, to take effect immediately, bill related to the budget.",
+    "tags": [
+      "fiscal committee",
+      "urgency"
+    ]
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ca/government",
@@ -223,7 +267,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:23Z",
+    "logs_latest_update": "2026-08-29T13:09:21Z",
     "text_extraction_latest_update": "2026-07-21T20:59:28.757091Z"
   }
 }

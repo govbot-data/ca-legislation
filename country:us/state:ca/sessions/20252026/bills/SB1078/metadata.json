@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Transactions and use taxes: County of Santa Cruz."
+      "title": "Civil rights violations: service of process: Civil Rights Department."
     },
     {
       "note": "",
-      "title": "Civil rights violations: service of process: Civil Rights Department."
+      "title": "Transactions and use taxes: County of Santa Cruz."
     }
   ],
   "other_identifiers": [
@@ -374,6 +374,30 @@
       "_processing": {
         "log_file_created": "2026-08-28T19:30:39Z"
       }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Senate.",
+      "date": "2026-08-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-29T13:09:20Z"
+      }
+    },
+    {
+      "description": "In Senate. Concurrence in Assembly amendments pending.",
+      "date": "2026-08-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-29T13:09:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -560,7 +584,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-28T19:30:39Z",
+    "logs_latest_update": "2026-08-29T13:09:20Z",
     "text_extraction_latest_update": "2026-08-28T20:39:47.861843Z"
   }
 }

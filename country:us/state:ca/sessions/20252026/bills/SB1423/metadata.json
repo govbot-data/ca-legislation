@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Transportation funding: State Transportation Improvement Program: Active Transportation Program."
+      "title": "Wildfire prevention: California Wildfire Mitigation Financial Assistance Program."
     },
     {
       "note": "",
-      "title": "Wildfire prevention: California Wildfire Mitigation Financial Assistance Program."
+      "title": "Transportation funding: State Transportation Improvement Program: Active Transportation Program."
     },
     {
       "note": "",
@@ -463,6 +463,65 @@
       "_processing": {
         "log_file_created": "2026-08-28T19:30:39Z"
       }
+    },
+    {
+      "description": "In Senate. Concurrence in Assembly amendments pending.",
+      "date": "2026-08-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-29T13:09:21Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on RLS. pursuant to Senate Rule 29.10(d).",
+      "date": "2026-08-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS. pursuant to Senate Rule 29.10(d).",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-29T13:09:21Z"
+      }
+    },
+    {
+      "description": "From committee: Be re-referred to Com. on L. GOV. pursuant to Senate Rule 29.10(d). (Ayes 5. Noes 0.) Re-referred to Com. on L. GOV.",
+      "date": "2026-08-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on L. GOV. pursuant to Senate Rule 29.10(d). (Ayes 5. Noes 0.) Re-referred to Com. on L. GOV.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-29T13:09:21Z"
+      }
+    },
+    {
+      "description": "From committee: That the Assembly amendments be concurred in. (Ayes 5. Noes 2.)",
+      "date": "2026-08-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-29T13:09:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -621,6 +680,17 @@
       ],
       "date": "2026-08-17",
       "classification": "analysis"
+    },
+    {
+      "note": "08/28/26- Senate Local Government",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1423&analysisId=405733&analyzingOffice=Senate+Local+Government",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-28",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -643,7 +713,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-28T19:30:39Z",
+    "logs_latest_update": "2026-08-29T13:09:21Z",
     "text_extraction_latest_update": "2026-08-28T20:35:18.842776Z"
   }
 }
