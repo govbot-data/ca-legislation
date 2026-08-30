@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "The Budget Act of 2026 appropriates, for the 2026\u201327 fiscal year, $1,000,000,000 from the General Fund to the State Department of Education to administer the California Community Schools Partnership Program to distribute funding to local educational agencies, as defined, in accordance with a specified formula, to support a network of their eligible schoolsites to implement new, and provide ongoing support for existing, community schools, as provided. Existing law authorizes a local educational agency who receives funds under these provisions to retain up to 10% of the total funds awarded for its eligible schoolsites each fiscal year to be used for specified activities, including, among other things, administering community schools established at eligible schoolsites.\n\nThis bill, to be known as the It Takes a Village Act of 2026, would (1) require any retained funds described above to be used consistent with a specified community schools framework, as provided, and (2) authorize a local educational agency that retains those funds to also use those funds to serve as a network lead for multiple schoolsites located in a Promise Neighborhood, as provided. By expanding the purposes for which previously appropriated moneys may be expended, the bill would make an appropriation."
+      "abstract": "The Budget Act of 2026 appropriates, for the 2026\u201327 fiscal year, $1,000,000,000 from the General Fund to the State Department of Education to administer the California Community Schools Partnership Program to distribute funding to local educational agencies, as defined, in accordance with a specified formula, to support a network of their eligible schoolsites to implement new, and provide ongoing support for existing, community schools, as provided. Existing law authorizes a local educational agency who receives funds under these provisions to retain up to 10% of the total funds awarded for its eligible schoolsites each fiscal year to be used for specified activities, including, among other things, administering community schools established at eligible schoolsites.\n\nThis bill, to be known as the It Takes a Village Act of 2026, would (1) require any retained funds described above to be used consistent with a specified community schools framework, as provided, and (2) authorize a local educational agency that retains those funds to also use those funds to serve as a network lead for multiple schoolsites located in a Promise Neighborhood, as provided. By expanding the purposes for which previously appropriated moneys may be expended, the bill would make an appropriation.\n\nThis bill would incorporate additional changes to Section 8903 of the Education Code proposed by AB 133 or SB 133 to be operative only if this bill and either AB 133 or SB 133 are enacted and this bill is enacted last."
     }
   ],
   "other_titles": [
@@ -385,6 +385,21 @@
       "_processing": {
         "log_file_created": "2026-08-27T18:14:00Z"
       }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-30T12:42:33Z"
+      }
     }
   ],
   "sponsorships": [
@@ -394,6 +409,94 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Bonta\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alvarez",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alvarez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jackson",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ashby",
+      "classification": "principal coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ashby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ahrens",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ahrens\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryan",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bryan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Connolly",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Connolly\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Haney",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Haney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ortega",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ortega\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ransom",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ransom\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Arregu\u00edn",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Arregu\\u00edn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "P\u00e9rez",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"P\\u00e9rez\"}",
       "organization_id": null
     }
   ],
@@ -452,6 +555,17 @@
         }
       ],
       "date": "2026-08-21",
+      "classification": ""
+    },
+    {
+      "note": "08/28/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1969&version=20250AB196995AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-28",
       "classification": ""
     }
   ],
@@ -565,7 +679,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-27T18:14:00Z",
+    "logs_latest_update": "2026-08-30T12:42:33Z",
     "text_extraction_latest_update": "2026-08-27T18:55:54.993360Z"
   }
 }

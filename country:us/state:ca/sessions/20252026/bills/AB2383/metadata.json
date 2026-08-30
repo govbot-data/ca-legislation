@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law vests the Public Utilities Commission with regulatory authority over public utilities, including electrical corporations. Existing law authorizes the commission to fix the rates and charges for every public utility and requires that those rates and charges be just and reasonable. Existing law authorizes the commission to investigate a single rate, classification, rule, contract, practice, or the entire schedule of rates, classifications, rules, contracts, and practices, of any public utility, and to establish new rates, classifications, rules, contracts, practices, or schedules. \n\nThis bill would require the commission, on or before January 1, 2028, in a new or existing proceeding, to provide for a classification of retail electricity consumers that are data centers that is separate and distinct from classifications of service for other commercial or industrial retail electricity consumers and has its own tariff, as specified. The bill would specify that an electrical corporation and a data center are not required to use the above-described classification of service if the commission has not approved the electrical corporation's tariff for that classification of service.\n\nThis bill would require each electrical corporation to file a transmission and distribution tariff and a generation service tariff that meet certain requirements, as specified. The bill would also require each community choice aggregator or electric service provider to adopt a tariff for generation service consistent with certain requirements, as specified. By imposing new duties on community choice aggregators, the bill would impose a state-mandated local program. The bill would specify that these provisions only apply to a data center that enters into a new interconnection agreement to receive retail electrical service at the transmission level on or after January 1, 2027.\n\nUnder existing law, a violation of the Public Utilities Act or any order, decision, rule, direction, demand, or requirement of the commission is a crime.\n\nBecause the above provisions would be a part of the act, and because a violation of a commission action implementing the above provisions would be a crime, the bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for specified reasons.\n\nThis bill would make the operation of its provisions contingent upon the enactment of SB 886 of the 2025\u201326 Regular Session."
+      "abstract": "Existing law vests the Public Utilities Commission with regulatory authority over public utilities, including electrical corporations. Existing law authorizes the commission to fix the rates and charges for every public utility and requires that those rates and charges be just and reasonable. Existing law authorizes the commission to investigate a single rate, classification, rule, contract, practice, or the entire schedule of rates, classifications, rules, contracts, and practices, of any public utility, and to establish new rates, classifications, rules, contracts, practices, or schedules. \n\nThis bill would require, as part of a new or existing proceeding, the commission to require each electrical corporation to file a transmission and distribution service tariff and a generation service tariff for participating customers, as defined, that meet certain requirements, as specified. The bill would also require, on or before January 1, 2028, each community choice aggregator or electric service provider to adopt a tariff for generation service for data centers, as defined, consistent with certain requirements, as specified. By imposing new duties on community choice aggregators, the bill would impose a state-mandated local program.\n\nUnder existing law, a violation of the Public Utilities Act or any order, decision, rule, direction, demand, or requirement of the commission is a crime.\n\nBecause the above provisions would be a part of the act, and because a violation of a commission action implementing the above provisions would be a crime, the bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for specified reasons."
     }
   ],
   "other_titles": [
@@ -357,6 +357,21 @@
       "_processing": {
         "log_file_created": "2026-08-18T07:45:25Z"
       }
+    },
+    {
+      "description": "Read third time and amended. Ordered to second reading.",
+      "date": "2026-08-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-30T12:42:33Z"
+      }
     }
   ],
   "sponsorships": [
@@ -471,6 +486,17 @@
       ],
       "date": "2026-08-13",
       "classification": ""
+    },
+    {
+      "note": "08/28/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2383&version=20250AB238393AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-28",
+      "classification": ""
     }
   ],
   "documents": [
@@ -571,7 +597,7 @@
     }
   ],
   "extras": {
-    "impact_clause": "An act to add Article 14.7 (commencing with Section 945) to Chapter 4 of Part 1 of Division 1 of the Public Utilities Code, relating to electricity.",
+    "impact_clause": "An act to add Sections 945.1, 945.4, 945.5, 945.6, and 945.8 to the Public Utilities Code, relating to electricity.",
     "tags": [
       "fiscal committee",
       "local program"
@@ -584,7 +610,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T07:45:25Z",
+    "logs_latest_update": "2026-08-30T12:42:33Z",
     "text_extraction_latest_update": "2026-08-18T08:13:59.222039Z"
   }
 }

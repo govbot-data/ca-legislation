@@ -364,6 +364,33 @@
       "_processing": {
         "log_file_created": "2026-08-29T13:09:21Z"
       }
+    },
+    {
+      "description": "Read third time and amended.",
+      "date": "2026-08-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-30T12:42:33Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-30T12:42:33Z"
+      }
     }
   ],
   "sponsorships": [
@@ -580,7 +607,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-29T13:09:21Z",
+    "logs_latest_update": "2026-08-30T12:42:33Z",
     "text_extraction_latest_update": "2026-08-29T14:00:14.428832Z"
   }
 }
