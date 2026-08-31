@@ -335,6 +335,60 @@
       "_processing": {
         "log_file_created": "2026-08-29T13:09:21Z"
       }
+    },
+    {
+      "description": "Re-referred to Com. on JUD. pursuant to Assembly Rule 77.2.",
+      "date": "2026-08-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on JUD. pursuant to Assembly Rule 77.2.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-31T14:55:31Z"
+      }
+    },
+    {
+      "description": "Joint Rule 62(a), file notice suspended.",
+      "date": "2026-08-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-31T14:55:31Z"
+      }
+    },
+    {
+      "description": "From committee: That the Senate amendments be concurred in. (Ayes 12. Noes 0.) (August 30).",
+      "date": "2026-08-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-31T14:55:31Z"
+      }
+    },
+    {
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling.",
+      "date": "2026-08-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-31T14:55:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -449,6 +503,28 @@
       ],
       "date": "2026-08-28",
       "classification": "analysis"
+    },
+    {
+      "note": "08/29/26- Assembly Judiciary",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB540&analysisId=405824&analyzingOffice=Assembly+Judiciary",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-29",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/30/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB540&analysisId=405903&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-30",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -469,7 +545,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-29T13:09:21Z",
+    "logs_latest_update": "2026-08-31T14:55:31Z",
     "text_extraction_latest_update": "2026-08-29T13:53:07.822643Z"
   }
 }

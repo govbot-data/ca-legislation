@@ -208,6 +208,33 @@
       "_processing": {
         "log_file_created": "2026-08-29T13:09:20Z"
       }
+    },
+    {
+      "description": "Read third time. Urgency clause adopted. Passed. Ordered to the Assembly. (Ayes 40. Noes 0.).",
+      "date": "2026-08-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-31T14:55:31Z"
+      }
+    },
+    {
+      "description": "In Assembly. Ordered to Engrossing and Enrolling.",
+      "date": "2026-08-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-31T14:55:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -289,6 +316,17 @@
       ],
       "date": "2026-08-26",
       "classification": "analysis"
+    },
+    {
+      "note": "08/30/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2597&analysisId=405835&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-30",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -312,7 +350,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-29T13:09:20Z",
+    "logs_latest_update": "2026-08-31T14:55:31Z",
     "text_extraction_latest_update": "2026-08-29T13:27:56.208349Z"
   }
 }

@@ -175,6 +175,31 @@
       "_processing": {
         "log_file_created": "2026-08-29T13:09:21Z"
       }
+    },
+    {
+      "description": "Withdrawn from committee pursuant to Asssembly Rule 96.",
+      "date": "2026-08-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-31T14:55:31Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-08-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-31T14:55:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -234,6 +259,17 @@
       ],
       "date": "2025-03-19",
       "classification": "analysis"
+    },
+    {
+      "note": "08/30/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB133&analysisId=405971&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-30",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -258,7 +294,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-29T13:09:21Z",
+    "logs_latest_update": "2026-08-31T14:55:31Z",
     "text_extraction_latest_update": "2026-08-29T13:58:50.075526Z"
   }
 }

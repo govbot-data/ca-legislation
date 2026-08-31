@@ -445,6 +445,34 @@
       "_processing": {
         "log_file_created": "2026-08-29T13:09:21Z"
       }
+    },
+    {
+      "description": "Re-referred to Com. on PUB. S. pursuant to Assembly Rule 77.2.",
+      "date": "2026-08-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on PUB. S. pursuant to Assembly Rule 77.2.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-31T14:55:31Z"
+      }
+    },
+    {
+      "description": "Joint Rule 62(a), file notice suspended.",
+      "date": "2026-08-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-31T14:55:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -709,7 +737,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-29T13:09:21Z",
+    "logs_latest_update": "2026-08-31T14:55:31Z",
     "text_extraction_latest_update": "2026-08-29T13:15:52.289016Z"
   }
 }

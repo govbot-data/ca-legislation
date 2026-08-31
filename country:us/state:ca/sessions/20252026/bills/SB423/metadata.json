@@ -19,15 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Inmate firefighters: local handcrew pilot program."
-    },
-    {
-      "note": "",
       "title": "Inmate firefighters: postsecondary education: enhanced firefighter training and certification program: local handcrew pilot program."
     },
     {
       "note": "",
-      "title": "Housing: real property transfer taxes: affordability covenants."
+      "title": "Inmate labor: Enhancing Workforce Development for Incarcerated Firefighters Act."
     },
     {
       "note": "",
@@ -35,7 +31,11 @@
     },
     {
       "note": "",
-      "title": "Inmate labor: Enhancing Workforce Development for Incarcerated Firefighters Act."
+      "title": "Housing: real property transfer taxes: affordability covenants."
+    },
+    {
+      "note": "",
+      "title": "Inmate firefighters: local handcrew pilot program."
     }
   ],
   "other_identifiers": [
@@ -738,6 +738,30 @@
       "_processing": {
         "log_file_created": "2026-08-21T07:52:43Z"
       }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Senate.",
+      "date": "2026-08-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-31T14:55:31Z"
+      }
+    },
+    {
+      "description": "In Senate. Concurrence in Assembly amendments pending.",
+      "date": "2026-08-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-31T14:55:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -1049,6 +1073,28 @@
       ],
       "date": "2026-08-17",
       "classification": "analysis"
+    },
+    {
+      "note": "08/21/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB423&analysisId=404670&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/30/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB423&analysisId=405968&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-30",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -1072,7 +1118,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-21T07:52:43Z",
+    "logs_latest_update": "2026-08-31T14:55:31Z",
     "text_extraction_latest_update": "2026-08-21T08:03:32.449881Z"
   }
 }

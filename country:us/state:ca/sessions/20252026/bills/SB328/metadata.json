@@ -23,11 +23,15 @@
     },
     {
       "note": "",
+      "title": "Hazardous waste control: investigations."
+    },
+    {
+      "note": "",
       "title": "Hazardous waste generation and handling fees: Department of Toxic Substances Control oversight and postentitlement phase permit responses: housing development, park, or open-space projects and nonprofit entity requests."
     },
     {
       "note": "",
-      "title": "Hazardous waste generation and handling fees: study and report: affordable housing development projects."
+      "title": "Hazardous waste generation and handling fees: Department of Toxic Substances Control oversight responses: housing development projects."
     },
     {
       "note": "",
@@ -35,11 +39,7 @@
     },
     {
       "note": "",
-      "title": "Hazardous waste control: investigations."
-    },
-    {
-      "note": "",
-      "title": "Hazardous waste generation and handling fees: Department of Toxic Substances Control oversight responses: housing development projects."
+      "title": "Hazardous waste generation and handling fees: study and report: affordable housing development projects."
     }
   ],
   "other_identifiers": [
@@ -693,6 +693,58 @@
       "_processing": {
         "log_file_created": "2026-08-29T13:09:21Z"
       }
+    },
+    {
+      "description": "Read third time. Urgency clause adopted. Passed. Ordered to the Senate.",
+      "date": "2026-08-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-31T14:55:31Z"
+      }
+    },
+    {
+      "description": "In Senate. Concurrence in Assembly amendments pending.",
+      "date": "2026-08-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-31T14:55:31Z"
+      }
+    },
+    {
+      "description": "Urgency clause adopted.",
+      "date": "2026-08-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-31T14:55:31Z"
+      }
+    },
+    {
+      "description": "Assembly amendments concurred in. (Ayes 39. Noes 0.) Ordered to engrossing and enrolling.",
+      "date": "2026-08-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-31T14:55:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -1004,6 +1056,17 @@
       ],
       "date": "2026-08-27",
       "classification": "analysis"
+    },
+    {
+      "note": "08/30/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB328&analysisId=405885&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-30",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -1028,7 +1091,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-29T13:09:21Z",
+    "logs_latest_update": "2026-08-31T14:55:31Z",
     "text_extraction_latest_update": "2026-08-29T13:51:57.809783Z"
   }
 }

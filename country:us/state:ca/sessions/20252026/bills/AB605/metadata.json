@@ -20,15 +20,15 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Lower Emissions Equipment at Seaports and Intermodal Yards Program."
-    },
-    {
-      "note": "",
       "title": "Lower Emissions Cargo Handling Equipment Pilot program."
     },
     {
       "note": "",
       "title": "Employment: refineries: task force: safe staffing management plans."
+    },
+    {
+      "note": "",
+      "title": "Lower Emissions Equipment at Seaports and Intermodal Yards Program."
     }
   ],
   "other_identifiers": [
@@ -501,6 +501,46 @@
       "_processing": {
         "log_file_created": "2026-08-29T13:09:21Z"
       }
+    },
+    {
+      "description": "Re-referred to Com. on L. & E. pursuant to Assembly Rule 77.2.",
+      "date": "2026-08-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on L. & E. pursuant to Assembly Rule 77.2.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-31T14:55:31Z"
+      }
+    },
+    {
+      "description": "Joint Rule 62(a), file notice suspended.",
+      "date": "2026-08-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-31T14:55:31Z"
+      }
+    },
+    {
+      "description": "From committee: That the Senate amendments be concurred in. (Ayes 4. Noes 2.) (August 30).",
+      "date": "2026-08-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-31T14:55:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -714,6 +754,28 @@
       ],
       "date": "2026-08-28",
       "classification": "analysis"
+    },
+    {
+      "note": "08/30/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB605&analysisId=405904&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-30",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/30/26- Assembly Labor and Employment",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB605&analysisId=405882&analyzingOffice=Assembly+Labor+and+Employment",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-30",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -736,7 +798,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-29T13:09:21Z",
+    "logs_latest_update": "2026-08-31T14:55:31Z",
     "text_extraction_latest_update": "2026-08-29T13:21:11.051079Z"
   }
 }

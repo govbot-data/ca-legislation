@@ -20,11 +20,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "State employees and officers: conflicts of interest."
+      "title": "Political Reform Act of 1974: state employees: financial interests."
     },
     {
       "note": "",
-      "title": "Political Reform Act of 1974: state employees: financial interests."
+      "title": "State employees and officers: conflicts of interest."
     }
   ],
   "other_identifiers": [
@@ -425,6 +425,18 @@
       "_processing": {
         "log_file_created": "2026-08-25T07:50:41Z"
       }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 6 p.m.",
+      "date": "2026-08-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-31T14:55:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -492,6 +504,17 @@
         }
       ],
       "date": "2026-06-01",
+      "classification": ""
+    },
+    {
+      "note": "08/25/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB401&version=20250SB40195ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-25",
       "classification": ""
     }
   ],
@@ -583,7 +606,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-25T07:50:41Z",
+    "logs_latest_update": "2026-08-31T14:55:31Z",
     "text_extraction_latest_update": "2026-08-25T08:08:03.313053Z"
   }
 }

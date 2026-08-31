@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Wildfire prevention: California Wildfire Mitigation Financial Assistance Program."
+      "title": "Transportation funding: State Transportation Improvement Program: Active Transportation Program."
     },
     {
       "note": "",
-      "title": "Transportation funding: State Transportation Improvement Program: Active Transportation Program."
+      "title": "Wildfire prevention: California Wildfire Mitigation Financial Assistance Program."
     },
     {
       "note": "",
@@ -522,6 +522,20 @@
       "_processing": {
         "log_file_created": "2026-08-29T13:09:21Z"
       }
+    },
+    {
+      "description": "Assembly amendments concurred in. (Ayes 28. Noes 10.) Ordered to engrossing and enrolling.",
+      "date": "2026-08-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-31T14:55:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -691,6 +705,17 @@
       ],
       "date": "2026-08-28",
       "classification": "analysis"
+    },
+    {
+      "note": "08/30/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1423&analysisId=405829&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-30",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -713,7 +738,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-29T13:09:21Z",
+    "logs_latest_update": "2026-08-31T14:55:31Z",
     "text_extraction_latest_update": "2026-08-29T13:50:54.355546Z"
   }
 }

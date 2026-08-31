@@ -23,15 +23,15 @@
   "other_titles": [
     {
       "note": "",
+      "title": "Land use: housing development approvals: tax-exempt private activity bonds: subdivisions: tentative and final maps: appeals."
+    },
+    {
+      "note": "",
       "title": "Housing financing: joint powers agreements: bond approvals:subdivisions: tentative and final maps: appeals."
     },
     {
       "note": "",
       "title": "Housing development: streamlined approvals."
-    },
-    {
-      "note": "",
-      "title": "Land use: housing development approvals: tax-exempt private activity bonds: subdivisions: tentative and final maps: appeals."
     },
     {
       "note": "",
@@ -571,14 +571,28 @@
     },
     {
       "description": "From committee: That the Assembly amendments be concurred in. (Ayes 4. Noes 3.)",
-      "date": "2026-08-26",
+      "date": "2026-08-28",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "committee-passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-29T13:09:21Z"
+        "log_file_created": "2026-08-31T14:55:31Z"
+      }
+    },
+    {
+      "description": "Assembly amendments concurred in. (Ayes 31. Noes 0.) Ordered to engrossing and enrolling.",
+      "date": "2026-08-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-31T14:55:31Z"
       }
     }
   ],
@@ -823,6 +837,21 @@
       ],
       "date": "2026-08-27",
       "classification": "analysis"
+    },
+    {
+      "note": "08/30/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB677&analysisId=405830&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB677&analysisId=405833&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-30",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -845,7 +874,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-29T13:09:21Z",
+    "logs_latest_update": "2026-08-31T14:55:31Z",
     "text_extraction_latest_update": "2026-08-29T13:55:51.990351Z"
   }
 }

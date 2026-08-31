@@ -20,15 +20,15 @@
   "other_titles": [
     {
       "note": "",
-      "title": "30x30 goal: state agencies: plans, policies, or regulations."
-    },
-    {
-      "note": "",
       "title": "Workers' compensation: professional athletes."
     },
     {
       "note": "",
       "title": "Horse racing: out-of-state thoroughbred races: Delaware Handicap."
+    },
+    {
+      "note": "",
+      "title": "30x30 goal: state agencies: plans, policies, or regulations."
     }
   ],
   "other_identifiers": [
@@ -310,6 +310,44 @@
       "_processing": {
         "log_file_created": "2026-08-29T13:09:21Z"
       }
+    },
+    {
+      "description": "Joint Rule 61 suspended.",
+      "date": "2026-08-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-31T14:55:31Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on E.M. pursuant to Assembly Rule 96.",
+      "date": "2026-08-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on E.M. pursuant to Assembly Rule 96.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-31T14:55:31Z"
+      }
+    },
+    {
+      "description": "Joint Rule 62(a) suspended.",
+      "date": "2026-08-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-31T14:55:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -421,6 +459,17 @@
       ],
       "date": "2026-01-15",
       "classification": "analysis"
+    },
+    {
+      "note": "08/30/26- Assembly Emergency Management",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB795&analysisId=405996&analyzingOffice=Assembly+Emergency+Management",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-30",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -444,7 +493,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-29T13:09:21Z",
+    "logs_latest_update": "2026-08-31T14:55:31Z",
     "text_extraction_latest_update": "2026-08-29T13:48:59.320516Z"
   }
 }
