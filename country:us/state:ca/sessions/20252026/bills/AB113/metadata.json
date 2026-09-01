@@ -184,6 +184,33 @@
       "_processing": {
         "log_file_created": "2026-08-31T14:55:31Z"
       }
+    },
+    {
+      "description": "From committee: Do pass. (Ayes 13. Noes 3.) (August 31).",
+      "date": "2026-08-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T12:35:04Z"
+      }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-08-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T12:35:04Z"
+      }
     }
   ],
   "sponsorships": [
@@ -245,17 +272,6 @@
       "classification": "analysis"
     },
     {
-      "note": "08/30/26- ASSEMBLY FLOOR ANALYSIS",
-      "links": [
-        {
-          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB113&analysisId=405985&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "2026-08-30",
-      "classification": "analysis"
-    },
-    {
       "note": "08/30/26- Senate Committee on Budget and Fiscal Review",
       "links": [
         {
@@ -264,6 +280,28 @@
         }
       ],
       "date": "2026-08-30",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/31/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB113&analysisId=406026&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-31",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/31/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB113&analysisId=406061&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-31",
       "classification": "analysis"
     }
   ],
@@ -288,7 +326,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-31T14:55:31Z",
+    "logs_latest_update": "2026-09-01T12:35:04Z",
     "text_extraction_latest_update": "2026-08-31T15:13:09.334890Z"
   }
 }

@@ -21,11 +21,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Electrical corporations: interconnection: transmission: auditor."
+      "title": "Electrical corporations: interconnection: transmission: permitting: auditor."
     },
     {
       "note": "",
-      "title": "Electrical corporations: interconnection: transmission: permitting: auditor."
+      "title": "Electrical corporations: interconnection: transmission: auditor."
     }
   ],
   "other_identifiers": [
@@ -414,6 +414,44 @@
       "_processing": {
         "log_file_created": "2026-08-31T14:55:31Z"
       }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Assembly. (Ayes 29. Noes 10.).",
+      "date": "2026-08-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T12:35:04Z"
+      }
+    },
+    {
+      "description": "In Assembly. Concurrence in Senate amendments pending.",
+      "date": "2026-08-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T12:35:04Z"
+      }
+    },
+    {
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling.",
+      "date": "2026-08-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T12:35:04Z"
+      }
     }
   ],
   "sponsorships": [
@@ -594,6 +632,17 @@
       ],
       "date": "2026-08-30",
       "classification": "analysis"
+    },
+    {
+      "note": "08/31/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2493&analysisId=406088&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-31",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -617,7 +666,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-31T14:55:31Z",
+    "logs_latest_update": "2026-09-01T12:35:04Z",
     "text_extraction_latest_update": "2026-08-31T15:34:14.475345Z"
   }
 }

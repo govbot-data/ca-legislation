@@ -26,11 +26,11 @@
     },
     {
       "note": "",
-      "title": "Public utilities: rates."
+      "title": "Electrical corporations: wildfire victim restitution shortfalls: report."
     },
     {
       "note": "",
-      "title": "Electrical corporations: wildfire victim restitution shortfalls: report."
+      "title": "Public utilities: rates."
     }
   ],
   "other_identifiers": [
@@ -481,6 +481,42 @@
       "_processing": {
         "log_file_created": "2026-08-26T07:58:27Z"
       }
+    },
+    {
+      "description": "From committee: That the Senate amendments be concurred in. (Ayes 17. Noes 0.) (August 30).",
+      "date": "2026-08-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T12:35:04Z"
+      }
+    },
+    {
+      "description": "Assembly Rule 63 suspended.",
+      "date": "2026-08-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T12:35:04Z"
+      }
+    },
+    {
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling.",
+      "date": "2026-08-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T12:35:04Z"
+      }
     }
   ],
   "sponsorships": [
@@ -720,6 +756,17 @@
       ],
       "date": "2026-08-25",
       "classification": "analysis"
+    },
+    {
+      "note": "08/31/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2700&analysisId=406023&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-31",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -742,7 +789,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-26T07:58:27Z",
+    "logs_latest_update": "2026-09-01T12:35:04Z",
     "text_extraction_latest_update": "2026-08-26T08:02:18.410697Z"
   }
 }

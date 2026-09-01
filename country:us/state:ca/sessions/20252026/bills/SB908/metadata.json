@@ -21,11 +21,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Housing development: transit-oriented development."
+      "title": "Residential windows: retrofitting: California Energy Code compliance."
     },
     {
       "note": "",
-      "title": "Residential windows: retrofitting: California Energy Code compliance."
+      "title": "Housing development: transit-oriented development."
     }
   ],
   "other_identifiers": [
@@ -449,6 +449,18 @@
       "_processing": {
         "log_file_created": "2026-08-27T18:13:59Z"
       }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 6 p.m.",
+      "date": "2026-08-31",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T12:35:04Z"
+      }
     }
   ],
   "sponsorships": [
@@ -546,6 +558,17 @@
         }
       ],
       "date": "2026-08-20",
+      "classification": ""
+    },
+    {
+      "note": "08/28/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB908&version=20250SB90893ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-28",
       "classification": ""
     }
   ],
@@ -671,7 +694,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-27T18:13:59Z",
+    "logs_latest_update": "2026-09-01T12:35:04Z",
     "text_extraction_latest_update": "2026-08-27T19:12:00.068859Z"
   }
 }

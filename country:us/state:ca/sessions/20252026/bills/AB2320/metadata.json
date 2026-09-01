@@ -230,7 +230,7 @@
       }
     },
     {
-      "description": "Read third time. Passed. Ordered to the Assembly. (Ayes 36. Noes 0.).",
+      "description": "Read third time. Passed. Ordered to the Assembly. (Ayes 36. Noes 0. Page 5015.).",
       "date": "2026-06-25",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -240,7 +240,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:35Z"
+        "log_file_created": "2026-09-01T12:35:04Z"
       }
     },
     {
@@ -363,6 +363,20 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-08-20T07:47:45Z"
+      }
+    },
+    {
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling.",
+      "date": "2026-08-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T12:35:04Z"
       }
     }
   ],
@@ -511,7 +525,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-20T07:47:45Z",
+    "logs_latest_update": "2026-09-01T12:35:04Z",
     "text_extraction_latest_update": "2026-08-20T07:56:53.760468Z"
   }
 }
