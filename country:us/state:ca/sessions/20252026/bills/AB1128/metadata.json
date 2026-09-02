@@ -20,7 +20,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "California Student Teacher Support Grant Program."
+      "title": "Mobilehome parks: rent caps."
     },
     {
       "note": "",
@@ -28,7 +28,7 @@
     },
     {
       "note": "",
-      "title": "Mobilehome parks: rent caps."
+      "title": "California Student Teacher Support Grant Program."
     }
   ],
   "other_identifiers": [
@@ -422,6 +422,18 @@
       "_processing": {
         "log_file_created": "2026-08-28T19:30:39Z"
       }
+    },
+    {
+      "description": "Assembly refused to concur in Senate amendments.",
+      "date": "2026-09-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T12:05:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -630,7 +642,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-28T19:30:39Z",
+    "logs_latest_update": "2026-09-02T12:05:46Z",
     "text_extraction_latest_update": "2026-08-28T20:35:06.092809Z"
   }
 }

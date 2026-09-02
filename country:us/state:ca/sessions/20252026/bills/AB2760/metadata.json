@@ -392,6 +392,18 @@
       }
     },
     {
+      "description": "Measure version as amended on August 28 corrected.",
+      "date": "2026-08-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T12:05:46Z"
+      }
+    },
+    {
       "description": "In Assembly. Concurrence in Senate amendments pending.",
       "date": "2026-08-31",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -841,7 +853,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-01T12:35:04Z",
+    "logs_latest_update": "2026-09-02T12:05:46Z",
     "text_extraction_latest_update": "2026-09-01T13:18:14.945768Z"
   }
 }
