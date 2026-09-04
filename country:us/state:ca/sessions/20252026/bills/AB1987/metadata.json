@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law requires the Department of Fish and Wildlife to require the purchase of an entry permit for nonconsumptive uses of department-managed lands if the department finds that it is practical and would be cost effective for the state to collect entry permit fees and imposes specified requirements if the department does so, including requiring the department to use the Automated License Data System to sell that entry permit. Existing law authorizes the department to lease department-managed lands for agricultural activities if certain conditions are met and requires money collected from the lease of these lands to be deposited by the department in the Wildlife Restoration Fund or the Fish and Game Preservation Fund, and authorizes the department, upon appropriation by the Legislature, to use the funds to support the management, maintenance, restoration, and operations of department-managed lands. \n\nThis bill would require the department to use the Automated License Data System to sell an entry permit for consumptive use and would authorize the department to use the Automated License Data System to sell an entry permit for nonconsumptive use if the department requires the purchase of an entry permit for nonconsumptive uses of department-managed lands, as described above. The bill would require, upon appropriation by the Legislature, the above-described agricultural lease funds to be used by the department to support the management, maintenance, restoration, and operations of department-managed lands.\n\nExisting law requires the department to annually provide an opportunity for licensed hunters to comment and make recommendations on public hunting programs, including anticipated habitat conditions in hunting areas on Type A and Type B wildlife areas, as provided.\n\nThis bill would add wetland floodup to the topics that the department is required to provide an opportunity for comment and recommendation on as described above.\n\n This bill would create the Waterfowl Management Areas Operations and Maintenance Fund in the State Treasury and would require all revenues generated from the sale of waterfowl hunting reservation applications and daily and season long entry passes from Type A and Type B Wildlife Areas to be deposited into the fund. The bill would require the department to, upon appropriation by the Legislature, expend those revenues for the operation and maintenance of, and the reasonable administrative costs directly related to, the public hunting programs for Type A and Type B Wildlife Areas. The bill would require the department to, on or before October 1, 2033, prepare and submit a report to the appropriate policy and budget committees of the Legislature, as specified."
+      "abstract": "Existing law requires the Department of Fish and Wildlife to require the purchase of an entry permit for nonconsumptive uses of department-managed lands if the department finds that it is practical and would be cost effective for the state to collect entry permit fees, and imposes specified requirements if the department does so, including requiring the department to use the Automated License Data System to sell that entry permit. Existing law authorizes the department to lease department-managed lands for agricultural activities if certain conditions are met and requires money collected from the lease of these lands to be deposited by the department into the Wildlife Restoration Fund or the Fish and Game Preservation Fund, and authorizes the department, upon appropriation by the Legislature, to use the funds to support the management, maintenance, restoration, and operations of department-managed lands. \n\nThis bill would require the department to use the Automated License Data System to sell an entry permit for consumptive use and would authorize the department to use the Automated License Data System to sell an entry permit for nonconsumptive use if the department requires the purchase of an entry permit for nonconsumptive uses of department-managed lands, as described above. The bill would require, upon appropriation by the Legislature, the above-described agricultural lease funds to be used by the department to support the management, maintenance, restoration, and operations of department-managed lands.\n\nExisting law requires the department to annually provide an opportunity for licensed hunters to comment and make recommendations on public hunting programs, including anticipated habitat conditions in hunting areas on Type A and Type B Wildlife Areas, as provided.\n\nThis bill would add wetland floodup to the topics that the department is required to provide an opportunity for comment and recommendation on as described above.\n\n This bill would create the Waterfowl Management Areas Operations and Maintenance Fund in the State Treasury and would require all revenues generated from the sale of waterfowl hunting reservation applications and daily and season long entry passes from Type A and Type B Wildlife Areas to be deposited into the fund. The bill would require the department to, upon appropriation by the Legislature, expend those revenues for the operation and maintenance of, and the reasonable administrative costs directly related to, the public hunting programs for Type A and Type B Wildlife Areas. The bill would require the department to, on or before October 1, 2033, prepare and submit a report to the appropriate policy and budget committees of the Legislature, as specified."
     }
   ],
   "other_titles": [
@@ -408,25 +408,21 @@
       "_processing": {
         "log_file_created": "2026-08-27T18:14:00Z"
       }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 4 p.m.",
+      "date": "2026-09-03",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T12:14:06Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Aguiar-Curry",
-      "classification": "author",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Aguiar-Curry\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Hadwick",
-      "classification": "author",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Hadwick\"}",
-      "organization_id": null
-    },
     {
       "name": "Jeff Gonzalez",
       "classification": "coauthor",
@@ -449,6 +445,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Cortese\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Aguiar-Curry",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Aguiar-Curry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hadwick",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hadwick\"}",
       "organization_id": null
     }
   ],
@@ -518,6 +530,17 @@
         }
       ],
       "date": "2026-08-21",
+      "classification": ""
+    },
+    {
+      "note": "08/30/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1987&version=20250AB198794ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-30",
       "classification": ""
     }
   ],
@@ -631,7 +654,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-27T18:14:00Z",
+    "logs_latest_update": "2026-09-04T12:14:06Z",
     "text_extraction_latest_update": "2026-08-27T19:10:30.922251Z"
   }
 }

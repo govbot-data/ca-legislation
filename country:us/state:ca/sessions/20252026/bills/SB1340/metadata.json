@@ -20,11 +20,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Small business liaison: contract information: small business procurement participation: disabled veteran business enterprise participation."
+      "title": "Small business liaison: contract information."
     },
     {
       "note": "",
-      "title": "Small business liaison: contract information."
+      "title": "Small business liaison: contract information: small business procurement participation: disabled veteran business enterprise participation."
     }
   ],
   "other_identifiers": [
@@ -430,6 +430,18 @@
       "_processing": {
         "log_file_created": "2026-08-28T19:30:39Z"
       }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 3 p.m.",
+      "date": "2026-09-03",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T12:14:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -494,6 +506,17 @@
         }
       ],
       "date": "2026-08-21",
+      "classification": ""
+    },
+    {
+      "note": "08/30/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1340&version=20250SB134096ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-30",
       "classification": ""
     }
   ],
@@ -619,7 +642,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-28T19:30:39Z",
+    "logs_latest_update": "2026-09-04T12:14:06Z",
     "text_extraction_latest_update": "2026-08-28T20:22:17.022755Z"
   }
 }

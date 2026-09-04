@@ -14,13 +14,13 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "The California Endangered Species Act prohibits the taking of an endangered, threatened, or candidate species, except as specified. Under the act, the Department of Fish and Wildlife may authorize the take of listed species by certain entities through permits or memorandums of understanding for specified purposes. The act allows take of an endangered, threatened, or candidate species by permit if, among other things, the impact of the authorized take is fully minimized and mitigated.\n\nThis bill would also allow the department to authorize by permit the take of a species proposed for listing, as defined, if specified conditions are met. The bill would provide that if a species proposed for listing becomes listed as an endangered, threatened, or candidate species, further authorization or approval shall not be required for a take of that species, if specified conditions are met, including that the species proposed for listing was included as a covered species in a permit previously issued by the department for incidental take and that the incidental take is caused by a renewable electrical generation facility. The bill would require the department to, on or before January 31, 2033, compile and post a summary table on its internet website with specified information for calendar years 2027 to 2032, inclusive."
+      "abstract": "The California Endangered Species Act prohibits the take of an endangered, threatened, or candidate species, except as specified. Under the act, the Department of Fish and Wildlife may authorize the take of listed species by certain entities through permits or memorandums of understanding for specified purposes. The act allows take of an endangered, threatened, or candidate species by permit if, among other things, the impact of the authorized take is minimized and fully mitigated.\n\nThis bill would also allow the department to authorize by permit the take of a species proposed for listing, as defined, if specified conditions are met. The bill would provide that if a species proposed for listing becomes listed as an endangered, threatened, or candidate species, further authorization or approval shall not be required for a take of that species, if specified conditions are met, including that the species proposed for listing was included as a covered species in a permit previously issued by the department for incidental take and that the incidental take is caused by a renewable electrical generation facility. The bill would require the department to, on or before January 31, 2033, compile and post a summary table on its internet website with specified information for calendar years 2027 to 2032, inclusive."
     }
   ],
   "other_titles": [
     {
       "note": "",
-      "title": "The California Endangered Species Act: the California State Safe Harbor Agreement Program Act."
+      "title": "The California Endangered Species Act: take of species: renewable electrical generation facilities."
     },
     {
       "note": "",
@@ -28,7 +28,7 @@
     },
     {
       "note": "",
-      "title": "The California Endangered Species Act: take of species: renewable electrical generation facilities."
+      "title": "The California Endangered Species Act: the California State Safe Harbor Agreement Program Act."
     }
   ],
   "other_identifiers": [
@@ -400,6 +400,18 @@
       "_processing": {
         "log_file_created": "2026-08-27T18:13:59Z"
       }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 4 p.m.",
+      "date": "2026-09-03",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T12:14:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -467,6 +479,17 @@
         }
       ],
       "date": "2026-06-25",
+      "classification": ""
+    },
+    {
+      "note": "08/30/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB550&version=20250AB55095ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-30",
       "classification": ""
     }
   ],
@@ -595,7 +618,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-27T18:13:59Z",
+    "logs_latest_update": "2026-09-04T12:14:06Z",
     "text_extraction_latest_update": "2026-08-27T19:02:43.923502Z"
   }
 }

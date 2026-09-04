@@ -21,11 +21,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Public Utilities Commission: rates: baseline capital-market risk framework: returns on equity."
+      "title": "Public Utilities Commission: rates: returns on equity."
     },
     {
       "note": "",
-      "title": "Public Utilities Commission: rates: returns on equity."
+      "title": "Public Utilities Commission: rates: baseline capital-market risk framework: returns on equity."
     }
   ],
   "other_identifiers": [
@@ -383,6 +383,18 @@
       "_processing": {
         "log_file_created": "2026-08-27T18:14:00Z"
       }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 4 p.m.",
+      "date": "2026-09-03",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T12:14:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -450,6 +462,17 @@
         }
       ],
       "date": "2026-08-13",
+      "classification": ""
+    },
+    {
+      "note": "08/30/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2463&version=20250AB246395ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-30",
       "classification": ""
     }
   ],
@@ -564,7 +587,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-27T18:14:00Z",
+    "logs_latest_update": "2026-09-04T12:14:06Z",
     "text_extraction_latest_update": "2026-08-27T18:59:12.607692Z"
   }
 }
