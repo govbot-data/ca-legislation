@@ -387,7 +387,7 @@
       }
     },
     {
-      "description": "Read third time. Passed. Ordered to the Assembly. (Ayes 37. Noes 0.).",
+      "description": "Read third time. Passed. Ordered to the Assembly. (Ayes 37. Noes 0. Page 5188.).",
       "date": "2026-07-02",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -397,7 +397,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:36Z"
+        "log_file_created": "2026-09-05T11:18:52Z"
       }
     },
     {
@@ -523,6 +523,18 @@
       "_processing": {
         "log_file_created": "2026-08-28T19:30:39Z"
       }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 4 p.m.",
+      "date": "2026-09-04",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-05T11:18:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -623,6 +635,17 @@
         }
       ],
       "date": "2026-08-20",
+      "classification": ""
+    },
+    {
+      "note": "09/01/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB643&version=20250AB64392ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-01",
       "classification": ""
     }
   ],
@@ -736,7 +759,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-28T19:30:39Z",
+    "logs_latest_update": "2026-09-05T11:18:52Z",
     "text_extraction_latest_update": "2026-08-28T20:18:00.502744Z"
   }
 }

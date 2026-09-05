@@ -25,15 +25,15 @@
     },
     {
       "note": "",
-      "title": "Education-related positions: previous employment disclosures: Commission on Teacher Credentialing: adverse actions."
-    },
-    {
-      "note": "",
       "title": "Education-related positions: egregious misconduct: previous employment disclosures."
     },
     {
       "note": "",
       "title": "Educational workforce housing."
+    },
+    {
+      "note": "",
+      "title": "Education-related positions: previous employment disclosures: Commission on Teacher Credentialing: adverse actions."
     }
   ],
   "other_identifiers": [
@@ -649,6 +649,18 @@
       "_processing": {
         "log_file_created": "2026-08-28T19:30:39Z"
       }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 4 p.m.",
+      "date": "2026-09-04",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-05T11:18:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -749,6 +761,17 @@
         }
       ],
       "date": "2026-08-21",
+      "classification": ""
+    },
+    {
+      "note": "09/01/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1381&version=20250AB138192ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-01",
       "classification": ""
     }
   ],
@@ -884,6 +907,17 @@
       ],
       "date": "2026-08-27",
       "classification": "analysis"
+    },
+    {
+      "note": "08/28/26- Assembly Education",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1381&analysisId=405765&analyzingOffice=Assembly+Education",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-28",
+      "classification": "analysis"
     }
   ],
   "citations": [],
@@ -907,7 +941,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-28T19:30:39Z",
+    "logs_latest_update": "2026-09-05T11:18:52Z",
     "text_extraction_latest_update": "2026-08-28T20:50:38.928398Z"
   }
 }

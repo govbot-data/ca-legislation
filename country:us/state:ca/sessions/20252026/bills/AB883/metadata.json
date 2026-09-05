@@ -20,10 +20,6 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Data brokers: personal information of threatened elected officials, judges, and their immediate family members."
-    },
-    {
-      "note": "",
       "title": "California Public Records Act."
     },
     {
@@ -32,11 +28,15 @@
     },
     {
       "note": "",
-      "title": "Elected officials and judges."
+      "title": "Data brokers: deletion of personal information of elected officials and judges."
     },
     {
       "note": "",
-      "title": "Data brokers: deletion of personal information of elected officials and judges."
+      "title": "Data brokers: personal information of threatened elected officials, judges, and their immediate family members."
+    },
+    {
+      "note": "",
+      "title": "Elected officials and judges."
     }
   ],
   "other_identifiers": [
@@ -553,6 +553,18 @@
       "_processing": {
         "log_file_created": "2026-08-28T19:30:39Z"
       }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 4 p.m.",
+      "date": "2026-09-04",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-05T11:18:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -661,6 +673,17 @@
         }
       ],
       "date": "2026-08-21",
+      "classification": ""
+    },
+    {
+      "note": "09/01/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB883&version=20250AB88392ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-01",
       "classification": ""
     }
   ],
@@ -790,7 +813,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-28T19:30:39Z",
+    "logs_latest_update": "2026-09-05T11:18:52Z",
     "text_extraction_latest_update": "2026-08-28T19:46:30.727938Z"
   }
 }
