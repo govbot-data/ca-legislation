@@ -18,11 +18,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Privacy: social media companies: administrative subpoenas: remedies."
+      "title": "Online dating services."
     },
     {
       "note": "",
-      "title": "Online dating services."
+      "title": "Privacy: social media companies: administrative subpoenas: remedies."
     }
   ],
   "other_identifiers": [
@@ -411,13 +411,13 @@
       }
     },
     {
-      "description": "Assembly Rule 69(b)(1) suspended.",
+      "description": "Assembly Rule 69(b)(1) suspended. (Ayes 55. Noes 17. Page 6296.)",
       "date": "2026-08-21",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-22T07:45:11Z"
+        "log_file_created": "2026-09-09T12:19:15Z"
       }
     },
     {
@@ -627,6 +627,18 @@
       "_processing": {
         "log_file_created": "2026-08-31T14:55:31Z"
       }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 4 p.m.",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T12:19:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -727,6 +739,17 @@
         }
       ],
       "date": "2026-08-25",
+      "classification": ""
+    },
+    {
+      "note": "09/01/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB957&version=20250SB95792ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-01",
       "classification": ""
     }
   ],
@@ -884,7 +907,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-31T14:55:31Z",
+    "logs_latest_update": "2026-09-09T12:19:15Z",
     "text_extraction_latest_update": "2026-08-31T15:41:08.854901Z"
   }
 }

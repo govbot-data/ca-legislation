@@ -20,7 +20,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Protected individuals."
+      "title": "Data brokers: elected officials and judges."
     },
     {
       "note": "",
@@ -28,7 +28,7 @@
     },
     {
       "note": "",
-      "title": "Data brokers: elected officials and judges."
+      "title": "Protected individuals."
     }
   ],
   "other_identifiers": [
@@ -624,6 +624,18 @@
       "_processing": {
         "log_file_created": "2026-08-29T13:09:20Z"
       }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 3:30 p.m.",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T12:19:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -735,6 +747,17 @@
         }
       ],
       "date": "2026-06-30",
+      "classification": ""
+    },
+    {
+      "note": "09/02/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB302&version=20250AB30291ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-02",
       "classification": ""
     }
   ],
@@ -879,7 +902,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-29T13:09:20Z",
+    "logs_latest_update": "2026-09-09T12:19:15Z",
     "text_extraction_latest_update": "2026-08-29T13:35:50.315442Z"
   }
 }

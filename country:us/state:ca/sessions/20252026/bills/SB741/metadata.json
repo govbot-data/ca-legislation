@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Coastal resources: coastal development permit: exemption: Los Angeles-San Diego-San Luis Obispo Rail Corridor."
+      "title": "Coastal resources: coastal development permit: local emergency declaration."
     },
     {
       "note": "",
-      "title": "Coastal resources: coastal development permit: local emergency declaration."
+      "title": "Coastal resources: coastal development permit: exemption: Los Angeles-San Diego-San Luis Obispo Rail Corridor."
     }
   ],
   "other_identifiers": [
@@ -448,6 +448,18 @@
       "_processing": {
         "log_file_created": "2026-08-31T14:55:31Z"
       }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 4 p.m.",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T12:19:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -515,6 +527,17 @@
         }
       ],
       "date": "2026-07-01",
+      "classification": ""
+    },
+    {
+      "note": "09/01/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB741&version=20250SB74195ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-01",
       "classification": ""
     }
   ],
@@ -621,7 +644,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-31T14:55:31Z",
+    "logs_latest_update": "2026-09-09T12:19:15Z",
     "text_extraction_latest_update": "2026-08-31T15:36:50.837069Z"
   }
 }

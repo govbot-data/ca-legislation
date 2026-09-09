@@ -23,15 +23,15 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Land use: housing development approvals: tax-exempt private activity bonds: subdivisions: tentative and final maps: appeals."
-    },
-    {
-      "note": "",
       "title": "Housing financing: joint powers agreements: bond approvals:subdivisions: tentative and final maps: appeals."
     },
     {
       "note": "",
       "title": "Housing development: streamlined approvals."
+    },
+    {
+      "note": "",
+      "title": "Land use: housing development approvals: tax-exempt private activity bonds: subdivisions: tentative and final maps: appeals."
     },
     {
       "note": "",
@@ -594,6 +594,18 @@
       "_processing": {
         "log_file_created": "2026-08-31T14:55:31Z"
       }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 4 p.m.",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T12:19:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -724,6 +736,17 @@
         }
       ],
       "date": "2026-08-20",
+      "classification": ""
+    },
+    {
+      "note": "09/01/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB677&version=20250SB67790ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-01",
       "classification": ""
     }
   ],
@@ -874,7 +897,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-31T14:55:31Z",
+    "logs_latest_update": "2026-09-09T12:19:15Z",
     "text_extraction_latest_update": "2026-08-31T15:36:41.239800Z"
   }
 }
