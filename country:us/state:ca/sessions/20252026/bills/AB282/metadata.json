@@ -611,7 +611,7 @@
       }
     },
     {
-      "description": "Urgency clause adopted. Senate amendments concurred in. To Engrossing and Enrolling.",
+      "description": "Urgency clause adopted. Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 59. Noes 18.).",
       "date": "2026-08-30",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -622,7 +622,19 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-31T14:55:31Z"
+        "log_file_created": "2026-09-10T12:14:00Z"
+      }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 1 p.m.",
+      "date": "2026-09-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-10T12:14:00Z"
       }
     }
   ],
@@ -691,6 +703,17 @@
         }
       ],
       "date": "2026-08-21",
+      "classification": ""
+    },
+    {
+      "note": "09/03/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB282&version=20250AB28295ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-03",
       "classification": ""
     }
   ],
@@ -861,7 +884,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-01T12:35:04Z",
+    "logs_latest_update": "2026-09-10T12:14:00Z",
     "text_extraction_latest_update": "2026-09-01T13:17:36.535875Z"
   }
 }

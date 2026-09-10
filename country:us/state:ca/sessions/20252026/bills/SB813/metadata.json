@@ -18,11 +18,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Occupational therapy."
+      "title": "California Artificial Intelligence Standards and Safety Commission: artificial intelligence safety standards."
     },
     {
       "note": "",
-      "title": "California Artificial Intelligence Standards and Safety Commission: artificial intelligence safety standards."
+      "title": "California AI Standards and Safety Commission: independent verification organizations."
     },
     {
       "note": "",
@@ -30,7 +30,7 @@
     },
     {
       "note": "",
-      "title": "California AI Standards and Safety Commission: independent verification organizations."
+      "title": "Occupational therapy."
     }
   ],
   "other_identifiers": [
@@ -642,6 +642,30 @@
       "_processing": {
         "log_file_created": "2026-09-09T12:19:15Z"
       }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-10T12:14:00Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Chapter 179, Statutes of 2026.",
+      "date": "2026-09-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-10T12:14:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -792,6 +816,17 @@
       ],
       "date": "2026-09-01",
       "classification": ""
+    },
+    {
+      "note": "09/09/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB813&version=20250SB81389CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-09",
+      "classification": ""
     }
   ],
   "documents": [
@@ -904,7 +939,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-09T12:19:15Z",
+    "logs_latest_update": "2026-09-10T12:14:00Z",
     "text_extraction_latest_update": "2026-09-09T12:24:05.392298Z"
   }
 }

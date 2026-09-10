@@ -18,11 +18,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Explosives: flamethrowing devices."
+      "title": "Diablo Canyon nuclear powerplant: Community Impacts Mitigation Program."
     },
     {
       "note": "",
-      "title": "Diablo Canyon nuclear powerplant: Community Impacts Mitigation Program."
+      "title": "Explosives: flamethrowing devices."
     }
   ],
   "other_identifiers": [
@@ -526,6 +526,18 @@
       "_processing": {
         "log_file_created": "2026-09-02T12:05:46Z"
       }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 2 p.m.",
+      "date": "2026-09-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-10T12:14:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -570,19 +582,19 @@
       "organization_id": null
     },
     {
-      "name": "Krell",
-      "classification": "principal coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Krell\"}",
-      "organization_id": null
-    },
-    {
       "name": "Addis",
       "classification": "principal coauthor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Addis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Krell",
+      "classification": "principal coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Krell\"}",
       "organization_id": null
     },
     {
@@ -658,19 +670,19 @@
       "organization_id": null
     },
     {
-      "name": "Cortese",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Cortese\"}",
-      "organization_id": null
-    },
-    {
       "name": "Choi",
       "classification": "coauthor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Choi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cortese",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cortese\"}",
       "organization_id": null
     },
     {
@@ -1095,6 +1107,17 @@
       ],
       "date": "2026-08-28",
       "classification": ""
+    },
+    {
+      "note": "09/04/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB931&version=20250SB93191ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-04",
+      "classification": ""
     }
   ],
   "documents": [
@@ -1240,7 +1263,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-02T12:05:46Z",
+    "logs_latest_update": "2026-09-10T12:14:00Z",
     "text_extraction_latest_update": "2026-09-02T12:08:42.542330Z"
   }
 }

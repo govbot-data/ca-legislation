@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Public utilities: forecast-based ratemaking."
+      "title": "Public utilities: certificates of public convenience and necessity."
     },
     {
       "note": "",
-      "title": "Public utilities: certificates of public convenience and necessity."
+      "title": "Public utilities: forecast-based ratemaking."
     }
   ],
   "other_identifiers": [
@@ -439,6 +439,18 @@
       "_processing": {
         "log_file_created": "2026-09-01T12:35:04Z"
       }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 2 p.m.",
+      "date": "2026-09-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-10T12:14:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -541,6 +553,17 @@
         }
       ],
       "date": "2026-08-28",
+      "classification": ""
+    },
+    {
+      "note": "09/04/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1098&version=20250SB109894ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-04",
       "classification": ""
     }
   ],
@@ -666,7 +689,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-01T12:35:04Z",
+    "logs_latest_update": "2026-09-10T12:14:00Z",
     "text_extraction_latest_update": "2026-09-01T13:22:40.723443Z"
   }
 }

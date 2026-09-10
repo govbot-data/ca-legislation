@@ -383,7 +383,7 @@
       }
     },
     {
-      "description": "Senate amendments concurred in. To Engrossing and Enrolling.",
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 60. Noes 6.).",
       "date": "2026-08-30",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -393,7 +393,43 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-31T14:55:31Z"
+        "log_file_created": "2026-09-10T12:14:00Z"
+      }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 1 p.m.",
+      "date": "2026-09-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-10T12:14:00Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-10T12:14:00Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State - Chapter 178, Statutes of 2026.",
+      "date": "2026-09-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-10T12:14:00Z"
       }
     }
   ],
@@ -486,6 +522,28 @@
         }
       ],
       "date": "2026-08-25",
+      "classification": ""
+    },
+    {
+      "note": "09/03/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1405&version=20250AB140595ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-03",
+      "classification": ""
+    },
+    {
+      "note": "09/09/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1405&version=20250AB140594CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-09",
       "classification": ""
     }
   ],
@@ -610,7 +668,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-31T14:55:31Z",
+    "logs_latest_update": "2026-09-10T12:14:00Z",
     "text_extraction_latest_update": "2026-08-31T15:10:23.872853Z"
   }
 }
