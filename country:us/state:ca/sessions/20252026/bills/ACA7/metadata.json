@@ -411,7 +411,7 @@
       }
     },
     {
-      "description": "Senate amendments concurred in. To Engrossing and Enrolling.",
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 59. Noes 19.).",
       "date": "2026-08-30",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -421,7 +421,31 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-31T14:55:31Z"
+        "log_file_created": "2026-09-11T12:17:52Z"
+      }
+    },
+    {
+      "description": "Enrolled and filed with the Secretary of State at 1 p.m.",
+      "date": "2026-09-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T12:17:52Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State - Res. Chapter 223, Statutes of 2026.",
+      "date": "2026-09-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T12:17:52Z"
       }
     }
   ],
@@ -558,6 +582,28 @@
       ],
       "date": "2026-08-13",
       "classification": ""
+    },
+    {
+      "note": "09/03/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260ACA7&version=20250ACA794ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-03",
+      "classification": ""
+    },
+    {
+      "note": "09/10/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260ACA7&version=20250ACA793CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-10",
+      "classification": ""
     }
   ],
   "documents": [
@@ -692,7 +738,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-31T14:55:31Z",
+    "logs_latest_update": "2026-09-11T12:17:52Z",
     "text_extraction_latest_update": "2026-08-31T15:25:43.235636Z"
   }
 }

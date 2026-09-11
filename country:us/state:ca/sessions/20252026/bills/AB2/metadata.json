@@ -498,6 +498,30 @@
       "_processing": {
         "log_file_created": "2026-09-09T12:19:15Z"
       }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T12:17:52Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State - Chapter 180, Statutes of 2026.",
+      "date": "2026-09-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T12:17:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -730,7 +754,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-09T12:19:15Z",
+    "logs_latest_update": "2026-09-11T12:17:52Z",
     "text_extraction_latest_update": "2026-09-09T12:29:05.985342Z"
   }
 }

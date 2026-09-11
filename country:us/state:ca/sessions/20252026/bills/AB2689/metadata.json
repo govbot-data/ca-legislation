@@ -20,11 +20,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "California Community Colleges Economic and Workforce Development Program."
+      "title": "Accessory dwelling units: separate sale or conveyance: condominiums."
     },
     {
       "note": "",
-      "title": "Accessory dwelling units: separate sale or conveyance: condominiums."
+      "title": "California Community Colleges Economic and Workforce Development Program."
     }
   ],
   "other_identifiers": [
@@ -335,7 +335,7 @@
       }
     },
     {
-      "description": "Senate amendments concurred in. To Engrossing and Enrolling.",
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 69. Noes 2.).",
       "date": "2026-08-30",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -345,7 +345,19 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-31T14:55:31Z"
+        "log_file_created": "2026-09-11T12:17:52Z"
+      }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 3 p.m.",
+      "date": "2026-09-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T12:17:52Z"
       }
     }
   ],
@@ -433,6 +445,17 @@
         }
       ],
       "date": "2026-06-22",
+      "classification": ""
+    },
+    {
+      "note": "09/03/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2689&version=20250AB268994ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-03",
       "classification": ""
     }
   ],
@@ -522,7 +545,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-31T14:55:31Z",
+    "logs_latest_update": "2026-09-11T12:17:52Z",
     "text_extraction_latest_update": "2026-08-31T15:30:36.761569Z"
   }
 }
