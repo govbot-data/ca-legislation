@@ -20,15 +20,15 @@
   "other_titles": [
     {
       "note": "",
+      "title": "Legacy local news organizations: notice of sale."
+    },
+    {
+      "note": "",
       "title": "Legacy local media outlets: notice of sale or transfer: right of first refusal."
     },
     {
       "note": "",
       "title": "Local media outlets: notice of sale or transfer."
-    },
-    {
-      "note": "",
-      "title": "Legacy local news organizations: notice of sale."
     }
   ],
   "other_identifiers": [
@@ -504,7 +504,7 @@
       }
     },
     {
-      "description": "Senate amendments concurred in. To Engrossing and Enrolling.",
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 78. Noes 0.).",
       "date": "2026-08-31",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -514,7 +514,19 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-01T12:35:04Z"
+        "log_file_created": "2026-09-15T12:42:02Z"
+      }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 1:30 p.m.",
+      "date": "2026-09-14",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T12:42:02Z"
       }
     }
   ],
@@ -606,6 +618,17 @@
       ],
       "date": "2026-06-25",
       "classification": ""
+    },
+    {
+      "note": "09/04/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB611&version=20250AB61193ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-04",
+      "classification": ""
     }
   ],
   "documents": [
@@ -676,14 +699,14 @@
       "classification": "analysis"
     },
     {
-      "note": "08/31/26- ASSEMBLY FLOOR ANALYSIS",
+      "note": "09/02/26- ASSEMBLY FLOOR ANALYSIS",
       "links": [
         {
-          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB611&analysisId=406072&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB611&analysisId=406144&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
           "media_type": "application/pdf"
         }
       ],
-      "date": "2026-08-31",
+      "date": "2026-09-02",
       "classification": "analysis"
     }
   ],
@@ -707,7 +730,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-01T12:35:04Z",
+    "logs_latest_update": "2026-09-15T12:42:02Z",
     "text_extraction_latest_update": "2026-09-01T13:13:16.178099Z"
   }
 }

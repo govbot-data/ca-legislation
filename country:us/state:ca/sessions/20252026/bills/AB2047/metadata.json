@@ -421,7 +421,7 @@
       }
     },
     {
-      "description": "Senate amendments concurred in. To Engrossing and Enrolling.",
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 60. Noes 18.).",
       "date": "2026-08-31",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -431,7 +431,19 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-01T12:35:04Z"
+        "log_file_created": "2026-09-15T12:42:02Z"
+      }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 1:30 p.m.",
+      "date": "2026-09-14",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T12:42:02Z"
       }
     }
   ],
@@ -555,6 +567,17 @@
       ],
       "date": "2026-08-28",
       "classification": ""
+    },
+    {
+      "note": "09/04/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2047&version=20250AB204793ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-04",
+      "classification": ""
     }
   ],
   "documents": [
@@ -658,17 +681,6 @@
       "classification": "analysis"
     },
     {
-      "note": "08/30/26- Sen. Floor Analyses",
-      "links": [
-        {
-          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2047&analysisId=405842&analyzingOffice=Sen.+Floor+Analyses",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "2026-08-30",
-      "classification": "analysis"
-    },
-    {
       "note": "08/31/26- ASSEMBLY FLOOR ANALYSIS",
       "links": [
         {
@@ -677,6 +689,17 @@
         }
       ],
       "date": "2026-08-31",
+      "classification": "analysis"
+    },
+    {
+      "note": "09/14/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2047&analysisId=406175&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-14",
       "classification": "analysis"
     }
   ],
@@ -700,7 +723,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-01T12:35:04Z",
+    "logs_latest_update": "2026-09-15T12:42:02Z",
     "text_extraction_latest_update": "2026-09-01T12:41:49.930871Z"
   }
 }
