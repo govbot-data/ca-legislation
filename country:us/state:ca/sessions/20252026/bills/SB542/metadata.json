@@ -19,15 +19,15 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Oil spill prevention and response."
-    },
-    {
-      "note": "",
       "title": "Oil spill prevention: administrator for oil spill response: duties: pipeline inspections."
     },
     {
       "note": "",
       "title": "Oil spill prevention: administrator for oil spill response: duties."
+    },
+    {
+      "note": "",
+      "title": "Oil spill prevention and response."
     }
   ],
   "other_identifiers": [
@@ -482,7 +482,7 @@
       }
     },
     {
-      "description": "Read third time. Urgency clause adopted. Passed. Ordered to the Senate.",
+      "description": "Read third time. Urgency clause adopted. Passed. (Ayes 78. Noes 0. Page 6382.) Ordered to the Senate.",
       "date": "2026-08-24",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -493,7 +493,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-25T07:50:41Z"
+        "log_file_created": "2026-09-16T12:33:46Z"
       }
     },
     {
@@ -520,7 +520,7 @@
       }
     },
     {
-      "description": "Assembly amendments concurred in. (Ayes 39. Noes 0.) Ordered to engrossing and enrolling.",
+      "description": "Assembly amendments concurred in. (Ayes 40. Noes 0.) Ordered to engrossing and enrolling.",
       "date": "2026-08-25",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -530,7 +530,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-26T07:58:26Z"
+        "log_file_created": "2026-09-16T12:33:46Z"
       }
     },
     {
@@ -543,6 +543,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-08-31T14:55:31Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-14",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T12:33:46Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Chapter 224, Statutes of 2026.",
+      "date": "2026-09-14",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T12:33:46Z"
       }
     }
   ],
@@ -655,6 +679,17 @@
         }
       ],
       "date": "2026-08-27",
+      "classification": ""
+    },
+    {
+      "note": "09/14/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB542&version=20250SB54291CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-14",
       "classification": ""
     }
   ],
@@ -813,7 +848,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-31T14:55:31Z",
+    "logs_latest_update": "2026-09-16T12:33:46Z",
     "text_extraction_latest_update": "2026-08-31T15:38:42.833669Z"
   }
 }

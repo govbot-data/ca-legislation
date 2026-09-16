@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Medi-Cal: work or community engagement."
+      "title": "Medi-Cal: redeterminations and work or community engagement."
     },
     {
       "note": "",
-      "title": "Medi-Cal: redeterminations and work or community engagement."
+      "title": "Medi-Cal: work or community engagement."
     }
   ],
   "other_identifiers": [
@@ -386,7 +386,7 @@
       }
     },
     {
-      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 60. Noes 11.).",
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 60. Noes 11. Page 6567.).",
       "date": "2026-08-26",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -396,7 +396,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-27T18:14:00Z"
+        "log_file_created": "2026-09-16T12:33:46Z"
       }
     },
     {
@@ -409,6 +409,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-04T12:14:06Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-15",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T12:33:46Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State - Chapter 209, Statutes of 2026.",
+      "date": "2026-09-15",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T12:33:46Z"
       }
     }
   ],
@@ -531,6 +555,17 @@
         }
       ],
       "date": "2026-08-30",
+      "classification": ""
+    },
+    {
+      "note": "09/14/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2161&version=20250AB216193CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-14",
       "classification": ""
     }
   ],
@@ -656,7 +691,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-04T12:14:06Z",
+    "logs_latest_update": "2026-09-16T12:33:46Z",
     "text_extraction_latest_update": "2026-09-04T12:26:52.039382Z"
   }
 }

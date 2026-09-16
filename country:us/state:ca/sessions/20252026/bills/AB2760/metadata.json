@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Educational equity: discrimination: Office of Civil Rights."
+      "title": "County board of supervisors: inspector general."
     },
     {
       "note": "",
-      "title": "County board of supervisors: inspector general."
+      "title": "Educational equity: discrimination: Office of Civil Rights."
     }
   ],
   "other_identifiers": [
@@ -414,7 +414,7 @@
       }
     },
     {
-      "description": "Senate amendments concurred in. To Engrossing and Enrolling.",
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 55. Noes 16.).",
       "date": "2026-08-31",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -424,7 +424,19 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-01T12:35:04Z"
+        "log_file_created": "2026-09-16T12:33:46Z"
+      }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 3 p.m.",
+      "date": "2026-09-15",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T12:33:46Z"
       }
     }
   ],
@@ -718,6 +730,17 @@
       ],
       "date": "2026-08-28",
       "classification": ""
+    },
+    {
+      "note": "09/04/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2760&version=20250AB276095ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-04",
+      "classification": ""
     }
   ],
   "documents": [
@@ -853,7 +876,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-02T12:05:46Z",
+    "logs_latest_update": "2026-09-16T12:33:46Z",
     "text_extraction_latest_update": "2026-09-02T12:08:59.434985Z"
   }
 }

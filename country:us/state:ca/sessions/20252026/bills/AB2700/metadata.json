@@ -16,13 +16,13 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Existing law vests the Public Utilities Commission with regulatory authority over public utilities, including electrical corporations. Existing law requires the Wildfire Fund Administrator, in consultation with the commission and other entities, to prepare and submit to the Legislature and the Governor a report that evaluates and sets forth recommendations on new models or approaches that mitigate damage, accelerate recovery, and responsibly and equitable allocate burdens from natural catastrophes, including catastrophic wildfires, across stakeholders, as provided.\n\nThis bill would require the commission, on or before January 1, 2028, to generate a report assessing the verified restitution shortfalls for victims of wildfires caused by electrical corporations occurring before July 12, 2019, and to recommend restitution mechanisms for electrical corporations to address restitution shortfalls, as provided. The bill would require the commission, in developing the restitution mechanisms, to ensure, among other things, that the verified restitution shortfalls are consistently and fairly paid to ensure full compensation is issued in a timely manner."
+      "abstract": "Existing law vests the Public Utilities Commission with regulatory authority over public utilities, including electrical corporations. Existing law requires the Wildfire Fund Administrator, in consultation with the commission and other entities, to prepare and submit to the Legislature and the Governor a report that evaluates and sets forth recommendations on new models or approaches that mitigate damage, accelerate recovery, and responsibly and equitably allocate the burdens from natural catastrophes, including catastrophic wildfires, across stakeholders, as provided.\n\nThis bill would require the commission, on or before January 1, 2028, to generate a report assessing the verified restitution shortfalls for victims of wildfires caused by electrical corporations occurring before July 12, 2019, and to recommend restitution mechanisms for electrical corporations to address restitution shortfalls, as provided. The bill would require the commission, in developing the restitution mechanisms, to ensure, among other things, that the verified restitution shortfalls are consistently and fairly paid to ensure full compensation is issued in a timely manner."
     }
   ],
   "other_titles": [
     {
       "note": "",
-      "title": "Electricity: rate reduction: report."
+      "title": "Public utilities: rates."
     },
     {
       "note": "",
@@ -30,7 +30,7 @@
     },
     {
       "note": "",
-      "title": "Public utilities: rates."
+      "title": "Electricity: rate reduction: report."
     }
   ],
   "other_identifiers": [
@@ -505,7 +505,7 @@
       }
     },
     {
-      "description": "Senate amendments concurred in. To Engrossing and Enrolling.",
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 78. Noes 0.).",
       "date": "2026-08-31",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -515,7 +515,19 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-01T12:35:04Z"
+        "log_file_created": "2026-09-16T12:33:46Z"
+      }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 3 p.m.",
+      "date": "2026-09-15",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T12:33:46Z"
       }
     }
   ],
@@ -666,6 +678,17 @@
       ],
       "date": "2026-08-13",
       "classification": ""
+    },
+    {
+      "note": "09/04/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2700&version=20250AB270092ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-04",
+      "classification": ""
     }
   ],
   "documents": [
@@ -758,14 +781,14 @@
       "classification": "analysis"
     },
     {
-      "note": "08/31/26- ASSEMBLY FLOOR ANALYSIS",
+      "note": "09/02/26- ASSEMBLY FLOOR ANALYSIS",
       "links": [
         {
-          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2700&analysisId=406023&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2700&analysisId=406143&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
           "media_type": "application/pdf"
         }
       ],
-      "date": "2026-08-31",
+      "date": "2026-09-02",
       "classification": "analysis"
     }
   ],
@@ -789,7 +812,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-01T12:35:04Z",
+    "logs_latest_update": "2026-09-16T12:33:46Z",
     "text_extraction_latest_update": "2026-09-01T12:39:11.720019Z"
   }
 }

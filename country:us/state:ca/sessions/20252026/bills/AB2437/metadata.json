@@ -323,7 +323,7 @@
       }
     },
     {
-      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 73. Noes 0.).",
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 73. Noes 0. Page 6140.).",
       "date": "2026-08-13",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -333,7 +333,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-14T08:21:25Z"
+        "log_file_created": "2026-09-16T12:33:46Z"
       }
     },
     {
@@ -457,7 +457,7 @@
       }
     },
     {
-      "description": "Senate amendments concurred in. To Engrossing and Enrolling.",
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 78. Noes 0.).",
       "date": "2026-08-31",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -467,7 +467,19 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-01T12:35:04Z"
+        "log_file_created": "2026-09-16T12:33:46Z"
+      }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 3 p.m.",
+      "date": "2026-09-15",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T12:33:46Z"
       }
     }
   ],
@@ -547,6 +559,17 @@
         }
       ],
       "date": "2026-08-21",
+      "classification": ""
+    },
+    {
+      "note": "09/04/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2437&version=20250AB243794ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-04",
       "classification": ""
     }
   ],
@@ -650,7 +673,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-01T12:35:04Z",
+    "logs_latest_update": "2026-09-16T12:33:46Z",
     "text_extraction_latest_update": "2026-09-01T12:47:30.874232Z"
   }
 }
