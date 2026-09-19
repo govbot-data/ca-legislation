@@ -20,11 +20,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Railroads: safety: wayside detectors: train length: emergency vehicle crossing."
+      "title": "State highways: change of grade."
     },
     {
       "note": "",
-      "title": "State highways: change of grade."
+      "title": "Railroads: safety: wayside detectors: train length: emergency vehicle crossing."
     },
     {
       "note": "",
@@ -471,7 +471,7 @@
       }
     },
     {
-      "description": "Read third time. Passed. Ordered to the Senate.",
+      "description": "Read third time. Passed. (Ayes 78. Noes 0. Page 6387.) Ordered to the Senate.",
       "date": "2026-08-24",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -481,7 +481,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-25T07:50:41Z"
+        "log_file_created": "2026-09-19T12:04:23Z"
       }
     },
     {
@@ -518,6 +518,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-03T12:04:52Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T12:04:23Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Chapter 316, Statutes of 2026.",
+      "date": "2026-09-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T12:04:23Z"
       }
     }
   ],
@@ -734,14 +758,14 @@
       "classification": "analysis"
     },
     {
-      "note": "08/24/26- Sen. Floor Analyses",
+      "note": "09/16/26- Sen. Floor Analyses",
       "links": [
         {
-          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB667&analysisId=405050&analyzingOffice=Sen.+Floor+Analyses",
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB667&analysisId=406195&analyzingOffice=Sen.+Floor+Analyses",
           "media_type": "application/pdf"
         }
       ],
-      "date": "2026-08-24",
+      "date": "2026-09-16",
       "classification": "analysis"
     }
   ],
@@ -765,7 +789,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-03T12:04:52Z",
+    "logs_latest_update": "2026-09-19T12:04:23Z",
     "text_extraction_latest_update": "2026-09-03T12:08:32.123751Z"
   }
 }

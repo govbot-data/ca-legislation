@@ -324,7 +324,7 @@
       }
     },
     {
-      "description": "Read third time. Passed. Ordered to the Senate.",
+      "description": "Read third time. Passed. (Ayes 78. Noes 0. Page 6471.) Ordered to the Senate.",
       "date": "2026-08-25",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -334,7 +334,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-26T07:58:26Z"
+        "log_file_created": "2026-09-19T12:04:22Z"
       }
     },
     {
@@ -371,6 +371,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-01T12:35:04Z"
+      }
+    },
+    {
+      "description": "Vetoed by the Governor.",
+      "date": "2026-09-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T12:04:22Z"
+      }
+    },
+    {
+      "description": "In Senate. Consideration of Governor's veto pending.",
+      "date": "2026-09-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T12:04:22Z"
       }
     }
   ],
@@ -526,14 +548,14 @@
       "classification": "analysis"
     },
     {
-      "note": "08/25/26- Sen. Floor Analyses",
+      "note": "09/16/26- Sen. Floor Analyses",
       "links": [
         {
-          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1077&analysisId=405194&analyzingOffice=Sen.+Floor+Analyses",
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1077&analysisId=406187&analyzingOffice=Sen.+Floor+Analyses",
           "media_type": "application/pdf"
         }
       ],
-      "date": "2026-08-25",
+      "date": "2026-09-16",
       "classification": "analysis"
     }
   ],
@@ -557,7 +579,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-01T12:35:04Z",
+    "logs_latest_update": "2026-09-19T12:04:22Z",
     "text_extraction_latest_update": "2026-09-01T13:07:23.650013Z"
   }
 }

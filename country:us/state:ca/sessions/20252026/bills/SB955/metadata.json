@@ -401,7 +401,7 @@
       }
     },
     {
-      "description": "Read third time. Urgency clause adopted. Passed. Ordered to the Senate.",
+      "description": "Read third time. Urgency clause adopted. Passed. (Ayes 78. Noes 0. Page 6421.) Ordered to the Senate.",
       "date": "2026-08-24",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -412,7 +412,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-25T07:50:41Z"
+        "log_file_created": "2026-09-19T12:04:22Z"
       }
     },
     {
@@ -459,6 +459,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-03T12:04:52Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T12:04:22Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Chapter 319, Statutes of 2026.",
+      "date": "2026-09-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T12:04:22Z"
       }
     }
   ],
@@ -672,7 +696,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-03T12:04:52Z",
+    "logs_latest_update": "2026-09-19T12:04:22Z",
     "text_extraction_latest_update": "2026-09-03T12:12:35.361883Z"
   }
 }

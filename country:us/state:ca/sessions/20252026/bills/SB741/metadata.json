@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Coastal resources: coastal development permit: local emergency declaration."
+      "title": "Coastal resources: coastal development permit: exemption: Los Angeles-San Diego-San Luis Obispo Rail Corridor."
     },
     {
       "note": "",
-      "title": "Coastal resources: coastal development permit: exemption: Los Angeles-San Diego-San Luis Obispo Rail Corridor."
+      "title": "Coastal resources: coastal development permit: local emergency declaration."
     }
   ],
   "other_identifiers": [
@@ -353,7 +353,7 @@
       }
     },
     {
-      "description": "Read third time. Passed. Ordered to the Senate.",
+      "description": "Read third time. Passed. (Ayes 78. Noes 0. Page 6525.) Ordered to the Senate.",
       "date": "2026-08-25",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -363,7 +363,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-26T07:58:27Z"
+        "log_file_created": "2026-09-19T12:04:23Z"
       }
     },
     {
@@ -459,6 +459,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-09T12:19:15Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T12:04:23Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Chapter 247, Statutes of 2026.",
+      "date": "2026-09-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T12:04:23Z"
       }
     }
   ],
@@ -644,7 +668,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-09T12:19:15Z",
+    "logs_latest_update": "2026-09-19T12:04:23Z",
     "text_extraction_latest_update": "2026-09-09T12:22:18.308531Z"
   }
 }

@@ -214,7 +214,7 @@
       }
     },
     {
-      "description": "Read third time. Urgency clause adopted. Passed. Ordered to the Senate.",
+      "description": "Read third time. Urgency clause adopted. Passed. (Ayes 73. Noes 0. Page 6205.) Ordered to the Senate.",
       "date": "2026-08-17",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -225,7 +225,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-18T07:45:25Z"
+        "log_file_created": "2026-09-19T12:04:23Z"
       }
     },
     {
@@ -311,7 +311,7 @@
       }
     },
     {
-      "description": "Assembly amendments concurred in. (Ayes 39. Noes 0.) Ordered to engrossing and enrolling.",
+      "description": "Assembly amendments concurred in. (Ayes 40. Noes 0.) Ordered to engrossing and enrolling.",
       "date": "2026-08-24",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -321,7 +321,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-25T07:50:41Z"
+        "log_file_created": "2026-09-19T12:04:23Z"
       }
     },
     {
@@ -334,6 +334,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-08-29T13:09:20Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T12:04:23Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Chapter 324, Statutes of 2026.",
+      "date": "2026-09-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T12:04:23Z"
       }
     }
   ],
@@ -497,7 +521,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-29T13:09:20Z",
+    "logs_latest_update": "2026-09-19T12:04:23Z",
     "text_extraction_latest_update": "2026-08-29T13:19:10.261061Z"
   }
 }

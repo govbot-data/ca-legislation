@@ -366,7 +366,7 @@
       }
     },
     {
-      "description": "Read third time. Passed. Ordered to the Senate.",
+      "description": "Read third time. Passed. (Ayes 78. Noes 0. Page 6308.) Ordered to the Senate.",
       "date": "2026-08-20",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -376,7 +376,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-21T07:52:43Z"
+        "log_file_created": "2026-09-19T12:04:23Z"
       }
     },
     {
@@ -390,7 +390,7 @@
       }
     },
     {
-      "description": "Assembly amendments concurred in. (Ayes 39. Noes 0.) Ordered to engrossing and enrolling.",
+      "description": "Assembly amendments concurred in. (Ayes 40. Noes 0.) Ordered to engrossing and enrolling.",
       "date": "2026-08-24",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -400,7 +400,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-25T07:50:41Z"
+        "log_file_created": "2026-09-19T12:04:23Z"
       }
     },
     {
@@ -413,6 +413,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-08-29T13:09:21Z"
+      }
+    },
+    {
+      "description": "Vetoed by the Governor.",
+      "date": "2026-09-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T12:04:23Z"
+      }
+    },
+    {
+      "description": "In Senate. Consideration of Governor's veto pending.",
+      "date": "2026-09-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T12:04:23Z"
       }
     }
   ],
@@ -605,7 +627,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-29T13:09:21Z",
+    "logs_latest_update": "2026-09-19T12:04:23Z",
     "text_extraction_latest_update": "2026-08-29T13:16:37.597066Z"
   }
 }

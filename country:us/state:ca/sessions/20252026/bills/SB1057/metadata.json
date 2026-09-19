@@ -435,13 +435,13 @@
       }
     },
     {
-      "description": "Joint Rule 61(b)(16) suspended.",
+      "description": "Joint Rule 61(b)(16) suspended. (Ayes 57. Noes 1. Page 6819.)",
       "date": "2026-08-28",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-29T13:09:20Z"
+        "log_file_created": "2026-09-19T12:04:23Z"
       }
     },
     {
@@ -529,6 +529,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-10T12:14:00Z"
+      }
+    },
+    {
+      "description": "Vetoed by the Governor.",
+      "date": "2026-09-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T12:04:23Z"
+      }
+    },
+    {
+      "description": "In Senate. Consideration of Governor's veto pending.",
+      "date": "2026-09-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T12:04:23Z"
       }
     }
   ],
@@ -745,14 +767,14 @@
       "classification": "analysis"
     },
     {
-      "note": "08/31/26- Sen. Floor Analyses",
+      "note": "09/16/26- Sen. Floor Analyses",
       "links": [
         {
-          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1057&analysisId=406106&analyzingOffice=Sen.+Floor+Analyses",
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1057&analysisId=406183&analyzingOffice=Sen.+Floor+Analyses",
           "media_type": "application/pdf"
         }
       ],
-      "date": "2026-08-31",
+      "date": "2026-09-16",
       "classification": "analysis"
     }
   ],
@@ -777,7 +799,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-10T12:14:00Z",
+    "logs_latest_update": "2026-09-19T12:04:23Z",
     "text_extraction_latest_update": "2026-09-10T12:26:15.321624Z"
   }
 }
