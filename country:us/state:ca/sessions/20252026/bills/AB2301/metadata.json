@@ -285,6 +285,18 @@
       "_processing": {
         "log_file_created": "2026-09-04T12:14:06Z"
       }
+    },
+    {
+      "description": "Vetoed by Governor.",
+      "date": "2026-09-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-20T12:20:22Z"
+      }
     }
   ],
   "sponsorships": [
@@ -421,7 +433,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-04T12:14:06Z",
+    "logs_latest_update": "2026-09-20T12:20:22Z",
     "text_extraction_latest_update": "2026-09-04T12:31:40.147027Z"
   }
 }

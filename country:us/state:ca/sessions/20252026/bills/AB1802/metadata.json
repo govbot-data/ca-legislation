@@ -363,7 +363,7 @@
       }
     },
     {
-      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 78. Noes 0.).",
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 78. Noes 0. Page 6403.).",
       "date": "2026-08-24",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -373,7 +373,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-29T13:09:21Z"
+        "log_file_created": "2026-09-20T12:20:22Z"
       }
     },
     {
@@ -386,6 +386,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-08-29T13:09:21Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-20T12:20:22Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State - Chapter 274, Statutes of 2026.",
+      "date": "2026-09-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-20T12:20:22Z"
       }
     }
   ],
@@ -567,7 +591,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-29T13:09:21Z",
+    "logs_latest_update": "2026-09-20T12:20:22Z",
     "text_extraction_latest_update": "2026-08-29T13:43:45.696053Z"
   }
 }
