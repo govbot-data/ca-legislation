@@ -319,7 +319,7 @@
       }
     },
     {
-      "description": "Read third time. Passed. Ordered to the Senate.",
+      "description": "Read third time. Passed. (Ayes 62. Noes 12. Page 6306.) Ordered to the Senate.",
       "date": "2026-08-20",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -329,7 +329,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-21T07:52:43Z"
+        "log_file_created": "2026-09-21T13:43:41Z"
       }
     },
     {
@@ -366,6 +366,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-08-31T14:55:31Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-20",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-21T13:43:41Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Chapter 422, Statutes of 2026.",
+      "date": "2026-09-20",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-21T13:43:41Z"
       }
     }
   ],
@@ -545,7 +569,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-31T14:55:31Z",
+    "logs_latest_update": "2026-09-21T13:43:41Z",
     "text_extraction_latest_update": "2026-08-31T15:09:40.871248Z"
   }
 }

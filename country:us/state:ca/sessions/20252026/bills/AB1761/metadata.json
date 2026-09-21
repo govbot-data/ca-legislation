@@ -322,7 +322,7 @@
       }
     },
     {
-      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 65. Noes 9.).",
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 65. Noes 9. Page 6569.).",
       "date": "2026-08-26",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -332,7 +332,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-27T18:14:00Z"
+        "log_file_created": "2026-09-21T13:43:41Z"
       }
     },
     {
@@ -345,6 +345,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-04T12:14:06Z"
+      }
+    },
+    {
+      "description": "Vetoed by Governor.",
+      "date": "2026-09-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-21T13:43:41Z"
       }
     }
   ],
@@ -575,7 +587,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-04T12:14:06Z",
+    "logs_latest_update": "2026-09-21T13:43:41Z",
     "text_extraction_latest_update": "2026-09-04T12:33:20.716165Z"
   }
 }

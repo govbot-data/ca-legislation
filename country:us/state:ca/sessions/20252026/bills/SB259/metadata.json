@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Affinity-based algorithmic pricing."
+      "title": "Fair Online Pricing Act."
     },
     {
       "note": "",
-      "title": "Fair Online Pricing Act."
+      "title": "Affinity-based algorithmic pricing."
     }
   ],
   "other_identifiers": [
@@ -592,7 +592,7 @@
       }
     },
     {
-      "description": "Read third time. Urgency clause adopted. Passed. Ordered to the Senate.",
+      "description": "Read third time. Urgency clause adopted. Passed. (Ayes 59. Noes 16. Page 6778.) Ordered to the Senate.",
       "date": "2026-08-28",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -603,7 +603,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-29T13:09:20Z"
+        "log_file_created": "2026-09-21T13:43:41Z"
       }
     },
     {
@@ -653,6 +653,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-08-31T14:55:31Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-19",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-21T13:43:41Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Chapter 331, Statutes of 2026.",
+      "date": "2026-09-19",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-21T13:43:41Z"
       }
     }
   ],
@@ -787,6 +811,17 @@
         }
       ],
       "date": "2026-08-20",
+      "classification": ""
+    },
+    {
+      "note": "08/30/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB259&version=20250SB25989ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-30",
       "classification": ""
     }
   ],
@@ -957,7 +992,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-31T14:55:31Z",
+    "logs_latest_update": "2026-09-21T13:43:41Z",
     "text_extraction_latest_update": "2026-08-31T15:21:38.071883Z"
   }
 }

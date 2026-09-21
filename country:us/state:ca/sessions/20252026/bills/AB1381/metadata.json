@@ -21,7 +21,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "California School Finance Authority: Educational Workforce Housing Revolving Loan Fund."
+      "title": "Educational workforce housing."
+    },
+    {
+      "note": "",
+      "title": "Education-related positions: previous employment disclosures: Commission on Teacher Credentialing: adverse actions."
     },
     {
       "note": "",
@@ -29,11 +33,7 @@
     },
     {
       "note": "",
-      "title": "Educational workforce housing."
-    },
-    {
-      "note": "",
-      "title": "Education-related positions: previous employment disclosures: Commission on Teacher Credentialing: adverse actions."
+      "title": "California School Finance Authority: Educational Workforce Housing Revolving Loan Fund."
     }
   ],
   "other_identifiers": [
@@ -615,13 +615,13 @@
       }
     },
     {
-      "description": "Joint Rule 62(a), file notice suspended.",
+      "description": "Joint Rule 62(a), file notice suspended. (Page 6706.)",
       "date": "2026-08-27",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-28T19:30:39Z"
+        "log_file_created": "2026-09-21T13:43:41Z"
       }
     },
     {
@@ -637,7 +637,7 @@
       }
     },
     {
-      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 77. Noes 0.).",
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 77. Noes 0. Page 6736.).",
       "date": "2026-08-27",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -647,7 +647,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-28T19:30:39Z"
+        "log_file_created": "2026-09-21T13:43:41Z"
       }
     },
     {
@@ -660,6 +660,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-05T11:18:52Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-20",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-21T13:43:41Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State - Chapter 364, Statutes of 2026.",
+      "date": "2026-09-20",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-21T13:43:41Z"
       }
     }
   ],
@@ -941,7 +965,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-05T11:18:52Z",
+    "logs_latest_update": "2026-09-21T13:43:41Z",
     "text_extraction_latest_update": "2026-09-05T11:22:26.357314Z"
   }
 }

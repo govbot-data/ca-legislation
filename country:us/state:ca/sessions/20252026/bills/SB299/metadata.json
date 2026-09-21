@@ -21,11 +21,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Local government: ordinances."
+      "title": "California Environmental Quality Act: exemption: day care center: family daycare home: zoning."
     },
     {
       "note": "",
-      "title": "California Environmental Quality Act: exemption: day care center: family daycare home: zoning."
+      "title": "Local government: ordinances."
     }
   ],
   "other_identifiers": [
@@ -504,13 +504,13 @@
       }
     },
     {
-      "description": "Assembly Rule 69(b)(1) suspended.",
+      "description": "Assembly Rule 69(b)(1) suspended. (Ayes 55. Noes 17. Page 6296.)",
       "date": "2026-08-21",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-22T07:45:11Z"
+        "log_file_created": "2026-09-21T13:43:42Z"
       }
     },
     {
@@ -541,7 +541,7 @@
       }
     },
     {
-      "description": "Read third time. Passed. Ordered to the Senate.",
+      "description": "Read third time. Passed. (Ayes 76. Noes 0. Page 6518.) Ordered to the Senate.",
       "date": "2026-08-25",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -551,7 +551,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-26T07:58:26Z"
+        "log_file_created": "2026-09-21T13:43:42Z"
       }
     },
     {
@@ -588,6 +588,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-03T12:04:52Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-20",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-21T13:43:42Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Chapter 413, Statutes of 2026.",
+      "date": "2026-09-20",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-21T13:43:42Z"
       }
     }
   ],
@@ -874,7 +898,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-03T12:04:52Z",
+    "logs_latest_update": "2026-09-21T13:43:42Z",
     "text_extraction_latest_update": "2026-09-03T12:08:04.880069Z"
   }
 }

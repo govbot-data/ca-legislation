@@ -533,13 +533,13 @@
       }
     },
     {
-      "description": "Joint Rule 62(a), file notice suspended.",
+      "description": "Joint Rule 62(a), file notice suspended. (Page 6646.)",
       "date": "2026-08-26",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-27T18:14:00Z"
+        "log_file_created": "2026-09-21T13:43:41Z"
       }
     },
     {
@@ -555,7 +555,7 @@
       }
     },
     {
-      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 74. Noes 0.).",
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 74. Noes 0. Page 6740.).",
       "date": "2026-08-27",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -565,7 +565,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-28T19:30:39Z"
+        "log_file_created": "2026-09-21T13:43:41Z"
       }
     },
     {
@@ -578,6 +578,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-05T11:18:52Z"
+      }
+    },
+    {
+      "description": "Vetoed by Governor.",
+      "date": "2026-09-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-21T13:43:41Z"
       }
     }
   ],
@@ -864,7 +876,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-05T11:18:52Z",
+    "logs_latest_update": "2026-09-21T13:43:41Z",
     "text_extraction_latest_update": "2026-09-05T11:37:09.596079Z"
   }
 }
