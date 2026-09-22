@@ -374,13 +374,13 @@
       }
     },
     {
-      "description": "Joint Rule 61(b)(16) suspended.",
+      "description": "Joint Rule 61(b)(16) suspended. (Ayes 57. Noes 1. Page 6819.)",
       "date": "2026-08-28",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-29T13:09:21Z"
+        "log_file_created": "2026-09-22T12:31:51Z"
       }
     },
     {
@@ -468,6 +468,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-10T12:14:00Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T12:31:51Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Chapter 438, Statutes of 2026.",
+      "date": "2026-09-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T12:31:51Z"
       }
     }
   ],
@@ -661,6 +685,17 @@
       ],
       "date": "2026-09-04",
       "classification": ""
+    },
+    {
+      "note": "09/21/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB886&version=20250SB88691CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-21",
+      "classification": ""
     }
   ],
   "documents": [
@@ -785,7 +820,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-10T12:14:00Z",
+    "logs_latest_update": "2026-09-22T12:31:51Z",
     "text_extraction_latest_update": "2026-09-10T12:25:19.152172Z"
   }
 }
