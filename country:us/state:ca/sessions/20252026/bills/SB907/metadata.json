@@ -359,6 +359,30 @@
       "_processing": {
         "log_file_created": "2026-09-10T12:14:00Z"
       }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-25",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-26T12:17:13Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Chapter 443, Statutes of 2026.",
+      "date": "2026-09-25",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-26T12:17:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -615,14 +639,14 @@
       "classification": "analysis"
     },
     {
-      "note": "08/30/26- Sen. Floor Analyses",
+      "note": "09/23/26- Sen. Floor Analyses",
       "links": [
         {
-          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB907&analysisId=405954&analyzingOffice=Sen.+Floor+Analyses",
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB907&analysisId=406251&analyzingOffice=Sen.+Floor+Analyses",
           "media_type": "application/pdf"
         }
       ],
-      "date": "2026-08-30",
+      "date": "2026-09-23",
       "classification": "analysis"
     }
   ],
@@ -647,7 +671,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-10T12:14:00Z",
+    "logs_latest_update": "2026-09-26T12:17:13Z",
     "text_extraction_latest_update": "2026-09-10T12:17:01.250035Z"
   }
 }
