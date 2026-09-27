@@ -336,7 +336,7 @@
       }
     },
     {
-      "description": "Read third time. Passed. Ordered to the Senate.",
+      "description": "Read third time. Passed. (Ayes 62. Noes 3. Page 6392.) Ordered to the Senate.",
       "date": "2026-08-24",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -346,7 +346,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-25T07:50:41Z"
+        "log_file_created": "2026-09-27T12:49:24Z"
       }
     },
     {
@@ -384,17 +384,17 @@
       }
     },
     {
-      "description": "Reconsideration granted. (Ayes 37. Noes 0.)",
+      "description": "Reconsideration granted. (Ayes 38. Noes 0.)",
       "date": "2026-08-25",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-26T07:58:26Z"
+        "log_file_created": "2026-09-27T12:49:24Z"
       }
     },
     {
-      "description": "Assembly amendments concurred in. (Ayes 29. Noes 0.) Ordered to engrossing and enrolling.",
+      "description": "Assembly amendments concurred in. (Ayes 30. Noes 0.) Ordered to engrossing and enrolling.",
       "date": "2026-08-25",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -404,7 +404,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-26T07:58:26Z"
+        "log_file_created": "2026-09-27T12:49:24Z"
       }
     },
     {
@@ -417,6 +417,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-08-31T14:55:31Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-26",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-27T12:49:24Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Chapter 470, Statutes of 2026.",
+      "date": "2026-09-26",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-27T12:49:24Z"
       }
     }
   ],
@@ -575,14 +599,14 @@
       "classification": "analysis"
     },
     {
-      "note": "08/24/26- Sen. Floor Analyses",
+      "note": "09/14/26- Sen. Floor Analyses",
       "links": [
         {
-          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1023&analysisId=405029&analyzingOffice=Sen.+Floor+Analyses",
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1023&analysisId=406165&analyzingOffice=Sen.+Floor+Analyses",
           "media_type": "application/pdf"
         }
       ],
-      "date": "2026-08-24",
+      "date": "2026-09-14",
       "classification": "analysis"
     }
   ],
@@ -607,7 +631,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-31T14:55:31Z",
+    "logs_latest_update": "2026-09-27T12:49:24Z",
     "text_extraction_latest_update": "2026-08-31T15:23:46.168219Z"
   }
 }
