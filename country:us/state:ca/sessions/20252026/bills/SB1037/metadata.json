@@ -386,7 +386,7 @@
       }
     },
     {
-      "description": "Read third time. Passed. Ordered to the Senate.",
+      "description": "Read third time. Passed. (Ayes 59. Noes 15. Page 6392.) Ordered to the Senate.",
       "date": "2026-08-24",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -396,7 +396,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-25T07:50:41Z"
+        "log_file_created": "2026-09-28T14:56:18Z"
       }
     },
     {
@@ -410,7 +410,7 @@
       }
     },
     {
-      "description": "Assembly amendments concurred in. (Ayes 30. Noes 9.) Ordered to engrossing and enrolling.",
+      "description": "Assembly amendments concurred in. (Ayes 30. Noes 10.) Ordered to engrossing and enrolling.",
       "date": "2026-08-25",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -420,7 +420,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-26T07:58:26Z"
+        "log_file_created": "2026-09-28T14:56:18Z"
       }
     },
     {
@@ -433,6 +433,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-08-31T14:55:31Z"
+      }
+    },
+    {
+      "description": "Vetoed by the Governor.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-28T14:56:18Z"
+      }
+    },
+    {
+      "description": "In Senate. Consideration of Governor's veto pending.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-28T14:56:18Z"
       }
     }
   ],
@@ -616,14 +638,14 @@
       "classification": "analysis"
     },
     {
-      "note": "08/24/26- Sen. Floor Analyses",
+      "note": "09/15/26- Sen. Floor Analyses",
       "links": [
         {
-          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1037&analysisId=405031&analyzingOffice=Sen.+Floor+Analyses",
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1037&analysisId=406177&analyzingOffice=Sen.+Floor+Analyses",
           "media_type": "application/pdf"
         }
       ],
-      "date": "2026-08-24",
+      "date": "2026-09-15",
       "classification": "analysis"
     }
   ],
@@ -648,7 +670,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-31T14:55:31Z",
+    "logs_latest_update": "2026-09-28T14:56:18Z",
     "text_extraction_latest_update": "2026-08-31T15:45:03.328340Z"
   }
 }

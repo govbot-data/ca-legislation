@@ -331,7 +331,7 @@
       }
     },
     {
-      "description": "Read third time. Passed. Ordered to the Senate.",
+      "description": "Read third time. Passed. (Ayes 65. Noes 6. Page 6613.) Ordered to the Senate.",
       "date": "2026-08-26",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -341,7 +341,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-27T18:14:00Z"
+        "log_file_created": "2026-09-28T14:56:18Z"
       }
     },
     {
@@ -378,6 +378,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-04T12:14:06Z"
+      }
+    },
+    {
+      "description": "Vetoed by the Governor.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-28T14:56:18Z"
+      }
+    },
+    {
+      "description": "In Senate. Consideration of Governor's veto pending.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-28T14:56:18Z"
       }
     }
   ],
@@ -594,7 +616,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-04T12:14:06Z",
+    "logs_latest_update": "2026-09-28T14:56:18Z",
     "text_extraction_latest_update": "2026-09-04T12:43:09.901170Z"
   }
 }

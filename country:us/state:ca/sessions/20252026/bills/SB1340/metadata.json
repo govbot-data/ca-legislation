@@ -20,11 +20,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Small business liaison: contract information."
+      "title": "Small business liaison: contract information: small business procurement participation: disabled veteran business enterprise participation."
     },
     {
       "note": "",
-      "title": "Small business liaison: contract information: small business procurement participation: disabled veteran business enterprise participation."
+      "title": "Small business liaison: contract information."
     }
   ],
   "other_identifiers": [
@@ -357,13 +357,13 @@
       }
     },
     {
-      "description": "Assembly Rule 69(b)(1) suspended.",
+      "description": "Assembly Rule 69(b)(1) suspended. (Ayes 55. Noes 17. Page 6296.)",
       "date": "2026-08-21",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-22T07:45:11Z"
+        "log_file_created": "2026-09-28T14:56:18Z"
       }
     },
     {
@@ -394,7 +394,7 @@
       }
     },
     {
-      "description": "Read third time. Passed. Ordered to the Senate.",
+      "description": "Read third time. Passed. (Ayes 79. Noes 0. Page 6609.) Ordered to the Senate.",
       "date": "2026-08-26",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -404,7 +404,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-27T18:14:00Z"
+        "log_file_created": "2026-09-28T14:56:18Z"
       }
     },
     {
@@ -441,6 +441,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-04T12:14:06Z"
+      }
+    },
+    {
+      "description": "Vetoed by the Governor.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-28T14:56:18Z"
+      }
+    },
+    {
+      "description": "In Senate. Consideration of Governor's veto pending.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-28T14:56:18Z"
       }
     }
   ],
@@ -642,7 +664,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-04T12:14:06Z",
+    "logs_latest_update": "2026-09-28T14:56:18Z",
     "text_extraction_latest_update": "2026-09-04T12:29:04.199427Z"
   }
 }
