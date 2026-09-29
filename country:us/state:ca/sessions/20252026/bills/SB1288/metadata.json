@@ -331,7 +331,7 @@
       }
     },
     {
-      "description": "Read third time. Passed. Ordered to the Senate.",
+      "description": "Read third time. Passed. (Ayes 70. Noes 3. Page 6377.) Ordered to the Senate.",
       "date": "2026-08-24",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -341,7 +341,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-25T07:50:41Z"
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     },
     {
@@ -355,7 +355,7 @@
       }
     },
     {
-      "description": "Assembly amendments concurred in. (Ayes 39. Noes 0.) Ordered to engrossing and enrolling.",
+      "description": "Assembly amendments concurred in. (Ayes 40. Noes 0.) Ordered to engrossing and enrolling.",
       "date": "2026-08-25",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -365,7 +365,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-26T07:58:26Z"
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     },
     {
@@ -378,6 +378,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-08-31T14:55:31Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T13:53:37Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Chapter 691, Statutes of 2026.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     }
   ],
@@ -490,6 +514,17 @@
       ],
       "date": "2026-08-27",
       "classification": ""
+    },
+    {
+      "note": "09/27/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1288&version=20250SB128894CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-27",
+      "classification": ""
     }
   ],
   "documents": [
@@ -600,7 +635,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-31T14:55:31Z",
+    "logs_latest_update": "2026-09-29T13:53:37Z",
     "text_extraction_latest_update": "2026-08-31T15:35:42.573406Z"
   }
 }

@@ -20,11 +20,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "California Environmental Quality Act: exemption: prescribed fire, thinning, and fuel reduction projects."
+      "title": "Z'berg-Nejedly Forest Practice Act of 1973: working forest management plans: harvest area."
     },
     {
       "note": "",
-      "title": "Z'berg-Nejedly Forest Practice Act of 1973: working forest management plans: harvest area."
+      "title": "California Environmental Quality Act: exemption: prescribed fire, thinning, and fuel reduction projects."
     }
   ],
   "other_identifiers": [
@@ -291,7 +291,7 @@
       }
     },
     {
-      "description": "Read third time. Passed. Ordered to the Assembly. (Ayes 37. Noes 0.).",
+      "description": "Read third time. Passed. Ordered to the Assembly. (Ayes 37. Noes 0. Page 5188.).",
       "date": "2026-07-02",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -301,7 +301,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:34Z"
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     },
     {
@@ -315,7 +315,7 @@
       }
     },
     {
-      "description": "Senate amendments concurred in. To Engrossing and Enrolling.",
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 74. Noes 0. Page 6199.).",
       "date": "2026-08-17",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -325,7 +325,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-18T07:45:25Z"
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     },
     {
@@ -338,6 +338,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-08-25T07:50:40Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T13:53:37Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State - Chapter 504, Statutes of 2026.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     }
   ],
@@ -414,6 +438,17 @@
         }
       ],
       "date": "2026-08-19",
+      "classification": ""
+    },
+    {
+      "note": "09/27/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB442&version=20250AB44295CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-27",
       "classification": ""
     }
   ],
@@ -505,7 +540,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-25T07:50:40Z",
+    "logs_latest_update": "2026-09-29T13:53:37Z",
     "text_extraction_latest_update": "2026-08-25T07:57:23.714554Z"
   }
 }

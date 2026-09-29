@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Western Joshua Tree Conservation Act: life-sustaining services: project-specific conditions."
+      "title": "Western Joshua Tree Conservation Act: take permit: fees."
     },
     {
       "note": "",
-      "title": "Western Joshua Tree Conservation Act: take permit: fees."
+      "title": "Western Joshua Tree Conservation Act: life-sustaining services: project-specific conditions."
     }
   ],
   "other_identifiers": [
@@ -368,7 +368,7 @@
       }
     },
     {
-      "description": "Read third time. Passed. Ordered to the Senate.",
+      "description": "Read third time. Passed. (Ayes 76. Noes 0. Page 6531.) Ordered to the Senate.",
       "date": "2026-08-25",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -378,7 +378,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-26T07:58:26Z"
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     },
     {
@@ -415,6 +415,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-03T12:04:52Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T13:53:37Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Chapter 673, Statutes of 2026.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     }
   ],
@@ -494,6 +518,17 @@
         }
       ],
       "date": "2026-08-30",
+      "classification": ""
+    },
+    {
+      "note": "09/27/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1062&version=20250SB106294CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-27",
       "classification": ""
     }
   ],
@@ -580,14 +615,14 @@
       "classification": "analysis"
     },
     {
-      "note": "08/25/26- Sen. Floor Analyses",
+      "note": "09/16/26- Sen. Floor Analyses",
       "links": [
         {
-          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1062&analysisId=405265&analyzingOffice=Sen.+Floor+Analyses",
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1062&analysisId=406185&analyzingOffice=Sen.+Floor+Analyses",
           "media_type": "application/pdf"
         }
       ],
-      "date": "2026-08-25",
+      "date": "2026-09-16",
       "classification": "analysis"
     }
   ],
@@ -611,7 +646,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-03T12:04:52Z",
+    "logs_latest_update": "2026-09-29T13:53:37Z",
     "text_extraction_latest_update": "2026-09-03T12:10:42.319949Z"
   }
 }

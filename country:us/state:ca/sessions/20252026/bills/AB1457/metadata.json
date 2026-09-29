@@ -20,11 +20,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Wildfires: training: defensible space: inspections."
+      "title": "Wildfires: training programs: defensible space: inspections."
     },
     {
       "note": "",
-      "title": "Wildfires: training programs: defensible space: inspections."
+      "title": "Wildfires: training: defensible space: inspections."
     }
   ],
   "other_identifiers": [
@@ -580,13 +580,13 @@
       }
     },
     {
-      "description": "Joint Rule 62(a), file notice suspended.",
+      "description": "Joint Rule 62(a), file notice suspended. (Page 6646.)",
       "date": "2026-08-26",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-27T18:13:59Z"
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     },
     {
@@ -602,7 +602,7 @@
       }
     },
     {
-      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 58. Noes 18.).",
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 58. Noes 18. Page 6734.).",
       "date": "2026-08-27",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -612,7 +612,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-28T19:30:39Z"
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     },
     {
@@ -625,6 +625,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-05T11:18:52Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T13:53:37Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State - Chapter 517, Statutes of 2026.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     }
   ],
@@ -704,6 +728,17 @@
         }
       ],
       "date": "2026-09-01",
+      "classification": ""
+    },
+    {
+      "note": "09/27/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1457&version=20250AB145794CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-27",
       "classification": ""
     }
   ],
@@ -862,7 +897,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-05T11:18:52Z",
+    "logs_latest_update": "2026-09-29T13:53:37Z",
     "text_extraction_latest_update": "2026-09-05T11:31:44.635554Z"
   }
 }

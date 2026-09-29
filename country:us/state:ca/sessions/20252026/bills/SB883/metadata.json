@@ -21,19 +21,19 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Reactive chemicals: facilities: methyl methacrylate."
-    },
-    {
-      "note": "",
       "title": "Hazardous materials: reactive chemicals: facilities."
     },
     {
       "note": "",
-      "title": "Community Assistance, Recovery, and Empowerment (CARE) court program."
+      "title": "Criminal law."
     },
     {
       "note": "",
-      "title": "Criminal law."
+      "title": "Reactive chemicals: facilities: methyl methacrylate."
+    },
+    {
+      "note": "",
+      "title": "Community Assistance, Recovery, and Empowerment (CARE) court program."
     }
   ],
   "other_identifiers": [
@@ -402,13 +402,13 @@
       }
     },
     {
-      "description": "Joint Rule 61(b)(16) suspended.",
+      "description": "Joint Rule 61(b)(16) suspended. (Ayes 58. Noes 1. Page 6727.)",
       "date": "2026-08-27",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-28T19:30:39Z"
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     },
     {
@@ -486,6 +486,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-10T12:14:00Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T13:53:37Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Chapter 658, Statutes of 2026.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     }
   ],
@@ -615,6 +639,17 @@
       ],
       "date": "2026-09-04",
       "classification": ""
+    },
+    {
+      "note": "09/27/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB883&version=20250SB88391CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-27",
+      "classification": ""
     }
   ],
   "documents": [
@@ -707,14 +742,14 @@
       "classification": "analysis"
     },
     {
-      "note": "08/31/26- Sen. Floor Analyses",
+      "note": "09/22/26- Sen. Floor Analyses",
       "links": [
         {
-          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB883&analysisId=406074&analyzingOffice=Sen.+Floor+Analyses",
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB883&analysisId=406224&analyzingOffice=Sen.+Floor+Analyses",
           "media_type": "application/pdf"
         }
       ],
-      "date": "2026-08-31",
+      "date": "2026-09-22",
       "classification": "analysis"
     }
   ],
@@ -739,7 +774,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-10T12:14:00Z",
+    "logs_latest_update": "2026-09-29T13:53:37Z",
     "text_extraction_latest_update": "2026-09-10T12:19:55.208321Z"
   }
 }

@@ -18,11 +18,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Childcare services: rates."
+      "title": "Childcare services: workday."
     },
     {
       "note": "",
-      "title": "Childcare services: workday."
+      "title": "Childcare services: rates."
     }
   ],
   "other_identifiers": [
@@ -600,7 +600,7 @@
       }
     },
     {
-      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 72. Noes 2.).",
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 72. Noes 2. Page 7032.).",
       "date": "2026-08-31",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -610,7 +610,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-15T12:42:02Z"
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     },
     {
@@ -623,6 +623,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-15T12:42:02Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T13:53:37Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State - Chapter 508, Statutes of 2026.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     }
   ],
@@ -768,6 +792,17 @@
         }
       ],
       "date": "2026-09-04",
+      "classification": ""
+    },
+    {
+      "note": "09/27/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB904&version=20250AB90488CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-27",
       "classification": ""
     }
   ],
@@ -936,7 +971,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-15T12:42:02Z",
+    "logs_latest_update": "2026-09-29T13:53:37Z",
     "text_extraction_latest_update": "2026-09-15T12:44:43.861214Z"
   }
 }

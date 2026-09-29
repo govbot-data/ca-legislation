@@ -176,7 +176,7 @@
       }
     },
     {
-      "description": "Withdrawn from committee pursuant to Asssembly Rule 96.",
+      "description": "Withdrawn from committee pursuant to Assembly Rule 96.",
       "date": "2026-08-30",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -184,7 +184,17 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-31T14:55:31Z"
+        "log_file_created": "2026-09-29T13:53:37Z"
+      }
+    },
+    {
+      "description": "(Ayes 56. Noes 19. Page 6855.)",
+      "date": "2026-08-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     },
     {
@@ -293,7 +303,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-31T14:55:31Z",
+    "logs_latest_update": "2026-09-29T13:53:37Z",
     "text_extraction_latest_update": "2026-08-31T15:07:34.319335Z"
   }
 }

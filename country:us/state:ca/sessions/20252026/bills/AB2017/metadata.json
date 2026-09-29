@@ -434,7 +434,7 @@
       }
     },
     {
-      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 62. Noes 3.).",
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 62. Noes 3. Page 6934.).",
       "date": "2026-08-30",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -444,7 +444,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-11T12:17:52Z"
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     },
     {
@@ -457,6 +457,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-11T12:17:52Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T13:53:37Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State - Chapter 571, Statutes of 2026.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     }
   ],
@@ -647,6 +671,17 @@
       ],
       "date": "2026-09-03",
       "classification": ""
+    },
+    {
+      "note": "09/27/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2017&version=20250AB201792CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-27",
+      "classification": ""
     }
   ],
   "documents": [
@@ -803,7 +838,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-11T12:17:52Z",
+    "logs_latest_update": "2026-09-29T13:53:37Z",
     "text_extraction_latest_update": "2026-09-11T12:32:01.247395Z"
   }
 }

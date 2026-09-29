@@ -18,11 +18,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "California Certified food standard."
+      "title": "Wholesale food: frozen food."
     },
     {
       "note": "",
-      "title": "Wholesale food: frozen food."
+      "title": "California Certified food standard."
     }
   ],
   "other_identifiers": [
@@ -499,7 +499,7 @@
       }
     },
     {
-      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 72. Noes 0.).",
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 72. Noes 0. Page 6811.).",
       "date": "2026-08-28",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -509,7 +509,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-29T13:09:21Z"
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     },
     {
@@ -522,6 +522,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-09T12:19:15Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-28",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T13:53:37Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State - Chapter 721, Statutes of 2026.",
+      "date": "2026-09-28",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     }
   ],
@@ -864,7 +888,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-09T12:19:15Z",
+    "logs_latest_update": "2026-09-29T13:53:37Z",
     "text_extraction_latest_update": "2026-09-09T12:35:31.840670Z"
   }
 }

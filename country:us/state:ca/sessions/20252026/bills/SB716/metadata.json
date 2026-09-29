@@ -21,11 +21,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Communications: universal service."
+      "title": "Lifeline program: broadband internet access service."
     },
     {
       "note": "",
-      "title": "Lifeline program: broadband internet access service."
+      "title": "Communications: universal service."
     },
     {
       "note": "",
@@ -576,13 +576,13 @@
       }
     },
     {
-      "description": "Assembly Rule 96 suspended.",
+      "description": "Assembly Rule 96 suspended. (Ayes 51. Noes 17. Page 6854.)",
       "date": "2026-08-30",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-31T14:55:31Z"
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     },
     {
@@ -668,6 +668,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-10T12:14:00Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T13:53:37Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Chapter 494, Statutes of 2026.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     }
   ],
@@ -830,6 +854,17 @@
       ],
       "date": "2026-09-04",
       "classification": ""
+    },
+    {
+      "note": "09/27/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB716&version=20250SB71688CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-27",
+      "classification": ""
     }
   ],
   "documents": [
@@ -944,14 +979,14 @@
       "classification": "analysis"
     },
     {
-      "note": "08/31/26- Sen. Floor Analyses",
+      "note": "09/21/26- Sen. Floor Analyses",
       "links": [
         {
-          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB716&analysisId=406125&analyzingOffice=Sen.+Floor+Analyses",
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB716&analysisId=406204&analyzingOffice=Sen.+Floor+Analyses",
           "media_type": "application/pdf"
         }
       ],
-      "date": "2026-08-31",
+      "date": "2026-09-21",
       "classification": "analysis"
     }
   ],
@@ -973,7 +1008,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-10T12:14:00Z",
+    "logs_latest_update": "2026-09-29T13:53:37Z",
     "text_extraction_latest_update": "2026-09-10T12:28:52.749513Z"
   }
 }

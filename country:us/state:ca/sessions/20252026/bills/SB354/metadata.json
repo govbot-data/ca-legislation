@@ -518,13 +518,13 @@
       }
     },
     {
-      "description": "Assembly Rule 69(b)(1) suspended.",
+      "description": "Assembly Rule 69(b)(1) suspended. (Ayes 55. Noes 17. Page 6296.)",
       "date": "2026-08-21",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-22T07:45:10Z"
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     },
     {
@@ -555,7 +555,7 @@
       }
     },
     {
-      "description": "Read third time. Passed. Ordered to the Senate.",
+      "description": "Read third time. Passed. (Ayes 59. Noes 16. Page 6729.) Ordered to the Senate.",
       "date": "2026-08-27",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -565,7 +565,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-28T19:30:39Z"
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     },
     {
@@ -602,6 +602,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-05T11:18:52Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T13:53:37Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Chapter 481, Statutes of 2026.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     }
   ],
@@ -759,6 +783,17 @@
       ],
       "date": "2026-08-31",
       "classification": ""
+    },
+    {
+      "note": "09/27/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB354&version=20250SB35487CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-27",
+      "classification": ""
     }
   ],
   "documents": [
@@ -905,7 +940,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-05T11:18:52Z",
+    "logs_latest_update": "2026-09-29T13:53:37Z",
     "text_extraction_latest_update": "2026-09-05T11:21:26.942017Z"
   }
 }

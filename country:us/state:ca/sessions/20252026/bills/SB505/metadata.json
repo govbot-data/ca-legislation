@@ -19,11 +19,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Digital wallets: security."
+      "title": "Money Transmission Act: stored value platforms: fraudulently induced transfers."
     },
     {
       "note": "",
-      "title": "Money Transmission Act: stored value platforms: fraudulently induced transfers."
+      "title": "Digital wallets: security."
     }
   ],
   "other_identifiers": [
@@ -402,7 +402,7 @@
       }
     },
     {
-      "description": "Read third time. Passed. Ordered to the Senate.",
+      "description": "Read third time. Passed. (Ayes 75. Noes 0. Page 6206.) Ordered to the Senate.",
       "date": "2026-08-17",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -412,7 +412,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-18T07:45:25Z"
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     },
     {
@@ -459,6 +459,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-03T12:04:52Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T13:53:37Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Chapter 648, Statutes of 2026.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     }
   ],
@@ -549,6 +573,17 @@
         }
       ],
       "date": "2026-08-30",
+      "classification": ""
+    },
+    {
+      "note": "09/27/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB505&version=20250SB50593CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-27",
       "classification": ""
     }
   ],
@@ -641,7 +676,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-03T12:04:52Z",
+    "logs_latest_update": "2026-09-29T13:53:37Z",
     "text_extraction_latest_update": "2026-09-03T12:15:50.179603Z"
   }
 }

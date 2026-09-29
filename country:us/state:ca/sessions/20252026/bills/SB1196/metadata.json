@@ -19,15 +19,15 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Accessory dwelling units and junior accessory dwelling units: electrical service connections."
-    },
-    {
-      "note": "",
       "title": "Accessory dwelling units and junior accessory dwelling units: utility service connections."
     },
     {
       "note": "",
       "title": "Accessory dwelling units."
+    },
+    {
+      "note": "",
+      "title": "Accessory dwelling units and junior accessory dwelling units: electrical service connections."
     }
   ],
   "other_identifiers": [
@@ -375,7 +375,7 @@
       }
     },
     {
-      "description": "Read third time. Passed. Ordered to the Senate.",
+      "description": "Read third time. Passed. (Ayes 56. Noes 8. Page 6212.) Ordered to the Senate.",
       "date": "2026-08-17",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -385,7 +385,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-18T07:45:25Z"
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     },
     {
@@ -399,7 +399,7 @@
       }
     },
     {
-      "description": "Assembly amendments concurred in. (Ayes 29. Noes 10.) Ordered to engrossing and enrolling.",
+      "description": "Assembly amendments concurred in. (Ayes 30. Noes 10.) Ordered to engrossing and enrolling.",
       "date": "2026-08-18",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -409,7 +409,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-19T07:46:19Z"
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     },
     {
@@ -422,6 +422,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-08-22T07:45:10Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T13:53:37Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Chapter 684, Statutes of 2026.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     }
   ],
@@ -509,6 +533,17 @@
         }
       ],
       "date": "2026-08-19",
+      "classification": ""
+    },
+    {
+      "note": "09/27/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1196&version=20250SB119694CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-27",
       "classification": ""
     }
   ],
@@ -612,7 +647,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T07:45:10Z",
+    "logs_latest_update": "2026-09-29T13:53:37Z",
     "text_extraction_latest_update": "2026-08-22T08:02:58.666089Z"
   }
 }

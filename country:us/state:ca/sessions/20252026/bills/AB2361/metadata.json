@@ -318,7 +318,7 @@
       }
     },
     {
-      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 71. Noes 0.).",
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 71. Noes 0. Page 6485.).",
       "date": "2026-08-25",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -328,7 +328,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-26T07:58:26Z"
+        "log_file_created": "2026-09-29T13:53:37Z"
       }
     },
     {
@@ -342,33 +342,33 @@
       "_processing": {
         "log_file_created": "2026-09-01T12:35:04Z"
       }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T13:53:37Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State - Chapter 601, Statutes of 2026.",
+      "date": "2026-09-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T13:53:37Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Pacheco",
-      "classification": "author",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Pacheco\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Alvarez",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Alvarez\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Carrillo",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Carrillo\"}",
-      "organization_id": null
-    },
     {
       "name": "Nguyen",
       "classification": "coauthor",
@@ -399,6 +399,30 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Wallis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pacheco",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Pacheco\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alvarez",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alvarez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carrillo",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carrillo\"}",
       "organization_id": null
     }
   ],
@@ -457,6 +481,17 @@
         }
       ],
       "date": "2026-08-27",
+      "classification": ""
+    },
+    {
+      "note": "09/27/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2361&version=20250AB236195CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-27",
       "classification": ""
     }
   ],
@@ -548,7 +583,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-01T12:35:04Z",
+    "logs_latest_update": "2026-09-29T13:53:37Z",
     "text_extraction_latest_update": "2026-09-01T13:08:45.250798Z"
   }
 }
